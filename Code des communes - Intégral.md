@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-07-07
+Version Consolidée au 1982-07-23
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 1982-07-07
           - [SECTION 1 : Formation. (art. L121-3 à L121-7)](#26)
           - [SECTION 2 : Fonctionnement. (art. L121-9 à L121-20)](#27)
           - [SECTION 3 : Dispositions applicables aux membres des conseils municipaux. (art. L121-23 à L121-25)](#28)
-          - [SECTION 4 : Attributions des conseils municipaux. (art. L121-27 à L121-28)](#29)
+          - [SECTION 4 : Attributions des conseils municipaux. (art. L121-26 à L121-28)](#29)
           - [SECTION 5 : Nullité des délibérations des conseils municipaux (art. L121-34 à L121-35)](#30)
             - [SOUS-SECTION 1 : Délibérations nulles de droit. (art. L121-34)](#31)
             - [SOUS-SECTION 2 : Délibérations annulables. (art. L121-35)](#32)
@@ -123,13 +123,13 @@ Version Consolidée au 1982-07-07
         - [CONSEIL MUNICIPAL . (art. L121-1 à L121-33)](#120)
           - [FORMATION . (art. L121-2)](#121)
           - [Fonctionnement . (art. L121-8 à L121-10)](#122)
-          - [MEMBRES DU CONSEIL MUNICIPAL . (art. L121-21)](#123)
-          - [ATTRIBUTIONS . (art. L121-26 à L121-31)](#124)
+          - [Dispositions applicables aux membres des conseils municipaux (art. L121-21)](#123)
+          - [ATTRIBUTIONS . (art. L121-29 à L121-31)](#124)
           - [NULLITE DES DELIBERATIONS (art. L121-32 à L121-33)](#125)
             - [DELIBERATIONS NULLES DE  DROIT . (art. L121-32 à L121-33)](#126)
         - [MAIRES ET ADJOINTS. (art. L122-1 à L122-28)](#127)
-          - [DESIGNATION ET STATUT . (art. L122-4 à L122-11)](#128)
-          - [Désignation et statut des maires et adjoints . (art. L122-5 à L122-7)](#129)
+          - [DESIGNATION ET STATUT . (art. L122-4 à L122-9)](#128)
+          - [Désignation et statut des maires et adjoints . (art. L122-5 à L122-10)](#129)
           - [Attributions des maires et adjoints. (art. L122-20 à L122-28)](#130)
       - [POLICE (art. L131-2 à L133-8)](#131)
         - [DISPOSITIONS GENERALES (art. L131-2 à L131-13)](#132)
@@ -3738,6 +3738,55 @@ _Abrogé par_:
 
 ##### SECTION 4 : Attributions des conseils municipaux.<a id=29></a>
 
+###### Article L121-26
+
+Le conseil municipal règle par ses délibérations les affaires de la commune.
+
+Il donne son avis toutes les fois que cet avis est requis par les lois et règlements, ou qu'il est demandé par le
+représentant de l'Etat dans le département.
+
+Il réclame, s'il y a lieu, contre le contingent assigné à la commune dans l'établissement des impôts de répartition.
+
+Il émet des voeux sur tous les objets d'intérêt local.
+
+Il dresse, chaque année, la liste des contribuables susceptibles d'être désignés comme membre de la commission communale des
+impôts directs, conformément à l'article 1650 du code général des impôts.
+
+Il procède à la désignation de ses membres ou de délégués pour siéger au sein d'organismes extérieurs dans les cas et
+conditions prévus par les dispositions du présent code et des textes régissant ces organismes. La fixation par les
+dispositions précitées de la durée des fonctions assignées à ces membres ou délégués ne fait pas obstacle à ce qu'il puisse
+être procédé à tout moment, et pour le reste de cette durée, à leur remplacement par une nouvelle désignation opérée dans les
+mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1650
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Modifié par_:
+
+  - Loi n°82-623 du 22 juillet 1982 - art. 12 () JORF 23 juillet 1982
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L125-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2121-29 (V)
+  - Code général des collectivités territoriales - art. L2121-32 (V)
+  - Code général des collectivités territoriales - art. L2121-33 (V)
+
+
 ###### Article L121-27
 
 Le conseil municipal délibère sur le compte administratif qui lui est annuellement [**]fréquence[**] présenté par le maire. 
@@ -4007,6 +4056,56 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+
+###### Article L122-11
+
+Le maire [*attributions*] est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité,
+déléguer par arrêté [*conditions de forme*] une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence
+ou en cas d'empêchement des adjoints, à des membres du conseil municipal.
+
+Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+
+Le maire procède à la désignation des membres du conseil municipal pour siéger au sein d'organismes extérieurs dans les cas
+et conditions prévus par les dispositions du présent code et des textes régissant ces organismes. La fixation par les
+dispositions précitées de la durée des fonctions assignées à ces membres ne fait pas obstacle à ce qu'il puisse être procédé
+à tout moment, et pour le reste de cette durée, à leur remplacement par une nouvelle désignation opérée dans les mêmes
+formes.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°48-1484 du 25 septembre 1948 - art. 1 (Ab)
+  - Décret n°74-63 du 28 janvier 1974 - art. 11 (Ab)
+  - Décret n°74-63 du 28 janvier 1974 - art. 3 (Ab)
+  - Loi n°82-1169 du 31 décembre 1982 - art. 21 (Ab)
+  - Loi n°2000-295 du 5 avril 2000 - art. 26 (AbD)
+  - CODE DES COMMUNES. - art. L122-21 (Ab)
+  - CODE DES COMMUNES. - art. L122-9 (Ab)
+  - CODE DES COMMUNES. - art. L123-6 (Ab)
+  - CODE DES COMMUNES. - art. L153-3 (Ab)
+  - CODE DES COMMUNES. - art. L184-10 (Ab)
+  - Code des juridictions financières - art. L312-1 (M)
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 11 mars 1993
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 4 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 5 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 6 (Ab)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 7 (Ab)
+
+_Anciens textes_:
+
+  - Code de l'administration communale 64
 
 
 ###### Article L122-12
@@ -12172,21 +12271,20 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-32 (Ab)
 
 
-##### MEMBRES DU CONSEIL MUNICIPAL .<a id=123></a>
+##### Dispositions applicables aux membres des conseils municipaux<a id=123></a>
 
 ###### Article L121-21
 
 Les démissions des membres du conseil municipal sont adressées au maire.
+
+Dès réception d'une démission, le maire en informe le représentant de l'Etat dans le département [*commissaire de la
+République*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
 
 _Cité par_:
 
@@ -12197,7 +12295,7 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Code de l'administration communale 36 al. 2
+  - Code de l'administration communale 36 AL. 2
 
 _Nouveaux textes_:
 
@@ -12205,48 +12303,6 @@ _Nouveaux textes_:
 
 
 ##### ATTRIBUTIONS .<a id=124></a>
-
-###### Article L121-26
-
-Le conseil municipal règle par ses délibérations les affaires de la commune.
-
-Il donne son avis toutes les fois que cet avis est requis par les lois et règlements, ou qu'il est demandé par le
-représentant de l'Etat dans le département [*commissaire de la République*].
-
-Il réclame, s'il y a lieu, contre le contingent assigné à la commune dans l'établissement des impôts de répartition.
-
-Il émet des voeux sur tous les objets d'intérêt local.
-
-Il dresse, chaque année, la liste des contribuables susceptibles d'être désignés comme membre de la commission communale des
-impôts directs, conformément à l'article 1650 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions des premier, deuxième, troisième et quatrième alinéas, non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace Lorraine)*
-  - SPEC_APPLI: Code des communes L181-1 :
-
-_Cite_:
-
-  - CGI 1650
-
-_Anciens textes_:
-
-  - Code de l'administration communale 40
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L125-2 (Ab)
-
 
 ###### Article L121-29
 
@@ -12627,99 +12683,6 @@ _Cité par_:
   - CODE DES COMMUNES. - art. L163-12 (Ab)
 
 
-###### Article L122-10
-
-Les démissions des maires et des adjoints sont adressées au représentant de l'Etat dans le département ; elles sont
-définitives à partir de leur acceptation par le représentant de l'Etat dans le département [*commissaire de la République*],
-ou, à défaut de cette acceptation, un mois après un nouvel envoi de la démission [*délai*] constatée par lettre recommandée
-[*conditions de forme*].
-
-Ils continuent l'exercice de leurs fonctions, sauf les dispositions des articles L. 122-8 [*incompatibilité de fonctions*],
-L. 122-15 et L. 122-16 [*suspension, exercice de la fonction de maire par le président ou le vice-président de la délégation
-spéciale*] jusqu'à l'installation de leurs successeurs.
-
-Toutefois, en cas de renouvellement intégral, les fonctions de maire et d'adjoint sont, à partir de l'installation du nouveau
-conseil jusqu'à l'élection du maire, exercées parmi les conseillers municipaux dans l'ordre du tableau.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 63 al. 2 et suivants
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Cité par_:
-
-  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
-  - Code forestier - art. R*148-14 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L122-15 (M)
-  - CODE DES COMMUNES. - art. L122-16 (Ab)
-  - CODE DES COMMUNES. - art. L122-8 (M)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. L2122-15 (V)
-
-
-###### Article L122-11
-
-Le maire [**]attributions[**] est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité,
-déléguer par arrêté [*conditions de forme*] une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence
-ou en cas d'empêchement des adjoints, à des membres du conseil municipal.
-
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°48-1484 du 25 septembre 1948 - art. 1 (Ab)
-  - Décret n°74-63 du 28 janvier 1974 - art. 11 (Ab)
-  - Décret n°74-63 du 28 janvier 1974 - art. 3 (Ab)
-  - Loi n°82-1169 du 31 décembre 1982 - art. 21 (Ab)
-  - Loi n°2000-295 du 5 avril 2000 - art. 26 (AbD)
-  - CODE DES COMMUNES. - art. L122-21 (Ab)
-  - CODE DES COMMUNES. - art. L122-9 (Ab)
-  - CODE DES COMMUNES. - art. L123-6 (Ab)
-  - CODE DES COMMUNES. - art. L153-3 (Ab)
-  - CODE DES COMMUNES. - art. L184-10 (Ab)
-  - Code des juridictions financières - art. L312-1 (M)
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 11 mars 1993
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 7 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 64
-
-
 ##### Désignation et statut des maires et adjoints .<a id=129></a>
 
 ###### Article L122-5
@@ -12802,6 +12765,50 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de l'administration communale 61
+
+
+###### Article L122-10
+
+Les démissions des maires et des adjoints sont adressées au représentant de l'Etat dans le département, elles sont
+définitives à partir de leur acceptation par le représentant de l'Etat dans le département [*commissaire de la République*],
+ou, à défaut de cette acceptation, un mois après un nouvel envoi de la démission [*délai*] constatée par lettre recommandée
+[*conditions de forme*].
+
+Ils continuent l'exercice de leurs fonctions, sauf les dispositions des articles L. 122-8 [*incompatibilité de fonctions*],
+L. 122-15 et L. 122-16 [*suspension, exercice de la fonction de maire par le président ou le vice-président de la délégation
+spéciale*] jusqu'à l'installation de leurs successeurs.
+
+Toutefois, en cas de renouvellement intégral, les fonctions de maire et d'adjoint sont, à partir de l'installation du nouveau
+conseil jusqu'à l'élection du maire, exercées parmi les conseillers municipaux dans l'ordre du tableau.
+
+La procédure prévue au présent article s'applique également lorsque le maire ou l'adjoint se démettent simultanément du
+mandat de conseiller municipal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Cité par_:
+
+  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+  - Loi n°90-1247 du 29 décembre 1990 - art. 2 (Ab)
+  - Code forestier - art. R*148-14 (M)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L122-15 (M)
+  - CODE DES COMMUNES. - art. L122-16 (Ab)
+  - CODE DES COMMUNES. - art. L122-8 (M)
+
+_Anciens textes_:
+
+  - Code de l'administration communale 63 AL. 2 ET SUIVANTS
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2122-15 (V)
 
 
 ##### Attributions des maires et adjoints.<a id=130></a>
