@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1978-01-01
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
