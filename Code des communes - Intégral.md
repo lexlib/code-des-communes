@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-04-04
+Version Consolidée au 1984-05-11
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -961,7 +961,7 @@ Version Consolidée au 1984-04-04
           - [SECTION 1 : Notation. (art. R414-1)](#958)
           - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#959)
           - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#960)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-16)](#961)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#961)
             - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#962)
             - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#963)
         - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#964)
@@ -1022,49 +1022,44 @@ Version Consolidée au 1984-04-04
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1019)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1020)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1021)
-    - [Personnel communal (art. R*411-4 à R*444-178)](#1022)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1023)
-        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1024)
-          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1025)
-          - [Commission paritaire communale . (art. R411-39)](#1026)
-          - [Commission paritaire intercommunale . (art. R411-40)](#1027)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1028)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1029)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1030)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1031)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1032)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1033)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1034)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1035)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1036)
-          - [Discipline (art. R*414-17 à R*414-20)](#1037)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1038)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1039)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1040)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1041)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1042)
-          - [La disponibilité . (art. R*415-15)](#1043)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1044)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1045)
-          - [Dispositions générales . (art. R*422-2)](#1046)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1047)
-          - [Congé parental . (art. R422-42 à R422-49)](#1048)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1049)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1050)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1051)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1052)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1053)
-          - [Recrutement . (art. R*444-29)](#1054)
-          - [Positions (art. R*444-110 à R*444-168)](#1055)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#1056)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1057)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1058)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1059)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1060)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1061)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1062)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1063)
-          - [Cessation de fonctions . (art. R*444-178)](#1064)
+    - [Personnel communal (art. R411-39 à R*444-178)](#1022)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-39 à R*415-15)](#1023)
+        - [Dispositions générales et organiques (art. R411-39 à R411-54)](#1024)
+          - [Commission paritaire communale . (art. R411-39)](#1025)
+          - [Commission paritaire intercommunale . (art. R411-40)](#1026)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1027)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1028)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1029)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1030)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1031)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1032)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1033)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1034)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1035)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1036)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1037)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1038)
+          - [La disponibilité . (art. R*415-15)](#1039)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1040)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1041)
+          - [Dispositions générales . (art. R*422-2)](#1042)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1043)
+          - [Congé parental . (art. R422-42 à R422-49)](#1044)
+      - [Dispositions particulières (art. R*444-26 à R*444-178)](#1045)
+        - [Dispositions applicables à la ville de Paris (art. R*444-26 à R*444-178)](#1046)
+          - [Dispositions générales et organiques (art. R*444-26)](#1047)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1048)
+          - [Recrutement . (art. R*444-29)](#1049)
+          - [Positions (art. R*444-110 à R*444-168)](#1050)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#1051)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1052)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1053)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1054)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1055)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1056)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1057)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1058)
+          - [Cessation de fonctions . (art. R*444-178)](#1059)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -91688,6 +91683,43 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
+###### Article R*414-21
+
+Le conseil de discipline statue dans un délai d'un mois à compter de la date de la réception par son président du rapport du
+maire, lorsqu'il s'agit du conseil de discipline du premier degré.
+
+A titre exceptionnel, le délai d'un mois prévu à l'alinéa précédent peut être porté à trois mois au maximum lorsqu'il est
+procédé à une enquête.
+
+En cas de poursuites devant un tribunal répressif, le conseil de discipline peut décider qu'il y a lieu de surseoir à émettre
+son avis jusqu'à la décision de cette juridiction.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Cette rectification prend effet à compter de la date d'installation du Conseil supérieur de la fonction publique territoriale
+  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 al. 2 : Dans le premier alinéa de de l'article R. 414-21, les mots "et du recours de l'agent lorsqu'il s'agit du conseil de discipline départemental" sont supprimés
+  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
+  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+
+_Anciens textes_:
+
+  - Code de l'administration communale 534
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Créé par_:
+
+  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+_Modifié par_:
+
+  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
+
+
 ##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=962></a>
 
 ###### Article R*414-22
@@ -98286,239 +98318,7 @@ _Codifié par_:
 
 #### Dispositions générales et organiques<a id=1024></a>
 
-##### Commission nationale paritaire du personnel communal .<a id=1025></a>
-
-###### Article R*411-4
-
-La commission nationale paritaire du personnel communal comprend : [*composition*]        Le président de la section du
-personnel du conseil national des services publics départementaux et communaux, président ;
-
-Six maires [*nombre*] élus à la majorité relative par l'ensemble des maires des communes dont le personnel est soumis au
-présent titre :
-
-Deux maires désignés par l'association des maires de France ;
-
-Deux maires désignés par l'association des présidents de syndicats de communes pour le personnel communal ;
-
-Six représentants du personnel élus au scrutin de liste à la représentation proportionnelle avec attribution des sièges
-suivant le système dit du plus fort reste ;
-
-Quatre représentants du personnel désignés par les organisations représentatives du personnel à la représentation
-proportionnelle avec répartition des sièges suivant le système dit de la plus forte moyenne, le résultat du scrutin pour
-l'élection des six représentants du personnel étant pris comme base de répartition ;
-
-Deux maires et deux agents communaux nommés par le ministre de l'intérieur et choisis parmi les personnes connues pour leurs
-travaux ou leur expérience en matière de fonction publique communale.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1976-06-23
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 2 (PARTIE)
-  - Décret n°65-727 1965-08-26 ART. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 JORF 11 mai 1984
-
-_Cité par_:
-
-  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*411-5
-
-Trois délégués [*nombre*] de l'administration désignés par le ministre de l'intérieur sont en outre adjoints à la commission
-nationale paritaire du personnel communal, à titre consultatif.
-
-La commission [*composition*] peut s'adjoindre d'autres membres, mais à titre consultatif seulement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-7
-
-La durée du mandat des membres de la commission nationale paritaire du personnel communal est de six années.
-
-Toutefois, lorsque les élections ont lieu au cours d'une période d'une durée maximum de six mois avant ou après le
-renouvellement général des conseils municipaux, la durée des fonctions des membres élus peut être prolongée ou réduite d'une
-même période par arrêté du ministre de l'intérieur [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 7
-  - Décret n°65-727 1965-08-26
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-8
-
-La commission nationale paritaire se réunit sur convocation de son président ou à la demande d'un tiers [**]proportion[**] de
-ses membres [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 5 et 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-9
-
-Les membres de la commission peuvent, en cas d'absence, déléguer, par écrit, leur droit de vote.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 8
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*411-10
-
-Un règlement intérieur précise les conditions de fonctionnement de la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 9
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R411-6
-
-L'arrêté ministériel prévu à l'article L. 411-25 est pris par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 dernier alinéa (partie)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-_Cité par_:
-
-  - Arrêté du 23 juin 1976 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-25 (Ab)
-
-
-##### Commission paritaire communale .<a id=1026></a>
+##### Commission paritaire communale .<a id=1025></a>
 
 ###### Article R411-39
 
@@ -98558,7 +98358,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### Commission paritaire intercommunale .<a id=1027></a>
+##### Commission paritaire intercommunale .<a id=1026></a>
 
 ###### Article R411-40
 
@@ -98592,7 +98392,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### La médaille d'honneur départementale et communal .<a id=1028></a>
+##### La médaille d'honneur départementale et communal .<a id=1027></a>
 
 ###### Article R411-41
 
@@ -98929,9 +98729,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=1029></a>
+#### Recrutement, formation et promotion sociale<a id=1028></a>
 
-##### Formation professionnelle continue .<a id=1030></a>
+##### Formation professionnelle continue .<a id=1029></a>
 
 ###### Article R*412-99
 
@@ -98975,7 +98775,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1031></a>
+##### Actions de formation .<a id=1030></a>
 
 ###### Article R*412-100
 
@@ -99125,7 +98925,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1032></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1031></a>
 
 ###### Article R*412-105
 
@@ -99298,7 +99098,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1033></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1032></a>
 
 ###### Article R*412-111
 
@@ -99400,7 +99200,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1034></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1033></a>
 
 ###### Article R*412-114
 
@@ -99462,7 +99262,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=1035></a>
+#### Rémunération et effectifs<a id=1034></a>
 
 ###### Article R413-3
 
@@ -99567,152 +99367,9 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### Notation, avancement et discipline<a id=1036></a>
+#### POSITIONS<a id=1035></a>
 
-##### Discipline<a id=1037></a>
-
-##### Le conseil de discipline .<a id=1038></a>
-
-###### Article R*414-17
-
-Lorsque le maire a prononcé une sanction plus sévère que celle qui a été proposée par le conseil de discipline communal ou
-par le conseil de discipline intercommunal, l'agent intéressé peut saisir le conseil de discipline départemental de la
-décision du maire dans un délai de quinze jours à compter de la date de la notification de la sanction [*recours*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1191 1959-10-19 ART. 2 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL.1
-  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-_Cité par_:
-
-  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*414-18
-
-Le conseil de discipline départemental est présidé par le président du tribunal de grande instance comprenant dans son
-ressort le chef-lieu du département.
-
-Il comprend trois représentants des maires tirés au sort par le président parmi les membres du bureau du syndicat de communes
-et parmi les maires présidents des commissions paritaires communales et trois représentants du personnel tirés au sort parmi
-les membres du personnel des commissions paritaires communales et intercommunales.
-
-L'article L. 414-13 et le deuxième alinéa de l'article R. 414-16 sont applicables au conseil de discipline départemental.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1191 1959-10-19 ART. 2 AL. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 du 10 mai 1984 - art. 37 (M)
-  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-_Cite_:
-
-  - Code des communes L414-13 et R414-16 AL. 2
-
-
-###### Article R*414-19
-
-Le conseil de discipline départemental statue à la majorité de ses membres.
-
-Le vote a lieu à bulletins secrets.
-
-Dans ces cas, le maire ne peut prononcer de sanctions plus sévères que celles prévues par l'avis émis par le conseil de
-discipline départemental.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1191 1959-10-19 ART. 2 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-
-###### Article R*414-20
-
-Le secrétariat [*du conseil de discipline départemental*] est assuré par les services de la préfecture du département.
-
-Les frais de déplacement des membres du conseil de discipline départemental sont supportés [*charge*] par le syndicat
-intercommunal départemental.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-1191 1959-10-19 ART. 2 AL. 5 et 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
-
-
-#### POSITIONS<a id=1039></a>
-
-##### Le congé postnatal .<a id=1040></a>
+##### Le congé postnatal .<a id=1036></a>
 
 ###### Article R*415-6-1
 
@@ -99904,7 +99561,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1041></a>
+##### Le détachement .<a id=1037></a>
 
 ###### Article R*415-7
 
@@ -100066,7 +99723,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1042></a>
+##### Position hors cadre .<a id=1038></a>
 
 ###### Article R*415-12
 
@@ -100163,7 +99820,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1043></a>
+##### La disponibilité .<a id=1039></a>
 
 ###### Article R*415-15
 
@@ -100206,11 +99863,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=1044></a>
+### Personnels divers<a id=1040></a>
 
-#### Agents non titulaires<a id=1045></a>
+#### Agents non titulaires<a id=1041></a>
 
-##### Dispositions générales .<a id=1046></a>
+##### Dispositions générales .<a id=1042></a>
 
 ###### Article R*422-2
 
@@ -100245,7 +99902,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1047></a>
+##### Cessation de fonctions .<a id=1043></a>
 
 ###### Article R*422-37
 
@@ -100376,7 +100033,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1048></a>
+##### Congé parental .<a id=1044></a>
 
 ###### Article R422-42
 
@@ -100551,113 +100208,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1049></a>
+### Dispositions particulières<a id=1045></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1050></a>
+#### Dispositions applicables à la ville de Paris<a id=1046></a>
 
-##### Dispositions générales et organiques<a id=1051></a>
+##### Dispositions générales et organiques<a id=1047></a>
 
-##### Le conseil administratif supérieur .<a id=1052></a>
-
-###### Article R*444-21
-
-Le conseil administratif supérieur de la commune et du département de Paris, présidé par un conseiller d'Etat nommé par
-décret, comprend une section communale et une section départementale [*composition*].
-
-Ce conseil a compétence pour toutes les questions d'ordre général intéressant le personnel. Il soumet le résultat de ses
-travaux ou formule des suggestions à l'autorité intéressée.
-
-Le président a voix prépondérante en cas de partage des voix.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 20 AL. 1, 4 et 5
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-_Cité par_:
-
-  - Décret n°84-346 du 10 mai 1984 - art. 37 (V)
-
-
-###### Article R*444-22
-
-La section communale [*du conseil administratif supérieur*] est composée de deux sous-sections.
-
-Chacune de ces sous-sections est composée, outre le président du conseil administratif supérieur, de vingt-deux membres dont
-la liste est arrêtée respectivement par le maire et le préfet de police, à savoir :
-
-Onze membres du conseil de Paris ; [*nombre*]        Onze représentants du personnel désignés sur la proposition des
-organisations syndicales de fonctionnaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 20 AL. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-###### Article R*444-23
-
-Le conseil de Paris fixe par délibération les modalités de désignation des membres et de fonctionnement du conseil
-administratif supérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 21
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
-
-
-##### Les commissions et comités paritaires .<a id=1053></a>
+##### Les commissions et comités paritaires .<a id=1048></a>
 
 ###### Article R*444-26
 
@@ -100709,7 +100266,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1054></a>
+##### Recrutement .<a id=1049></a>
 
 ###### Article R*444-29
 
@@ -100745,11 +100302,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1055></a>
+##### Positions<a id=1050></a>
 
-##### Activité, congés<a id=1056></a>
+##### Activité, congés<a id=1051></a>
 
-##### Congés de maladie .<a id=1057></a>
+##### Congés de maladie .<a id=1052></a>
 
 ###### Article R*444-110
 
@@ -101118,7 +100675,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1058></a>
+##### Détachement .<a id=1053></a>
 
 ###### Article R*444-125
 
@@ -101651,7 +101208,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1059></a>
+##### POSITION HORS CADRE .<a id=1054></a>
 
 ###### Article R*444-143
 
@@ -101856,7 +101413,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1060></a>
+##### Disponibilité.<a id=1055></a>
 
 ###### Article R*444-150
 
@@ -102206,7 +101763,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1061></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1056></a>
 
 ###### Article R*444-162
 
@@ -102255,7 +101812,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1062></a>
+##### Position "sous les drapeaux" .<a id=1057></a>
 
 ###### Article R*444-164
 
@@ -102337,7 +101894,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1063></a>
+##### CONGE POSTNATAL .<a id=1058></a>
 
 ###### Article R*444-167
 
@@ -102387,7 +101944,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1064></a>
+##### Cessation de fonctions .<a id=1059></a>
 
 ###### Article R*444-178
 
