@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2000-04-09
+Version Consolidée au 2000-12-07
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -40,97 +40,94 @@ Version Consolidée au 2000-04-09
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L441-1 à L441-4)](#37)
         - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. L444-3 à L444-5)](#38)
     - [LIVRE 5 : Dispositions finales. (art. L501-1 à L501-3)](#39)
-  - [Partie réglementaire (art. R236-10 à R*444-186)](#40)
-    - [LIVRE 2 : Finances communales (art. R236-10 à R236-47)](#41)
-      - [TITRE 3 : Recettes (art. R236-10 à R236-47)](#42)
-        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunts (art. R236-10 à R236-47)](#43)
-          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-10 à R236-47)](#44)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R236-10)](#45)
-            - [SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales. (art. R236-11 à R236-21)](#46)
-            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-22 à R236-26 bis)](#47)
-            - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R236-47)](#48)
-    - [LIVRE 3 : Administration et services communaux (art. R*315-4 à R*372-11)](#49)
-      - [TITRE 1 : Administration de la commune (art. R*315-4 à R*315-15)](#50)
-        - [CHAPITRE 5 : Travaux communaux (art. R*315-4 à R*315-15)](#51)
-          - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R*315-15)](#52)
-      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*372-11)](#53)
-        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-11)](#54)
-          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-11)](#55)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#56)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#57)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#58)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#59)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#60)
-          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#61)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#62)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#63)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#64)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#65)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#66)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#67)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#68)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#69)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#70)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#71)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#72)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#73)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#74)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#75)
-          - [SECTION 1 : Notation. (art. R414-1)](#76)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#77)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#78)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#79)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#80)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#81)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#82)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#83)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#84)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#85)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#86)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#87)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#88)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#89)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#90)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#91)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#92)
-      - [TITRE 2 : Personnels divers (art. R*422-1 à R*423-3)](#93)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#94)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#95)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#96)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#97)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#98)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#99)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#100)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#101)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#102)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#103)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#104)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#105)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#106)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#107)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#108)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#109)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#110)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#111)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#112)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#113)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#114)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#115)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#116)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#117)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#118)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#119)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#120)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#121)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#122)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#123)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#124)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#125)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#126)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#127)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#128)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#129)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#130)
+  - [Partie réglementaire (art. R*236-27 à R*444-186)](#40)
+    - [LIVRE 2 : Finances communales (art. R*236-27 à R*236-29)](#41)
+      - [TITRE 3 : Recettes (art. R*236-27 à R*236-29)](#42)
+        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunts (art. R*236-27 à R*236-29)](#43)
+          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R*236-27 à R*236-29)](#44)
+            - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R*236-29)](#45)
+    - [LIVRE 3 : Administration et services communaux (art. R*315-4 à R*372-11)](#46)
+      - [TITRE 1 : Administration de la commune (art. R*315-4 à R*315-15)](#47)
+        - [CHAPITRE 5 : Travaux communaux (art. R*315-4 à R*315-15)](#48)
+          - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R*315-15)](#49)
+      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*372-11)](#50)
+        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-11)](#51)
+          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-11)](#52)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#53)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#54)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#55)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#56)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#57)
+          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#58)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#59)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#60)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#61)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#62)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#63)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#64)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#65)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#66)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#67)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#68)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#69)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#70)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#71)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#72)
+          - [SECTION 1 : Notation. (art. R414-1)](#73)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#74)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#75)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#76)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#77)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#78)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#79)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#80)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#81)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#82)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#83)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#84)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#85)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#86)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#87)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#88)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#89)
+      - [TITRE 2 : Personnels divers (art. R*422-1 à R*423-3)](#90)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#91)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#92)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#93)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#94)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#95)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#96)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#97)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#98)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#99)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#100)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#101)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#102)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#103)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#104)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#105)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#106)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#107)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#108)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#109)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#110)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#111)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#112)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#113)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#114)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#115)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#116)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#117)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#118)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#119)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#120)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#121)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#122)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#123)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#124)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#125)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#126)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#127)
 # Partie législative<a id=1></a>
 
 ## LIVRE 4 : Personnel communal<a id=2></a>
@@ -3057,590 +3054,7 @@ _Créé par_:
 
 ##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales<a id=44></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=45></a>
-
-###### Article R236-10
-
-L'arrêté interministériel prévu au premier alinéa de l'article L. 236-10 est pris par le ministre de l'économie et des
-finances et le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L236-10 (Ab)
-
-
-##### SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales.<a id=46></a>
-
-###### Article R236-11
-
-La caisse d'aide à l'équipement des collectivités locales est un établissement national à caractère administratif doté de la
-personnalité morale et de l'autonomie financière [*nature juridique*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 1 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-12
-
-La caisse d'aide à l'équipement des collectivités locales est administrée par un conseil comprenant : 
-
-1° Un des représentants du Parlement à la commission de surveillance de la caisse des dépôts et consignations désigné par
-décret, sur proposition de cette commission, président ; 
-
-2° Huit représentants des collectivités locales ; 
-
-Deux représentants de conseils généraux et cinq maires dont l'un représente les collectivités exploitant des services à
-caractère industriel ou commercial, nommés par arrêté du ministre de l'intérieur et du ministre de l'économie et des
-finances ; 
-
-Un représentant des collectivités locales des départements d'outre-mer désigné par le ministre chargé des départements
-d'outre-mer ; 
-
-3° Un président de chambre de commerce et d'industrie désigné par le ministre compétent ;
-
-4° Neuf membres de droit : 
-
-- le directeur général de la caisse des dépôts et consignations ou son représentant ; 
-
-- le gouverneur du Crédit foncier de France ou son représentant ; 
-
-- le directeur général de la caisse nationale de crédit agricole ou son représentant ; 
-
-- le commissaire général du plan d'équipement et de la productivité ou son représentant ; 
-
-- le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ; 
-
-- le directeur du budget du ministère de l'économie et des finances ou son représentant ; 
-
-- un représentant du ministre chargé de l'équipement ; 
-
-- un représentant du ministre chargé de l'industrie ; 
-
-- un représentant du ministre chargé de la santé.
-
-En outre, le préfet de la région d'Ile-de-France siège au conseil pour le financement des opérations à réaliser dans la
-région. 
-
-Le directeur général des collectivités locales au ministère de l'intérieur et le directeur du Trésor au ministère de
-l'économie et des finances siègent au conseil en qualité de commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 2 al. 1, 2, 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - Décret n°80-918 du 13 novembre 1980 - art. 28 (Ab)
-
-
-###### Article R236-13
-
-Le président du conseil d'administration et les administrateurs mentionnés au 1° et au 2° du premier alinéa de l'article R.
-236-12 ci-dessus [*administrateurs représentent le Parlement et les collectivités locales*] sont nommés pour trois ans
-[**]durée[**]. Leur mandat, qui est renouvelable une fois, prend fin de plein droit lorsqu'ils cessent d'exercer les
-fonctions électives à raison desquelles ils ont été désignés. 
-
-En cas de vacance, il est pourvu à leur remplacement pour le temps qui reste à courir sur la durée de leur mandat. 
-
-Si leur mandat arrive à son terme avant la date d'expiration des fonctions électives à raison desquelles ils ont été désignés
-soit au cours de la même année, soit dans l'année qui précède,
-
-il est prorogé de droit jusqu'au renouvellement de l'assemblée à laquelle ils appartiennent. 
-
-Dans ce cas et si la proportion des membres du conseil dont le mandat est prorogé atteint le tiers du nombre des
-administrateurs représentant le Parlement et les collectivités locales, le mandat des autres administrateurs nommés à ce
-titre est également prorogé pour le temps qui reste à courir sur la durée du premier mandat venant à renouvellement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 2 al. 4 complété
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - Code des communes R236-12 al. 1 1/ et 2/
-
-
-###### Article R236-14
-
-Le conseil d'administration de la caisse d'aide à l'équipement des collectivités locales règle les affaires de la
-caisse[*attributions*]. 
-
-Il délibère notamment sur son budget, sur son compte financier ainsi que sur ses opérations financières.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 3 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-15
-
-Le conseil d'administration de la caisse d'aide à l'équipement des collectivités locales se réunit au moins deux fois par an
-[**]fréquence[**] sur convocation de son président.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 3 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-16
-
-Le conseil d'administration de la caisse d'aide à l'équipement des collectivités locales peut désigner en son sein une
-commission permanente. 
-
-Il peut lui déléguer une partie de ses pouvoirs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 3 al. 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-17
-
-Le fonctionnement financier et comptable de la caisse est assuré conformément aux dispositions du décret n° 53-1227 du 10
-décembre 1953 et du décret n° 62-1587 du 29 décembre 1962 selon les modalités ci-après :
-
-Sous le contrôle du conseil d'administration, la caisse des dépôts et consignations assure la gestion administrative des
-opérations de la caisse d'aide à l'équipement des collectivités locales. 
-
-Le directeur général de la caisse des dépôts et consignations est l'ordonnateur de la caisse d'aide à l'équipement des
-collectivités locales [*attributions*] . 
-
-Il représente la caisse en justice et dans tous les actes de la vie civile.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 1953-12-10
-  - Décret n°62-1587 1962-12-29
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 4
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-18
-
-L'agent comptable de la caisse d'aide à l'équipement des collectivités locales est nommé par arrêté du ministre de l'économie
-et des finances [*compétence*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 5 al. 1 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-19
-
-La comptabilité de la caisse d'aide à l'équipement des collectivités locales est distincte de celle de la caisse des dépôts
-et consignations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 5 al. 2 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-20
-
-Aucune création d'emploi ne peut résulter de la mise en place de la caisse d'aide à l'équipement des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 6
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-21
-
-Un rapport sur le fonctionnement de la caisse d'aide à l'équipement des collectivités locales est établi chaque année
-[**]fréquence[**] et présenté au Parlement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-953 1960-09-08 art. 3 dernier alinéa
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.<a id=47></a>
-
-###### Article R236-22
-
-La caisse d'aide à l'équipement des collectivités locales apporte son concours aux départements, aux communes et à leurs
-groupements, aux territoires d'outre-mer, aux régions, aux chambres de commerce et d'industrie, aux ports autonomes, aux
-établissements publics gestionnaires d'aéroports et aux organismes bénéficiant de la garantie de ces collectivités dans les
-conditions prévues par les articles L. 236-10 à L. 236-12 [*relatifs aux emprunts émis par l'intermédiaire de la caisse*],
-l'article R. 236-23, les articles R. 236-27 à R. 236-45 [*relatifs à la gestion des emprunts unifiés*] et l'article 1er du
-décret n° 55-632 du 20 mai 1955.
-
-**Nota:**
-
-!!! Attention !!!
-
-la rédaction ci-dessus est issue de la codification de l'article 1er alinéa 2 du décret n° 66-271 du 4 mai 1966 hors celle-ci
-a été modifiée par le décret n° 79-147 du 21 février 1979, la nouvelle rédaction de ce texte est la suivante:
-
----La caisse apporte son concours aux départements, aux communes et à leurs regroupements, aux territoires d'outre-mer, aux
-régions, aux chambres de commerce et d'industrie, aux chambres de métiers, aux ports autonomes, aux établissements
-gestionnaires d'un aéroport et aux organismes bénéficiant de la garantie de ces collectivités ou établissements dans les
-conditions prévues par les articles 1er et 2 du décret n° 53-709 du 9 août 1953, les articles 2 à 9 du décret n° 54-164 du 15
-février 1954, modifié par le décret n° 61-1030 du 11 septembre 1961, l'article 1er du décret n° 55-632 du 20 mai 1955 et
-l'article 3 du décret n° 60-953 du 8 septembre 1960. Elle gère les emprunts précédemment émis en application de ces décrets.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-632 du 20 mai 1955 - art. 1 (V)
-  - Code des communes R236-23 et R236-27 à R236-45
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 1 al. 2 modifié et remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R236-24 (Ab)
-  - CODE DES COMMUNES. - art. R236-25 (Ab)
-  - Décret n°80-918 du 13 novembre 1980 - art. 28 (Ab)
-
-
-###### Article R236-23
-
-La caisse d'aide à l'équipement des collectivités locales intervient pour faciliter aux départements, communes, syndicats de
-communes, chambres de commerce et d'industrie et organismes bénéficiant de leur garantie le placement de tous emprunts soit
-dans le public, soit auprès de prêteurs autres que la caisse des dépôts et consignations, le crédit foncier de France et les
-caisses de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-953 1960-09-08 art. 3 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - Décret n°80-918 du 13 novembre 1980 - art. 28 (Ab)
-
-
-###### Article R236-24
-
-La caisse d'aide à l'équipement des collectivités locales gère les emprunts émis antérieurement à sa création en application
-des textes mentionnés à l'article R. 236-22.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-632 du 20 mai 1955 - art. 1 (V)
-  - CODE DES COMMUNES. - art. R236-22 (Ab)
-  - Code des communes R236-22, R236-23 et R236-27 à R236-45
-
-_Anciens textes_:
-
-  - Décret n°60-953 1960-09-08 art. 3 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-25
-
-La caisse d'aide à l'équipement des collectivités locales peut faciliter, à l'aide des ressources que lui procure notamment
-l'émission d'emprunts, l'équipement des collectivités locales et organismes [*bénéficiant de leur garantie*] mentionnés à
-l'article R. 236-22.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-271 1966-05-04 art. 1 al. 3 modifié et remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1983 - art. 9 (V)
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R236-22 (Ab)
-
-
-###### Article R236-26
-
-La caisse d'aide à l'équipement des collectivités locales :
-
-- est consultée par le comité des investissements à caractère économique et social sur les programmes d'équipement des
-collectivités locales qui sont soumis aux délibérations de ce conseil;
-
-- peut être chargée de toutes études et missions relatives au financement de ces équipements soit par les collectivités
-elles-mêmes, soit par les administrations chargées de leur contrôle, soit par les institutions financières.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-953 1960-09-08 art. 3 al. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Modifié par_:
-
-  - Décret n°96-1022 du 27 novembre 1996 - art. 8 ()
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-26 bis
-
-Pour l'exécution de sa mission, la Caisse d'aide à l'équipement des collectivités locales peut constituer avec d'autres
-organismes une société commerciale réalisant des opérations de crédit en faveur du développement local. Cette société
-recueille notamment les dépôts de trésorerie des collectivités locales et des établissements publics locaux conformément à la
-réglementation qui leur est applicable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°87-814 du 6 octobre 1987 - art. 1 ()
-
-_Cité par_:
-
-  - Décret n°92-163 du 20 février 1992 - art. 3 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.<a id=48></a>
+##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.<a id=45></a>
 
 ###### Article R*236-27
 
@@ -3752,542 +3166,13 @@ _Cite_:
   - CODE DES COMMUNES. - art. R236-45 (Ab)
 
 
-###### Article R236-30
+## LIVRE 3 : Administration et services communaux<a id=46></a>
 
-Chaque emprunt fait l'objet, préalablement à son émission, d'une convention avec la collectivité emprunteuse. 
+### TITRE 1 : Administration de la commune<a id=47></a>
 
-Cette convention : [*contenu*] 
+#### CHAPITRE 5 : Travaux communaux<a id=48></a>
 
-- détermine les conditions financières de l'emprunt ; 
-
-- fixe la période d'émission et les conditions dans lesquelles les titres [*valeur mobilière*] sont remis aux
-souscripteurs ; 
-
-- définit le rôle de la caisse d'aide à l'équipement des collectivités locales ; 
-
-- précise les obligations qui incombent à la collectivité à l'égard de la caisse pour le service de l'emprunt.
-
-Les conditions financières de l'emprunt sont conformes à l'une des formules définies par arrêté du ministre de l'économie et
-des finances et du ministre de l'intérieur en application de l'article L. 236-10.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 3 al. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - Arrêté du 2 novembre 1981 - art. 8 (V)
-  - CODE DES COMMUNES. - art. R236-31 (Ab)
-  - CODE DES COMMUNES. - art. R236-35 (Ab)
-  - CODE DES COMMUNES. - art. R236-45 (Ab)
-  - CODE DES COMMUNES. - art. R236-47 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L236-10 (Ab)
-
-
-###### Article R236-31
-
-Après clôture de l'émission, et compte tenu de son montant effectif, la convention [*avec la collectivité emprunteuse*]
-mentionnée à l'article précédent est, s'il y a lieu, rectifiée et complétée par un avenant[*révision*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 3 al. 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - Arrêté du 2 novembre 1981 - art. 8 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R236-30 (Ab)
-
-
-###### Article R236-32
-
-Les souscriptions ne peuvent être faites au profit d'un émetteur déterminé [*interdiction*]. 
-
-Leur produit est attribué aux collectivités locales émettrices par décision du conseil d'administration de la caisse d'aide à
-l'équipement des collectivités locales[*attributions*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 5 al. 1 phr. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-33
-
-Les commissions réglées, le cas échéant, aux intermédiaires ayant transmis les souscriptions sont remboursées à la caisse
-d'aide à l'équipement des collectivités locales par les collectivités bénéficiaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 5 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R236-43 (Ab)
-
-
-###### Article R236-34
-
-Les souscriptions des organismes d'assurances,
-
-d'épargne, de capitalisation, de retraite et autres organismes de prévoyance ainsi que des banques et établissements de
-crédit, ayant un caractère national, sont reçues directement et exclusivement par la caisse d'aide à l'équipement des
-collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 5 al. 1 phr. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-35
-
-Les souscripteurs mentionnés à l'article R. 236-30 reçoivent des titres [*valeur mobilière*] du ou des emprunts auxquels
-correspondent leurs souscriptions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 5 al. 1 phr. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R236-30 (Ab)
-
-
-###### Article R236-36
-
-Le groupement en une série unique, prévu au deuxième alinéa de l'article L. 236-11, des emprunts présentant les mêmes
-caractéristiques est prononcé par décision du conseil d'administration de la caisse d'aide à l'équipement des collectivités
-locales[*attributions*]. 
-
-Les emprunts ainsi groupés sont gérés [*mode de gestion*]
-
-comme un emprunt unique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 6 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - Code des communes L236-11 al. 2
-
-
-###### Article R236-37
-
-Les emprunts de la même série sont unifiés et cotés en bourse sous une même rubrique[*groupement en une série unique*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-38
-
-Les titres [*valeur mobilière*] des emprunts d'une même série forment une suite ininterrompue de numéros[*groupement en une
-série unique*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 6 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-39
-
-Si les emprunts comportent un amortissement par échéances successives, il est établi un tableau d'amortissement unique pour
-l'ensemble des emprunts de la série. 
-
-Les tirages au sort et les rachats en bourse sont effectués sans qu'il y ait lieu à aucune distinction entre les titres
-[*valeur mobilière*] des différents emprunts de la série. 
-
-Lorsque, par suite notamment du rattachement de nouveaux emprunts à la série, il y a lieu à révision du tableau
-d'amortissement, cette révision est opérée annuellement [**]fréquence[**] ; le tableau révisé est publié au plus tard un mois
-avant la date prévue pour les tirages [*groupement des emprunts en une série unique*] .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 6 al. 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-40
-
-Les titres [*valeur mobilière*] des emprunts [*groupés*] d'une même série [*unique*] sont cotés en bourse sous une même
-rubrique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 6 al. 4
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-41
-
-Les sommes versées par les diverses collectivités émettrices d'emprunts groupés dans une même série [*unique*] sont affectées
-sans distinction au service de l'ensemble des emprunts de cette série.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 6 al. 5
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-42
-
-Les titres [*valeur mobilière*] remis aux souscripteurs,
-
-en application de l'article R. 236-30, portent la mention "Caisse d'aide à l'équipement des collectivités locales, article R.
-236-22 du code des communes" et l'indication de la série unifiée à laquelle ils appartiennent. 
-
-Les titres sont signés par le directeur général de la caisse des dépôts et consignations, établissement chargé de la gestion
-administrative de la caisse d'aide à l'équipement des collectivités locales, et par l'agent comptable de la caisse d'aide à
-l'équipement des collectivités locales ; ces signatures peuvent être imprimées. 
-
-Ils comportent, dans un emplacement réservé à cet effet, l'indication du nom de la collectivité emprunteuse ou la mention
-"diverses collectivités" ; ces mentions peuvent être apposées au timbre humide[*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 4 al. 1 et 2 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - Code des communes R236-22 et R236-30
-
-
-###### Article R236-43
-
-Les frais d'impression et d'envoi des titres [*valeur mobilière*], ainsi que les commissions de placement, et, s'il en
-existe, les frais de publicité sont à la charge de l'emprunteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 4 al. 3 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R236-33 (Ab)
-
-
-###### Article R236-44
-
-Les collectivités émettrices versent à la caisse d'aide à l'équipement des collectivités locales l'annuité nécessaire au
-service de leurs emprunts un mois au moins avant chaque échéance[*délai*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 7 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-45
-
-Les commissions dues aux guichets domiciliataires sont réparties entre les émetteurs des emprunts [*groupés*] d'une même
-série unifiée [*unique*] proportionnellement à l'importance de ces emprunts. 
-
-Le règlement des sommes ainsi déterminées est effectué à la caisse d'aide à l'équipement des collectivités locales dans les
-conditions fixées par la convention [*avec la collectivité emprunteuse*] prévue à l'article R. 236-30 ci-dessus. 
-
-En cas de retard apporté à ces règlements, des intérêts moratoires sont dus par les collectivités débitrices au taux fixé par
-ladite convention.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 7 al. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*236-29 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R236-30 (Ab)
-
-
-###### Article R236-46
-
-Si l'amortissement a lieu par rachats en bourse, les bénéfices nets de rachats revenant aux émetteurs sont répartis par la
-caisse d'aide à l'équipement des collectivités locales [*attributions*] en une seule fois, après paiement de la dernière
-échéance, proportionnellement aux montants et aux durées des divers emprunts unifiés de la même série.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 8
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-
-###### Article R236-47
-
-L'exécution des obligations stipulées à la convention [*entre la caisse et la collectivité emprunteuse*] prévue à l'article
-R. 236-30 libère les collectivités émettrices de toute autre obligation et les exonère de toute responsabilité du chef du
-service de leur emprunt. 
-
-Les comptables des collectivités émettrices n'ont à justifier dans leurs écritures que de la réalisation au profit de la
-caisse d'aide à l'équipement des collectivités locales des versements prévus par ladite convention.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-164 1954-02-15 art. 9
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Abrogé par_:
-
-  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R236-30 (Ab)
-
-
-## LIVRE 3 : Administration et services communaux<a id=49></a>
-
-### TITRE 1 : Administration de la commune<a id=50></a>
-
-#### CHAPITRE 5 : Travaux communaux<a id=51></a>
-
-##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.<a id=52></a>
+##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.<a id=49></a>
 
 ###### Article R*315-4
 
@@ -4872,11 +3757,11 @@ _Cite_:
   - Code des communes R315-4 à R315-14
 
 
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=53></a>
+### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=50></a>
 
-#### CHAPITRE 2 : Assainissement et eaux usées<a id=54></a>
+#### CHAPITRE 2 : Assainissement et eaux usées<a id=51></a>
 
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=55></a>
+##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=52></a>
 
 ###### Article R*372-11
 
@@ -4910,13 +3795,13 @@ _Abrogé par_:
   - Décret n°2000-318 2000-04-07 art. 4 1° d jorf 9 avril 2000
 
 
-## LIVRE 4 : Personnel communal<a id=56></a>
+## LIVRE 4 : Personnel communal<a id=53></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=57></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=54></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=58></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=55></a>
 
-##### SECTION 1 : Dispositions générales.<a id=59></a>
+##### SECTION 1 : Dispositions générales.<a id=56></a>
 
 ###### Article R*411-1
 
@@ -4997,7 +3882,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=60></a>
+##### SECTION 4 : Commission paritaire communale.<a id=57></a>
 
 ###### Article R*411-38
 
@@ -5023,7 +3908,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=61></a>
+##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=58></a>
 
 ###### Article R411-41
 
@@ -5383,7 +4268,7 @@ _Modifié par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-##### SECTION 7 : Honorariat.<a id=62></a>
+##### SECTION 7 : Honorariat.<a id=59></a>
 
 ###### Article R411-55
 
@@ -5405,11 +4290,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=63></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=60></a>
 
-##### SECTION 1 : Recrutement<a id=64></a>
+##### SECTION 1 : Recrutement<a id=61></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=65></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=62></a>
 
 ###### Article R*412-1
 
@@ -5652,7 +4537,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=66></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=63></a>
 
 ###### Article R412-9
 
@@ -5859,7 +4744,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=67></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=64></a>
 
 ###### Article R*412-32
 
@@ -6399,7 +5284,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Promotion sociale.<a id=68></a>
+##### SECTION 3 : Promotion sociale.<a id=65></a>
 
 ###### Article R412-94
 
@@ -6530,9 +5415,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=69></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=66></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=70></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=67></a>
 
 ###### Article R*412-116
 
@@ -6664,7 +5549,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=71></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=68></a>
 
 ###### Article R412-120
 
@@ -6774,7 +5659,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=72></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=69></a>
 
 ###### Article R*412-123
 
@@ -6863,7 +5748,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=73></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=70></a>
 
 ###### Article R*412-127
 
@@ -6883,7 +5768,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=74></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=71></a>
 
 ###### Article R*413-1
 
@@ -6932,9 +5817,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=75></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=72></a>
 
-##### SECTION 1 : Notation.<a id=76></a>
+##### SECTION 1 : Notation.<a id=73></a>
 
 ###### Article R414-1
 
@@ -6961,7 +5846,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=77></a>
+##### SECTION 2 : Avancement.<a id=74></a>
 
 ###### Article R*414-2
 
@@ -7492,9 +6377,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=78></a>
+##### SECTION 3 : Discipline<a id=75></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=79></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=76></a>
 
 ###### Article R*414-15
 
@@ -7592,7 +6477,7 @@ _Modifié par_:
   - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=80></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=77></a>
 
 ###### Article R*414-22
 
@@ -7787,7 +6672,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=81></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=78></a>
 
 ###### Article R*414-29
 
@@ -7801,11 +6686,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=82></a>
+#### CHAPITRE 5 : Positions<a id=79></a>
 
-##### SECTION 1 : Activités, congés<a id=83></a>
+##### SECTION 1 : Activités, congés<a id=80></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=84></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=81></a>
 
 ###### Article R*415-2
 
@@ -7972,7 +6857,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=85></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=82></a>
 
 ###### Article R*415-6
 
@@ -7999,7 +6884,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=86></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=83></a>
 
 ###### Article R*416-1
 
@@ -8031,7 +6916,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=87></a>
+##### SECTION 1 : L'admission à la retraite.<a id=84></a>
 
 ###### Article R*416-2
 
@@ -8054,7 +6939,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=88></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=85></a>
 
 ###### Article R*416-3
 
@@ -8076,9 +6961,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=89></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=86></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=90></a>
+##### SECTION 1 : Sécurité sociale.<a id=87></a>
 
 ###### Article R417-1
 
@@ -8103,7 +6988,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=91></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=88></a>
 
 ###### Article R417-5
 
@@ -8696,7 +7581,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=92></a>
+##### SECTION 4 : Pensions.<a id=89></a>
 
 ###### Article R417-22
 
@@ -8742,11 +7627,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=93></a>
+### TITRE 2 : Personnels divers<a id=90></a>
 
-#### CHAPITRE 2 : Agents non titulaires<a id=94></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=91></a>
 
-##### SECTION 1 : Dispositions générales.<a id=95></a>
+##### SECTION 1 : Dispositions générales.<a id=92></a>
 
 ###### Article R*422-1
 
@@ -8767,7 +7652,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=96></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=93></a>
 
 ###### Article R*422-3
 
@@ -8829,7 +7714,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=97></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=94></a>
 
 ###### Article R*422-5
 
@@ -8946,7 +7831,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=98></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=95></a>
 
 ###### Article R*422-9
 
@@ -9089,7 +7974,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=99></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=96></a>
 
 ###### Article R*422-15
 
@@ -9532,7 +8417,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=100></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=97></a>
 
 ###### Article R*422-33
 
@@ -9644,7 +8529,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=101></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=98></a>
 
 ###### Article R422-41
 
@@ -9680,7 +8565,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=102></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=99></a>
 
 ###### Article R*423-1
 
@@ -9772,11 +8657,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=103></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=100></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=104></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=101></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=105></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=102></a>
 
 ###### Article R*432-1
 
@@ -9869,7 +8754,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=106></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=103></a>
 
 ###### Article R*432-4
 
@@ -10073,9 +8958,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=107></a>
+### TITRE 4 : Dispositions particulières<a id=104></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=108></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=105></a>
 
 ###### Article R441-1
 
@@ -10105,9 +8990,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=109></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=106></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=110></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=107></a>
 
 ###### Article R442-1
 
@@ -10149,7 +9034,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=111></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=108></a>
 
 ###### Article R*442-2
 
@@ -10171,11 +9056,11 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=112></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=109></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=113></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=110></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=114></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=111></a>
 
 ###### Article R*444-1
 
@@ -10683,7 +9568,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Recrutement.<a id=115></a>
+##### SECTION 2 : Recrutement.<a id=112></a>
 
 ###### Article R*444-28
 
@@ -10937,7 +9822,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=116></a>
+##### SECTION 3 : Rémunération.<a id=113></a>
 
 ###### Article R*444-37
 
@@ -11059,9 +9944,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=117></a>
+##### SECTION 4 : Notation et avancement<a id=114></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=118></a>
+##### SOUS-SECTION 1 : Notation.<a id=115></a>
 
 ###### Article R*444-42
 
@@ -11228,7 +10113,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=119></a>
+##### SOUS-SECTION 2 : Avancement.<a id=116></a>
 
 ###### Article R*444-49
 
@@ -11627,7 +10512,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=120></a>
+##### SECTION 5 : Discipline.<a id=117></a>
 
 ###### Article R*444-65
 
@@ -12335,7 +11220,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=121></a>
+##### SECTION 6 : Positions.<a id=118></a>
 
 ###### Article R*444-88
 
@@ -12368,7 +11253,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=122></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=119></a>
 
 ###### Article R*444-89
 
@@ -12390,7 +11275,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=123></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=120></a>
 
 ###### Article R444-90
 
@@ -12465,7 +11350,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=124></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=121></a>
 
 ###### Article R*444-102
 
@@ -12627,7 +11512,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=125></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=122></a>
 
 ###### Article R*444-109
 
@@ -12670,7 +11555,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=126></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=123></a>
 
 ###### Article R*444-120
 
@@ -12696,7 +11581,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=127></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=124></a>
 
 ###### Article R*444-122
 
@@ -12719,7 +11604,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=128></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=125></a>
 
 ###### Article R*444-123
 
@@ -12760,7 +11645,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=129></a>
+##### SOUS-SECTION 8 : Mutations.<a id=126></a>
 
 ###### Article R*444-169
 
@@ -12824,7 +11709,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=130></a>
+##### SECTION 7 : Cessation de fonctions.<a id=127></a>
 
 ###### Article R*444-172
 
