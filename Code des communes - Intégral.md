@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-02-03
+Version Consolidée au 1993-02-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -51719,19 +51719,19 @@ _Cite_:
 
 Les natures d'hébergement prévues par le premier alinéa de l'article L. 233-29 du code des communes sont :
 
-" 1° Les hôtels.
+1° Les hôtels.
 
-" 2° Les résidences de tourisme.
+2° Les résidences de tourisme.
 
-" 3° Les meublés.
+3° Les meublés.
 
-" 4° Les villages de vacances.
+4° Les villages de vacances.
 
-" 5° Les terrains de camping et de caravanage.
+5°  Les terrains de camping et les terrains de caravanage, ainsi que tout autre terrain d'hébergement de plein air.
 
-" 6° Les ports de plaisance.
+6° Les ports de plaisance.
 
-" 7° Les autres formes d'hébergement. "
+7° Les autres formes d'hébergement.
 
 **Liens relatifs à cet article**
 
@@ -51741,7 +51741,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-630 1988-05-06 art. 1, 4, 5 jorf 8 mai 1988
+  - Décret n°93-200 du 11 février 1993 - art. 1 ()
 
 _Cite_:
 
@@ -51754,29 +51754,34 @@ _Cite_:
 
 Les tarifs de la taxe de séjour sont fixés par la commune conformément au barème suivant :
 
-" Hôtels de tourisme 4 étoiles et 4 étoiles de luxe, meublés hors classe et tous autres établissements de caractéristiques
+Hôtels de tourisme 4 étoiles et 4 étoiles de luxe, meublés hors classe et tous autres établissements de caractéristiques
 équivalentes : entre 4 et 7 F par jour et par personne ;
 
-" Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes :
-entre 3 et 6 F par jour et par personne ;
+Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes : entre
+3 et 6 F par jour et par personne ;
 
-" Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances de catégorie grand confort et tous autres
+Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances de catégorie grand confort et tous autres
 établissements de caractéristiques équivalentes : entre 2 et 5 F par jour et par personne ;
 
-" Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres
-établissements de caractéristiques équivalentes : entre 1 et 4 F par jour et par personne ;
+Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres établissements
+de caractéristiques équivalentes : entre 1 et 4 F par jour et par personne ;
 
-" Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres
-établissements de caractéristiques équivalentes : entre 1 et 2 F par jour et par personne ;
+Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres établissements
+de caractéristiques équivalentes : entre 1 et 2 F par jour et par personne ;
 
-" Terrains de camping et de caravanage, ports de plaisance et tous autres établissements de caractéristiques équivalentes : 1
-F par jour et par personne.
+Terrains de camping et terrains de caravanage classés en 2 étoiles ou dans une catégorie similaire ou inférieure, et tout
+autre terrain d'hébergement de plein air de caractéristiques équivalentes, ports de plaisance : 1 F par jour et par personne.
 
-" En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
+Terrains de camping et terrains de caravanage classés en 3 étoiles ou dans une catégorie similaire ou supérieure et tout
+autre terrain d'hébergement de plein air de caractéristiques équivalentes :
+
+entre 1 et 3 F par jour et par personne.
+
+En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
 tarif retenu pour une catégorie d'hébergement supérieure.
 
-" Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
-mars 1927 lorsqu'elle est instituée. "
+Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
+mars 1927 lorsqu'elle est instituée.
 
 **Liens relatifs à cet article**
 
@@ -51790,7 +51795,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-630 1988-05-06 art. 1, 6, 7 jorf 8 mai 1988
+  - Décret n°93-200 du 11 février 1993 - art. 2 ()
 
 _Cite_:
 
@@ -52277,35 +52282,45 @@ _Nouveaux textes_:
 
 Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune conformément au barème suivant :
 
-" Hôtels de tourisme 4 étoiles et 4 étoiles luxe, meublés hors classe et tous autres établissements de caractéristiques
+Hôtels de tourisme 4 étoiles et 4 étoiles luxe, meublés hors classe et tous autres établissements de caractéristiques
 équivalentes : entre 4 et 7 F par nuitée et par unité de capacité d'accueil ;
 
-" Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes :
-entre 3 et 6 F par nuitée et par unité de capacité d'accueil ;
+Hôtels de tourisme 3 étoiles, meublés de 1re catégorie et tous autres établissements de caractéristiques équivalentes : entre
+3 et 6 F par nuitée et par unité de capacité d'accueil ;
 
-" Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances et catégorie grand confort et tous autres
+Hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances et catégorie grand confort et tous autres
 établissements de caractéristiques équivalentes : entre 2 et 5 F par nuitée et par unité de capacité d'accueil ;
 
-" Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres
-établissements de caractéristiques équivalentes : entre 1 et 4 F par nuitée et par unité de capacité d'accueil ;
+Hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de catégorie confort et tous autres établissements
+de caractéristiques équivalentes : entre 1 et 4 F par nuitée et par unité de capacité d'accueil ;
 
-" Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres
-établissements de caractéristiques équivalentes : entre 1 et 2 F par nuitée et par unité de capacité d'accueil ;
+Hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs résidentiels de loisirs et tous autres établissements
+de caractéristiques équivalentes : entre 1 et 2 F par nuitée et par unité de capacité d'accueil ;
 
-" Terrains de camping et de caravanage, ports de plaisance et tous autres établissements de caractéristiques équivalentes : 1
-F par nuitée et par unité de capacité d'accueil.
+Terrains de camping et terrains de caravanage classés en 2 étoiles ou dans une catégorie similaire ou inférieure, et tout
+autre terrain d'hébergement de plein air de caractéristiques équivalentes, ports de plaisance : 1 F par nuitée et par unité
+de capacité d'accueil.
 
-" En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
+Terrains de camping et terrains de caravanage classés en 3 étoiles ou dans une catégorie similaire ou supérieure et tout
+autre terrain d'hébergement de plein air de caractéristiques équivalentes :
+
+entre 1 et 2 F par nuitée et par unité de capacité d'accueil.
+
+En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
 tarif retenu pour une catégorie d'hébergement supérieur.
 
-" Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
-mars 1927 lorsqu'elle est instituée. "
+Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article 108 de la loi du 26
+mars 1927 lorsqu'elle est instituée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°93-200 du 11 février 1993 - art. 3 ()
 
 _Cité par_:
 
@@ -52313,15 +52328,12 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code du travail - art. R4313-17 (Ab)
   - Code général des collectivités territoriales - art. R2333-60 (Ab)
 
 _Cite_:
 
   - Loi n°1927-03-26 art. 108
-
-_Modifié par_:
-
-  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
 
 
 ###### Article R233-60-1
@@ -52329,16 +52341,24 @@ _Modifié par_:
 Pour l'application de l'article L. 233-44-2, le nombre d'unités de capacité d'accueil de chaque établissement correspond au
 nombre de personnes que celui-ci est susceptible d'héberger.
 
-" Lorsque l'établissement donnant lieu à versement de la taxe fait l'objet d'un classement, le nombre de personnes prévu au
+Lorsque l'établissement donnant lieu à versement de la taxe fait l'objet d'un classement, le nombre de personnes prévu au
 premier alinéa correspond à celui prévu par l'arrêté de classement.
 
-" Lorsque l'arrêté de classement fait référence à des lits, chaque lit est compté comme une unité de capacité d'accueil. "
+Lorsque l'arrêté de classement fait référence à des lits, chaque lit est compté comme une unité de capacité d'accueil.
+
+Lorsque l'arrêté du classement fait référence à des emplacements d'installations de camping, de caravanage ou d'hébergements
+légers, le nombre d'unités de capacité d'accueil de chaque établissement d'hébergement de plein air est égal au triple du
+nombre des emplacements mentionnés par l'arrêté de classement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°93-200 du 11 février 1993 - art. 4 ()
 
 _Cite_:
 
@@ -52352,32 +52372,32 @@ _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2333-59 (Ab)
 
-_Créé par_:
-
-  - Loi n°88-630 1988-05-06 art. 1, 17, 18 jorf 8 mai 1988
-
 
 ###### Article R233-60-2
 
 Le montant de la taxe due par chaque redevable est égal au produit des éléments suivants :
 
-" 1° Le nombre d'unités de capacité d'accueil de l'établissement donnant lieu à versement de la taxe.
+1° Le nombre d'unités de capacité d'accueil de l'établissement donnant lieu à versement de la taxe.
 
-" Ce nombre d'unités fait l'objet d'un abattement de 10 p. 100. Cet abattement est porté à 20 p. 100 lorsque le nombre de
+Ce nombre d'unités fait l'objet d'un abattement de 20 p. 100. Cet abattement est porté à 30 p. 100 lorsque le nombre de
 nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception définie à l'article L.
-233-32 est supérieur à soixante et inférieur ou égal à cent cinq et à 30 p. 100 lorsque ce nombre de nuitées est supérieur à
+233-32 est supérieur à soixante et inférieur ou égal à cent cinq et à 40 p. 100 lorsque ce nombre de nuitées est supérieur à
 cent cinq.
 
-" 2° Le tarif communal établi conformément aux dispositions de l'article L. 233-60.
+2° Le tarif communal établi conformément aux dispositions de l'article L. 233-60.
 
-" 3° Le nombre de nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception de
-la commune. "
+3° Le nombre de nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception de la
+commune. "
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°93-200 du 11 février 1993 - art. 5 ()
 
 _Cite_:
 
@@ -52387,10 +52407,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2333-61 (Ab)
-
-_Créé par_:
-
-  - Loi n°88-630 1988-05-06 art. 1,17, 18 jorf 8 mai 1988
 
 
 ###### Article R233-60-3
