@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-04-02
+Version Consolidée au 1988-04-12
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -593,10 +593,10 @@ Version Consolidée au 1988-04-02
         - [Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales (art. R*234-21)](#590)
           - [Recettes réparties par le comité des finances locales (art. R*234-21)](#591)
             - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements. (art. R*234-21)](#592)
-      - [DISPOSITIONS PARTICULIERES (art. R263-6 à R263-8)](#593)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6 à R263-8)](#594)
-          - [Versement destiné aux transports en commun (art. R263-6 à R263-8)](#595)
-            - [Dispositions communes . (art. R263-6 à R263-8)](#596)
+      - [DISPOSITIONS PARTICULIERES (art. R263-8)](#593)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-8)](#594)
+          - [Versement destiné aux transports en commun (art. R263-8)](#595)
+            - [Dispositions communes . (art. R263-8)](#596)
     - [LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 1 § : Dispositions générales (art. R*233-39 à R233-41)](#597)
     - [LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 2 § : Taxe de séjour. (art. R*233-43 à R233-59)](#598)
     - [LIVRE 2 : Finances communales TITRE 3 : Recettes  CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts SECTION 4 : Taxes particulières aux stations Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire 3 § : Recouvrement de la taxe de séjour et pénalités 2 § : Taxe de séjour. (art. R*233-57)](#599)
@@ -894,14 +894,12 @@ Version Consolidée au 1988-04-02
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#891)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#892)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#893)
-    - [Personnel communal (art. R411-46 à R*412-115)](#894)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-46 à R*412-115)](#895)
-        - [Dispositions générales et organiques (art. R411-46)](#896)
-          - [La médaille d'honneur départementale et communal . (art. R411-46)](#897)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#898)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#899)
-            - [Actions de formation . (art. R*412-100)](#900)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#901)
+    - [Personnel communal (art. R*412-99 à R*412-115)](#894)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R*412-99 à R*412-115)](#895)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#896)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#897)
+            - [Actions de formation . (art. R*412-100)](#898)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#899)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -57712,6 +57710,35 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2531-5 (V)
 
 
+###### Article R263-6
+
+Les modalités de calcul des pertes de recettes résultant des réductions tarifaires prévues à l'article L. 263-5 ainsi que
+celles du paiement et du contrôle de l'emploi des sommes dues aux entreprises de transport concernées sont fixées par des
+conventions passées entre le syndicat des transports parisiens et ces entreprises [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-710 1971-08-30 art. 15
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°88-331 du 7 avril 1988 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L263-5 (Ab)
+
+
 ###### Article R263-7
 
 Les entreprises de transport en commun susceptibles de bénéficier, sous réserve de l'agrément du syndicat des transports
@@ -59459,32 +59486,6 @@ _Codifié par_:
 ##### Versement destiné aux transports en commun<a id=595></a>
 
 ##### Dispositions communes .<a id=596></a>
-
-###### Article R263-6
-
-Les modalités de calcul des pertes de recettes résultant des réductions tarifaires prévues à l'article L. 263-5 ainsi que
-celles du paiement et du contrôle de l'emploi des sommes dues aux entreprises de transport concernées sont fixées par des
-conventions passées entre le syndicat des transports parisiens et ces entreprises et approuvées par les ministres intéressés
-[**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-710 1971-08-30 art. 15
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L263-5 (Ab)
-
 
 ###### Article R263-8
 
@@ -94318,44 +94319,9 @@ _Codifié par_:
 
 ### Agents nommés dans des emplois permanents à temps complet<a id=895></a>
 
-#### Dispositions générales et organiques<a id=896></a>
+#### Recrutement, formation et promotion sociale<a id=896></a>
 
-##### La médaille d'honneur départementale et communal .<a id=897></a>
-
-###### Article R411-46
-
-Par dérogation aux dispositions de l'article R. 411-44, les médailles d'argent et de vermeil peuvent être décernées, après
-respectivement vingt ans et trente ans de services [*conditions d'attribution, ancienneté*], aux agents des réseaux
-souterrains des égouts, bénéficiaires des avantages prévus par le décret n° 50-1128 du 14 septembre 1950 tendant à accorder
-des avantages spéciaux pour l'ouverture du droit à pension aux personnels du service actif des égouts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°45-1197 1945-06-07 ART. 3 BIS
-
-_Cite_:
-
-  - Décret n°50-1128 1950-09-14
-  - CODE DES COMMUNES. - art. R411-44 (M)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R411-48 (V)
-
-
-#### Recrutement, formation et promotion sociale<a id=898></a>
-
-##### Formation professionnelle continue .<a id=899></a>
+##### Formation professionnelle continue .<a id=897></a>
 
 ###### Article R*412-99
 
@@ -94399,7 +94365,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=900></a>
+##### Actions de formation .<a id=898></a>
 
 ###### Article R*412-100
 
@@ -94437,7 +94403,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-11 (Ab)
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=901></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=899></a>
 
 ###### Article R*412-114
 
