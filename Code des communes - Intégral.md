@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-07-01
+Version Consolidée au 1983-07-08
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -347,7 +347,7 @@ Version Consolidée au 1983-07-01
         - [CHAPITRE 6 : Halles, marchés et poids publics. (art. L376-2 à L376-15)](#344)
         - [CHAPITRE 7 : Transports publics. (art. L377-1)](#345)
         - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. L378-1 à L378-9)](#346)
-      - [TITRE 8 : Participation à des entreprises privées. (art. L381-3 à L381-6)](#347)
+      - [TITRE 8 : Participation à des entreprises privées. (art. L381-1 à L381-6)](#347)
       - [TITRE 9 : Dispositions particulières (art. L391-2 à L395-4)](#348)
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin (art. L391-2 à L391-32)](#349)
           - [SECTION 2 : Biens communaux et établissements communaux. (art. L391-2 à L391-8)](#350)
@@ -393,7 +393,7 @@ Version Consolidée au 1983-07-01
       - [Pompes funèbres et cimetières (art. L361-1)](#390)
         - [Sépultures (art. L361-1)](#391)
           - [Lieux de sépultures ; inhumations et exhumations . (art. L361-1)](#392)
-      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. L381-1 à L381-9)](#393)
+      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. L381-7 à L381-9)](#393)
       - [Dispositions particulières (art. L391-1 à L394-5)](#394)
         - [Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin (art. L391-1)](#395)
           - [Dispositions générales . (art. L391-1)](#396)
@@ -1068,58 +1068,57 @@ Version Consolidée au 1983-07-01
           - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#1065)
           - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#1066)
             - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#1067)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1068)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1069)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1070)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1071)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1072)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1073)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1074)
-    - [Personnel communal (art. R*411-4 à R*444-178)](#1075)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1076)
-        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1077)
-          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1078)
-          - [Commission paritaire communale . (art. R411-39)](#1079)
-          - [Commission paritaire intercommunale . (art. R411-40)](#1080)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1081)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1082)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1083)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1084)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1085)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1086)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1087)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1088)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1089)
-          - [Discipline (art. R*414-17 à R*414-20)](#1090)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1091)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1092)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1093)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1094)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1095)
-          - [La disponibilité . (art. R*415-15)](#1096)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1097)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1098)
-          - [Dispositions générales . (art. R*422-2)](#1099)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1100)
-          - [Congé parental . (art. R422-42 à R422-49)](#1101)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1102)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1103)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1104)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1105)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1106)
-          - [Recrutement . (art. R*444-29)](#1107)
-          - [Positions (art. R*444-90 à R*444-168)](#1108)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1109)
-              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1110)
-              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1111)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1112)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1113)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1114)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1115)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1116)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1117)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1118)
-          - [Cessation de fonctions . (art. R*444-178)](#1119)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#1068)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1069)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1070)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1071)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1072)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1073)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1074)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1075)
+    - [Personnel communal (art. R*411-4 à R*444-178)](#1076)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1077)
+        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1078)
+          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1079)
+          - [Commission paritaire communale . (art. R411-39)](#1080)
+          - [Commission paritaire intercommunale . (art. R411-40)](#1081)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1082)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1083)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1084)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1085)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1086)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1087)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1088)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1089)
+        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1090)
+          - [Discipline (art. R*414-17 à R*414-20)](#1091)
+            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1092)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1093)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1094)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1095)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1096)
+          - [La disponibilité . (art. R*415-15)](#1097)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1098)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1099)
+          - [Dispositions générales . (art. R*422-2)](#1100)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1101)
+          - [Congé parental . (art. R422-42 à R422-49)](#1102)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1103)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1104)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1105)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1106)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1107)
+          - [Recrutement . (art. R*444-29)](#1108)
+          - [Positions (art. R*444-110 à R*444-168)](#1109)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#1110)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1111)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1112)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1113)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1114)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1115)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1116)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1117)
+          - [Cessation de fonctions . (art. R*444-178)](#1118)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -32744,6 +32743,46 @@ _Abrogé par_:
 
 ### TITRE 8 : Participation à des entreprises privées.<a id=347></a>
 
+###### Article L381-1
+
+Les communes et leurs groupements peuvent, par délibération de leurs organes délibérants, acquérir ou recevoir des actions
+des sociétés d'économie mixte locales répondant aux conditions fixées par l'article 1er de la loi n° 83-597 du 7 juillet 1983
+relative aux sociétés d'économie mixte locales.
+
+Ils peuvent, dans les mêmes conditions, détenir des obligations des sociétés chargées d'exploiter des services publics
+communaux à caractère industriel et commercial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-240 1977-03-07
+
+_Cité par_:
+
+  - Décret n°81-242 du 11 mars 1981 - art. 1 (V)
+  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
+  - Loi n°82-213 du 2 mars 1982 - art. 48 (Ab)
+  - Loi n°82-213 du 2 mars 1982 - art. 5 (Ab)
+  - Loi n°83-597 du 7 juillet 1983 - art. 9 (Ab)
+  - Loi n°99-210 du 19 mars 1999 - art. 8-1 (V)
+  - CODE DES COMMUNES. - art. L381-3 (Ab)
+  - CODE DES COMMUNES. - art. L381-4 (Ab)
+  - CODE DES COMMUNES. - art. R381-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°83-597 1983-07-07 art. 15 JORF 8 juillet 1983
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2253-2 (V)
+
+
 ###### Article L381-3
 
 Les titres [*actions ou obligations des sociétés chargées d'exploiter les services communaux*] mentionnés à l'article L.
@@ -34783,81 +34822,6 @@ _Cité par_:
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=393></a>
 
-###### Article L381-1
-
-Les communes peuvent, par délibération du conseil municipal [*attributions*], soit acquérir des actions ou obligations des
-sociétés chargées d'exploiter les services communaux, soit recevoir à titre de redevance des actions d'apports émises par ces
-sociétés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 395 al. 1 remplacé et modifié et al. 2
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°69-295 1969-03-24
-  - TXT_ASSOCIE: Décret n°77-205 1977-02-18
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Cité par_:
-
-  - Décret n°81-242 du 11 mars 1981 - art. 1 (V)
-  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
-  - Loi n°82-213 du 2 mars 1982 - art. 48 (Ab)
-  - Loi n°82-213 du 2 mars 1982 - art. 5 (Ab)
-  - Loi n°83-597 du 7 juillet 1983 - art. 9 (Ab)
-  - Loi n°99-210 du 19 mars 1999 - art. 8-1 (V)
-  - CODE DES COMMUNES. - art. L381-3 (Ab)
-  - CODE DES COMMUNES. - art. L381-4 (Ab)
-  - CODE DES COMMUNES. - art. R381-1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. L2253-2 (V)
-
-
-###### Article L381-2
-
-Les dispositions de l'article précédent [*acquisition d'actions et d'obligations ou actions d'apport*] ne s'appliquent pas
-aux cas réglés par des lois spéciales et notamment par la loi du 16 octobre 1919 sur l'utilisation de l'énergie hydraulique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 397
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-_Cité par_:
-
-  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
-  - Loi n°83-597 du 7 juillet 1983 - art. 17 (V)
-
-_Cite_:
-
-  - Loi   1919-10-16
-
-_Abrogé par_:
-
-  - Loi n°83-597 1983-07-07 ART. 17 JORF 8 JUILLET 1983
-
-
 ###### Article L381-7
 
 La participation des collectivités territoriales ou de leurs groupements ne peut excéder 65 p. 100 [*pourcentage - montant
@@ -34889,40 +34853,6 @@ _Abrogé par_:
 _Cite_:
 
   - Code des communes L381-1 à L381-9
-
-
-###### Article L381-8
-
-Un commissaire du Gouvernement designé par l'autorité qualifiée siège auprès du Conseil d'Administration des sociétés dont
-les collectivités locales possèdent plus de 50 p. 100 [*pourcentage*] du capital social.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article et, notamment, les pouvoirs du
-commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 404 al. 1, 2 et 3 (parties) et al. 4
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Cité par_:
-
-  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
-  - Loi n°83-597 du 7 juillet 1983 - art. 17 (V)
-  - CODE DES COMMUNES. - art. R*381-28 (Ab)
-  - CODE DES COMMUNES. - art. R*381-29 (Ab)
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°83-597 1983-07-07 ART. 17 JORF 8 JUILLET 1983
 
 
 ###### Article L381-9
@@ -105429,7 +105359,82 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=1068></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=1068></a>
+
+###### Article R444-90
+
+Le fonctionnaire titulaire en activité ou en service détaché, qui occupe un emploi conduisant à pension du régime de la
+Caisse nationale de retraite des agents des collectivités locales peut, sur sa demande, et sous réserve des nécessités de
+fonctionnement du service, notamment de la nécessité d'assurer sa continuité compte tenu du nombre d'agents exerçant à temps
+partiel, être autorisé à accomplir un service à temps partiel dans les mêmes conditions que les fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1041 1976-11-16 ART. 84
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+
+###### Article R444-91
+
+Le conseil de Paris détermine les modalités d'exercice du travail à temps partiel dans les limites prévues par les
+dispositions applicables aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1041 1976-11-16 ART. 85
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+
+###### Article R444-92
+
+Les modalités de rémunération et d'indemnisation retenues pour les fonctionnaires de l'Etat autorisés à travailler à temps
+partiel sont applicables aux fonctionnaires de la ville de Paris.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1041 1976-11-16 ART. 86 AL. 1
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+
+###### Article R444-93
+
+En cas de litige relatif à l'exercice du travail à temps partiel, le fonctionnaire peut saisir la commission paritaire dont
+il relève.
+
+A l'issue de la période de travail à temps partiel, le fonctionnaire est admis de plein droit à occuper à temps plein son
+emploi ou, à défaut, un autre emploi conforme à son statut.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1041 1976-11-16 ART. 86 AL. 2
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R*444-90 (M)
+
+
+##### PARAGRAPHE 2 : Congés annuels.<a id=1069></a>
 
 ###### Article R*444-102
 
@@ -105591,7 +105596,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1069></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1070></a>
 
 ###### Article R*444-109
 
@@ -105634,7 +105639,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=1070></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=1071></a>
 
 ###### Article R*444-120
 
@@ -105660,7 +105665,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=1071></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=1072></a>
 
 ###### Article R*444-122
 
@@ -105683,7 +105688,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=1072></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=1073></a>
 
 ###### Article R*444-123
 
@@ -105724,7 +105729,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=1073></a>
+##### SOUS-SECTION 8 : Mutations.<a id=1074></a>
 
 ###### Article R*444-169
 
@@ -105788,7 +105793,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=1074></a>
+##### SECTION 7 : Cessation de fonctions.<a id=1075></a>
 
 ###### Article R*444-172
 
@@ -106134,13 +106139,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=1075></a>
+## Personnel communal<a id=1076></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=1076></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=1077></a>
 
-#### Dispositions générales et organiques<a id=1077></a>
+#### Dispositions générales et organiques<a id=1078></a>
 
-##### Commission nationale paritaire du personnel communal .<a id=1078></a>
+##### Commission nationale paritaire du personnel communal .<a id=1079></a>
 
 ###### Article R*411-4
 
@@ -106372,7 +106377,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L411-25 (Ab)
 
 
-##### Commission paritaire communale .<a id=1079></a>
+##### Commission paritaire communale .<a id=1080></a>
 
 ###### Article R411-39
 
@@ -106412,7 +106417,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### Commission paritaire intercommunale .<a id=1080></a>
+##### Commission paritaire intercommunale .<a id=1081></a>
 
 ###### Article R411-40
 
@@ -106446,7 +106451,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### La médaille d'honneur départementale et communal .<a id=1081></a>
+##### La médaille d'honneur départementale et communal .<a id=1082></a>
 
 ###### Article R411-41
 
@@ -106783,9 +106788,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=1082></a>
+#### Recrutement, formation et promotion sociale<a id=1083></a>
 
-##### Formation professionnelle continue .<a id=1083></a>
+##### Formation professionnelle continue .<a id=1084></a>
 
 ###### Article R*412-99
 
@@ -106829,7 +106834,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1084></a>
+##### Actions de formation .<a id=1085></a>
 
 ###### Article R*412-100
 
@@ -106979,7 +106984,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1085></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1086></a>
 
 ###### Article R*412-105
 
@@ -107152,7 +107157,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1086></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1087></a>
 
 ###### Article R*412-111
 
@@ -107254,7 +107259,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1087></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1088></a>
 
 ###### Article R*412-114
 
@@ -107316,7 +107321,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=1088></a>
+#### Rémunération et effectifs<a id=1089></a>
 
 ###### Article R413-3
 
@@ -107421,11 +107426,11 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### Notation, avancement et discipline<a id=1089></a>
+#### Notation, avancement et discipline<a id=1090></a>
 
-##### Discipline<a id=1090></a>
+##### Discipline<a id=1091></a>
 
-##### Le conseil de discipline .<a id=1091></a>
+##### Le conseil de discipline .<a id=1092></a>
 
 ###### Article R*414-17
 
@@ -107564,9 +107569,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-#### POSITIONS<a id=1092></a>
+#### POSITIONS<a id=1093></a>
 
-##### Le congé postnatal .<a id=1093></a>
+##### Le congé postnatal .<a id=1094></a>
 
 ###### Article R*415-6-1
 
@@ -107758,7 +107763,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1094></a>
+##### Le détachement .<a id=1095></a>
 
 ###### Article R*415-7
 
@@ -107920,7 +107925,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1095></a>
+##### Position hors cadre .<a id=1096></a>
 
 ###### Article R*415-12
 
@@ -108017,7 +108022,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1096></a>
+##### La disponibilité .<a id=1097></a>
 
 ###### Article R*415-15
 
@@ -108060,11 +108065,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=1097></a>
+### Personnels divers<a id=1098></a>
 
-#### Agents non titulaires<a id=1098></a>
+#### Agents non titulaires<a id=1099></a>
 
-##### Dispositions générales .<a id=1099></a>
+##### Dispositions générales .<a id=1100></a>
 
 ###### Article R*422-2
 
@@ -108099,7 +108104,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1100></a>
+##### Cessation de fonctions .<a id=1101></a>
 
 ###### Article R*422-37
 
@@ -108230,7 +108235,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1101></a>
+##### Congé parental .<a id=1102></a>
 
 ###### Article R422-42
 
@@ -108405,13 +108410,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1102></a>
+### Dispositions particulières<a id=1103></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1103></a>
+#### Dispositions applicables à la ville de Paris<a id=1104></a>
 
-##### Dispositions générales et organiques<a id=1104></a>
+##### Dispositions générales et organiques<a id=1105></a>
 
-##### Le conseil administratif supérieur .<a id=1105></a>
+##### Le conseil administratif supérieur .<a id=1106></a>
 
 ###### Article R*444-21
 
@@ -108511,7 +108516,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1106></a>
+##### Les commissions et comités paritaires .<a id=1107></a>
 
 ###### Article R*444-26
 
@@ -108563,7 +108568,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1107></a>
+##### Recrutement .<a id=1108></a>
 
 ###### Article R*444-29
 
@@ -108599,317 +108604,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1108></a>
+##### Positions<a id=1109></a>
 
-##### Activité, congés<a id=1109></a>
+##### Activité, congés<a id=1110></a>
 
-##### Service à temps partiel .<a id=1110></a>
-
-###### Article R*444-90
-
-Le fonctionnaire titulaire en activité ou en service détaché, qui occupe un emploi conduisant à pension de la caisse
-nationale de retraites des agents des collectivités locales, peut, sur sa demande et dans les cas et conditions déterminés au
-présent paragraphe [*relatif au service à mi-temps*], être autorisé, compte tenu des nécessités de fonctionnement du service,
-à accomplir un service à mi-temps.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-993 1945-05-17 ART. 3
-  - Décret n°47-1846 1947-09-19 MODIFIE
-  - Décret n°65-773 1965-09-09 MODIFIE
-  - CODE DES COMMUNES. - art. R*444-93 (M)
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 84
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R*444-91
-
-Lorsqu'un fonctionnaire bénéficiaire d'une autorisation de travail à mi-temps est appelé à suivre un stage préalable à une
-titularisation dans un nouveau grade ou un nouveau corps, cette autorisation peut être maintenue ou renouvelée pendant le
-stage dont la durée est alors doublée.
-
-Cette disposition ne s'applique pas aux stages accomplis dans une école de formation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 85
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R*444-92
-
-Est considéré comme effectué à mi-temps un service hebdomadaire d'une durée au moins égale à la moitié de la durée requise
-des agents exerçant à temps plein les mêmes fonctions [*définition*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 86 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-
-###### Article R*444-93
-
-Les fonctionnaires peuvent être autorisés à exercer des fonctions à mi-temps dans les cas suivants :
-
-1° Pour élever un ou plusieurs enfants à charge de moins de seize ans [*âge*].
-
-2° Pour soigner un enfant atteint d'une infirmité exigeant des soins continus ;
-
-3° Pour assister le conjoint, un ascendant ou un enfant si leur état nécessite, à la suite d'un accident ou d'une maladie
-grave, la présence d'une tierce personne ;
-
-4° Sur avis conforme du comité médical, pour les fonctionnaires auxquels a été reconnu un taux d'invalidité d'au moins 85 p.
-100 ouvrant droit à une pension militaire d'invalidité ou bénéficiaires de l'allocation temporaire d'invalidité prévue à
-l'article R. 444-41 et résultant d'une incapacité permanente d'au moins 50 p. 100 ;
-
-5° Fonctionnaires pour lesquels, en raison d'un accident ou d'une maladie grave, le comité médical a émis un avis favorable à
-l'exercice d'une fonction à mi-temps ;
-
-6° Fonctionnaires auxquels la commission technique d'orientation et de reclassement professionnel prévue par la loi n° 75-534
-du 30 juin 1975 d'orientation en faveur des travailleurs handicapés, a reconnu la qualité de personnes handicapées ;
-
-7° Fonctionnaires se trouvant dans la période de cinq ans précédant la limite d'âge de leur grade.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°75-534 1975-06-30
-  - Code des communes R444-41
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*444-90 (M)
-
-
-##### Service à mi-temps.<a id=1111></a>
-
-###### Article R*444-94
-
-L'autorisation d'exercer une fonction à mi-temps est donnée pour une période maximale de trois ans renouvelable.
-
-Toutefois, l'exercice d'une fonction à mi-temps au titre du 5° de l'article précédent ne peut être accordé que pour une durée
-d'un an maximum ; cette durée peut être renouvelée par période d'un an, après avis du comité médical et dans les limites
-indiquées ci-après.
-
-L'application des dispositions du présent statut ne peut avoir pour effet de permettre à un fonctionnaire de demeurer plus de
-seize ans à mi-temps au cours de l'ensemble de sa carrière hormis dans le cas prévu au 6° de l'article précédent pour lequel
-la limitation devra correspondre à la durée du handicap reconnu par la commission technique d'orientation mentionnée ci-
-dessus.
-
-Le fonctionnaire à mi-temps qui cesse de remplir l'une des conditions exigées pour l'exercice d'une fonction à mi-temps en
-avise sans délai son administration ; il est chargé de fonctions à temps plein.
-
-Le fonctionnaire qui exerce une fonction à mi-temps peut à tout moment demander à exercer des fonctions à temps plein.
-
-Les dispositions du présent article s'appliquent sous réserve des dispositions du troisième alinéa de l'article R. 444-101.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Cite_:
-
-  - Code des communes L444-101 AL. 3
-
-
-###### Article R*444-95
-
-Le maire de Paris peut à tout moment faire procéder aux enquêtes nécessaires en vue de s'assurer que les conditions
-auxquelles est subordonnée l'autorisation d'exercice d'une fonction à mi-temps sont réunies.
-
-Au cas où ces conditions ne sont plus réunies, le fonctionnaire intéressé est tenu de reprendre des fonctions à plein temps
-sous réserve [*qu'un emploi à temps plein soit vacant*] des dispositions du troisième alinéa de l'article R. 444-101.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 88
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cite_:
-
-  - Code des communes R444-101 AL. 3
-
-
-###### Article R*444-96
-
-Pour le calcul de l'ancienneté exigée pour l'avancement d'échelon et de grade, la période pendant laquelle les intéressés ont
-été affectés à des fonctions à mi-temps est comptée pour la totalité de sa durée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 89 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R*444-97
-
-Le fonctionnaire qui exerce une fonction à mi-temps perçoit 50 p. 100 [*pourcentage*] du traitement, de l'indemnité de
-résidence et du supplément familial de traitement afférents à son emploi, grade, classe et échelon.
-
-Le conseil de Paris [**]compétence[**] détermine, par délibération, les modalités particulières de fixation des indemnités
-auxquelles ont droit les fonctionnaires qui exercent une fonction à mi-temps, dans la limite du plafond fixé par l'arrêté du
-ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 89 AL. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R*444-98
-
-Le fonctionnaire qui exerce une fonction à mi-temps a droit aux congés dans les mêmes conditions que le fonctionnaire en
-activité ou en service détaché.
-
-Il perçoit pendant ces congés des émoluments égaux à 50 p. 100 [*pourcentage*] de ceux prévus pour le fonctionnaire
-travaillant à temps plein.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 89 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R*444-99
-
-Pendant la période de mi-temps, le fonctionnaire qui bénéficie du congé pour couches et allaitement ou du congé de maladie de
-longue durée perçoit la moitié des émoluments auxquels il aurait eu droit dans cette situation s'il travaillait à temps plein
-[*proportion*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 89 AL. 5
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R*444-100
-
-A l'issue de la période au cours de laquelle il a bénéficié de la situation de fonctionnaire à mi-temps, l'intéressé recouvre
-les droits du fonctionnaire qui exerce à temps plein.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 89 AL. 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-###### Article R*444-101
-
-Les fonctionnaires qui exercent une fonction à mi-temps sont rémunérés sur la base des crédits ouverts pour des emplois à
-temps plein.
-
-Un emploi budgétaire peut être occupé par deux fonctionnaires qui exercent une fonction à mi-temps.
-
-Sous réserve qu'un emploi soit vacant et dès la cessation de ses fonctions à mi-temps, l'intéressé est de nouveau chargé de
-fonctions à temps plein.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 90
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-##### Congés de maladie .<a id=1112></a>
+##### Congés de maladie .<a id=1111></a>
 
 ###### Article R*444-110
 
@@ -109278,7 +108977,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1113></a>
+##### Détachement .<a id=1112></a>
 
 ###### Article R*444-125
 
@@ -109811,7 +109510,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1114></a>
+##### POSITION HORS CADRE .<a id=1113></a>
 
 ###### Article R*444-143
 
@@ -110016,7 +109715,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1115></a>
+##### Disponibilité.<a id=1114></a>
 
 ###### Article R*444-150
 
@@ -110366,7 +110065,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1116></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1115></a>
 
 ###### Article R*444-162
 
@@ -110415,7 +110114,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1117></a>
+##### Position "sous les drapeaux" .<a id=1116></a>
 
 ###### Article R*444-164
 
@@ -110497,7 +110196,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1118></a>
+##### CONGE POSTNATAL .<a id=1117></a>
 
 ###### Article R*444-167
 
@@ -110547,7 +110246,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1119></a>
+##### Cessation de fonctions .<a id=1118></a>
 
 ###### Article R*444-178
 
