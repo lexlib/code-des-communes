@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-12-23
+Version Consolidée au 1992-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -19732,37 +19732,28 @@ _Nouveaux textes_:
 
 ###### Article L233-59
 
-L'assiette du versement est constituée par les salaires payés aux salariés mentionnés à l'article précédent dans la limite du
-plafond fixé par le régime général en matière de cotisation de sécurité sociale. 
+L'assiette du versement est constituée par les salaires payés aux salariés mentionnés à l'article précédent.
 
-Les salariés et assimilés [**]définition[**] s'entendent au sens des législations de la sécurité sociale et les salaires se
-calculent conformément aux dispositions de ces législations.
+Les salariés et assimilés s'entendent au sens des législations de la sécurité sociale et les salaires se calculent
+conformément aux dispositions de ces législations.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-640 du 11 juillet 1973 - art. 2 (V)
 
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+  - Loi - art. 115 (V) JORF 31 décembre 1992
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DES COMMUNES. - art. L233-58 (M)
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cité par_:
 
   - CODE DES COMMUNES. - art. L233-61 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des communes L263-69
 
 _Nouveaux textes_:
 
@@ -19807,27 +19798,23 @@ _Cité par_:
 Le taux de versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
 public dans la limite de :
 
-" - 0,55 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
-est comprise entre 20 000 et 100 000 habitants ;
+- 0,55 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public est
+comprise entre 20 000 et 100 000 habitants ;
 
-" - 1,05 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
-est supérieure à 100 000 habitants ;
+- 1,00 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public est
+supérieure à 100 000 habitants ;
 
-" - 1,80 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public
-est supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport
-collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+- 1,75 p. 100 des salaires définis à l'article L. 233-59 lorsque la population de la commune ou de l'établissement public est
+supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport collectif
+et obtenu une subvention de l'Etat pour l'investissement correspondant.
 
-" Toutefois, les communautés de communes et communautés de villes ont la faculté de majorer de 0,05 p. 100 les taux maxima
+Toutefois, les communautés de communes et communautés de villes ont la faculté de majorer de 0,05 p. 100 les taux maxima
 mentionnés aux alinéas précédents.
 
-" Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains
-auxquelles ont adhéré une communauté urbaine, une communauté de villes ou une communauté de communes. "
+Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains auxquelles
+ont adhéré une communauté urbaine, une communauté de villes ou une communauté de communes.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-640 1973-07-11 art. 3 al. 1 phr. 2 et al. 2
 
 _Codifié par_:
 
@@ -19835,19 +19822,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 109 ()
+  - Loi - art. 115 (V) JORF 31 décembre 1992
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cite_:
 
   - CODE DES COMMUNES. - art. L233-59 (M)
 
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2333-67 (V)
+  - Code général des collectivités territoriales - art. L2333-67 (M)
 
 
 ###### Article L233-62
@@ -20762,9 +20750,10 @@ prévu à l'alinéa précédent et calculé à partir des estimations figurant d
 loi de finances.
 
 " Il est procédé, au plus tard le 31 juillet, à la régularisation du montant de la dotation afférente à l'exercice précédent,
-lorsque l'indice calculé sur la base du taux d'évolution de la moyenne annuelle du prix de la consommation des ménages et du
-taux d'évolution du produit intérieur brut total en volume relatifs à cet exercice tels qu'ils sont constatés à cette date
-est supérieur à l'indice qui a été retenu pour le calcul de la dotation prévisionnelle.
+lorsque l'indice, calculé sur la base du taux d'évolution de la moyenne annuelle du prix de la consommation des ménages et du
+taux d'évolution du produit intérieur brut total en volume, relatifs à cet exercice et tels qu'ils sont constatés à cette
+date, appliqué au montant de la dotation définitive de l'antépénultième exercice entraîne un produit supérieur au montant
+prévisionnel de la dotation inscrite en loi de finances de l'exercice précédent. "
 
 " Le montant de la régularisation, auquel est ajouté le reliquat comptable éventuel du même exercice, est réparti entre les
 bénéficiaires de la dotation globale de fonctionnement selon les modalités appliquées pour la dotation initiale de l'année au
@@ -20781,6 +20770,12 @@ fournis par le ministre chargé du budget. Il est tenu compte, pour le calcul de
 opérée au titre de l'année précédente. "
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Anciens combattants
+  - SPEC_APPLI: Cette disposition s'applique à compter de la dotation globale de fonctionnement de l'exercice 1993
+  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 117 II :
 
 _Anciens textes_:
 
@@ -20812,14 +20807,14 @@ _Cite_:
   - Loi n°83-634 1983-07-13 art. 20
   - CODE DES COMMUNES. - art. L234-20 (M)
 
+_Modifié par_:
+
+  - Loi - art. 117 (V)
+
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2334-1 (V)
   - Code général des collectivités territoriales - art. L2334-1 (M)
-
-_Modifié par_:
-
-  - Loi n°90-429 1990-05-13 art. 1 jorf 14 mai 1991
 
 
 ##### SOUS-SECTION 2 : Dotation de base.<a id=175></a>
@@ -26541,44 +26536,39 @@ _Cité par_:
 
 ###### Article L263-3
 
-L'assiette du versement de transport est constituée par le montant des salaires payés dans la limite du plafond fixé par le
-régime général en matière de cotisation de sécurité sociale. 
+L'assiette du versement de transport est constituée par le montant des salaires payés.
 
-Les salariés [**]définition[**] s'entendent au sens du code de la sécurité sociale et les salaires se calculent conformément
-aux dispositions de ce code.
+Les salariés s'entendent au sens du code de la sécurité sociale et les salaires se calculent conformément aux dispositions de
+ce code.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-559 1971-07-12 art. 1 remplacé (partie)
 
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+  - Loi - art. 115 (V) JORF 31 décembre 1992
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2531-3 (V)
-
-_Cite_:
-
-  - Code de la sécurité sociale
 
 
 ###### Article L263-4
 
 Le taux de versement exprimé en pourcentage des salaires définis à l'article précédent est fixé par décret dans les limites :
 
-" - de 2,4 p. 100 à Paris et dans le département des Hauts-de-Seine ;
+" - de 2,2 p. 100 à Paris et dans le département des Hauts-de-Seine ;
 
-" - de 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
+" - de 1,6 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-" - de 1,5 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
+" - de 1,3 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
 
 **Liens relatifs à cet article**
 
@@ -26592,7 +26582,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 36 ()
+  - Loi - art. 115 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1376 1992-12-30 art. 115 V
 
 _Cite_:
 
