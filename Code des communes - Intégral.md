@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1989-10-10
+Version Consolidée au 1989-12-30
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -141,16 +141,16 @@ Version Consolidée au 1989-10-10
           - [SECTION 1 : Taxe sur certaines fournitures d'électricité. (art. L233-1 à L233-4)](#138)
           - [SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché s des viandes (art. L233-10)](#139)
             - [SOUS-SECTION 1 : Taxe d'usage des abattoirs publics. (art. L233-10)](#140)
-          - [SECTION 3 : Taxe sur la publicité (art. L233-15 à L233-33)](#141)
+          - [SECTION 3 : Taxe sur la publicité (art. L233-15 à L233-28)](#141)
             - [SOUS-SECTION 1 : Dispositions générales. (art. L233-15 à L233-16)](#142)
             - [SOUS-SECTION 2 : Assiette de la taxe et exonérations. (art. L233-17 à L233-20)](#143)
             - [SOUS-SECTION 3 : Taux de la taxe. (art. L233-21 à L233-22)](#144)
             - [SOUS-SECTION 4 : Paiement et recouvrement de la taxe. (art. L233-23 à L233-24)](#145)
-            - [SOUS-SECTION 5 : Sanctions applicables. (art. L233-25 à L233-33)](#146)
+            - [SOUS-SECTION 5 : Sanctions applicables. (art. L233-25 à L233-28)](#146)
           - [SECTION 4 : Taxes particulières aux stations (art. L233-29 à L233-51)](#147)
             - [SOUS-SECTION 1 : Taxe de séjour et taxe de séjour forfaitaire (art. L233-29 à L233-45)](#148)
               - [PARAGRAPHE 1 : Dispositions générales. (art. L233-29 à L233-32)](#149)
-              - [PARAGRAPHE 2 : Taxe de séjour. (art. L233-34 à L233-43)](#150)
+              - [PARAGRAPHE 2 : Taxe de séjour. (art. L233-33 à L233-43)](#150)
               - [PARAGRAPHE 3 : Taxe de séjour forfaitaire. (art. L233-44 à L233-44-6)](#151)
               - [PARAGRAPHE 4 : Dispositions particulières aux groupements de communes. (art. L233-45)](#152)
             - [SOUS-SECTION 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations. (art. L233-46 à L233-47)](#153)
@@ -17336,39 +17336,6 @@ _Abrogé par_:
   - Loi n°96-142 du 21 février 1996 - art. 12 (V)
 
 
-###### Article L233-33
-
-Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
-de séjour.
-
-" Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret en Conseil d'Etat sur la
-base du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 233-31.
-
-" Le tarif ne peut être inférieur à 1 franc, ni supérieur à 7 francs [*montant*], par personne et par nuitée ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Modifié par_:
-
-  - Loi n°88-13 1988-01-05 art. 58 III, VII, VIII JORF 6 janvier 1988
-  - Loi n°88-13 du 5 janvier 1988 - art. 58 () JORF 6 janvier 1988
-
-_Cité par_:
-
-  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
-  - CODE DES COMMUNES. - art. L233-29 (M)
-  - CODE DES COMMUNES. - art. L233-40 (Ab)
-  - CODE DES COMMUNES. - art. L233-41 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L233-31 (M)
-
-
 ##### SECTION 4 : Taxes particulières aux stations<a id=147></a>
 
 ##### SOUS-SECTION 1 : Taxe de séjour et taxe de séjour forfaitaire<a id=148></a>
@@ -17523,6 +17490,50 @@ _Nouveaux textes_:
 
 
 ##### PARAGRAPHE 2 : Taxe de séjour.<a id=150></a>
+
+###### Article L233-33
+
+Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
+de séjour.
+
+Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret en Conseil d'Etat sur la base
+du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 233-31.
+
+Le tarif ne peut être inférieur à 1 franc, ni supérieur à 7 francs, par personne et par nuitée.
+
+Dans la commune de Saint-Martin (Guadeloupe), le tarif de la taxe de séjour est fixé à 5 p. 100 du prix perçu au titre de
+chaque nuitée de séjour quelles que soient la nature et la catégorie d'hébergement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Modifié par_:
+
+  - Loi n°89-936 1989-12-29 art. 41 I JORF 30 décembre 1989
+
+_Cité par_:
+
+  - Ordonnance n°91-755 du 22 juillet 1991 - art. 2 (VT)
+  - CODE DES COMMUNES. - art. L233-29 (M)
+  - CODE DES COMMUNES. - art. L233-40 (Ab)
+  - CODE DES COMMUNES. - art. L233-41 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L233-31 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2333-30 (M)
+  - Code général des collectivités territoriales - art. L2563-7 (M)
+
 
 ###### Article L233-34
 
