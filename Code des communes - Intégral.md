@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-04-17
+Version Consolidée au 1981-05-03
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -645,7 +645,7 @@ Version Consolidée au 1981-04-17
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L441-3 à L441-4)](#642)
         - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. L444-3 à L444-5)](#643)
     - [LIVRE 5 : Dispositions finales. (art. L501-1 à L501-3)](#644)
-  - [Partie réglementaire (art. R*111-1 à R*444-186)](#645)
+  - [Partie réglementaire (art. R*111-1 à R*444-178)](#645)
     - [LIVRE 1 : Organisation communale (art. R*111-1 à R185-6)](#646)
       - [TITRE 1 : Nom, limites territoriales et population des communes (art. R*111-1 à R114-7)](#647)
         - [CHAPITRE 1 : Nom des communes. (art. R*111-1)](#648)
@@ -1196,7 +1196,7 @@ Version Consolidée au 1981-04-17
           - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#1193)
         - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#1194)
           - [SECTION 2 : Notation et avancement. (art. R354-16)](#1195)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-185)](#1196)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#1196)
       - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#1197)
         - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#1198)
           - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#1199)
@@ -1263,13 +1263,13 @@ Version Consolidée au 1981-04-17
         - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#1260)
           - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#1261)
           - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#1262)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-185)](#1263)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#1263)
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#1264)
         - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#1265)
           - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#1266)
           - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#1267)
         - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#1268)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-185)](#1269)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#1269)
           - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#1270)
             - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#1271)
             - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#1272)
@@ -1287,8 +1287,8 @@ Version Consolidée au 1981-04-17
               - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1284)
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1285)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1286)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-185)](#1287)
-    - [Personnel communal (art. R*411-4 à R*444-186)](#1288)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1287)
+    - [Personnel communal (art. R*411-4 à R*444-178)](#1288)
       - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R415-17)](#1289)
         - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1290)
           - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1291)
@@ -1320,27 +1320,25 @@ Version Consolidée au 1981-04-17
           - [Dispositions générales . (art. R*422-2)](#1317)
           - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1318)
           - [Congé parental . (art. R422-42 à R422-49)](#1319)
-      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1320)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1321)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1320)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1321)
           - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1322)
             - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1323)
             - [Les commissions et comités paritaires . (art. R*444-26)](#1324)
-          - [Recrutement . (art. R*444-29 à R*444-32)](#1325)
-          - [AVANCEMENT . (art. R*444-50)](#1326)
-          - [Positions (art. R*444-90 à R*444-168)](#1327)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1328)
-              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1329)
-              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1330)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1331)
-            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1332)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1333)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1334)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1335)
-            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1336)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1337)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1338)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1339)
-          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1340)
+          - [Recrutement . (art. R*444-29)](#1325)
+          - [Positions (art. R*444-90 à R*444-168)](#1326)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1327)
+              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1328)
+              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1329)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1330)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1331)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1332)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1333)
+            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1334)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1335)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1336)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1337)
+          - [Cessation de fonctions . (art. R*444-178)](#1338)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -108184,6 +108182,71 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
+###### Article R*444-31
+
+Sous réserve des mesures prévues par la législation sur les emplois réservés en ce qui concerne les catégories B, C et D et
+les dispositions des articles R. 444-32 et R. 444-33 ci-dessous, les fonctionnaires de la ville de Paris sont recrutés par
+voie de concours organisés suivant l'une des modalités ci-après ou suivant l'une et l'autre de ces modalités :
+
+1° Des concours ouverts aux candidats justifiant de certains diplômes ou de l'accomplissement de certaines études ;
+
+2° Des concours réservés aux fonctionnaires de la ville de Paris et de ses établissements publics mentionnés à l'article R.
+444-1 et, dans les conditions prévues par les statuts particuliers, aux agents non titulaires de cette collectivité ainsi
+qu'aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics administratifs en
+fonctions à la date du concours ayant accompli une certaine durée de services publics, et, le cas échéant, reçu une certaine
+formation.
+
+Chaque concours donne lieu à l'établissement d'une liste classant par ordre de mérite les candidats déclarés aptes par le
+jury. Les nominations sont faites selon cet ordre.
+
+Le jury peut, si nécessaire et pour toute épreuve, se constituer en groupe d'examinateurs. Toutefois, afin d'assurer
+l'égalité de notation des candidats, le jury opère, s'il y a lieu, la péréquation des notes attribuées par chaque groupe
+d'examinateurs et procède à la délibération finale. Le maire de Paris préside le jury. En cas d'empêchement, il est remplacé
+par un chef de service de la ville.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cite_:
+
+  - Code des communes R444-33
+
+
+###### Article R*444-32
+
+En vue de favoriser la promotion interne, les statuts particuliers fixent une proportion de postes susceptibles d'être
+proposés aux personnels appartenant déjà à l'administration.
+
+L'accès aux corps et catégories hiérarchiquement supérieurs est réalisé, selon les proportions définies par chaque statut
+particulier, suivant l'une ou plusieurs des modalités ci-après :
+
+1° Par voie de concours interne, selon les modalités définies au 2° de l'article R. 444-31 ;
+
+2° Par voie d'examen professionnel sur épreuves ;
+
+3° Au choix, par voie d'inscription sur une liste d'aptitude après avis de la commission administrative paritaire du corps
+d'accueil. Cet avis pourra être précédé d'une sélection organisée sous forme d'examen professionnel.
+
+Dans tous les cas d'examen professionnel, le jury pourra compléter son appréciation par la consultation des dossiers
+individuels des candidats.
+
+Des dispositions réglementaires doivent assurer à tous les fonctionnaires ayant les aptitudes nécessaires des facilités de
+formation et d'accès aux corps et catégories hiérarchiquement supérieurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cite_:
+
+  - Code des communes R444-31
+
+
 ###### Article R*444-33
 
 Les statuts particuliers peuvent déroger aux conditions normales de recrutement prévues au présent statut soit pour la
@@ -108601,6 +108664,36 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-50
+
+Le grade est le titre qui confère à ses bénéficiaires vocation à occuper l'un des emplois qui leur sont réservés.
+
+L'avancement de grade a lieu, selon les proportions définies par les statuts particuliers, suivant l'une ou plusieurs des
+modalités ci-après:
+
+1° Soit au choix, par voie d'inscription à un tableau annuel l'avancement établi après avis de la commission administrative
+paritaire, par appréciation de la valeur professionnelle des agents ;
+
+2° Soit par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire
+après une sélection par voie d'examen ou de concours professionnels ;
+
+3° Soit par sélection opérée exclusivement par voie d'examen ou de concours professionnels.
+
+Les statuts particuliers fixent les principes et les modalités de la sélection professionnelle, notamment les conditions de
+grade et d'échelon requises pour y participer. Ils peuvent prévoir, outre des examens ou concours professionnels sur
+épreuves, la possibilité pour le jury de compléter son appréciation par la consultation des dossiers individuels des
+candidats.
+
+Sous réserve des nécessités du service, les promotions doivent avoir lieu dans l'ordre du tableau ou, à défaut, de la liste
+de classement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
 
 
 ###### Article R*444-51
@@ -110398,6 +110491,22 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+
+
+###### Article R*444-186
+
+Tout fonctionnaire admis à la retraite est autorisé à se prévaloir de l'honorariat dans son grade ou son emploi à condition
+d'avoir accompli vingt ans au moins de services publics.
+
+Toutefois, l'honorariat peut être refusé, au moment du départ de l'agent, par une décision motivée du maire de Paris, pour un
+motif tiré de la qualité des services rendus. Il peut également être retiré après la radiation des cadres si la nature des
+activités exercées le justifie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
 
 
 ## Personnel communal<a id=1288></a>
@@ -113041,106 +113150,11 @@ _Cite_:
   - Code du service national
 
 
-###### Article R*444-31
+##### Positions<a id=1326></a>
 
-Sous réserve des mesures prévues par la législation sur les emplois réservés en ce qui concerne les catégories B, C et D, les
-fonctionnaires de la commune de Paris sont recrutés par voie de concours [*conditions normales de recrutement*].
+##### Activité, congés<a id=1327></a>
 
-Les concours donnent lieu à l'établissement de listes classant par ordre de mérite les candidats déclarés aptes par un jury.
-Les nominations sont faites suivant cet ordre.
-
-Le maire de Paris peut désigner comme délégués, au sein des jurys, les chefs de service de la commune.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 29
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
-###### Article R*444-32
-
-Les candidats aux fonctions des catégories A, B et C sont recrutés suivant l'une des modalités ci-après ou suivant l'une ou
-l'autre de ces modalités : [*conditions normales de recrutement*]        1° Concours distincts ouverts, d'une part, aux
-candidats justifiant de certains diplômes ou de l'accomplissement de certaines études et, d'autre part, aux candidats
-fonctionnaires de la commune de Paris ou aux agents en fonctions de cette collectivité ayant accompli une certaine durée de
-services ;
-
-2° Concours réservés aux fonctionnaires de la commune de Paris et de ses établissements [*publics*] mentionnés à l'article R.
-444-1, qui ont accompli un temps de service déterminé et, le cas échéant, reçu une certaine formation.
-
-Des dispositions réglementaires doivent assurer des facilités de formation et d'accès aux catégories supérieures à tous les
-fonctionnaires de la commune de Paris qui ont les aptitudes nécessaires.
-
-Les statuts particuliers peuvent, à titre exceptionnel, en vue d'assurer aux fonctionnaires de certains corps de la commune
-de Paris le développement normal de leur carrière, autoriser cet accès soit par voie d'examen professionnel, soit par voie
-d'inscription au tableau d'avancement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 30
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Cite_:
-
-  - Code des communes R444-1
-
-
-##### AVANCEMENT .<a id=1326></a>
-
-###### Article R*444-50
-
-Le grade est [**]définition[**] le titre qui confère à ses bénéficiaires vocation à occuper l'un des emplois qui leur sont
-réservés.
-
-L'avancement de grade a lieu :
-
-1° Soit au choix par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative
-paritaire [**]conditions de forme[**] par appréciation de la valeur professionnelle des agents ou après une sélection
-professionnelle réalisée sur épreuves par voie d'examen ou de concours ;
-
-2° Soit par sélection opérée exclusivement par voie d'épreuves professionnelles sous forme d'examen ou de concours.
-
-Les statuts particuliers de chaque corps fixent les principes et les modalités de la sélection, et notamment les grades et
-échelons dont les titulaires sont admis à participer aux épreuves.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 46
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
-##### Positions<a id=1327></a>
-
-##### Activité, congés<a id=1328></a>
-
-##### Service à temps partiel .<a id=1329></a>
+##### Service à temps partiel .<a id=1328></a>
 
 ###### Article R*444-90
 
@@ -113214,7 +113228,77 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### Service à mi-temps.<a id=1330></a>
+###### Article R*444-93
+
+Les fonctionnaires peuvent être autorisés à exercer des fonctions à mi-temps dans les cas suivants :
+
+1° Pour élever un ou plusieurs enfants à charge de moins de seize ans [*âge*].
+
+2° Pour soigner un enfant atteint d'une infirmité exigeant des soins continus ;
+
+3° Pour assister le conjoint, un ascendant ou un enfant si leur état nécessite, à la suite d'un accident ou d'une maladie
+grave, la présence d'une tierce personne ;
+
+4° Sur avis conforme du comité médical, pour les fonctionnaires auxquels a été reconnu un taux d'invalidité d'au moins 85 p.
+100 ouvrant droit à une pension militaire d'invalidité ou bénéficiaires de l'allocation temporaire d'invalidité prévue à
+l'article R. 444-41 et résultant d'une incapacité permanente d'au moins 50 p. 100 ;
+
+5° Fonctionnaires pour lesquels, en raison d'un accident ou d'une maladie grave, le comité médical a émis un avis favorable à
+l'exercice d'une fonction à mi-temps ;
+
+6° Fonctionnaires auxquels la commission technique d'orientation et de reclassement professionnel prévue par la loi n° 75-534
+du 30 juin 1975 d'orientation en faveur des travailleurs handicapés, a reconnu la qualité de personnes handicapées ;
+
+7° Fonctionnaires se trouvant dans la période de cinq ans précédant la limite d'âge de leur grade.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°75-534 1975-06-30
+  - Code des communes R444-41
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R*444-90 (M)
+
+
+##### Service à mi-temps.<a id=1329></a>
+
+###### Article R*444-94
+
+L'autorisation d'exercer une fonction à mi-temps est donnée pour une période maximale de trois ans renouvelable.
+
+Toutefois, l'exercice d'une fonction à mi-temps au titre du 5° de l'article précédent ne peut être accordé que pour une durée
+d'un an maximum ; cette durée peut être renouvelée par période d'un an, après avis du comité médical et dans les limites
+indiquées ci-après.
+
+L'application des dispositions du présent statut ne peut avoir pour effet de permettre à un fonctionnaire de demeurer plus de
+seize ans à mi-temps au cours de l'ensemble de sa carrière hormis dans le cas prévu au 6° de l'article précédent pour lequel
+la limitation devra correspondre à la durée du handicap reconnu par la commission technique d'orientation mentionnée ci-
+dessus.
+
+Le fonctionnaire à mi-temps qui cesse de remplir l'une des conditions exigées pour l'exercice d'une fonction à mi-temps en
+avise sans délai son administration ; il est chargé de fonctions à temps plein.
+
+Le fonctionnaire qui exerce une fonction à mi-temps peut à tout moment demander à exercer des fonctions à temps plein.
+
+Les dispositions du présent article s'appliquent sous réserve des dispositions du troisième alinéa de l'article R. 444-101.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cite_:
+
+  - Code des communes L444-101 AL. 3
+
 
 ###### Article R*444-95
 
@@ -113376,7 +113460,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1331></a>
+##### Congés de maladie .<a id=1330></a>
 
 ###### Article R*444-110
 
@@ -113745,97 +113829,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### ACTIVITES, CONGES .<a id=1332></a>
-
-###### Article R*444-93
-
-Les fonctionnaires peuvent être autorisés à exercer des fonctions à mi-temps dans les cas suivants :
-
-1° Pour élever un ou plusieurs enfants à charge de moins de douze ans ;
-
-2° Pour soigner un enfant atteint d'une infirmité exigeant des soins continus ;
-
-3° Pour assister le conjoint, un ascendant ou un enfant si leur état nécessite, à la suite d'un accident ou d'une maladie
-grave, la présence d'une tierce personne ;
-
-4° Sur avis conforme du comité médical [**]conditions de forme[**], pour les fonctionnaires auxquels a été reconnu un taux
-d'invalidité ou bénéficiaire de l'allocation temporaire d'invalidité d'au moins 85 p. 100 ouvrant droit à une pension
-militaire d'invalidité ou bénéficiaires de l'allocation temporaire d'invalidité prévue à l'article R. 444-41 et résultant
-d'une incapacité permanente d'au moins 50 p. 100 [*pourcentage*] ;
-
-5° Fonctionnaires pour lesquels, en raison d'un accident ou d'une maladie grave, le comité médical a émis un avis favorable à
-l'exercice d'une fonction à mi-temps :
-
-6° Fonctionnaires auxquels la commission technique d'orientation et de reclassement professionnel prévue par la loi n° 75-534
-du 30 juin 1975 d'orientation en faveur des travailleurs handicapés, a reconnu la qualité de personnes handicapées ;
-
-7° Fonctionnaires se trouvant dans la période de cinq ans précédant la limite d'âge de leur grade.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°75-534 1975-06-30
-  - Code des communes R444-41
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 86 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*444-90 (M)
-
-
-###### Article R*444-94
-
-L'autorisation d'exercer une fonction à mi-temps est donnée pour une période maximale de trois ans renouvelable.
-
-Toutefois, l'exercice d'une fonction à mi-temps au titre du 5° de l'article précédent [*accident ou maladie grave*] ne peut
-être accordé que pour une durée d'un an maximum ; cette durée peut être renouvelée par période d'un an [**]fréquence[**]
-après avis du comité médical [**]conditions de forme[**] et dans les limites indiquées ci-après.
-
-L'application des dispositions du présent statut ne peut avoir pour effet de permettre à un fonctionnaire de demeurer plus de
-douze ans à mi-temps au cours de l'ensemble de sa carrière, hormis dans le cas prévu au 6° de l'article précédent [*personnes
-handicapées*] pour lequel la limitation doit correspondre à la durée du handicap reconnu par la commission technique
-d'orientation et de reclassement professionnel.
-
-Le fonctionnaire à mi-temps qui cesse de remplir l'une des conditions exigées pour l'exercice d'une fonction à mi-temps en
-avise sans délai son administration ; il est chargé de fonctions à temps plein.
-
-Le fonctionnaire qui exerce une fonction à mi-temps peut à tout moment demander à exercer des fonctions à temps plein.
-
-Les dispositions du présent article s'appliquent sous réserve [*qu'un emploi à temps plein soit vacant*] des dispositions du
-troisième alinéa de l'article R. 444-101.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 87
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Cite_:
-
-  - Code des communes R444-101 AL. 3
-
-
-##### Détachement .<a id=1333></a>
+##### Détachement .<a id=1331></a>
 
 ###### Article R*444-125
 
@@ -114375,7 +114369,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1334></a>
+##### POSITION HORS CADRE .<a id=1332></a>
 
 ###### Article R*444-143
 
@@ -114590,7 +114584,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1335></a>
+##### Disponibilité.<a id=1333></a>
 
 ###### Article R*444-150
 
@@ -114946,7 +114940,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1336></a>
+##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1334></a>
 
 ###### Article R*444-162
 
@@ -114975,7 +114969,7 @@ _Cite_:
   - Code des communes R444-154 5° et 6°
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1337></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1335></a>
 
 ###### Article R*444-163
 
@@ -115001,7 +114995,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1338></a>
+##### Position "sous les drapeaux" .<a id=1336></a>
 
 ###### Article R*444-164
 
@@ -115083,39 +115077,40 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1339></a>
+##### CONGE POSTNATAL .<a id=1337></a>
 
 ###### Article R*444-167
 
-Le congé postnatal [**]définition[**] est la position de la femme fonctionnaire de la commune de Paris qui, après un congé
-pour couches et allaitement ou l'adoption d'un enfant de moins de trois ans, est placée hors de son administration ou service
-d'origine pour élever son enfant.
+Le congé postnatal   est une position du fonctionnaire qui est placé hors de son administration ou service d'origine pour
+élever son enfant.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 139 AL. 1
 
 _Codifié par_:
 
   - Décret n°77-373 1977-03-28
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ###### Article R*444-168
 
-Dans la position de congé postnatal, accordée de droit sur simple demande et pour une durée maximale de deux ans,
-l'intéressée cesse de bénéficier de ses droits à la retraite ; elle conserve ses droits à l'avancement d'échelon, réduits de
-moitié.
+Dans cette position [*congé postnatal*] accordée après un congé de maternité ou l'adoption d'un enfant de moins de trois ans
+et pour une durée maximale de deux ans, le fonctionnaire cesse de bénéficier de ses droits à la retraite ; il conserve ses
+droits à l'avancement d'échelon, réduits de moitié. A l'expiration de son congé, il est réintégré de plein droit, au besoin
+en surnombre, dans son administration ou service d'origine.
 
-A l'expiration de son congé, elle est réintégrée de plein droit au besoin en surnombre, dans son administration d'origine.
+Le congé postnatal est accordé, de droit, sur simple demande, pour la mère fonctionnaire ; il peut être ouvert au père
+fonctionnaire si la mère ne peut bénéficier ni du congé postnatal ni du congé parental prévu à l'article L. 122-8-1 du code
+du travail ou si elle y renonce.
 
-Les modalités d'application du congé post-natal prévues pour les fonctionnaires de l'Etat sont applicables aux fonctionnaires
-de la commune de Paris régis par le présent code.
+Si une nouvelle maternité ou adoption survient au cours du congé postnatal, ce congé est prolongé d'une durée maximale de
+deux ans à compter de la naissance du nouvel enfant ou de son adoption, dans les conditions prévues ci-dessus.
+
+Les modalités d'application du congé postnatal prévues pour les fonctionnaires de l'Etat sont applicables aux fonctionnaires
+de la ville de Paris régis par le présent code.
 
 **Liens relatifs à cet article**
 
@@ -115123,8 +115118,16 @@ _Codifié par_:
 
   - Décret n°77-373 1977-03-28
 
+_Abrogé par_:
 
-##### Cessation de fonctions .<a id=1340></a>
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+_Cite_:
+
+  - Code du travail L122-8-1
+
+
+##### Cessation de fonctions .<a id=1338></a>
 
 ###### Article R*444-178
 
@@ -115151,32 +115154,5 @@ _Créé par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des communes R444-179
-
-
-###### Article R*444-186
-
-Le maire de Paris peut conférer au fonctionnaire admis à la retraite l'honorariat dans son grade ou son emploi, compte tenu
-notamment de la nature, de la qualité et de la durée des services rendus, et, éventuellement, de la nature des activités
-exercées après la radiation des cadres.
-
-Toutefois, l'honorariat ne peut être conféré que lorsque cet emploi a été tenu effectivement pendant une durée de deux ans au
-moins.
-
-La même autorité peut retirer l'honorariat [**]sanctions[**] lorsque le bénéficiaire exerce des activités incompatibles avec
-le titre de fonctionnaire honoraire ou enfreint la réserve qu'il impose.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 153
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
