@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2000-03-01
+Version Consolidée au 2000-03-07
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -194,10 +194,10 @@ Version Consolidée au 2000-03-01
             - [SOUS-SECTION 4 : Recouvrement et paiement de la taxe. (art. R233-111 à R233-115)](#191)
         - [CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. R*234-1 à R*234-38)](#192)
           - [SECTION 1 : Dotation globale de fonctionnement (art. R*234-1 à R*234-35)](#193)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*234-1 à R*234-3)](#194)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*234-1 à R*234-2)](#194)
             - [SOUS-SECTION 2 : Dotation forfaitaire. (art. R*234-4)](#195)
-            - [SOUS-SECTION 3 : Dotation d'aménagement (art. R*234-5 à R*234-16)](#196)
-              - [PARAGRAPHE 1 : Dotation des groupements de communes. (art. R*234-5 à R*234-6)](#197)
+            - [SOUS-SECTION 3 : Dotation d'aménagement (art. R*234-6 à R*234-16)](#196)
+              - [PARAGRAPHE 1 : Dotation des groupements de communes. (art. R*234-6)](#197)
               - [PARAGRAPHE 2 : Dotation de solidarité urbaine. (art. R*234-11 à R*234-12)](#198)
               - [PARAGRAPHE 3 : Dotation de solidarité rurale. (art. R*234-13 à R*234-16)](#199)
             - [SOUS-SECTION 4 : Dispositions communes aux diverses sortes d'attribution. (art. R*234-17)](#200)
@@ -19463,40 +19463,6 @@ _Cite_:
   - CODE DES COMMUNES. - art. R114-3 (Ab)
 
 
-###### Article R*234-3
-
-Pour la détermination du potentiel fiscal des communes membres d'une communauté de villes ou d'un groupement ayant opté pour
-le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, il est procédé, en ce qui concerne la taxe
-professionnelle, entre les communes membres de la communauté ou du groupement, à la ventilation des bases de cette taxe selon
-les modalités suivantes :
-
-a) Pour la première année d'application des dispositions de l'article 1609 nonies C du code général des impôts, les bases de
-taxe professionnelle du groupement sont réparties entre les communes membres au prorata des bases constatées pour chaque
-commune l'année précédente ;
-
-b) Pour les années suivantes, les bases de taxe professionnelle de chaque commune calculées l'année précédente sont
-augmentées du supplément de bases de taxe professionnelle constaté dans chaque commune ou diminuées, le cas échéant, des
-pertes constatées dans chaque commune.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1609 nonies C
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
-
-_Modifié par_:
-
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-
 ##### SOUS-SECTION 2 : Dotation forfaitaire.<a id=195></a>
 
 ###### Article R*234-4
@@ -19547,49 +19513,18 @@ _Nouveaux textes_:
 
 ##### PARAGRAPHE 1 : Dotation des groupements de communes.<a id=197></a>
 
-###### Article R*234-5
+###### Article R*234-6
 
-Le potentiel fiscal des groupements de communes bénéficiant des dispositions de l'article L. 234-10-2 est égal à la somme des
-bases des taxes directes locales des communes membres de chaque groupement concerné, déterminées dans les conditions prévues
-par l'article L. 234-4, pondérées par le taux moyen national d'imposition à la taxe concernée constaté pour chacune des
-catégories de groupements telles que définies à l'article L. 234-10.
+La dotation de péréquation prévue au b du I de l'article L. 5211-30 est égale au produit de la population de l'établissement
+public de coopération intercommunale par l'écart relatif entre le potentiel fiscal par habitant de cet établissement et le
+potentiel fiscal moyen par habitant des établissements publics de coopération intercommunale de même nature, pondéré, le cas
+échéant, par le coefficient d'intégration fiscale de l'établissement.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Cité par_:
-
-  - Décret n°78-1173 du 22 novembre 1978 - art. 3 (V)
-  - Décret n°92-823 du 21 août 1992 - art. 2 (V)
-  - Décret n°2000-199 du 6 mars 2000 - art. 8 (Ab)
-  - CODE DES COMMUNES. - art. R*262-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°92-823 1992-08-21 art. 2
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R234-4 (M)
 
 _Modifié par_:
 
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L234-10 (M)
-  - CODE DES COMMUNES. - art. L234-10-2 (Ab)
-  - CODE DES COMMUNES. - art. L234-4 (M)
-
-
-###### Article R*234-6
-
-La dotation de péréquation prévue à l'article L. 234-10-1 est égale au produit de la population du groupement par l'écart
-relatif entre le potentiel fiscal par habitant du groupement et le potentiel fiscal moyen par habitant des groupements de
-même nature, pondéré, le cas échéant, par le coefficient d'intégration fiscale du groupement.
-
-**Liens relatifs à cet article**
+  - Décret n°2000-199 2000-03-05 art. 1 jorf 7 mars 2000
 
 _Codifié par_:
 
@@ -19603,13 +19538,13 @@ _Cité par_:
 
   - TXT_ASSOCIE: Loi n°79-15 du 3 janvier 1979 - art. 27 (V)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L234-10-1 (Ab)
+  - CODE DES COMMUNES L5211-30
 
 _Nouveaux textes_:
 
@@ -19880,19 +19815,39 @@ _Modifié par_:
 
 ###### Article R*234-21
 
-Les représentants des groupements de communes sont élus par le collège des présidents de groupements de communes, au scrutin
-majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni supression de noms et sans modification de
-l'ordre de présentation.
+Les représentants des établissements publics de coopération intercommunale sont élus par le collège des présidents
+d'établissements publics de coopération intercommunale, au scrutin majoritaire de liste à un tour, avec dépôt de listes
+complètes, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation.
 
 La liste doit comprendre :
 
 a) Un président de communauté urbaine ;
 
-b) Un président de communauté de villes ;
+b) Un président de communauté de communes ayant opté pour le régime fiscal de l'article 1609 nonies C du code général des
+impôts ;
 
-c) Un président de communauté de communes ;
+c) Deux présidents de communautés de communes n'ayant pas opté pour ce régime fiscal ;
 
-d) Un président de district ;
+d) Un président de communauté d'agglomération ;
+
+e) Un président de syndicat de communes ;
+
+f) Un président d'organisme institué en vue de la création d'une agglomération nouvelle.
+
+intercommunale sont élus par le collège des présidents d'établissements publics de coopération intercommunale, au scrutin
+majoritaire de liste à un tour, avec dépôt de listes complètes, sans adjonction ni suppression de noms et sans modification
+de l'ordre de présentation.
+
+La liste doit comprendre :
+
+a) Un président de communauté urbaine ;
+
+b) Un président de communauté de communes ayant opté pour le régime fiscal de l'article 1609 nonies C du code général des
+impôts ;
+
+c) Deux présidents de communautés de communes n'ayant pas opté pour ce régime fiscal ;
+
+d) Un président de communauté d'agglomération ;
 
 e) Un président de syndicat de communes ;
 
@@ -19900,19 +19855,27 @@ f) Un président d'organisme institué en vue de la création d'une agglomérati
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°77-91 1977-01-27
+  - CGI 1609 nonies C
 
 _Modifié par_:
 
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
+  - Décret n°2000-199 2000-03-05 art. 2 jorf 7 mars 2000
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*234-22
@@ -19924,23 +19887,27 @@ La liste doit comprendre au moins :
 
 a) Un maire des départements d'outre-mer ;
 
-b) Un maire des territoires d'outre-mer ;
+b) Un maire de la Nouvelle-Calédonie ou de la Polynésie française ;.
 
 c) Un maire de commune touristique ou thermale inscrite sur la liste prévue à l'article L. 234-13 dans sa rédaction
 antérieure à la loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de fonctionnement et modifiant le
 code des communes et le code général des impôts ;
 
-" d) Trois maires de communes de moins de 2 000 habitants.
+d) Trois maires de communes de moins de 2 000 habitants.
+
+e) Un maire de commune située en zone de montagne ;
+
+f) Un maire de commune située en zone littorale ;.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2000-199 2000-03-05 art. 3 jorf 7 mars 2000
 
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
-
-_Modifié par_:
-
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 _Cite_:
 
@@ -19952,6 +19919,10 @@ _Cite_:
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*234-23
@@ -20036,8 +20007,8 @@ _Cite_:
 
 ###### Article R*234-26
 
-L'élection des représentants des groupements de communes et des maires a lieu par bulletins de vote adressés par lettre
-recommandée ou déposés contre récépissés à la préfecture.
+L'élection des représentants des établissements publics de coopération intercommunale et des maires a lieu par bulletins de
+vote adressés par lettre recommandée ou déposés contre récépissés à la préfecture.
 
 Les bulletins de vote sont recensés par une commission comprenant :
 
@@ -20051,19 +20022,23 @@ Les résultats sont centralisés par la commission prévue à l'article R. 234-2
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2000-199 2000-03-05 art. 4 jorf 7 mars 2000
+
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 11 (Ab)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 13 (V)
   - SPEC_APPLI: Décret n°94-704 du 17 août 1994 - art. 9 (V)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cite_:
 
@@ -20303,18 +20278,18 @@ _Cite_:
 ###### Article R*234-35
 
 Les frais relatifs à l'élection des représentants des conseils régionaux et de l'assemblée de Corse, des conseils généraux,
-des groupements de communes et des communes, ainsi que les frais de déplacement des membres élus non parlementaires sont à la
-charge du comité.
+des établissements publics de coopération intercommunale et des communes, ainsi que les frais de déplacement des membres élus
+non parlementaires sont à la charge du comité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2000-199 2000-03-05 art. 4 jorf 7 mars 2000) A(Décret 2000-318 2000-04-07 art. 4 jorf 9 avril 2000
 
 _Codifié par_:
 
   - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°94-366 du 10 mai 1994 - art. 1 ()
 
 **Liens**:
 
@@ -28619,13 +28594,17 @@ _Abrogé par_:
 
 ###### Article R*263-50
 
-Pour le calcul du prélèvement sur les ressources fiscales des communes de la région d'Ile-de-France, le potentiel fiscal par
-habitant de chaque commune est déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
+Pour le calcul du premier prélèvement prévu au I de l'article L. 2531-13 du code général des collectivités territoriales, le
+potentiel fiscal par habitant de chaque commune est déterminé dans les conditions prévues aux articles L. 2334-2 et L. 2334-4
+du même code.
 
-Sous réserve de l'application des dispositions du quatrième alinéa de l'article L. 263-14 du code des communes, le
-prélèvement est opéré mensuellement sur la base des données applicables au 1er janvier de l'année en cours. Toutefois,
-jusqu'à ce que ces données soient disponibles, il est effectué sur la base des données de l'année précédente, la
-régularisation devant intervenir avant le 30 juin de l'année en cours.
+Pour le calcul des prélèvements prévus aux 1° et 2° du II de l'article L. 2531-13 du code général des collectivités
+territoriales, les bases totales d'imposition à la taxe professionnelle retenues sont les bases de la dernière année dont les
+résultats sont connus.
+
+Les prélèvements sont opérés mensuellement sur la base des données applicables au 1er janvier de l'année en cours. Toutefois,
+jusqu'à ce que ces données soient disponibles, ils sont effectués sur la base des données de l'année précédente, leur
+régulation devant intervenir avant le 30 juin de l'année en cours.
 
 **Liens relatifs à cet article**
 
@@ -28633,15 +28612,19 @@ _Codifié par_:
 
   - Décret n°77-91 1977-01-27
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°94-366 du 10 mai 1994 - art. 4 ()
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L234-19-3 (M)
-  - CODE DES COMMUNES. - art. L234-6 (M)
-  - CODE DES COMMUNES. - art. L263-14 (Ab)
+  - Code général des collectivités territoriales - art. L2334-2 (M)
+  - Code général des collectivités territoriales - art. L2334-4 (M)
+  - Code général des collectivités territoriales - art. L2531-13 (M)
+
+_Modifié par_:
+
+  - Décret n°2000-199 2000-03-05 art. 5 jorf 7 mars 2000
 
 
 ###### Article R*263-51
