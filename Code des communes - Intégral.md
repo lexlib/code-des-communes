@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1984-02-03
+Version Consolidée au 1984-02-07
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -496,7 +496,7 @@ Version Consolidée au 1984-02-03
       - [TITRE 5 : Intérêts propres à certaines catégories d'habitants (art. R*152-1 à R153-3)](#493)
         - [CHAPITRE 2 : Secteur de commune. (art. R*152-1 à R*152-2)](#494)
         - [CHAPITRE 3 : Communes associées. (art. R*153-1 à R153-3)](#495)
-      - [TITRE 6 : Intérêts communs à plusieurs communes (art. R*162-1 à R*165-31)](#496)
+      - [TITRE 6 : Intérêts communs à plusieurs communes (art. R*162-1 à R*166-1)](#496)
         - [CHAPITRE 2 : Biens et droits indivis entre plusieurs communes. (art. R*162-1 à R*162-2)](#497)
         - [CHAPITRE 3 : Syndicats de communes (art. R*163-1 à R*163-6)](#498)
           - [SECTION 1 : Création du syndicat. (art. R*163-1)](#499)
@@ -508,40 +508,40 @@ Version Consolidée au 1984-02-03
             - [SOUS-SECTION 1 : Etendue des compétences. (art. R*165-1 à R*165-5)](#505)
             - [SOUS-SECTION 2 : Effets du transfert des compétences. (art. R*165-6 à R*165-12)](#506)
           - [SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations. (art. R*165-15 à R*165-31)](#507)
-      - [TITRE 7 : Agglomérations nouvelles (art. R*171-1 à R*173-14)](#508)
-        - [CHAPITRE 1 : Création d'agglomérations nouvelles. (art. R*171-1 à R*171-6)](#509)
-        - [CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement (art. R*172-1 à R*172-3)](#510)
-          - [SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement. (art. R*172-1 à R*172-3)](#511)
-        - [CHAPITRE 3 : Ensemble urbain (art. R*173-1 à R*173-14)](#512)
-          - [SECTION 2 : Conseil de l'ensemble urbain. (art. R*173-1 à R*173-11)](#513)
-          - [SECTION 3 : Transformation de l'ensemble urbain en commune. (art. R*173-12 à R*173-14)](#514)
-      - [TITRE 8 : Dispositions particulières (art. R*181-1 à R185-6)](#515)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*181-1 à R*181-6)](#516)
-          - [SECTION 1 : Dispositions générales. (art. R*181-1)](#517)
-          - [SECTION 2 : Le conseil municipal. (art. R*181-2)](#518)
-          - [SECTION 6 : Intérêts communs (art. R*181-5 à R*181-6)](#519)
-            - [SOUS-SECTION 1 : Ententes et conférences intercommunales. (art. R*181-5)](#520)
-            - [SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes. (art. R*181-6)](#521)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R*182-1 à R*182-3)](#522)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R*182-1 à R*182-2)](#523)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*182-3)](#524)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne . (art. R*183-1)](#525)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*184-1 à R184-14)](#526)
-          - [SECTION 1 : Dispositions générales. (art. R*184-1)](#527)
-          - [SECTION 3 : Le maire et les adjoints. (art. R*184-2 à R*184-11)](#528)
-          - [SECTION 5 : Les commissions d'arrondissement. (art. R*184-13 à R184-14)](#529)
-        - [CHAPITRE 5 : Dispositions applicables à certaines grandes villes (art. R*185-1 à R185-6)](#530)
-          - [SECTION 1 : Dispositions applicables à la ville de Lyon. (art. R*185-1 à R185-2)](#531)
-          - [SECTION 2 : Dispositions applicables à la ville de Marseille. (art. R*185-4 à R185-6)](#532)
-    - [Organisation communale (art. R*112-19 à R*166-2)](#533)
-      - [Nom, limites territoriales et population des communes (art. R*112-19 à R*112-28)](#534)
-        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19 à R*112-28)](#535)
-          - [Modifications aux limites territoriales des communes (art. R*112-19 à R*112-28)](#536)
-      - [INTERETS COMMUNS A PLUSIEURS COMMUNES (art. R*165-32 à R*166-2)](#537)
-        - [Communautés urbaines (art. R*165-32 à R*165-35)](#538)
-          - [Le conseil de communauté (art. R*165-32 à R*165-35)](#539)
-            - [Composition du conseil de communauté et désignation de ses membres . (art. R*165-32 à R*165-35)](#540)
-        - [Syndicats mixtes . (art. R*166-1 à R*166-2)](#541)
+        - [CHAPITRE  6 : Syndicats mixtes . (art. R*166-1)](#508)
+      - [TITRE 7 : Agglomérations nouvelles (art. R*171-1 à R*173-14)](#509)
+        - [CHAPITRE 1 : Création d'agglomérations nouvelles. (art. R*171-1 à R*171-6)](#510)
+        - [CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement (art. R*172-1 à R*172-3)](#511)
+          - [SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement. (art. R*172-1 à R*172-3)](#512)
+        - [CHAPITRE 3 : Ensemble urbain (art. R*173-1 à R*173-14)](#513)
+          - [SECTION 2 : Conseil de l'ensemble urbain. (art. R*173-1 à R*173-11)](#514)
+          - [SECTION 3 : Transformation de l'ensemble urbain en commune. (art. R*173-12 à R*173-14)](#515)
+      - [TITRE 8 : Dispositions particulières (art. R*181-1 à R185-6)](#516)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*181-1 à R*181-6)](#517)
+          - [SECTION 1 : Dispositions générales. (art. R*181-1)](#518)
+          - [SECTION 2 : Le conseil municipal. (art. R*181-2)](#519)
+          - [SECTION 6 : Intérêts communs (art. R*181-5 à R*181-6)](#520)
+            - [SOUS-SECTION 1 : Ententes et conférences intercommunales. (art. R*181-5)](#521)
+            - [SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes. (art. R*181-6)](#522)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R*182-1 à R*182-3)](#523)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R*182-1 à R*182-2)](#524)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*182-3)](#525)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne . (art. R*183-1)](#526)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*184-1 à R184-14)](#527)
+          - [SECTION 1 : Dispositions générales. (art. R*184-1)](#528)
+          - [SECTION 3 : Le maire et les adjoints. (art. R*184-2 à R*184-11)](#529)
+          - [SECTION 5 : Les commissions d'arrondissement. (art. R*184-13 à R184-14)](#530)
+        - [CHAPITRE 5 : Dispositions applicables à certaines grandes villes (art. R*185-1 à R185-6)](#531)
+          - [SECTION 1 : Dispositions applicables à la ville de Lyon. (art. R*185-1 à R185-2)](#532)
+          - [SECTION 2 : Dispositions applicables à la ville de Marseille. (art. R*185-4 à R185-6)](#533)
+    - [Organisation communale (art. R*112-19 à R*165-35)](#534)
+      - [Nom, limites territoriales et population des communes (art. R*112-19 à R*112-28)](#535)
+        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19 à R*112-28)](#536)
+          - [Modifications aux limites territoriales des communes (art. R*112-19 à R*112-28)](#537)
+      - [INTERETS COMMUNS A PLUSIEURS COMMUNES (art. R*165-32 à R*165-35)](#538)
+        - [Communautés urbaines (art. R*165-32 à R*165-35)](#539)
+          - [Le conseil de communauté (art. R*165-32 à R*165-35)](#540)
+            - [Composition du conseil de communauté et désignation de ses membres . (art. R*165-32 à R*165-35)](#541)
     - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-7)](#542)
       - [TITRE 1 : Budget (art. R*211-1 à R*212-6)](#543)
         - [CHAPITRE 1 : Dispositions générales. (art. R*211-1)](#544)
@@ -45198,9 +45198,35 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 7 : Agglomérations nouvelles<a id=508></a>
+#### CHAPITRE  6 : Syndicats mixtes .<a id=508></a>
 
-#### CHAPITRE 1 : Création d'agglomérations nouvelles.<a id=509></a>
+###### Article R*166-1
+
+L'autorisation de créer un syndicat mixte prévue à l'article L. 166-2 est donnée par arrêté du commissaire de la République
+du département siège du syndicat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L166-2 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L5721-2 (M)
+
+
+### TITRE 7 : Agglomérations nouvelles<a id=509></a>
+
+#### CHAPITRE 1 : Création d'agglomérations nouvelles.<a id=510></a>
 
 ###### Article R*171-1
 
@@ -45398,9 +45424,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L171-9 (Ab)
 
 
-#### CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement<a id=510></a>
+#### CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement<a id=511></a>
 
-##### SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement.<a id=511></a>
+##### SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement.<a id=512></a>
 
 ###### Article R*172-1
 
@@ -45718,9 +45744,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 3 : Ensemble urbain<a id=512></a>
+#### CHAPITRE 3 : Ensemble urbain<a id=513></a>
 
-##### SECTION 2 : Conseil de l'ensemble urbain.<a id=513></a>
+##### SECTION 2 : Conseil de l'ensemble urbain.<a id=514></a>
 
 ###### Article R*173-1
 
@@ -46072,7 +46098,7 @@ _Cite_:
   - Code électoral - art. R40 (M)
 
 
-##### SECTION 3 : Transformation de l'ensemble urbain en commune.<a id=514></a>
+##### SECTION 3 : Transformation de l'ensemble urbain en commune.<a id=515></a>
 
 ###### Article R*173-12
 
@@ -46165,11 +46191,11 @@ _Cite_:
   - Code des communes R173-12
 
 
-### TITRE 8 : Dispositions particulières<a id=515></a>
+### TITRE 8 : Dispositions particulières<a id=516></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=516></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=517></a>
 
-##### SECTION 1 : Dispositions générales.<a id=517></a>
+##### SECTION 1 : Dispositions générales.<a id=518></a>
 
 ###### Article R*181-1
 
@@ -46197,7 +46223,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Le conseil municipal.<a id=518></a>
+##### SECTION 2 : Le conseil municipal.<a id=519></a>
 
 ###### Article R*181-2
 
@@ -46223,9 +46249,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L181-7 (Ab)
 
 
-##### SECTION 6 : Intérêts communs<a id=519></a>
+##### SECTION 6 : Intérêts communs<a id=520></a>
 
-##### SOUS-SECTION 1 : Ententes et conférences intercommunales.<a id=520></a>
+##### SOUS-SECTION 1 : Ententes et conférences intercommunales.<a id=521></a>
 
 ###### Article R*181-5
 
@@ -46251,7 +46277,7 @@ _Anciens textes_:
   - Loi n°1902-06-11 ART. 1 AL. 2, LOCALE, ALSACE ET LORRAINE
 
 
-##### SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=521></a>
+##### SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=522></a>
 
 ###### Article R*181-6
 
@@ -46286,9 +46312,9 @@ _Anciens textes_:
   - Loi n°1897-07-07 ART. 7 AL. 1 (PARTIE), LOCALE, ALSACE ET LORRAINE
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=522></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=523></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=523></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=524></a>
 
 ###### Article R*182-1
 
@@ -46354,7 +46380,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=524></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=525></a>
 
 ###### Article R*182-3
 
@@ -46386,7 +46412,7 @@ _Cite_:
   - Code des communes R153-1 à R153-3
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne .<a id=525></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne .<a id=526></a>
 
 ###### Article R*183-1
 
@@ -46422,9 +46448,9 @@ _Cite_:
   - Loi n°1953-06-10 MODIFIEE
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=526></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=527></a>
 
-##### SECTION 1 : Dispositions générales.<a id=527></a>
+##### SECTION 1 : Dispositions générales.<a id=528></a>
 
 ###### Article R*184-1
 
@@ -46456,7 +46482,7 @@ _Cite_:
   - Code des communes R111-1 à R173-14
 
 
-##### SECTION 3 : Le maire et les adjoints.<a id=528></a>
+##### SECTION 3 : Le maire et les adjoints.<a id=529></a>
 
 ###### Article R*184-2
 
@@ -46754,7 +46780,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 5 : Les commissions d'arrondissement.<a id=529></a>
+##### SECTION 5 : Les commissions d'arrondissement.<a id=530></a>
 
 ###### Article R*184-13
 
@@ -46875,9 +46901,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2512-3 (V)
 
 
-#### CHAPITRE 5 : Dispositions applicables à certaines grandes villes<a id=530></a>
+#### CHAPITRE 5 : Dispositions applicables à certaines grandes villes<a id=531></a>
 
-##### SECTION 1 : Dispositions applicables à la ville de Lyon.<a id=531></a>
+##### SECTION 1 : Dispositions applicables à la ville de Lyon.<a id=532></a>
 
 ###### Article R*185-1
 
@@ -46960,7 +46986,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2513-3 (V)
 
 
-##### SECTION 2 : Dispositions applicables à la ville de Marseille.<a id=532></a>
+##### SECTION 2 : Dispositions applicables à la ville de Marseille.<a id=533></a>
 
 ###### Article R*185-4
 
@@ -47373,13 +47399,13 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-## Organisation communale<a id=533></a>
+## Organisation communale<a id=534></a>
 
-### Nom, limites territoriales et population des communes<a id=534></a>
+### Nom, limites territoriales et population des communes<a id=535></a>
 
-#### Limites territoriales, chef-lieu et fusion des communes<a id=535></a>
+#### Limites territoriales, chef-lieu et fusion des communes<a id=536></a>
 
-##### Modifications aux limites territoriales des communes<a id=536></a>
+##### Modifications aux limites territoriales des communes<a id=537></a>
 
 ###### Article R*112-19
 
@@ -47466,13 +47492,13 @@ _Cite_:
   - Code des communes R112-25 A R112-27
 
 
-### INTERETS COMMUNS A PLUSIEURS COMMUNES<a id=537></a>
+### INTERETS COMMUNS A PLUSIEURS COMMUNES<a id=538></a>
 
-#### Communautés urbaines<a id=538></a>
+#### Communautés urbaines<a id=539></a>
 
-##### Le conseil de communauté<a id=539></a>
+##### Le conseil de communauté<a id=540></a>
 
-##### Composition du conseil de communauté et désignation de ses membres .<a id=540></a>
+##### Composition du conseil de communauté et désignation de ses membres .<a id=541></a>
 
 ###### Article R*165-32
 
@@ -47635,59 +47661,6 @@ _Modifié par_:
 _Cite_:
 
   - Code des communes R165-32
-
-
-#### Syndicats mixtes .<a id=541></a>
-
-###### Article R*166-1
-
-L'autorisation prévue à l'article L. 166-2 de créer le syndicat mixte est donnée par arrêté du préfet [*compétence,
-conditions de forme*] lorsque les personnes morales constituant le syndicat appartiennent au même département et par arrêté
-conjoint des préfets intéressés dans le cas contraire.
-
-Toutefois, lorsque le syndicat comprend une région ou un ou plusieurs établissements publics dont le budget est approuvé par
-un ministre ou par décret, l'autorisation de créer le syndicat mixte est donnée par arrêté du ministre de l'intérieur, pris
-après avis, s'il y a lieu, des autres ministres intéressés [*consultation*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L166-2 (M)
-
-
-###### Article R*166-2
-
-Les modifications ultérieures de la décision institutive d'un syndicat mixte prise conformément aux dispositions du deuxième
-alinéa de l'article précédent sont autorisées par arrêté du ou des préfets intéressés, sauf dans le cas de changement d'objet
-du syndicat mixte ou d'adhésion à celui-ci d'une région ou d'un ou plusieurs établissements publics dont le budget est
-approuvé par un ministre ou par décret [*conditions de forme, compétence*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-736 1976-04-28 art. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 MARS 1977
-
-_Cite_:
-
-  - Code des communes R116-1 al. 2
 
 
 ## LIVRE 2 : Finances communales<a id=542></a>
