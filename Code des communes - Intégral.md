@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -4708,35 +4708,31 @@ _Nouveaux textes_:
 
 Les indemnités votées par les conseils municipaux pour l'exercice effectif des fonctions d'adjoint au maire et de membre de
 délégation spéciale faisant fonction d'adjoint sont au maximum égales à 40 p. 100 de l'indemnité maximale du maire de la
-commune. Ce taux peut être porté à 50 p. 100 dans les communes d'au moins 100 000 habitants.
+commune. Ce taux peut être porté à 50 p. 100 dans les communes d'au moins 100000 habitants.
 
-" L'indemnité versée à un adjoint peut dépasser le maximum prévu à l'alinéa précédent, à condition que le montant total des
+L'indemnité versée à un adjoint peut dépasser le maximum prévu à l'alinéa précédent, à condition que le montant total des
 indemnités maximales susceptibles d'être allouées au maire et aux adjoints ne soit pas dépassé.
 
-" Dans les communes de moins de 100 000 habitants, il peut être versé une indemnité aux conseillers municipaux exerçant des
+Dans les communes de moins de 100000 habitants, il peut être versé une indemnité aux conseillers municipaux exerçant des
 mandats spéciaux dont ils sont chargés par le conseil municipal dans les limites prévues à l'alinéa précédent.
 
-" Les indemnités votées par les conseils municipaux des communes de 100 000 habitants au moins pour l'exercice effectif des
+Les indemnités votées par les conseils municipaux des communes de 100000 habitants au moins pour l'exercice effectif des
 fonctions de conseiller municipal sont au maximum égales à 6 p. 100 du terme de référence mentionné au I de l'article L.
 123-4.
 
-" Les conseillers municipaux auxquels le maire délègue un partie de ses fonctions en application de l'article L. 122-11
-peuvent percevoir une indemnité votée par le conseil municipal. Toutefois, le total de ces indemnités et des indemnités
-versées au maire et aux adjoints ne doit pas dépasser les limites prévues au deuxième alinéa. "
+Les conseillers municipaux auxquels le maire délègue un partie de ses fonctions en application de l'article L. 122-11 peuvent
+percevoir une indemnité votée par le conseil municipal. Toutefois, le total de ces indemnités et des indemnités versées au
+maire et aux adjoints ne doit pas dépasser les limites prévues au deuxième alinéa.
+
+Dans les communautés urbaines et les communautés de villes de 400000 habitants au moins, les indemnités votées par les
+conseils pour l'exercice effectif des fonctions de délégué des communes sont au maximum égales à 28 p. 100 du terme de
+référence mentionné au I de l'article L. 123-4.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 4 AL. 1 (partie)
 
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
-
-_Modifié par_:
-
-  - Loi n°92-108 du 3 février 1992 - art. 18 ()
 
 _Cité par_:
 
@@ -4744,10 +4740,24 @@ _Cité par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 104 (V)
   - CODE DES COMMUNES. - art. R*123-3 (Ab)
 
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 _Cite_:
 
   - CODE DES COMMUNES. - art. L122-11 (M)
   - CODE DES COMMUNES. - art. L123-4 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2123-24 (M)
+  - Code général des collectivités territoriales - art. L5215-17 (V)
+  - Code général des collectivités territoriales - art. L5216-13 (Ab)
+
+_Modifié par_:
+
+  - Loi n°93-1476 1993-01-05 art. 100 JORF 5 janvier 1993
 
 
 ###### Article L123-8
