@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1983-08-08
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -391,7 +391,7 @@ Version Consolidée au 1983-07-23
       - [Pompes funèbres et cimetières (art. L361-1)](#388)
         - [Sépultures (art. L361-1)](#389)
           - [Lieux de sépultures ; inhumations et exhumations . (art. L361-1)](#390)
-      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. L381-7 à L381-9)](#391)
+      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. L381-9)](#391)
       - [Dispositions particulières (art. L391-1 à L394-5)](#392)
         - [Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin (art. L391-1)](#393)
           - [Dispositions générales . (art. L391-1)](#394)
@@ -34814,39 +34814,6 @@ _Cité par_:
 
 
 ### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=391></a>
-
-###### Article L381-7
-
-La participation des collectivités territoriales ou de leurs groupements ne peut excéder 65 p. 100 [*pourcentage - montant
-maximum*] du capital social des entreprises ou organismes mentionnés au présent titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 403
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
-
-_Cité par_:
-
-  - Décret n°81-242 du 11 mars 1981 - art. Annexe art. 1 (V)
-  - Loi n°83-597 du 7 juillet 1983 - art. 17 (V)
-
-_Abrogé par_:
-
-  - Loi n°83-597 1983-07-07 ART. 17 JORF 8 JUILLET 1983
-
-_Cite_:
-
-  - Code des communes L381-1 à L381-9
-
 
 ###### Article L381-9
 
