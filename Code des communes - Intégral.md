@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1991-07-19
+Version Consolidée au 1991-09-01
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -59473,12 +59473,11 @@ _Abrogé par_:
 Le taux du versement de transport exprimé en pourcentage des salaires tels qu'ils sont définis aux articles R. 263-15 et R.
 263-22 est fixé à :
 
-" 1° 2,2 p. 100 à Paris et dans le département des Hauts-de-Seine.
+" 1° 2,4 p. 100 à Paris et dans le département des Hauts-de-Seine ;
 
-" 2° 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne.
+" 2° 1,8 p. 100 dans les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-" 3° 1,2 p. 100 dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne située dans la
-région des transports parisiens. "
+" 3° 1,2 p. 100 dans les départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne. "
 
 **Liens relatifs à cet article**
 
@@ -59489,6 +59488,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°91-776 1991-08-09 art. 2
+
+_Modifié par_:
+
+  - Décret n°91-776 du 9 août 1991 - art. 1 () JORF 11 août 1991 en vigueur le 1er septembre 1991
 
 _Cite_:
 
