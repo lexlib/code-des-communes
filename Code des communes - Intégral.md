@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-05-18
+Version Consolidée au 1988-06-08
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
