@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-08-08
+Version Consolidée au 1980-09-24
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -860,7 +860,7 @@ Version Consolidée au 1980-08-08
             - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-26)](#857)
       - [TITRE 4 : Comptabilité (art. R*241-1 à R242-8)](#858)
         - [CHAPITRE 1 : Comptabilités du maire et du comptable (art. R*241-1 à R241-33)](#859)
-          - [SECTION 1 : Dispositions générales. (art. R*241-1 à R241-2)](#860)
+          - [SECTION 1 : Dispositions générales. (art. R*241-1 à R241-3)](#860)
           - [SECTION 2 : Comptabilité du maire. (art. R241-6 à R241-15)](#861)
           - [SECTION 3 : Comptabilité du comptable. (art. R*241-21 à R241-33)](#862)
         - [CHAPITRE 1 : Comptabilité du maire et du comptable (art. R241-17)](#863)
@@ -938,7 +938,7 @@ Version Consolidée au 1980-08-08
             - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement (art. R*234-26)](#935)
               - [SOUS-SECTION 5 : Comité des finances locales. (art. R*234-26)](#936)
       - [COMPTABILITE (art. R*241-4 à R*241-5)](#937)
-        - [COMPTABILITES DU MAIRE ET DU COMPTABLE . (art. R*241-4 à R241-3)](#938)
+        - [COMPTABILITES DU MAIRE ET DU COMPTABLE . (art. R*241-4)](#938)
         - [Dispositions générales. (art. R*241-5)](#939)
       - [Dispositions applicables à certains établissements communaux (art. R253-7)](#940)
         - [Dispositions applicables à la communauté urbaine (art. R253-7)](#941)
@@ -66650,6 +66650,37 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2342-2 (V)
 
 
+###### Article R241-3
+
+Au début de chaque année le maire dispose d'un délai d'un mois pour procéder à l'émission des titres de perception et des
+mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
+
+Le receveur dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire.
+
+En cas de circonstances particulières, un délai peut être prorogé d'une durée n'excédant pas un mois par décision du sous-
+préfet prise sur un avis du receveur des finances.
+
+Ces dispositions ne sont pas applicables aux opérations intéressant uniquement la section d'investissement du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R241-18 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. D2342-3 (V)
+
+
 ##### SECTION 2 : Comptabilité du maire.<a id=861></a>
 
 ###### Article R241-6
@@ -73044,39 +73075,6 @@ _Créé par_:
 _Cité par_:
 
   - Code rural - art. D161-7 (M)
-
-
-###### Article R241-3
-
-Au début de chaque année, le maire dispose d'un délai de deux mois pour procéder à l'émission des titres de perception et des
-mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes. 
-
-Le receveur municipal dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire. 
-
-En cas de circonstances particulières, ce délai peut être prorogé d'une durée n'excédant pas un mois par décision du sous-
-préfet [*compétence*] prise sur avis du receveur particulier des finances [*délai complémentaire*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1862-05-31 art. 488 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R241-18 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. D2342-3 (V)
 
 
 #### Dispositions générales.<a id=939></a>
