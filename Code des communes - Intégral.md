@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -580,7 +580,7 @@ Version Consolidée au 1993-03-28
       - [TITRE 1 : Administration de la commune (art. R*311-1 à R318-1)](#577)
         - [CHAPITRE 1 : Biens communaux (art. R*311-1 à R*311-20)](#578)
           - [SECTION 1 : Acquisition, location et affectation de biens. (art. R*311-1 à R*311-15)](#579)
-          - [SECTION 2 : Aliénation de biens. (art. R*311-18)](#580)
+          - [SECTION 2 : Aliénation de biens. (art. R*311-16 à R*311-18)](#580)
           - [SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif. (art. R*311-19 à R*311-20)](#581)
         - [CHAPITRE 2 : Dons et legs (art. R*312-1 à R312-28)](#582)
           - [SECTION 1 : Dispositions générales (art. R*312-1 à R*312-11)](#583)
@@ -64981,6 +64981,59 @@ _Cite_:
 
 
 ##### SECTION 2 : Aliénation de biens.<a id=580></a>
+
+###### Article R*311-16
+
+L'avis prévu au premier alinéa de l'article L. 311-8 du présent code est affiché, jusqu'à ce que la vente soit conclue, à la
+mairie du lieu de situation du bien à aliéner et au siège du vendeur. Il est en outre diffusé par voie d'affiches dans la
+commune du lieu de situation du bien.
+
+Lorsque le prix demandé excède 200 000 F, un extrait de cet avis est inséré dans deux journaux régionaux ou locaux diffusés
+dans le département du lieu de situation du bien indiquant les caractères essentiels du bien ou des droits mis en vente,
+ainsi que le prix demandé.
+
+Les frais afférents à ces publicités sont à la charge du vendeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Créé par_:
+
+  - Décret n°93-751 du 27 mars 1993 - art. 1 ()
+
+_Cite_:
+
+  - CODE DES COMMUNES L311-8
+
+
+###### Article R*311-17
+
+Il ne peut être procédé aux ventes mentionnées au premier alinéa de l'article L. 311-8 du présent code qu'à l'expiration d'un
+délai de quinze jours dont le point de départ est la plus tardive des trois dates suivantes :
+
+a) le premier jour de l'affichage de l'avis à la mairie du lieu de situation du bien ;
+
+b) le premier jour de l'affichage de l'avis au siège du vendeur ;
+
+c) la date à laquelle ont été exécutées les formalités de publicité prévues à l'avant-dernier alinéa de l'article R. 311-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Créé par_:
+
+  - Décret n°93-751 du 27 mars 1993 - art. 1 ()
+
+_Cite_:
+
+  - CODE DES COMMUNES L311-8, R311-16
+
 
 ###### Article R*311-18
 
