@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-01-13
+Version Consolidée au 1980-02-12
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1342,22 +1342,21 @@ Version Consolidée au 1980-01-13
             - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1339)
             - [Les commissions et comités paritaires . (art. R*444-26)](#1340)
           - [Recrutement . (art. R*444-29 à R*444-32)](#1341)
-          - [REMUNERATION . (art. R*444-40)](#1342)
-          - [AVANCEMENT . (art. R*444-50)](#1343)
-          - [Positions (art. R*444-90 à R*444-168)](#1344)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1345)
-              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1346)
-              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1347)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1348)
-            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1349)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1350)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1351)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1352)
-            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1353)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1354)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1355)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1356)
-          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1357)
+          - [AVANCEMENT . (art. R*444-50)](#1342)
+          - [Positions (art. R*444-90 à R*444-168)](#1343)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1344)
+              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1345)
+              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1346)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1347)
+            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1348)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1349)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1350)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1351)
+            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1352)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1353)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1354)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1355)
+          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1356)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -108723,6 +108722,24 @@ _Cite_:
   - Code des communes R444-4 AL. 1
 
 
+###### Article R*444-40
+
+Le conseil de Paris fixe par délibération les indemnités des personnels soumis au présent statut dans la limite du plafond
+déterminé par arrêté du ministre de l'intérieur pour les emplois homologues des communes.
+
+Toutefois, pour les indemnités des titulaires d'emplois non homologues aux emplois communaux, la délibération du conseil de
+Paris est soumise à l'approbation du ministre de l'intérieur, après avis du ministre du budget, sauf quand il s'agit de
+modifier les taux des indemnités des titulaires d'emplois appartenant à des corps homologues aux corps de fonctionnaires de
+l'Etat bénéficiant d'indemnités de même nature. Dans ce dernier cas, la délibération du conseil de Paris est soumise à
+l'approbation du préfet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+
 ###### Article R*444-41
 
 Le fonctionnaire qui a été atteint d'une invalidité résultant d'un accident de service ayant entraîné une incapacité
@@ -113238,32 +113255,7 @@ _Cite_:
   - Code des communes R444-1
 
 
-##### REMUNERATION .<a id=1342></a>
-
-###### Article R*444-40
-
-Le conseil de Paris fixe par délibération les indemnités des personnels soumis au présent statut dans la limite du plafond
-déterminé par arrêté du ministre de l'intérieur pour les emplois homologues des communes.
-
-Toutefois pour les indemnités des titulaires d'emplois non homologues aux emplois communaux, la délibération du conseil de
-Paris est soumise à l'approbation du ministre de l'intérieur après avis du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 37
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
-##### AVANCEMENT .<a id=1343></a>
+##### AVANCEMENT .<a id=1342></a>
 
 ###### Article R*444-50
 
@@ -113296,11 +113288,11 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### Positions<a id=1344></a>
+##### Positions<a id=1343></a>
 
-##### Activité, congés<a id=1345></a>
+##### Activité, congés<a id=1344></a>
 
-##### Service à temps partiel .<a id=1346></a>
+##### Service à temps partiel .<a id=1345></a>
 
 ###### Article R*444-90
 
@@ -113374,7 +113366,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### Service à mi-temps.<a id=1347></a>
+##### Service à mi-temps.<a id=1346></a>
 
 ###### Article R*444-95
 
@@ -113536,7 +113528,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1348></a>
+##### Congés de maladie .<a id=1347></a>
 
 ###### Article R*444-110
 
@@ -113905,7 +113897,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### ACTIVITES, CONGES .<a id=1349></a>
+##### ACTIVITES, CONGES .<a id=1348></a>
 
 ###### Article R*444-93
 
@@ -113995,7 +113987,7 @@ _Cite_:
   - Code des communes R444-101 AL. 3
 
 
-##### Détachement .<a id=1350></a>
+##### Détachement .<a id=1349></a>
 
 ###### Article R*444-125
 
@@ -114535,7 +114527,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1351></a>
+##### POSITION HORS CADRE .<a id=1350></a>
 
 ###### Article R*444-143
 
@@ -114750,7 +114742,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1352></a>
+##### Disponibilité.<a id=1351></a>
 
 ###### Article R*444-150
 
@@ -115106,7 +115098,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1353></a>
+##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1352></a>
 
 ###### Article R*444-162
 
@@ -115135,7 +115127,7 @@ _Cite_:
   - Code des communes R444-154 5° et 6°
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1354></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1353></a>
 
 ###### Article R*444-163
 
@@ -115161,7 +115153,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1355></a>
+##### Position "sous les drapeaux" .<a id=1354></a>
 
 ###### Article R*444-164
 
@@ -115243,7 +115235,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1356></a>
+##### CONGE POSTNATAL .<a id=1355></a>
 
 ###### Article R*444-167
 
@@ -115284,7 +115276,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### Cessation de fonctions .<a id=1357></a>
+##### Cessation de fonctions .<a id=1356></a>
 
 ###### Article R*444-178
 
