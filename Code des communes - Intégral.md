@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2000-12-07
+Version Consolidée au 2001-12-19
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -46,88 +46,85 @@ Version Consolidée au 2000-12-07
         - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunts (art. R*236-27 à R*236-29)](#43)
           - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R*236-27 à R*236-29)](#44)
             - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R*236-29)](#45)
-    - [LIVRE 3 : Administration et services communaux (art. R*315-4 à R*372-11)](#46)
-      - [TITRE 1 : Administration de la commune (art. R*315-4 à R*315-15)](#47)
-        - [CHAPITRE 5 : Travaux communaux (art. R*315-4 à R*315-15)](#48)
-          - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R*315-15)](#49)
-      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*372-11)](#50)
-        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-11)](#51)
-          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-11)](#52)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#53)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#54)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#55)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#56)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#57)
-          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#58)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#59)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#60)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#61)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#62)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#63)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#64)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#65)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#66)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#67)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#68)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#69)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#70)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#71)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#72)
-          - [SECTION 1 : Notation. (art. R414-1)](#73)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#74)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#75)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#76)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#77)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#78)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#79)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#80)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#81)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#82)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#83)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#84)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#85)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#86)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#87)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#88)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#89)
-      - [TITRE 2 : Personnels divers (art. R*422-1 à R*423-3)](#90)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#91)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#92)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#93)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#94)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#95)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#96)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#97)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#98)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#99)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#100)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#101)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#102)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#103)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#104)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#105)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#106)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#107)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#108)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#109)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#110)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#111)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#112)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#113)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#114)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#115)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#116)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#117)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#118)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#119)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#120)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#121)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#122)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#123)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#124)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#125)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#126)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#127)
+    - [LIVRE 3 : Administration et services communaux (art. R*372-11)](#46)
+      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*372-11)](#47)
+        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-11)](#48)
+          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-11)](#49)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#50)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#51)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#52)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#53)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#54)
+          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#55)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#56)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#57)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#58)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#59)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#60)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#61)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#62)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#63)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#64)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#65)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#66)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#67)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#68)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#69)
+          - [SECTION 1 : Notation. (art. R414-1)](#70)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#71)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#72)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#73)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#74)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#75)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#76)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#77)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#78)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#79)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#80)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#81)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#82)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#83)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#84)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#85)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#86)
+      - [TITRE 2 : Personnels divers (art. R*422-1 à R*423-3)](#87)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#88)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#89)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#90)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#91)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#92)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#93)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#94)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#95)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#96)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#97)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#98)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#99)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#100)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#101)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#102)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#103)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#104)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#105)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#106)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#107)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#108)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#109)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#110)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#111)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#112)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#113)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#114)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#115)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#116)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#117)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#118)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#119)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#120)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#121)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#122)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#123)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#124)
 # Partie législative<a id=1></a>
 
 ## LIVRE 4 : Personnel communal<a id=2></a>
@@ -3168,600 +3165,11 @@ _Cite_:
 
 ## LIVRE 3 : Administration et services communaux<a id=46></a>
 
-### TITRE 1 : Administration de la commune<a id=47></a>
+### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=47></a>
 
-#### CHAPITRE 5 : Travaux communaux<a id=48></a>
+#### CHAPITRE 2 : Assainissement et eaux usées<a id=48></a>
 
-##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.<a id=49></a>
-
-###### Article R*315-4
-
-Lorsqu'une commune, un groupement de communes ou un syndicat mixte prend l'initiative de se charger, avec ou sans
-participation ultérieure des intéressés, de travaux [*de protection contre les inondations et contre la mer présentant pour
-eux un caractère d'intérêt général*] compris parmi ceux que concerne l'article L. 315-4, le préfet du lieu des travaux fait
-instruire l'affaire, selon le cas, par le chef du service maritime ou de navigation ou le directeur départemental de
-l'équipement chargé du contrôle des travaux de défense contre les eaux.
-
-Lorsqu'il apparaît, au vu du rapport établi par le fonctionnaire compétent, que les conditions posées à l'article L. 315-4
-sont réunies, le préfet ordonne [**]attributions[**], par arrêté, l'ouverture de l'enquête qui, en application de l'article
-L. 315-5, précède l'intervention de l'arrêté prévu à l'article R. 315-14.
-
-Lorsqu'il est envisagé de confier la maîtrise d'ouvrage à un groupement de collectivités locales ou à un syndicat mixte,
-l'intervention de l'arrêté ordonnant l'ouverture de l'enquête est subordonnée à la création de ce groupement ou du syndicat
-mixte.
-
-Lorsque les travaux concernent plusieurs départements, le préfet compétent pour centraliser les mesures d'instruction est
-celui du département où est situé le siège du groupement de collectivités locales ou du syndicat mixte.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-
-_Anciens textes_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes L315-4 et L315-5
-
-
-###### Article R*315-5
-
-Le dossier de l'enquête comprend :[*contenu*]
-
-1° Une notice explicative indiquant notamment l'objet des travaux ;
-
-2° Le plan de situation ;
-
-3° L'indication du périmètre intéressé par les travaux ;
-
-4° Le plan général des travaux ;
-
-5° Les caractéristiques principales des ouvrages les plus importants ;
-
-6° L'appréciation sommaire des dépenses ;
-
-7° Un mémoire définissant les modalités prévues pour
-
-l'exploitation et l'entretien de l'aménagement ;        8° Un projet d'arrêté.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 2 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-
-###### Article R*315-6
-
-Lorsque la participation des intéressés aux dépenses est prévue, le dossier de l'enquête comprend en outre [*contenu*] :
-
-1° La liste de ceux des propriétaires des parcelles du périmètre intéressé et de celles des collectivités publiques ou des
-personnes physiques ou morales qui seront éventuellement appelées à participer aux dépenses ;
-
-2° Un mémoire explicatif indiquant par catégorie de travaux :
-
-- la proportion des dépenses restant à la charge de l'organisme maître de l'ouvrage ;
-
-- la proportion dans laquelle cet organisme demande à être autorisé à faire participer chaque catégorie d'intéressés aux
-charges de premier établissement et aux frais d'exploitation et d'entretien ;
-
-- en vue de fixer les bases générales de répartition, les critères retenus pour faire participer les intéressés à ces
-charges, et l'importance relative de ces critères, en tenant compte de la mesure dans laquelle chaque intéressé a rendu
-l'aménagement nécessaire ou utile, ou y trouve son intérêt ;
-
-- les éléments de calcul qui seront utilisés pour l'estimation des participations aux dépenses des différents intéressés.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 2 AL. 2 et AL. 3 modifié
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-
-###### Article R*315-7
-
-L'arrêté prévu à l'article R. 315-4 :
-
-Indique les dates d'ouverture et de clôture de l'enquête dont la durée est de trente jours ;
-
-Désigne un commissaire enquêteur ou les membres d'une commission d'enquête choisis selon les modalités fixées par l'article
-R. 11-5 du code de l'expropriation pour cause d'utilité publique.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-**Liens**:
-
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes R315-4
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
-
-
-###### Article R*315-8
-
-L'arrêté [*qui ordonne l'ouverture de l'enquête*] est publié par voie d'affiches et, éventuellement, par tous autres procédés
-dans chacune des communes désignées par le préfet sans que cette formalité soit limitée nécessairement aux communes où ont
-lieu les opérations. En outre, lorsque la participation des intéressés aux dépenses est prévue, l'arrêté est notifié aux
-propriétaires, collectivités publiques et personnes physiques ou morales mentionnés sur la liste prévue au 1° de l'article R.
-315-6.
-
-L'accomplissement des mesures de publicité est certifié par le maire.
-
-Le texte de l'arrêté qui prescrit l'enquête est, de plus, inséré en caractères apparents dans au moins l'un des journaux
-publiés dans chacun des départements intéressés.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 3 AL. 3 à 5
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes R315-6 1°
-
-
-###### Article R*315-9
-
-Le dossier de l'enquête et le registre destiné à recevoir les observations des intéressés sont déposés à la mairie de la
-commune sur le territoire de laquelle s'étend le périmètre de l'opération projetée. Lorsque ce périmètre s'étend sur
-plusieurs communes d'un département, le préfet désigne celles des mairies où le dossier et le registre sont déposés.
-
-Lorsque l'opération est réalisée sur le territoire de plusieurs départements, cette désignation est faite par le préfet
-centralisateur [*compétence*], en accord avec le ou les préfets intéressés.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 3 AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-
-###### Article R*315-10
-
-Pendant le délai [*correspondant à la durée de l'enquête*] fixé à l'article R. 315-7, les observations des intéressés peuvent
-être consignées directement sur les registres d'enquête.
-
-L'accomplissement des formalités de l'enquête est certifié par le maire de chaque commune.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 5 AL. 1 PHR. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes R315-7
-
-
-###### Article R*315-11
-
-Avant l'expiration de l'enquête le commissaire enquêteur ou, s'il y a lieu, le président de la commission d'enquête reçoit
-pendant trois jours consécutifs, à la mairie de la commune désignée par le préfet du département ou le préfet centralisateur,
-et aux heures indiquées par lui, les déclarations des intéressés.
-
-Il peut également recevoir et annexer au dossier les déclarations qui lui sont adressées par écrit à la mairie de cette
-commune depuis l'ouverture de l'enquête jusqu'à l'expiration du délai fixé à l'article R. 315-7.
-
-Après avoir clos et signé les registres des déclarations, le commissaire enquêteur ou, s'il y a lieu, le président de la
-commission d'enquête les transmet, avec son avis motivé et accompagné des pièces de l'instruction ayant servi de base à
-l'enquête, au préfet du département.
-
-Lorsque les opérations s'étendent sur le territoire de plusieurs départements, le préfet de chacun de ces départements
-transmet le dossier, complété par son avis, au préfet centralisateur [*compétence*].
-
-**Nota:**
-
-Décret 93-1182 1993-10-21 art. 17 : Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de
-défense contre la mer.
-
-Décret 2000-318 2000-04-07 art. 4 1° c : Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux,
-ouvrages ou installations de défense contre la mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 5 AL. 1 (à partir de phr. 3), AL. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes R315-7
-
-
-###### Article R*315-11-1
-
-Lorsque, par application de l'article 1er du décret n. 85-453 du 23 avril 1985, l'opération doit être précédée d'une enquête
-régie par les dispositions de la loi du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
-protection de l'environnement, cette enquête est, par dérogation aux dispositions des articles R. 315-7 à R. 315-11 ci-
-dessus, organisée conformément aux dispositions des chapitres I et II du décret précité.
-
-Lorsque la participation des intéressés aux dépenses est prévue, le dossier comprend [*contenu*] en outre les pièces prévues
-à l'article R. 315-6. Dans ce cas, l'arrêté du commissaire de la République organisant l'enquête est notifié aux
-propriétaires, collectivités publiques et personnes physiques ou morales mentionnés sur la liste prévue au 1° de l'article R.
-315-6.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Cite_:
-
-  - Loi n°83-630 1983-07-12
-  - Décret n°85-453 du 23 avril 1985 - art. 1 (M)
-  - Code des communes R315-6, R315-7, R315-8, R315-9, R315-10, R315-11
-
-_Créé par_:
-
-  - Décret n°85-453 du 23 avril 1985 - art. 34 () JORF 24 AVRIL 1985 en vigueur le 1er octobre 1985
-
-_Abrogé par_:
-
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-
-###### Article R*315-12
-
-Lorsque l'enquête est terminée, le dossier est communiqué par le préfet du département ou le préfet centralisateur à celui
-des fonctionnaires mentionnés au premier alinéa de l'article R. 315-4 qui a instruit l'affaire [*formalités*].
-
-Lorsque les travaux intéressent la défense contre la mer, il est aussi soumis pour avis à la commission départementale des
-rivages de la mer instituée par le décret n° 66-413 du 17 juin 1966 portant application de la loi n° 63-1178 du 28 novembre
-1963 relative au domaine public maritime.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Cite_:
-
-  - Loi n°63-1178 1963-11-28
-  - Décret n°66-413 1966-06-17
-  - Code des communes R315-4 AL. 1
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 6 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-
-###### Article R*315-13
-
-Si, d'après les résultats de l'enquête et, le cas échéant, après avis du chef du service maritime ou de navigation, du
-directeur départemental de l'équipement ou de la commission départementale des rivages de la mer, le préfet juge nécessaire
-d'apporter au projet des modifications susceptibles d'en changer les dispositions essentielles, notamment la nature des
-ouvrages projetés ou la définition des critères retenus pour la fixation des participations des intéressés, ou d'étendre le
-périmètre de l'opération, l'organe délibérant de la personne morale qui a pris l'initiative des travaux conformément à
-l'article L. 315-4 se prononce sur le projet modifié, ou seulement sur son complément.
-
-Lorsque le maître d'ouvrage entend poursuivre l'opération, le nouveau projet, ou seulement son complément, est alors soumis à
-une nouvelle enquête, totale ou partielle, dans les formes prévues ci-dessus.
-
-Le chef du service maritime ou de navigation ou le directeur départemental de l'équipement, chargé du contrôle des travaux,
-le cas échéant après l'accomplissement des formalités complémentaires prévues à l'alinéa précédent, transmet le dossier, avec
-ses propositions définitives accompagnées, s'il y a lieu, de l'avis du service chargé de la police des eaux, au préfet du
-département ou au préfet centralisateur.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-851 1974-10-08 ART. 6 AL. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L315-4 (Ab)
-
-
-###### Article R*315-14
-
-Lorsque les travaux s'étendent sur le territoire d'un seul département, le préfet statue par arrêté dans les conditions
-fixées à l'article L. 315-5.
-
-Lorsque les travaux s'étendent sur deux départements, il est statué par arrêté conjoint des préfets intéressés[*compétence*].
-
-Lorsqu'ils portent sur plus de deux départements, il est statué par arrêté conjoint du ministre chargé de l'équipement et du
-ministre de l'intérieur, après avis du ministre chargé de la police des eaux [*conditions de forme*].
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L315-5 (Ab)
-
-
-###### Article R*315-15
-
-Lorsqu'une procédure d'expropriation pour cause d'utilité publique est poursuivie pour permettre l'exécution des travaux,
-l'enquête préalable à la déclaration d'utilité publique ou l'enquête parcellaire peuvent être faites en même temps que
-l'enquête [*sur le projet*] prévue aux articles précédents. L'acte déclarant l'utilité publique des travaux est distinct de
-l'arrêté [*qui définit les travaux à réaliser*] prévu à l'article précédent.
-
-**Nota:**
-
-Cet article est abrogé mais demeure en vigueur en tant qu'il concerne les travaux, ouvrages ou installations de défense
-contre la mer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Cet article est abrogé, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer*
-  - SPEC_APPLI: *Décret 93-1182 1993-10-21 art. 17 :
-
-_Anciens textes_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°2000-318 2000-04-07 art. 4 1° c jorf 9 avril 2000
-  - Décret n°2001-1206 du 12 décembre 2001 - art. 1 ()
-
-_Cite_:
-
-  - Code des communes R315-4 à R315-14
-
-
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=50></a>
-
-#### CHAPITRE 2 : Assainissement et eaux usées<a id=51></a>
-
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=52></a>
+##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=49></a>
 
 ###### Article R*372-11
 
@@ -3795,13 +3203,13 @@ _Abrogé par_:
   - Décret n°2000-318 2000-04-07 art. 4 1° d jorf 9 avril 2000
 
 
-## LIVRE 4 : Personnel communal<a id=53></a>
+## LIVRE 4 : Personnel communal<a id=50></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=54></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=51></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=55></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=52></a>
 
-##### SECTION 1 : Dispositions générales.<a id=56></a>
+##### SECTION 1 : Dispositions générales.<a id=53></a>
 
 ###### Article R*411-1
 
@@ -3882,7 +3290,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=57></a>
+##### SECTION 4 : Commission paritaire communale.<a id=54></a>
 
 ###### Article R*411-38
 
@@ -3908,7 +3316,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=58></a>
+##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=55></a>
 
 ###### Article R411-41
 
@@ -4268,7 +3676,7 @@ _Modifié par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-##### SECTION 7 : Honorariat.<a id=59></a>
+##### SECTION 7 : Honorariat.<a id=56></a>
 
 ###### Article R411-55
 
@@ -4290,11 +3698,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=60></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=57></a>
 
-##### SECTION 1 : Recrutement<a id=61></a>
+##### SECTION 1 : Recrutement<a id=58></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=62></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=59></a>
 
 ###### Article R*412-1
 
@@ -4537,7 +3945,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=63></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=60></a>
 
 ###### Article R412-9
 
@@ -4744,7 +4152,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=64></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=61></a>
 
 ###### Article R*412-32
 
@@ -5284,7 +4692,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Promotion sociale.<a id=65></a>
+##### SECTION 3 : Promotion sociale.<a id=62></a>
 
 ###### Article R412-94
 
@@ -5415,9 +4823,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=66></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=63></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=67></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=64></a>
 
 ###### Article R*412-116
 
@@ -5549,7 +4957,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=68></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=65></a>
 
 ###### Article R412-120
 
@@ -5659,7 +5067,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=69></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=66></a>
 
 ###### Article R*412-123
 
@@ -5748,7 +5156,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=70></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=67></a>
 
 ###### Article R*412-127
 
@@ -5768,7 +5176,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=71></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=68></a>
 
 ###### Article R*413-1
 
@@ -5817,9 +5225,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=72></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=69></a>
 
-##### SECTION 1 : Notation.<a id=73></a>
+##### SECTION 1 : Notation.<a id=70></a>
 
 ###### Article R414-1
 
@@ -5846,7 +5254,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=74></a>
+##### SECTION 2 : Avancement.<a id=71></a>
 
 ###### Article R*414-2
 
@@ -6377,9 +5785,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=75></a>
+##### SECTION 3 : Discipline<a id=72></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=76></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=73></a>
 
 ###### Article R*414-15
 
@@ -6477,7 +5885,7 @@ _Modifié par_:
   - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=77></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=74></a>
 
 ###### Article R*414-22
 
@@ -6672,7 +6080,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=78></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=75></a>
 
 ###### Article R*414-29
 
@@ -6686,11 +6094,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=79></a>
+#### CHAPITRE 5 : Positions<a id=76></a>
 
-##### SECTION 1 : Activités, congés<a id=80></a>
+##### SECTION 1 : Activités, congés<a id=77></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=81></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=78></a>
 
 ###### Article R*415-2
 
@@ -6857,7 +6265,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=82></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=79></a>
 
 ###### Article R*415-6
 
@@ -6884,7 +6292,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=83></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=80></a>
 
 ###### Article R*416-1
 
@@ -6916,7 +6324,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=84></a>
+##### SECTION 1 : L'admission à la retraite.<a id=81></a>
 
 ###### Article R*416-2
 
@@ -6939,7 +6347,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=85></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=82></a>
 
 ###### Article R*416-3
 
@@ -6961,9 +6369,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=86></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=83></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=87></a>
+##### SECTION 1 : Sécurité sociale.<a id=84></a>
 
 ###### Article R417-1
 
@@ -6988,7 +6396,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=88></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=85></a>
 
 ###### Article R417-5
 
@@ -7581,7 +6989,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=89></a>
+##### SECTION 4 : Pensions.<a id=86></a>
 
 ###### Article R417-22
 
@@ -7627,11 +7035,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=90></a>
+### TITRE 2 : Personnels divers<a id=87></a>
 
-#### CHAPITRE 2 : Agents non titulaires<a id=91></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=88></a>
 
-##### SECTION 1 : Dispositions générales.<a id=92></a>
+##### SECTION 1 : Dispositions générales.<a id=89></a>
 
 ###### Article R*422-1
 
@@ -7652,7 +7060,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=93></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=90></a>
 
 ###### Article R*422-3
 
@@ -7714,7 +7122,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=94></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=91></a>
 
 ###### Article R*422-5
 
@@ -7831,7 +7239,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=95></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=92></a>
 
 ###### Article R*422-9
 
@@ -7974,7 +7382,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=96></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=93></a>
 
 ###### Article R*422-15
 
@@ -8417,7 +7825,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=97></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=94></a>
 
 ###### Article R*422-33
 
@@ -8529,7 +7937,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=98></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=95></a>
 
 ###### Article R422-41
 
@@ -8565,7 +7973,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=99></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=96></a>
 
 ###### Article R*423-1
 
@@ -8657,11 +8065,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=100></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=97></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=101></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=98></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=102></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=99></a>
 
 ###### Article R*432-1
 
@@ -8754,7 +8162,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=103></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=100></a>
 
 ###### Article R*432-4
 
@@ -8958,9 +8366,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=104></a>
+### TITRE 4 : Dispositions particulières<a id=101></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=105></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=102></a>
 
 ###### Article R441-1
 
@@ -8990,9 +8398,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=106></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=103></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=107></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=104></a>
 
 ###### Article R442-1
 
@@ -9034,7 +8442,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=108></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=105></a>
 
 ###### Article R*442-2
 
@@ -9056,11 +8464,11 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=109></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=106></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=110></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=107></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=111></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=108></a>
 
 ###### Article R*444-1
 
@@ -9568,7 +8976,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Recrutement.<a id=112></a>
+##### SECTION 2 : Recrutement.<a id=109></a>
 
 ###### Article R*444-28
 
@@ -9822,7 +9230,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=113></a>
+##### SECTION 3 : Rémunération.<a id=110></a>
 
 ###### Article R*444-37
 
@@ -9944,9 +9352,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=114></a>
+##### SECTION 4 : Notation et avancement<a id=111></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=115></a>
+##### SOUS-SECTION 1 : Notation.<a id=112></a>
 
 ###### Article R*444-42
 
@@ -10113,7 +9521,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=116></a>
+##### SOUS-SECTION 2 : Avancement.<a id=113></a>
 
 ###### Article R*444-49
 
@@ -10512,7 +9920,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=117></a>
+##### SECTION 5 : Discipline.<a id=114></a>
 
 ###### Article R*444-65
 
@@ -11220,7 +10628,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=118></a>
+##### SECTION 6 : Positions.<a id=115></a>
 
 ###### Article R*444-88
 
@@ -11253,7 +10661,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=119></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=116></a>
 
 ###### Article R*444-89
 
@@ -11275,7 +10683,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=120></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=117></a>
 
 ###### Article R444-90
 
@@ -11350,7 +10758,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=121></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=118></a>
 
 ###### Article R*444-102
 
@@ -11512,7 +10920,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=122></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=119></a>
 
 ###### Article R*444-109
 
@@ -11555,7 +10963,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=123></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=120></a>
 
 ###### Article R*444-120
 
@@ -11581,7 +10989,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=124></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=121></a>
 
 ###### Article R*444-122
 
@@ -11604,7 +11012,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=125></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=122></a>
 
 ###### Article R*444-123
 
@@ -11645,7 +11053,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=126></a>
+##### SOUS-SECTION 8 : Mutations.<a id=123></a>
 
 ###### Article R*444-169
 
@@ -11709,7 +11117,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=127></a>
+##### SECTION 7 : Cessation de fonctions.<a id=124></a>
 
 ###### Article R*444-172
 
