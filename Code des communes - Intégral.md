@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1994-01-04
+Version Consolidée au 1994-02-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -237,7 +237,7 @@ Version Consolidée au 1994-01-04
       - [TITRE 1 : Administration de la commune (art. L311-1 à L318-3)](#234)
         - [CHAPITRE 1 : Biens communaux. (art. L311-1 à L311-33)](#235)
           - [SECTION 1 : Acquisition, location et affectation de biens. (art. L311-2 à L311-7)](#236)
-          - [SECTION 2 : Aliénation de biens. (art. L*311-8 à L311-12)](#237)
+          - [SECTION 2 : Aliénation de biens. (art. L311-10 à L311-12)](#237)
           - [SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif. (art. L311-13 à L311-33)](#238)
         - [CHAPITRE 2 : Dons et legs (art. L312-1 à L312-7)](#239)
           - [SECTION 1 : Dispositions générales. (art. L312-1 à L312-7)](#240)
@@ -27053,51 +27053,6 @@ _Nouveaux textes_:
 
 
 ##### SECTION 2 : Aliénation de biens.<a id=237></a>
-
-###### Article L*311-8
-
-Lorsque les collectivités locales, leurs groupements et leurs établissements publics, leurs concessionnaires ou sociétés
-d'économie mixte locales envisagent de procéder à la vente à des personnes privées de terrains constructibles ou de droits de
-construire, elles doivent publier, à peine de nullité d'ordre public de la vente, un avis indiquant la nature des biens ou
-des droits cédés et les conditions de la vente envisagée ainsi que, sauf lorsque la vente est destinée à la réalisation, par
-des organismes d'habitations à loyer modéré et des sociétés d'économie mixte, de logements locatifs sociaux financés à l'aide
-de prêts aidés par l'Etat, le lieu de réception des propositions des candidats, le délai dans lequel celles-ci doivent être
-formulées et la forme qu'elles doivent revêtir. L'avis doit être publié préalablement à la vente qui ne pourra intervenir à
-partir dudit avis que dans un délai fixé par décret.
-
-" Une société d'économie mixte locale qui envisage de céder un bien de nature immobilière ou des droits de construire à une
-personne privée, physique ou morale, détenant directement ou indirectement une partie du capital de cette société, doit,
-préalablement à cette cession et à peine de nullité d'ordre public, en informer ses actionnaires, collectivités locales ou
-groupements de collectivités locales.
-
-" Communication de cette information doit être inscrite à l'ordre du jour de la plus proche réunion de l'organe délibérant de
-chacune des collectivités locales ou groupements mentionnés à l'alinéa précédent. Le maire, le président de l'assemblée
-délibérante de la collectivité territoriale, de l'établissement public ou de la société d'économie mixte locale doit indiquer
-les raisons de son choix devant l'organe délibérant de la collectivité ou de l'organisme concerné.
-
-" L'action en nullité se prescrit, dans les cas prévus aux alinéas précédents, par cinq ans à compter de la publication de
-l'acte constatant la cession.
-
-" Les modalités de la publicité prévue au premier alinéa sont déterminées par un décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *l'article l311-8 du code des communes est implicitement abrogé par l'abrogation de l'article 51 de la loi n°93-122 du 29 janvier 1993*
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Loi n°93-122 du 29 janvier 1993 - art. 51 ()
-
-_Abrogé par_:
-
-  - Loi n°94-112 du 9 février 1994 - art. 16 (V)
-
 
 ###### Article L311-10
 
