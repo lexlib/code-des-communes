@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1990-09-26
+Version Consolidée au 1990-12-02
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -176,11 +176,11 @@ Version Consolidée au 1990-09-26
             - [SOUS-SECTION 3 : Dotation de péréquation. (art. L234-4 à L234-9)](#173)
             - [SOUS-SECTION 3 bis : Dotation de compensation (art. L234-10 à L234-11)](#174)
             - [SOUS-SECTION 4 : Concours particuliers. (art. L234-15 à L234-16)](#175)
-            - [SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions. (art. L234-19 à L234-19-2)](#176)
+            - [SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions. (art. L234-19 à L234-19-3)](#176)
             - [SOUS-SECTION 6 : Comité des finances locales. (art. L234-21)](#177)
           - [SECTION 4 : Concours particuliers (art. L234-12 à L234-21-1)](#178)
             - [SOUS-SECTION 4 bis : Dispositions applicables aux groupements de communes. (art. L234-17)](#179)
-            - [SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions. (art. L234-19-1 à L234-19-3)](#180)
+            - [SOUS-SECTION 5 : Dispositions communes aux diverses sortes d'attributions. (art. L234-19-1)](#180)
             - [SOUS-SECTION 6 : Comité des finances locales. (art. L234-20 à L234-21-1)](#181)
           - [SECTION 2 : Répartition du produit des amendes relatives à la circulation routière. (art. L234-22 à L234-23)](#182)
         - [CHAPITRE 5 : Subventions (art. L235-4 à L235-16)](#183)
@@ -256,9 +256,9 @@ Version Consolidée au 1990-09-26
         - [CHAPITRE 4 : Concessions et affermages (art. L324-2 à L324-6)](#253)
           - [SECTION 1 : Dispositions générales. (art. L324-2 à L324-6)](#254)
       - [TITRE 3 : Voirie. (art. L331-1 à L331-3)](#255)
-      - [TITRE 4 : Bibliothèques et musées (art. L341-1 à L342-2)](#256)
+      - [TITRE 4 : Bibliothèques et musées (art. L341-1 à L342-1)](#256)
         - [CHAPITRE 1 : Bibliothèques. (art. L341-1 à L341-4)](#257)
-        - [CHAPITRE 2 : Musées. (art. L342-1 à L342-2)](#258)
+        - [CHAPITRE 2 : Musées. (art. L342-1)](#258)
       - [TITRE 5 : Protection contre l'incendie (art. L351-1 à L354-16)](#259)
         - [CHAPITRE 1 : Dispositions générales. (art. L351-1 à L351-2)](#260)
         - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels. (art. L353-1 à L353-3)](#261)
@@ -3677,37 +3677,42 @@ _Nouveaux textes_:
 
 ###### Article L122-8
 
-Ne peuvent être maires ou adjoints ni en exercer même temporairement les fonctions, dans aucune des communes du département
-où ils sont affectés, les agents des administrations financières, à l'exception des gérants de débit de tabac, les
-trésoriers-payeurs généraux, les receveurs particuliers des finances, les trésoriers principaux, les receveurs percepteurs et
-les percepteurs, les agents des forêts ainsi que les gardes des établissements publics et des particuliers [*interdiction,
-incompatibilité*]. 
+Les agents des administrations financières ayant à connaître de la comptabilité communale, de l'assiette, du recouvrement ou
+du contrôle de tous impôts et taxes ne peuvent être maires ou adjoints, ni en exercer même temporairement les fonctions, dans
+toutes les communes qui, dans leur département de résidence administrative, sont situées dans le ressort de leur service
+d'affectation.
+
+La même incompatibilité est opposable dans toutes les communes du département où ils sont affectés aux comptables supérieurs
+du Trésor et aux chefs de services départementaux des administrations financières. Elle est également opposable dans toutes
+les communes de la région ou des régions où ils sont affectés aux trésoriers-payeurs généraux chargés de régions et aux chefs
+de services régionaux des administrations financières.
 
 Les agents salariés du maire ne peuvent être adjoints.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L122-10 (Ab)
-  - CODE DES COMMUNES. - art. L164-5 (Ab)
-  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 62 remplacé
-
-_Cite_:
-
-  - Décret n°1943-03-07 art. 65 (incompatibilité des fonctions de maire avec celles de sapeur-pompier)
-
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Cité par_:
 
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+  - Loi n°82-1169 du 31 décembre 1982 - art. 5 (Ab)
+  - CODE DES COMMUNES. - art. L122-10 (Ab)
+  - CODE DES COMMUNES. - art. L164-5 (Ab)
+
+_Modifié par_:
+
+  - Loi n°90-1067 du 28 novembre 1990 - art. 22 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2122-5 (V)
+  - Code général des collectivités territoriales - art. L2122-6 (M)
 
 
 ###### Article L122-9
@@ -3803,9 +3808,15 @@ _Nouveaux textes_:
 
 ###### Article L122-11
 
-Le maire [*attributions*] est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité,
-déléguer par arrêté [*conditions de forme*] une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence
-ou en cas d'empêchement des adjoints, à des membres du conseil municipal.
+Le maire est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté
+une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints, à des
+membres du conseil municipal.
+
+Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
+
+1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ;
+
+2° Au directeur général des services techniques et au directeur des services techniques des communes.
 
 Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
@@ -3835,6 +3846,10 @@ _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
+_Modifié par_:
+
+  - Loi n°90-1067 du 28 novembre 1990 - art. 23 () JORF 2 décembre 1990
+
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 11 mars 1993
@@ -3846,9 +3861,16 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 7 (Ab)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code de l'administration communale 64
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2122-18 (M)
+  - Code général des collectivités territoriales - art. L2122-19 (M)
+  - Code général des collectivités territoriales - art. L2122-20 (V)
+  - Code général des collectivités territoriales - art. L2122-25 (V)
 
 
 ###### Article L122-12
@@ -4064,7 +4086,7 @@ _Abrogé par_:
 ###### Article L122-18
 
 L'honorariat est conféré par le représentant de l'Etat dans le département [*commissaire de la République, autorité
-compétente*] aux anciens maires et adjoints qui ont exercé des fonctions municipales pendant au moins vingt-quatre ans
+compétente*] aux anciens maires et adjoints qui ont exercé des fonctions municipales pendant au moins dix-huit ans
 [*condition*], dans la même commune. Sont comptés pour une durée de six ans les mandats municipaux qui, par suite de
 dispositions législatives, ont eu une durée inférieure à six ans, à condition qu'elle ait été supérieure à cinq ans.
 
@@ -4085,7 +4107,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+  - Loi n°90-1067 du 28 novembre 1990 - art. 24 ()
 
 _Nouveaux textes_:
 
@@ -4178,46 +4200,27 @@ _Nouveaux textes_:
 Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie, et pour la durée de son
 mandat :
 
-1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;
-
-2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de
-dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune
-qui n'ont pas un caractère fiscal ;
-
-3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
-investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
-
+1° D'arrêter et modifier l'affectation des propriétés communales utilisées par les services publics municipaux ;        2° De
+fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de dépôt
+temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune qui
+n'ont pas un caractère fiscal ;        3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des
+emprunts destinés au financement des investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
 fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
-crédits sont prévus au budget ;
-
-5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
-
-6° De passer les contrats d'assurance ;
-
-7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ;
-
-8° De prononcer la délivrance et la reprise des concessions dans les cimetières ;
-
-9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
-
-10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ;
-
-11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
-experts ;
-
-12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
-notifier aux expropriés et de répondre à leurs demandes ;
-
-13° De décider de la création de classes dans les établissements d'enseignement ;
-
-14° De fixer les reprises d'alignement en application d'un document d'urbanisme.
-
-15° D'exercer, au nom de la commune, les droit de préemption définis par le code de l'urbanisme, que la commune en soit
-titulaire, directement  ou par substitution, ou délégataire .
-
-16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune dans les actions intentées contre elle,
-dans les cas définis par le conseil municipal.
+crédits sont prévus au budget ;        5° De décider de la conclusion et de la révision du louage de choses pour une durée
+n'excédant pas douze ans ;        6° De passer les contrats d'assurance ;        7° De créer les régies comptables
+nécessaires au fonctionnement des services municipaux ;        8° De prononcer la délivrance et la reprise des concessions
+dans les cimetières ;        9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;        10° De
+décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30.000 F ;        11° De fixer les rémunérations et de régler
+les frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;        12° De fixer, dans les
+limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à notifier aux expropriés et de
+répondre à leurs demandes ;        13° De décider de la création de classes dans les établissements d'enseignement ;
+14° De fixer les reprises d'alignement en application d'un document d'urbanisme.        15° D'exercer, au nom de la commune,
+les droit de préemption définis par le code de l'urbanisme, que la commune en soit titulaire, directement  ou par
+substitution, ou délégataire .        16° D'intenter au nom de la commune les actions en justice ou de défendre  la commune
+dans les actions intentées contre elle, dans les cas définis par le conseil municipal.        17° De régler les conséquences
+dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la limite fixée par le conseil
+municipal. "
 
 **Liens relatifs à cet article**
 
@@ -4243,7 +4246,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 28 () JORF 19 juillet 1985
+  - Loi n°90-1067 du 28 novembre 1990 - art. 25 ()
 
 _Nouveaux textes_:
 
@@ -5252,9 +5255,10 @@ comprend le nettoiement, l'éclairage, l'enlèvement des encombrements, la démo
 ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des édifices qui puisse nuire par sa chute ou celle de
 rien jeter qui puisse endommager les passants ou causer des exhalaisons nuisibles ;
 
-2. Le soin de réprimer les atteintes à la tranquillité publique, telle que les rixes et disputes accompagnées d'ameutement
-dans les rues, le tumulte excité dans les lieux d'assemblée publique, les attroupements, les bruits et rassemblements
-nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique.
+2. Le soin de réprimer les atteintes à la tranquillité publique telles que les rixes et disputes accompagnées d'ameutement
+dans les rues, le tumulte excité dans les lieux d'assemblée publique, les attroupements, les bruits, y compris les bruits de
+voisinage, les rassemblements nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la
+tranquillité publique.
 
 3. Le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés,
 réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics ;
@@ -5279,9 +5283,10 @@ publique, la sécurité des personnes ou la conservation des propriétés ;
 malfaisants ou féroces ;
 
 9. Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette fermeture est rendue nécessaire pour
-l'application de la législation sur les congés payés, après consultation des organisations patronales et ouvrières
-[*conditions de forme*], de manière à assurer le ravitaillement de la population.    La police municipale des communes
-riveraines de la mer s'exerce sur le rivage de la mer jusqu'à la limite des eaux.
+l'application de la législation sur les congés payés, après consultation des organisations patronales et ouvrières, de
+manière à assurer le ravitaillement de la population.
+
+La police municipale des communes riveraines de la mer s'exerce sur le rivage de la mer jusqu'à la limite des eaux.
 
 **Liens relatifs à cet article**
 
@@ -5317,15 +5322,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-2 du 3 janvier 1986 - art. 31 () JORF 4 JANVIER 1986
+  - Loi n°90-1067 du 28 novembre 1990 - art. 26 () JORF 2 décembre 1990
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L181-1 (M)
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code de l'administration communale 97 COMPLETE
+  - Code général des collectivités territoriales - art. L2212-2 (M)
+  - Code général des collectivités territoriales - art. L2212-3 (V)
+  - Code général des collectivités territoriales - art. L2212-9 (V)
 
 
 ###### Article L131-2-1
@@ -6112,8 +6119,9 @@ _Nouveaux textes_:
 
 ###### Article L132-8
 
-Le soin de réprimer les atteintes à la tranquillité publique, tel qu'il est défini à l'article L. 131-2 2. et mis par cet
-article en règle générale à la charge du maire, incombe à l'Etat seul dans les communes où la police est étatisée.
+Le soin de réprimer les atteintes à la tranquillité publique, tel qu'il est défini au troisième alinéa (2°) de l'article L.
+131-2 et mis par cet article en règle générale à la charge du maire, incombe à l'Etat seul dans les communes où la police est
+étatisée, sauf en ce qui concerne les bruits de voisinage.
 
 Dans ces mêmes communes, l'Etat a la charge du bon ordre quand il se fait occasionnellement de grands rassemblements
 d'hommes.
@@ -6125,31 +6133,30 @@ Les forces de police étatisées sont chargées, notamment, d'exécuter les arr�
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes L181-1 :
-
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
 _Modifié par_:
 
-  - Loi n°83-8 du 7 janvier 1983 - art. 89 () JORF 9 JANVIER 1983
+  - Loi n°90-1067 du 28 novembre 1990 - art. 26 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cite_:
 
   - CODE DES COMMUNES. - art. L131-2 (M)
-  - Code des communes L131-2-2
 
 _Cité par_:
 
   - CODE DES COMMUNES. - art. L132-7 (Ab)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code de l'administration communale 113
+  - Code général des collectivités territoriales - art. L2214-3 (V)
+  - Code général des collectivités territoriales - art. L2214-4 (M)
 
 
 ###### Article L132-9
@@ -6542,13 +6549,12 @@ _Abrogé par_:
 
 ###### Article L142-8
 
-Le comité de direction [*composition*] comprend, sous la présidence du maire, des conseillers municipaux désignés par le
-conseil municipal et des représentants des professions ou associations intéressées au tourisme, nommés par le représentant de
-l'Etat dans le département [*commissaire de la République*] après avis du maire, sur proposition des associations ou
-organisations professionnelles locales intéressées [**]conditions de forme - attributions[**].
+Le comité de direction comprend, sous la présidence du maire, des conseillers municipaux désignés par le conseil municipal,
+et les représentants des professions ou associations intéressées au tourisme désignés par le conseil municipal sur
+proposition des associations ou organisations professionnelles locales intéressées.
 
 Les conseillers municipaux, désignés par le conseil municipal, doivent représenter le sixième au moins et le tiers au plus du
-nombre total des membres du comité [*proportion*].
+nombre total des membres du comité.
 
 **Liens relatifs à cet article**
 
@@ -6558,23 +6564,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
+  - Loi n°90-1067 du 28 novembre 1990 - art. 27 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cité par_:
 
   - CODE DES COMMUNES. - art. R*142-4 (Ab)
 
-_Cite_:
-
-  - Code des communes R142-4
-
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2231-12 (MMN)
-
-_Anciens textes_:
-
-  - Loi n°64-898 1964-07-10 art. 4
+  - Code général des collectivités territoriales - art. L2231-12 (M)
 
 
 ###### Article L142-9
@@ -8952,19 +8955,23 @@ _Nouveaux textes_:
 
 Le président est l'organe exécutif du syndicat.
 
-" Il prépare et exécute les délibérations du comité.
+Il prépare et exécute les délibérations du comité.
 
-" Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes du syndicat.
+Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes du syndicat.
 
-" Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
+Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
 l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
 d'autres membres du bureau.
 
-" Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
+directeur adjoint dans les syndicats dont les compétences, l'importance du budget, le nombre et la qualification des agents à
+encadrer permettent de les assimiler à des communes de plus de 20000 habitants.
 
-" Il est le chef des services que le syndicat crée.
+Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
-" Il représente le syndicat en justice. "
+Il est le chef des services que le syndicat crée.
+
+Il représente le syndicat en justice.
 
 **Liens relatifs à cet article**
 
@@ -8974,7 +8981,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°88-13 du 5 janvier 1988 - art. 41 () JORF 6 janvier 1988
+  - Loi n°90-1067 du 28 novembre 1990 - art. 28 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cité par_:
 
@@ -9713,8 +9724,16 @@ _Nouveaux textes_:
 
 ###### Article L164-8
 
-Le président [**]attributions[**] assure l'exécution des décisions du conseil [*de district*] et représente le district dans
-les actes de la vie civile.
+Le président assure l'exécution des décisions du conseil et représente le district dans les actes de la vie civile.
+
+Il peut, sous sa surveillance et sa responsabilité, déléguer une partie de ses fonctions à un ou plusieurs des vice-
+présidents ou, en cas d'empêchement de ces derniers, à des membres du conseil du district.
+
+Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+
+Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
+directeur adjoint dans les districts dont les compétences, l'importance du budget, le nombre et la qualification des agents à
+encadrer permettent de les assimiler à des communes de plus de 20000 habitants.
 
 **Liens relatifs à cet article**
 
@@ -9726,9 +9745,13 @@ _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+  - Loi n°90-1067 du 28 novembre 1990 - art. 29 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Nouveaux textes_:
 
@@ -11231,13 +11254,10 @@ urbaines dans les actes de la vie civile.
 Il peut, sous sa responsabilité, déléguer une partie de ses fonctions à un ou plusieurs des vice-présidents ou, en cas
 d'empêchement de ces derniers, à des membres du conseil de communauté.
 
+Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
+directeur adjoint de la communauté.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L182-1 (Ab)
-  - SPEC_APPLI: Code des communes L182-1, L182-2 :
 
 _Anciens textes_:
 
@@ -11247,9 +11267,13 @@ _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 MARS 1977
+  - Loi n°90-1067 du 28 novembre 1990 - art. 30 () JORF 2 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Nouveaux textes_:
 
@@ -20048,6 +20072,10 @@ moyen par habitant de l'ensemble des communes appartenant au même groupe démog
 Aucune recette n'est versée au titre de la première fraction aux communes dont le potentiel fiscal par habitant est supérieur
 au double du potentiel fiscal moyen par habitant des communes appartenant au même groupe démographique.
 
+" Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes directes locales, l'attribution par habitant
+revenant à la commune est égale au double de l'attribution moyenne par habitant de l'ensemble des communes appartenant au
+même groupe démographique, tel qu'il résulte de l'article L. 234-2. "
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -20074,7 +20102,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-1268 1985-11-29 ART. 1, 7, 12 JORF 5 décembre 1985
+  - Loi n°90-1067 du 28 novembre 1990 - art. 31 ()
+
+_Abrogé par_:
+
+  - Loi n°93-1436 1994-01-04 art. 4 jorf 4 janvier 1994
 
 
 ###### Article L234-9
@@ -20403,6 +20435,65 @@ _Cite_:
 
   - CODE DES COMMUNES. - art. L234-14 (M)
   - CODE DES COMMUNES. - art. L234-19-1 (M)
+
+_Abrogé par_:
+
+  - Loi n°93-1436 1994-01-04 art. 16 jorf 4 janvier 1994
+
+
+###### Article L234-19-3
+
+La population à prendre en compte pour l'application des articles des sous-sections I à V de la présente section est celle
+qui résulte des recensements généraux ou complémentaires, majorées chaque année des accroissements de population dans des
+conditions définies par décret en Conseil d'Etat.
+
+Cette population est la population totale, majorée d'un habitant par résidence secondaire.
+
+" Lorsque le recensement général de la population de 1990 fait apparaître une diminution de la population d'une commune, une
+part de la diminution constatée est ajoutée, pendant trois ans, à la population légale de cette commune. Pour 1991, cette
+part est fixée à 75 p. 100 de la diminution ; pour 1992 et 1993, elle est respectivement égale à 50 p. 100 et 25 p. 100. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Cité par_:
+
+  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
+  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
+  - Décret n°85-261 du 22 février 1985 - art. 2-I (Ab)
+  - Décret n°85-1510 du 31 décembre 1985 - art. 11 (M)
+  - Décret n°85-1515 du 31 décembre 1985 - art. 1 (Ab)
+  - Décret n°86-419 du 12 mars 1986 - art. 3 (Ab)
+  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
+  - Décret n°93-258 du 26 février 1993 - art. 2 (Ab)
+  - Décret n°93-745 du 29 mars 1993 - art. 8 (Ab)
+  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
+  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
+  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+  - CODE DES COMMUNES. - art. L234-6 (T)
+  - CODE DES COMMUNES. - art. L263-14 (M)
+  - CODE DES COMMUNES. - art. L263-15 (M)
+  - CODE DES COMMUNES. - art. R*234-33 (M)
+  - CODE DES COMMUNES. - art. R*263-40 (M)
+  - CODE DES COMMUNES. - art. R*263-50 (M)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Loi n°90-1067 du 28 novembre 1990 - art. 32 ()
+
+_Cite_:
+
+  - Code des communes L234-1 à L234-19-3
 
 _Abrogé par_:
 
@@ -20881,57 +20972,6 @@ _Modifié par_:
 _Cite_:
 
   - CODE DES COMMUNES. - art. L234-13 (M)
-
-
-###### Article L234-19-3
-
-La population à prendre en compte pour l'application des articles des sous-sections I à V de la présente section est celle
-qui résulte des recensements généraux ou complémentaires, majorées chaque année des accroissements de population dans des
-conditions définies par décret en Conseil d'Etat.
-
-Cette population est la population totale, majorée d'un habitant par résidence secondaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Cité par_:
-
-  - Décret n°85-260 du 22 février 1985 - art. 3-1 (M)
-  - Décret n°85-260 du 22 février 1985 - art. 5 (V)
-  - Décret n°85-261 du 22 février 1985 - art. 2-I (Ab)
-  - Décret n°85-1510 du 31 décembre 1985 - art. 11 (M)
-  - Décret n°85-1515 du 31 décembre 1985 - art. 1 (Ab)
-  - Décret n°86-419 du 12 mars 1986 - art. 3 (Ab)
-  - Décret n°93-258 du 26 février 1993 - art. 1 (Ab)
-  - Décret n°93-258 du 26 février 1993 - art. 2 (Ab)
-  - Décret n°93-745 du 29 mars 1993 - art. 8 (Ab)
-  - Loi n°93-1436 du 31 décembre 1993 - art. 16 (V)
-  - Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)
-  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
-  - CODE DES COMMUNES. - art. L234-6 (T)
-  - CODE DES COMMUNES. - art. L263-14 (M)
-  - CODE DES COMMUNES. - art. L263-15 (M)
-  - CODE DES COMMUNES. - art. R*234-33 (M)
-  - CODE DES COMMUNES. - art. R*263-40 (M)
-  - CODE DES COMMUNES. - art. R*263-50 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (M)
-
-_Créé par_:
-
-  - Loi n°85-1268 1985-11-29 art. 1, 23 JORF 3 décembre 1985
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985
-  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°85-1515 du 31 décembre 1985 - art. 2 (Ab)
-
-_Cite_:
-
-  - Code des communes L234-1 à L234-19-3
 
 
 ##### SOUS-SECTION 6 : Comité des finances locales.<a id=181></a>
@@ -29094,26 +29134,15 @@ _Nouveaux textes_:
 
 Un règlement d'administration publique fixe la liste des bibliothèques de 1ère catégorie dites classées.
 
-Les bibliothécaires de ces bibliothèques sont des fonctionnaires de l'Etat.
+Par dérogation à l'article 41 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique de l'Etat, les bibliothécaires qui ont la qualité de fonctionnaires de l'Etat peuvent être mis à la disposition des
+collectivités territoriales pour exercer leurs fonctions dans les bibliothèques classées.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes L391-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 433 AL. 2 (partie) et AL. 4
 
 _Codifié par_:
 
   - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Loi n°77-240 1977-03-07 JORF et JONC 18 mars 1977
 
 _Cité par_:
 
@@ -29126,52 +29155,19 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L341-1 (Ab)
+  - Loi n°84-16 1984-01-11 art. 41
 
+_Modifié par_:
 
-###### Article L341-3
-
-Les communes sont tenues de participer aux dépenses inscrites au budget de l'Etat pour le traitement et les indemnités
-réglementaires des bibliothécaires des bibliothèques [*publiques des communes*] de la 1re catégorie [*dites classées*].
-
-Cette participation ne peut être inférieure [*montant*] :
-
-1° A 40 p. 100 [*pourcentage*] dans les villes d'une population inférieure à 40.000 habitants ;
-
-2° A 50 p. 100 dans les villes d'une population comprise entre 40.000 et 100.000 habitants ;
-
-3° A 60 p. 100 dans les villes d'une population supérieure à 100.000 habitants [*nombre*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes L391-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 434
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
+  - Loi n°90-1067 1990-11-28 art. 1 JORF 2 décembre 1990
 
 _Abrogé par_:
 
-  - Loi n°90-1067 1990-11-28 art. 1 II  jorf 2 décembre 1990
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
-_Cité par_:
+_Nouveaux textes_:
 
-  - Loi n°90-1067 du 28 novembre 1990 - art. 1 (V)
-
-_Cite_:
-
-  - Code des communes L341-1 à L341-2
+  - Code général des collectivités territoriales - art. L1422-3 (Ab)
 
 
 ###### Article L341-4
@@ -29242,52 +29238,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-
-
-###### Article L342-2
-
-Conformément à l'article 11 de l'ordonnance du 13 juillet 1945, les collectivités publiques ou les personnes morales dont
-dépend le musée participent obligatoirement aux dépenses inscrites au budget de l'Etat pour les traitements et les indemnités
-des conservateurs des musées classés, qu'ils soient ou non chefs d'établissement.
-
-Pour les communes, cette participation est au moins [*montant minimum*] :
-
-1° De 40 p. 100 [*pourcentage*] dans les villes d'une population inférieure à 40000 habitants ;
-
-2° De 50 p. 100 dans les villes d'une population comprise entre 40.000 et 100.000 habitants ;
-
-3° De 60 p. 100 dans les villes d'une population supérieure à 100.000 habitants [*nombre*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes L391-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 436
-
-_Cite_:
-
-  - Ordonnance n°45-1546 du 13 juillet 1945 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Loi n°90-1067 du 28 novembre 1990 - art. 2 (V)
-
-_Cité par_:
-
-  - Loi n°90-1067 du 28 novembre 1990 - art. 2 (V)
 
 
 ### TITRE 5 : Protection contre l'incendie<a id=259></a>
