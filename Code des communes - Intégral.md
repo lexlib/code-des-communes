@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-08-12
+Version Consolidée au 1977-08-19
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1148,7 +1148,7 @@ Version Consolidée au 1977-08-12
           - [Conseil d'administration des corps de sapeurs-pompiers. (art. R352-15)](#1145)
         - [Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-13 à R353-49)](#1146)
           - [Durée du service . (art. R353-13)](#1147)
-          - [Notation et avancement. (art. R353-39 à R353-49)](#1148)
+          - [Notation et avancement. (art. R353-49)](#1148)
         - [SAPEURS-POMPIERS COMMUNAUX PROFESSIONNELS . (art. R353-2 à R353-72)](#1149)
           - [RECRUTEMENT . (art. R353-19)](#1150)
           - [AVANCEMENT (art. R353-40 à R353-54)](#1151)
@@ -81147,6 +81147,29 @@ _Abrogé par_:
   - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
 
 
+###### Article R353-39
+
+Sont nommés caporaux les sapeurs-pompiers qui comptent une ancienneté de trois ans et sont titulaires du brevet national de
+secouriste avec la mention "spécialiste en ranimation" et soit d'un certificat d'aptitude professionnelle, soit d'un des
+diplômes et certificats de qualification professionnelle des sapeurs-pompiers définis par arrêté du ministre de l'intérieur.
+
+Les caporaux parvenus au 6è échelon de leur grade sont nommés au grade de caporal-chef.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 1 et ART. 112 REMPLACE AL. 1
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
+
+
 ###### Article R353-41
 
 Les adjudants sont nommés parmi les sergents et sergents-chefs qui comptent trois ans de fonctions dans leur grade
@@ -96591,29 +96614,6 @@ _Abrogé par_:
 
 
 ##### Notation et avancement.<a id=1148></a>
-
-###### Article R353-39
-
-Sont nommés caporaux les sapeurs-pompiers qui comptent une ancienneté de trois ans et sont titulaires du brevet national de
-secouriste avec la mention "spécialiste en ranimation" et soit d'un certificat d'aptitude professionnelle, soit d'un des
-diplômes et certificats de qualification professionnelle des sapeurs-pompiers définis par arrêté du ministre de l'intérieur.
-
-Les caporaux parvenus au 7è échelon sont nommés caporaux-chefs après trois ans de fonctions dans le grade.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 1 et ART. 112 REMPLACE AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
 
 ###### Article R353-49
 
