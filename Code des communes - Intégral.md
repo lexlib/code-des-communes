@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-04-12
+Version Consolidée au 1988-04-24
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -469,10 +469,10 @@ Version Consolidée au 1988-04-12
         - [CHAPITRE 5 : Dispositions applicables à certaines grandes villes (art. R*185-1 à R185-6)](#466)
           - [SECTION 1 : Dispositions applicables à la ville de Lyon. (art. R*185-1 à R185-2)](#467)
           - [SECTION 2 : Dispositions applicables à la ville de Marseille. (art. R*185-4 à R185-6)](#468)
-    - [Organisation communale (art. R*112-19 à R*112-28)](#469)
-      - [Nom, limites territoriales et population des communes (art. R*112-19 à R*112-28)](#470)
-        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19 à R*112-28)](#471)
-          - [Modifications aux limites territoriales des communes (art. R*112-19 à R*112-28)](#472)
+    - [Organisation communale (art. R*112-19)](#469)
+      - [Nom, limites territoriales et population des communes (art. R*112-19)](#470)
+        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19)](#471)
+          - [Modifications aux limites territoriales des communes (art. R*112-19)](#472)
     - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-7)](#473)
       - [TITRE 1 : Budget (art. R*211-1 à R*212-6)](#474)
         - [CHAPITRE 1 : Dispositions générales. (art. R*211-1)](#475)
@@ -38122,6 +38122,46 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L2112-6 (V)
 
 
+###### Article R*112-20
+
+Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune soit pour la
+rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du préfet institue, pour cette section ou
+cette portion de territoire, une commission qui donne son avis sur le projet.
+
+" Le nombre des membres de la commission est fixé par cet arrêté.
+
+" Les membres de la commission, choisis parmi les personnes éligibles au conseil municipal de la commune, sont élus selon les
+mêmes règles que les conseillers municipaux des communes de moins de 2 500 habitants [*population*].
+
+" Sont électeurs, lorsqu'ils sont inscrits sur les listes électorales de la commune, les habitants ayant un domicile réel et
+fixe sur le territoire de la section ou de la portion de territoire et les propriétaires de biens fonciers sis sur cette
+section ou portion de territoire [*conditions*].
+
+" La commission élit en son sein son président. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-189 1959-01-22 ART. 2
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°88-419 1988-04-22 ART. 1 JORF 24 avril 1988
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2112-3 (V)
+
+
 ###### Article R*112-21
 
 Après accomplissement des diverses formalités prévues aux articles R. 112-19 et R. 112-20, les conseils municipaux,
@@ -38358,6 +38398,44 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2112-8 (V)
+
+
+###### Article R*112-28
+
+Les actes qui prononcent les fusions ou les distractions de communes en déterminent toutes les conditions  [*de transfert de
+propriété des biens communaux*], autres que celles qui sont mentionnées aux articles R. 112-25 à R. 112-27.
+
+" Toutefois, lorsque l'acte requis est un décret, il peut décider que certaines de ces conditions sont déterminées par un
+arrêté du préfet.
+
+" Le préfet peut prendre par arrêté toutes dispositions transitoires pour assurer la continuité des services publics jusqu'à
+l'installation des nouvelles assemblées municipales. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-189 1959-01-22 ART. 6 AL. 4 ET 5
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°88-419 1988-04-22 ART. 2 JORF 24 avril 1988
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+_Cite_:
+
+  - Code des communes R112-25 A R112-27
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2112-10 (V)
 
 
 ###### Article R*112-29
@@ -47158,60 +47236,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°83-82 1983-02-09 ART. 3 JORF 11 FEVRIER 1983
-
-
-###### Article R*112-20
-
-Si le projet concerne le détachement d'une section de commune ou d'une portion du territoire d'une commune, soit pour la
-rattacher à une autre commune, soit pour l'ériger en commune séparée, un arrêté du commissaire de la République institué,
-pour cette section ou cette portion de territoire et dans les conditions prévues à l'article L. 151-6 [*relatif aux sections
-de communes*], une commission syndicale [*composée de personnes éligibles de la commune nommées par les électeurs et les
-propriétaires de la section*] qui donne son avis sur le projet [*formalités*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-189 1959-01-22 ART. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Modifié par_:
-
-  - Décret n°83-82 1983-02-09 ART. 4 JORF 11 FEVRIER 1983
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L151-6 (M)
-
-
-###### Article R*112-28
-
-Les actes qui prononcent les fusions ou les distractions de communes en déterminent toutes les conditions autres que celles
-[*conditions de transfert de propriété des biens communaux*] qui sont mentionnées aux articles R. 112-25 à R. 112-27.
-
-Ils peuvent, toutefois, décider que certaines de ces conditions, notamment en matière financière et patrimoniale, sont
-déterminées par un arrêté du commissaire de la République.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-189 1959-01-22 ART. 6 AL. 4 ET 5
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Modifié par_:
-
-  - Décret n°83-82 1983-02-09 ART. 5 JORF 11 FEVRIER 1983
-
-_Cite_:
-
-  - Code des communes R112-25 A R112-27
 
 
 ## LIVRE 2 : Finances communales<a id=473></a>
