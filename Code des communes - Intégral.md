@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-06-21
+Version Consolidée au 1980-06-22
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1323,31 +1323,32 @@ Version Consolidée au 1980-06-21
           - [Position hors cadre . (art. R*415-12 à R*415-14)](#1320)
           - [La disponibilité . (art. R*415-15)](#1321)
           - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1322)
-      - [Personnels divers (art. R*422-2 à R*422-40)](#1323)
-        - [Agents non titulaires (art. R*422-2 à R*422-40)](#1324)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1323)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1324)
           - [Dispositions générales . (art. R*422-2)](#1325)
           - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1326)
-      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1327)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1328)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1329)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1330)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1331)
-          - [Recrutement . (art. R*444-29 à R*444-32)](#1332)
-          - [AVANCEMENT . (art. R*444-50)](#1333)
-          - [Positions (art. R*444-90 à R*444-168)](#1334)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1335)
-              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1336)
-              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1337)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1338)
-            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1339)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1340)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1341)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1342)
-            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1343)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1344)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1345)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1346)
-          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1347)
+          - [Congé parental . (art. R422-42 à R422-49)](#1327)
+      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1328)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1329)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1330)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1331)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1332)
+          - [Recrutement . (art. R*444-29 à R*444-32)](#1333)
+          - [AVANCEMENT . (art. R*444-50)](#1334)
+          - [Positions (art. R*444-90 à R*444-168)](#1335)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1336)
+              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1337)
+              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1338)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1339)
+            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1340)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1341)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1342)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1343)
+            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1344)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1345)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1346)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1347)
+          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1348)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -112796,13 +112797,188 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-### Dispositions particulières<a id=1327></a>
+##### Congé parental .<a id=1327></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1328></a>
+###### Article R422-42
 
-##### Dispositions générales et organiques<a id=1329></a>
+Les agents féminins non titulaires utilisés de manière continue, ayant été employés de manière permanente et justifiant d'une
+ancienneté minimale d'un an à la date de la naissance ou de l'arrivée au foyer d'un enfant confié en vue de son adoption, ont
+droit sur leur demande, à un congé parental   non rémunéré pour élever cet enfant. 
 
-##### Le conseil administratif supérieur .<a id=1330></a>
+Ce congé parental est accordé par le maire ou le président d'établissement public communal ou intercommunal pour compter du
+jour qui suit l'expiration du congé de maternité ou d'adoption. Toutefois, en cas d'adoption, l'enfant au titre duquel le
+congé parental est demandé ne doit pas avoir atteint l'âge de trois ans au premier jour du congé pour adoption.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Cité par_:
+
+  - Décret n°88-145 du 15 février 1988 - art. 50 (V)
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-43
+
+La demande de congé parental doit être présentée un mois au moins avant l'expiration du congé de maternité ou d'adoption
+[*délai*].
+
+Le congé parental est accordé par périodes de six mois renouvelables par tacite reconduction pour une période maximale de
+deux ans. L'agent qui souhaite écourter son congé parental doit en avertir le maire ou le président d'établissement public
+par lettre recommandée, un mois au moins avant l'expiration de la période de six mois en cours [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-44
+
+L'autorité qui a accordé le congé parental peut à tout moment faire procéder aux enquêtes nécessaires pour s'assurer que
+l'activité de l'agent bénéficiaire du congé est réellement consacrée à élever son enfant.
+
+Le congé parental cesse de plein droit en cas de décès de l'enfant ou de retrait de l'enfant placé en vue de son adoption. Il
+peut également être écourté si un contrôle révèle que l'activité de l'agent n'est pas réellememt consacrée à élever son
+enfant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-45
+
+Durant le congé parental, les agents conservent, s'il y a lieu, leurs droits à l'avancement d'échelon réduits de moitié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-46
+
+L'agent non titulaire ne peut être réemployé au terme du congé parental que s'il en formule la demande par lettre
+recommandée, au plus tard un mois avant ce terme. A défaut d'une telle demande, l'agent est considéré comme démissionnaire
+[*conditions de forme, demande expresse*].
+
+Au terme du congé parental, s'il a formulé la demande visée à l'alinéa précédent, ou à l'issue de la période de six mois en
+cours, si l'agent a averti le maire ou le président d'établissement public qu'il souhaitait écourter son congé, ou un mois au
+plus tard après que le congé ait cessé de plein droit ou à la suite d'un contrôle administratif, l'agent est réemployé s'il
+est physiquement apte et s'il remplit toujours les conditions requises, dans la mesure permise par le service. Il ne peut
+prétendre à une nouvelle période de congé parental du chef du même enfant [*renouvellement*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-47
+
+La possibilité d'obtenir un congé parental prévu par le présent décret est ouverte au père agent non titulaire qui remplit
+les mêmes conditions si la mère renonce à ce congé ou au congé parental d'éducation prévu par l'article L. 122-28-1 du code
+du travail, le décret n. 79-33 du 8 janvier 1979, ou au congé postnatal prévu à l'article 47 bis de l'ordonnance n. 59-244 du
+4 février 1959, l'article 65-1 de la loi n. 72-662 du 13 juillet 1972, les articles L. 415-30 à L. 415-33 du code des
+communes et l'article 881-1 du code de la santé publique, ou si elle ne peut en bénéficier.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 59-244 1959-02-04 ART. 47 BIS
+  - Loi n°72-662 du 13 juillet 1972 - art. 65-1 (M)
+  - Décret n°79-33 1979-01-08
+  - CODE DES COMMUNES. - art. L415-33 (M)
+  - Code du travail - art. L122-28-1 (M)
+  - Code de la santé publique 881-1
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-48
+
+Le congé parental peut être demandé à l'occasion de chaque naissance ou de chaque adoption à la condition que, depuis
+l'expiration du précédent congé parental dont il a bénéficié, l'agent ait repris son travail pendant au moins un an à la date
+de la naissance ou de l'arrivée au foyer de l'enfant confié en vue de son adoption [*délai*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+
+###### Article R422-49
+
+Pour la détermination de la durée de service requise pour l'ouverture des droits à congé parental, les congés annuels, les
+congés de maladie ou consécutifs à un accident du travail ou à une maladie professionnelle, les congés de maternité, les
+congés d'éducation ouvrière et les congés accordés dans les conditions fixées par les articles R. 415-2 à R. 415-5 du code
+des communes sont assimilés à des périodes d'activité effective.
+
+Dans le cas des agents recrutés par engagement à durée déterminée, le congé parental ne pourra être attribué au-delà de la
+période de l'engagement restant à courir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
+
+_Cite_:
+
+  - Code des communes R415-2 à R415-5
+
+
+### Dispositions particulières<a id=1328></a>
+
+#### Dispositions applicables à la ville de Paris<a id=1329></a>
+
+##### Dispositions générales et organiques<a id=1330></a>
+
+##### Le conseil administratif supérieur .<a id=1331></a>
 
 ###### Article R*444-21
 
@@ -112902,7 +113078,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1331></a>
+##### Les commissions et comités paritaires .<a id=1332></a>
 
 ###### Article R*444-26
 
@@ -112954,7 +113130,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1332></a>
+##### Recrutement .<a id=1333></a>
 
 ###### Article R*444-29
 
@@ -113052,7 +113228,7 @@ _Cite_:
   - Code des communes R444-1
 
 
-##### AVANCEMENT .<a id=1333></a>
+##### AVANCEMENT .<a id=1334></a>
 
 ###### Article R*444-50
 
@@ -113085,11 +113261,11 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### Positions<a id=1334></a>
+##### Positions<a id=1335></a>
 
-##### Activité, congés<a id=1335></a>
+##### Activité, congés<a id=1336></a>
 
-##### Service à temps partiel .<a id=1336></a>
+##### Service à temps partiel .<a id=1337></a>
 
 ###### Article R*444-90
 
@@ -113163,7 +113339,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### Service à mi-temps.<a id=1337></a>
+##### Service à mi-temps.<a id=1338></a>
 
 ###### Article R*444-95
 
@@ -113325,7 +113501,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1338></a>
+##### Congés de maladie .<a id=1339></a>
 
 ###### Article R*444-110
 
@@ -113694,7 +113870,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### ACTIVITES, CONGES .<a id=1339></a>
+##### ACTIVITES, CONGES .<a id=1340></a>
 
 ###### Article R*444-93
 
@@ -113784,7 +113960,7 @@ _Cite_:
   - Code des communes R444-101 AL. 3
 
 
-##### Détachement .<a id=1340></a>
+##### Détachement .<a id=1341></a>
 
 ###### Article R*444-125
 
@@ -114324,7 +114500,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1341></a>
+##### POSITION HORS CADRE .<a id=1342></a>
 
 ###### Article R*444-143
 
@@ -114539,7 +114715,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1342></a>
+##### Disponibilité.<a id=1343></a>
 
 ###### Article R*444-150
 
@@ -114895,7 +115071,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1343></a>
+##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1344></a>
 
 ###### Article R*444-162
 
@@ -114924,7 +115100,7 @@ _Cite_:
   - Code des communes R444-154 5° et 6°
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1344></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1345></a>
 
 ###### Article R*444-163
 
@@ -114950,7 +115126,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1345></a>
+##### Position "sous les drapeaux" .<a id=1346></a>
 
 ###### Article R*444-164
 
@@ -115032,7 +115208,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1346></a>
+##### CONGE POSTNATAL .<a id=1347></a>
 
 ###### Article R*444-167
 
@@ -115073,7 +115249,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### Cessation de fonctions .<a id=1347></a>
+##### Cessation de fonctions .<a id=1348></a>
 
 ###### Article R*444-178
 
