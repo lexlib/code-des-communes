@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-01-05
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -386,7 +386,7 @@ Version Consolidée au 1979-01-04
           - [Dispositions applicables au budget communal et au budget spécial de la préfecture de police (art. L264-11 à L264-16)](#383)
           - [RECETTES . (art. L264-17)](#384)
     - [LIVRE 3 : Administration et services communaux (art. L311-1 à L395-4)](#385)
-      - [TITRE 1 : Administration de la commune (art. L311-1 à L317-5)](#386)
+      - [TITRE 1 : Administration de la commune (art. L311-1 à L317-7)](#386)
         - [CHAPITRE 1 : Biens communaux. (art. L311-1 à L311-33)](#387)
           - [SECTION 1 : Acquisition, location et affectation de biens. (art. L311-2 à L311-6)](#388)
           - [SECTION 2 : Aliénation de biens. (art. L311-10 à L311-12)](#389)
@@ -402,7 +402,7 @@ Version Consolidée au 1979-01-04
           - [SECTION 1 : Dispositions générales. (art. L316-3 à L316-4)](#399)
           - [SECTION 2 : Exercice, par un contribuable, des actions appartenant à la commune. (art. L316-5 à L316-8)](#400)
           - [SECTION 3 : Actions intentées contre la commune. (art. L316-12 à L316-13)](#401)
-        - [CHAPITRE 7 : Archives communales. (art. L317-1 à L317-5)](#402)
+        - [CHAPITRE 7 : Archives communales. (art. L317-1 à L317-7)](#402)
       - [TITRE 2 : Services communaux (art. L321-2 à L324-6)](#403)
         - [CHAPITRE 1 : Dispositions générales applicables aux services communaux. (art. L321-2 à L321-4)](#404)
         - [CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages. (art. L322-4 à L322-9)](#405)
@@ -470,7 +470,7 @@ Version Consolidée au 1979-01-04
           - [SECTION 1 : Voirie. (art. L394-2)](#467)
           - [SECTION 2 : Protection contre l'incendie. (art. L394-3 à L394-4)](#468)
         - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. L395-1 à L395-4)](#469)
-    - [ADMINISTRATION DE LA COMMUNE (art. L311-4 à L317-6)](#470)
+    - [ADMINISTRATION DE LA COMMUNE (art. L311-4 à L317-4)](#470)
       - [BIENS COMMUNAUX (art. L311-4 à L311-7)](#471)
         - [ACQUISITION,  LOCATION ET AFFECTATION DE BIENS . (art. L311-4 à L311-7)](#472)
       - [DONS ET LEGS (art. L312-1 à L312-9)](#473)
@@ -478,7 +478,7 @@ Version Consolidée au 1979-01-04
         - [REDUCTION DES  CHARGES DES LIBERALITES . (art. L312-8 à L312-9)](#475)
       - [ACTIONS JUDICIAIRES . (art. L316-2 à L316-11)](#476)
         - [ACTIONS  INTENTEES CONTRE LA COMMUNE . (art. L316-11)](#477)
-      - [ARCHIVES COMMUNALES . (art. L317-2 à L317-6)](#478)
+      - [ARCHIVES COMMUNALES . (art. L317-2 à L317-4)](#478)
     - [Administration et services communaux (art. L311-5 à L394-5)](#479)
       - [Administration de la commune (art. L311-5 à L316-10)](#480)
         - [Biens communaux (art. L311-5 à L311-11)](#481)
@@ -30415,6 +30415,54 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L1421-10 (Ab)
 
 
+###### Article L317-6
+
+Ainsi qu'il est dit à l'article 25 de la loi n° 79-18 du 3 janvier 1979 sur les archives, les tarifs des droits d'expédition
+ou d'extrait authentique des pièces conservées dans les dépôts d'archives des communes, du droit de visa perçu pour certifier
+authentiques les copies des plans conservés dans lesdites archives ainsi que pour authentifier les photocopies et toutes
+reproductions photographiques des documents conservés dans ces mêmes archives sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-240 1977-03-07
+
+_Cite_:
+
+  - Loi n°79-18 1979-01-03 ART. 25
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+
+###### Article L317-7
+
+Le conseil municipal peut émettre des voeux tendant à ce qu'il soit fait usage par l'Etat, au profit de la commune, du droit
+de préemption ou du droit de rétention établi par la loi, sur les documents d'archives classés et non classés.
+
+Il peut déléguer l'exercice de cette compétence au maire dans les conditions prévues à l'article L. 122-21 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-240 1977-03-07
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L122-21 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L1421-11 (Ab)
+
+
 ### TITRE 2 : Services communaux<a id=403></a>
 
 #### CHAPITRE 1 : Dispositions générales applicables aux services communaux.<a id=404></a>
@@ -36230,32 +36278,6 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des communes R317-3
-
-
-###### Article L317-6
-
-Conformément à l'article 9 de la loi n° 51-630 du 24 mai 1951, les tarifs des droits d'expédition ou d'extrait authentique
-des pièces conservées dans les dépôts d'archives des communes, du droit de visa perçu pour certifier authentiques les copies
-des plans conservés dans lesdites archives ainsi que pour authentifier les photocopies et toutes reproductions
-photographiques des documents conservés dans ces mêmes archives sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 341
-
-_Cite_:
-
-  - Loi n°51-630 1951-05-24 ART. 9
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF ET JONC 18 MARS 1977
 
 
 ## Administration et services communaux<a id=479></a>
