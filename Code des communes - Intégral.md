@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-12-31
+Version Consolidée au 1984-01-27
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -62,7 +62,7 @@ Version Consolidée au 1983-12-31
           - [SECTION 1 : Création du syndicat. (art. L163-1 à L163-3)](#59)
           - [SECTION 2 : Administration et fonctionnement du syndicat. (art. L163-4 à L163-14)](#60)
           - [SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat. (art. L163-15 à L163-16-2)](#61)
-        - [CHAPITRE 4 : Districts. (art. L164-1 à L164-8)](#62)
+        - [CHAPITRE 4 : Districts. (art. L164-1 à L164-9)](#62)
         - [CHAPITRE 5 : Communautés urbaines (art. L165-1 à L165-38)](#63)
           - [SECTION 1 : Dispositions générales. (art. L165-1 à L165-3)](#64)
           - [SECTION 2 : Création et délimitation de la communauté urbaine. (art. L165-4 à L165-6)](#65)
@@ -144,7 +144,7 @@ Version Consolidée au 1983-12-31
           - [Administration et fonctionnement du syndicat . (art. L163-5 à L163-13)](#141)
           - [Modification aux conditions initiales de composition et de fonctionnement du syndicat. (art. L163-17)](#142)
           - [Durée du syndicat . (art. L163-18)](#143)
-        - [DISTRICTS . (art. L164-5 à L164-9)](#144)
+        - [DISTRICTS . (art. L164-5)](#144)
         - [COMMUNAUTES URBAINES (art. L165-7 à L165-24)](#145)
           - [Compétences de la communauté urbaine (art. L165-7)](#146)
             - [Etendue des compétences . (art. L165-7)](#147)
@@ -399,728 +399,682 @@ Version Consolidée au 1983-12-31
         - [Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne (art. L393-2)](#396)
         - [Dispositions applicables à la ville de Paris (art. L394-5)](#397)
           - [Protection contre l'incendie. (art. L394-5)](#398)
-    - [Personnel communal (art. L411-1 à L444-4)](#399)
-      - [Agents nommés dans des emplois permanents à temps complet (art. L411-1 à L417-27)](#400)
-        - [Dispositions générales et organiques (art. L411-1 à L411-46)](#401)
-          - [Dispositions générales . (art. L411-1 à L411-23)](#402)
-          - [Commission nationale paritaire du personnel communal . (art. L411-24 à L411-25)](#403)
-          - [Syndicat de communes pour le personnel communal . (art. L411-27 à L411-30)](#404)
-          - [Commission paritaire communale . (art. L411-31 à L411-38)](#405)
-          - [Commission paritaire intercommunale . (art. L411-39 à L411-46)](#406)
-        - [Recrutement, formation et promotion sociale (art. L412-1 à L412-53)](#407)
-          - [Recrutement (art. L412-1 à L412-27)](#408)
-            - [Dispositions générales . (art. L412-1 à L412-10)](#409)
-            - [Modalités de recrutement communes à tous les emplois . (art. L412-11 à L412-17)](#410)
-            - [Modalités de recrutement applicables à certains emplois. (art. L412-18 à L412-26)](#411)
-            - [Bourse de l'emploi . (art. L412-27)](#412)
-          - [Centre de formation des personnels communaux (art. L412-29 à L412-32)](#413)
-            - [Rôle . (art. L412-29 à L412-32)](#414)
-          - [Promotion sociale . (art. L412-41 à L412-44)](#415)
-          - [Dispositions applicables à certains personnels (art. L412-52 à L412-53)](#416)
-            - [Dispositions applicables aux personnels des écoles d'art et musées. (art. L412-52 à L412-53)](#417)
-        - [Rémunération et effectifs . (art. L413-1 à L413-10)](#418)
-        - [Notation, avancement et discipline (art. L414-1 à L414-22)](#419)
-          - [Notation . (art. L414-1 à L414-4)](#420)
-          - [Avancement . (art. L414-5 à L414-10)](#421)
-          - [Discipline (art. L414-11 à L414-22)](#422)
-            - [Le conseil de discipline . (art. L414-11 à L414-17)](#423)
-            - [Les sanctions disciplinaires . (art. L414-18 à L414-22)](#424)
-        - [Positions . (art. L415-1 à L415-64)](#425)
-          - [Activités, congés . (art. L415-2 à L415-29)](#426)
-            - [Les congés annuels . (art. L415-3 à L415-9)](#427)
-            - [Les congés de maladie . (art. L415-10 à L415-25)](#428)
-            - [Les congés de maternité . (art. L415-26)](#429)
-            - [Les congés exceptionnels . (art. L415-27)](#430)
-            - [Les autorisations d'absence . (art. L415-28 à L415-29)](#431)
-          - [Le congé postnatal . (art. L415-30 à L415-33)](#432)
-          - [Le détachement . (art. L415-34 à L415-40)](#433)
-          - [Position hors cadre . (art. L415-41 à L415-48)](#434)
-          - [La disponibilité . (art. L415-49 à L415-61)](#435)
-          - [Position "sous les drapeaux" . (art. L415-62 à L415-64)](#436)
-        - [Cessation de fonctions (art. L416-3 à L416-12)](#437)
-          - [L'admission à la retraite . (art. L416-3)](#438)
-          - [La démission . (art. L416-5 à L416-8)](#439)
-          - [Le licenciement . (art. L416-9 à L416-12)](#440)
-        - [Sécurité sociale, pensions, hygiène et sécurité (art. L417-10 à L417-27)](#441)
-          - [Pensions . (art. L417-10)](#442)
-          - [Hygiène et sécurité . (art. L417-18 à L417-27)](#443)
-            - [Comités d'hygiène et de sécurité . (art. L417-19 à L417-22)](#444)
-            - [Commission intercommunale d'hygiène et de sécurité . (art. L417-23 à L417-25)](#445)
-            - [Médecine professionnelle . (art. L417-27)](#446)
-      - [Personnels divers (art. L421-1 à L422-9)](#447)
-        - [Agents nommés dans des emplois permanents à temps non complet (art. L421-1 à L421-16)](#448)
-        - [Agents non titulaires . (art. L422-1 à L422-9)](#449)
-      - [Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. L431-1 à L432-8)](#450)
-        - [Fusion de communes . (art. L431-1 à L431-3)](#451)
-        - [Création de communauté urbaine . (art. L432-1 à L432-8)](#452)
-      - [Dispositions particulières (art. L442-1 à L444-4)](#453)
-        - [Dispositions applicables aux communes des départements d'Outre-mer (art. L442-1 à L442-2)](#454)
-          - [Dispositions particulières aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. L442-1)](#455)
-          - [Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon . (art. L442-2)](#456)
-        - [Dispositions applicables aux communes des départements de la région d'Ile-de-France . (art. L443-1 à L443-4)](#457)
-        - [Dispositions applicables à la ville de Paris . (art. L444-1 à L444-4)](#458)
-    - [LIVRE 4 : Personnel communal (art. L411-26 à L444-5)](#459)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. L411-26 à L417-28)](#460)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. L411-26 à L411-29)](#461)
-          - [SECTION 3 : Syndicats de communes pour le personnel communal. (art. L411-26 à L411-29)](#462)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-28 à L412-50)](#463)
-          - [SECTION 2 : Centre de formation des personnels communaux. (art. L412-28 à L412-40)](#464)
-            - [SOUS-SECTION 1 : Rôle. (art. L412-33)](#465)
-            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. L412-34 à L412-36)](#466)
-            - [SOUS-SECTION 3 : Le budget. (art. L412-37 à L412-38)](#467)
-            - [SOUS-SECTION 4 : Le personnel. (art. L412-40)](#468)
-          - [SECTION 4 : Formation professionnelle continue. (art. L412-45)](#469)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-46 à L412-50)](#470)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-46 à L412-50)](#471)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. L413-5 à L413-15)](#472)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. L414-23 à L414-24)](#473)
-          - [SECTION 3 : Discipline (art. L414-23 à L414-24)](#474)
-            - [SOUS-SECTION 3 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L414-23 à L414-24)](#475)
-        - [CHAPITRE 6 : Cessation de fonctions (art. L416-1 à L416-4)](#476)
-          - [SECTION 1 : L'admission à la retraite. (art. L416-1 à L416-4)](#477)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. L417-1 à L417-28)](#478)
-          - [SECTION 1 : Sécurité sociale. (art. L417-1)](#479)
-          - [SECTION 2 : Prestations familiales. (art. L417-2)](#480)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. L417-8 à L417-9)](#481)
-          - [SECTION 4 : Pensions. (art. L417-11 à L417-17)](#482)
-          - [SECTION 5 : Hygiène et sécurité (art. L417-26 à L417-28)](#483)
-            - [SOUS-SECTION 3 : Médecine professionnelle. (art. L417-26 à L417-28)](#484)
-      - [TITRE 2 : Personnels divers (art. L422-6 à L422-8)](#485)
-        - [CHAPITRE 2 : Agents non titulaires. (art. L422-6 à L422-8)](#486)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. L432-2 à L432-7)](#487)
-        - [CHAPITRE 2 : Création de communauté urbaine. (art. L432-2 à L432-7)](#488)
-      - [TITRE 4 : Dispositions particulières (art. L441-1 à L444-5)](#489)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L441-1 à L441-4)](#490)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. L444-3 à L444-5)](#491)
-    - [LIVRE 5 : Dispositions finales. (art. L501-1 à L501-3)](#492)
-  - [Partie réglementaire (art. R*111-1 à R*444-178)](#493)
-    - [LIVRE 1 : Organisation communale (art. R*111-1 à R185-6)](#494)
-      - [TITRE 1 : Nom, limites territoriales et population des communes (art. R*111-1 à R114-7)](#495)
-        - [CHAPITRE 1 : Nom des communes. (art. R*111-1)](#496)
-        - [CHAPITRE 2 : Limites territoriales, chef-lieu et fusion des communes (art. R*112-1 à R*112-30)](#497)
-          - [SECTION 1 : Dispositions générales. (art. R*112-1 à R112-3)](#498)
-          - [SECTION 2 : Fusion de communes (art. R*112-12 à R112-16)](#499)
-            - [SOUS-SECTION 1 : Dispositions communes. (art. R*112-12 à R112-16)](#500)
-          - [SECTION 3 : Modifications aux limites territoriales des communes. (art. R*112-17 à R*112-30)](#501)
-        - [CHAPITRE 3 : Suppression des communes après rachat de tout ou partie de leur territoire. (art. R*113-1 à R*113-2)](#502)
-        - [CHAPITRE 4 : Population des communes. (art. R114-1 à R114-7)](#503)
-      - [TITRE 2 : Organes de la commune (art. R*121-1 à R*124-6)](#504)
-        - [CHAPITRE 1 : Conseil municipal. (art. R*121-1 à R*121-15)](#505)
-          - [SECTION 1 : Formation. (art. R*121-2 à R*121-6)](#506)
-          - [SECTION 2 : Fonctionnement. (art. R*121-7 à R*121-10)](#507)
-          - [SECTION 3 : Dispositions applicables aux membres des conseils municipaux. (art. R*121-11 à R*121-14)](#508)
-          - [SECTION 4 : Attributions des conseils municipaux. (art. R*121-15)](#509)
-        - [CHAPITRE 2 : Maires et adjoints (art. R*122-1 à R122-7)](#510)
-          - [SECTION 2 : Désignation et statut des maires et adjoints. (art. R*122-1 à R122-6)](#511)
-          - [SECTION 3 : Attributions des maires et adjoints. (art. R*122-8 à R122-7)](#512)
-        - [CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. R*123-1 à R123-8)](#513)
-          - [SECTION 3 : Indemnités de fonctions. (art. R*123-1 à R*123-3)](#514)
-          - [SECTION 4 : Régime de retraite des maires et adjoints. (art. R123-4 à R123-8)](#515)
-        - [CHAPITRE 4 : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R*124-1 à R*124-6)](#516)
-          - [SECTION 1 : Dispositions applicables aux conseils et aux conseillers municipaux. (art. R*124-1 à R*124-3)](#517)
-          - [SECTION 2 : Dispositions applicables aux maires et adjoints. (art. R*124-4 à R*124-6)](#518)
-      - [TITRE 3 : Police (art. R*131-1 à R*133-1)](#519)
-        - [CHAPITRE 1 : Dispositions générales (art. R*131-1 à R131-3)](#520)
-          - [SECTION 2 : Pouvoirs de police du maire portant sur des objets particuliers. (art. R*131-1 à R131-3)](#521)
-        - [CHAPITRE 2 : Dispositions particulières (art. R*132-1 à R*132-3)](#522)
-          - [SECTION 1 : Police dans les campagnes. (art. R*132-1 à R*132-3)](#523)
-        - [CHAPITRE 3 : Responsabilité des communes (art. R*133-1)](#524)
-          - [SECTION 2 : Actions et recours. (art. R*133-1)](#525)
-      - [TITRE 4 : Stations classées (art. R*142-1 à R143-35)](#526)
-        - [CHAPITRE 2 : Dispositions communes aux stations classées (art. R*142-1 à R*142-29)](#527)
-          - [SECTION 1 : Classement. (art. R*142-1)](#528)
-          - [SECTION 2 : Office du tourisme (art. R*142-2 à R*142-29)](#529)
-            - [SOUS-SECTION 1 : Création d'offices du tourisme. (art. R*142-2 à R*142-3)](#530)
-            - [SOUS-SECTION 2 : Organisation. (art. R*142-4 à R*142-15)](#531)
-            - [SOUS-SECTION 3 : Budget et comptabilité. (art. R*142-16 à R*142-19)](#532)
-            - [SOUS-SECTION 4 : Dissolution de l'office du tourisme. (art. R*142-20)](#533)
-            - [SOUS-SECTION 5 : Les offices de tourisme intercommunaux. (art. R*142-21 à R*142-29)](#534)
-        - [CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations (art. R*143-1 à R143-35)](#535)
-          - [SECTION 1 : Stations hydrominérales et climatiques (art. R*143-1 à R143-16)](#536)
-            - [SOUS-SECTION 1 : Procédure de classement. (art. R*143-1 à R143-9)](#537)
-            - [SOUS-SECTION 2 : Groupes de communes érigés en stations hydrominérales et climatiques. (art. R*143-10 à R143-16)](#538)
-          - [SECTION 2 : Stations uvales. (art. R*143-17 à R143-18)](#539)
-          - [SECTION 3 : Stations de tourisme (art. R*143-19 à R143-24)](#540)
-            - [SOUS-SECTION 1 : Procédure de classement. (art. R*143-19 à R143-21)](#541)
-            - [SOUS-SECTION 2 : Groupes de communes érigés en stations de tourisme. (art. R143-24)](#542)
-          - [SECTION 4 : Stations balnéaires (art. R143-25 à R143-27)](#543)
-            - [SOUS-SECTION 1 : Création. (art. R143-25 à R143-26)](#544)
-            - [SOUS-SECTION 2 : Groupes de communes érigés en stations balnéaires. (art. R143-27)](#545)
-          - [SECTION 5 : Stations de sports d'hiver et d'alpinisme. (art. R*143-30 à R143-35)](#546)
-      - [TITRE 5 : Intérêts propres à certaines catégories d'habitants (art. R*152-1 à R153-3)](#547)
-        - [CHAPITRE 2 : Secteur de commune. (art. R*152-1 à R*152-2)](#548)
-        - [CHAPITRE 3 : Communes associées. (art. R*153-1 à R153-3)](#549)
-      - [TITRE 6 : Intérêts communs à plusieurs communes (art. R*162-1 à R*165-31)](#550)
-        - [CHAPITRE 2 : Biens et droits indivis entre plusieurs communes. (art. R*162-1 à R*162-2)](#551)
-        - [CHAPITRE 3 : Syndicats de communes (art. R*163-1 à R*163-6)](#552)
-          - [SECTION 1 : Création du syndicat. (art. R*163-1)](#553)
-          - [SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat. (art. R*163-4 à R*163-5)](#554)
-          - [SECTION 4 : Durée du syndicat. (art. R*163-6)](#555)
-        - [CHAPITRE 4 : Districts. (art. R*164-1 à R*164-5)](#556)
-        - [CHAPITRE 5: Communautés urbaines (art. R*165-1 à R*165-31)](#557)
-          - [SECTION 3 : Compétences de la communauté urbaine (art. R*165-1 à R*165-12)](#558)
-            - [SOUS-SECTION 1 : Etendue des compétences. (art. R*165-1 à R*165-5)](#559)
-            - [SOUS-SECTION 2 : Effets du transfert des compétences. (art. R*165-6 à R*165-12)](#560)
-          - [SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations. (art. R*165-15 à R*165-31)](#561)
-      - [TITRE 7 : Agglomérations nouvelles (art. R*171-1 à R*173-14)](#562)
-        - [CHAPITRE 1 : Création d'agglomérations nouvelles. (art. R*171-1 à R*171-6)](#563)
-        - [CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement (art. R*172-1 à R*172-3)](#564)
-          - [SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement. (art. R*172-1 à R*172-3)](#565)
-        - [CHAPITRE 3 : Ensemble urbain (art. R*173-1 à R*173-14)](#566)
-          - [SECTION 2 : Conseil de l'ensemble urbain. (art. R*173-1 à R*173-11)](#567)
-          - [SECTION 3 : Transformation de l'ensemble urbain en commune. (art. R*173-12 à R*173-14)](#568)
-      - [TITRE 8 : Dispositions particulières (art. R*181-1 à R185-6)](#569)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*181-1 à R*181-6)](#570)
-          - [SECTION 1 : Dispositions générales. (art. R*181-1)](#571)
-          - [SECTION 2 : Le conseil municipal. (art. R*181-2)](#572)
-          - [SECTION 6 : Intérêts communs (art. R*181-5 à R*181-6)](#573)
-            - [SOUS-SECTION 1 : Ententes et conférences intercommunales. (art. R*181-5)](#574)
-            - [SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes. (art. R*181-6)](#575)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R*182-1 à R*182-3)](#576)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R*182-1 à R*182-2)](#577)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*182-3)](#578)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne . (art. R*183-1)](#579)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*184-1 à R184-14)](#580)
-          - [SECTION 1 : Dispositions générales. (art. R*184-1)](#581)
-          - [SECTION 3 : Le maire et les adjoints. (art. R*184-2 à R*184-11)](#582)
-          - [SECTION 5 : Les commissions d'arrondissement. (art. R*184-13 à R184-14)](#583)
-        - [CHAPITRE 5 : Dispositions applicables à certaines grandes villes (art. R*185-1 à R185-6)](#584)
-          - [SECTION 1 : Dispositions applicables à la ville de Lyon. (art. R*185-1 à R185-2)](#585)
-          - [SECTION 2 : Dispositions applicables à la ville de Marseille. (art. R*185-4 à R185-6)](#586)
-    - [Organisation communale (art. R*112-19 à R*166-2)](#587)
-      - [Nom, limites territoriales et population des communes (art. R*112-19 à R*112-28)](#588)
-        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19 à R*112-28)](#589)
-          - [Modifications aux limites territoriales des communes (art. R*112-19 à R*112-28)](#590)
-      - [INTERETS COMMUNS A PLUSIEURS COMMUNES (art. R*165-32 à R*166-2)](#591)
-        - [Communautés urbaines (art. R*165-32 à R*165-35)](#592)
-          - [Le conseil de communauté (art. R*165-32 à R*165-35)](#593)
-            - [Composition du conseil de communauté et désignation de ses membres . (art. R*165-32 à R*165-35)](#594)
-        - [Syndicats mixtes . (art. R*166-1 à R*166-2)](#595)
-    - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-7)](#596)
-      - [TITRE 1 : Budget (art. R*211-1 à R*212-6)](#597)
-        - [CHAPITRE 1 : Dispositions générales. (art. R*211-1)](#598)
-        - [CHAPITRE 2 : Vote et règlement. (art. R*212-1 à R*212-6)](#599)
-      - [TITRE 2 : Dépenses. (art. R221-1 à R221-9)](#600)
-      - [TITRE 3 : Recettes (art. R231-1 à R236-26)](#601)
-        - [CHAPITRE 1 : Dispositions générales (art. R231-1)](#602)
-          - [SECTION 2 : Contrôle de la Cour des comptes. (art. R231-1)](#603)
-        - [CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R*233-6 à R233-114)](#604)
-          - [SECTION 1 : Taxe sur certaines fournitures d'électricité (art. R*233-6 à R*233-10)](#605)
-            - [SOUS-SECTION 2 : Dispositions applicables à l'électricité livrée en basse tension par des distributeurs. (art. R*233-6 à R*233-10)](#606)
-          - [SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché des viandes (art. R233-11 à R233-12)](#607)
-            - [SOUS-SECTION 1 : Taxe d'usage des abattoirs publics. (art. R233-11)](#608)
-            - [SOUS-SECTION 2 : Taxe de protection sanitaire et d'organisation du marché des viandes. (art. R233-12)](#609)
-          - [SECTION 3 : Taxe sur la publicité (art. R233-19 à R233-38)](#610)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R233-19 à R233-20)](#611)
-            - [SOUS-SECTION 2 : Assiette de la taxe et exonérations. (art. R233-21 à R233-23)](#612)
-            - [SOUS-SECTION 4 : Paiement et recouvrement de la taxe. (art. R*233-29 à R233-35)](#613)
-            - [SOUS-SECTION 5 : Sanctions applicables. (art. R233-36 à R233-38)](#614)
-          - [SECTION 4 : Taxes particulières aux stations (art. R233-70 à R233-77)](#615)
-            - [SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos. (art. R233-70 à R233-77)](#616)
-          - [SECTION 6 : Taxes destinées au financement des transports en commun (art. R233-78 à R233-102)](#617)
-            - [SOUS-SECTION 1 : Versement destiné aux transports en commun (art. R233-78 à R233-101)](#618)
-              - [PARAGRAPHE 1 : Dispositions communes. (art. R233-78 à R233-85)](#619)
-              - [PARAGRAPHE 2 : Dispositions particulières applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles. (art. R233-86 à R233-96)](#620)
-              - [PARAGRAPHE 3 : Dispositions particulières aux employeurs relevant du régime des assurances sociales agricoles. (art. R233-97 à R233-101)](#621)
-            - [SOUS-SECTION 2 : Surtaxes locales temporaires. (art. R233-102)](#622)
-          - [SECTION 7 : Droits de port. (art. R*233-103)](#623)
-          - [SECTION 8 : Redevances d'occupation du domaine public (art. R233-104 à R233-107)](#624)
-            - [SOUS-SECTION 1 : Redevances des distributions d'électricité et de gaz. (art. R233-104 à R233-106)](#625)
-            - [SOUS-SECTION 2 : Redevances des gazoducs et oléoducs d'intérêt général. (art. R233-107)](#626)
-          - [SECTION 9 : Autres redevances pour services rendus (art. R*233-108)](#627)
-            - [SOUS-SECTION 2 : Redevances d'assainissement . (art. R*233-108)](#628)
-          - [SECTION 10 : Taxe communale sur les emplacements publicitaires fixes (art. R*233-108 à R233-114)](#629)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*233-108)](#630)
-            - [SOUS-SECTION 2 : Assiette de la taxe et exonérations. (art. R233-109 à R233-110)](#631)
-            - [SOUS-SECTION 4 : Recouvrement et paiement de la taxe. (art. R233-114)](#632)
-        - [CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. R*234-1 à R*234-32)](#633)
-          - [SECTION 1 : Dotation globale de fonctionnement (art. R*234-1 à R*234-2)](#634)
-            - [SOUS-SECTION 4 : Concours particuliers. (art. R*234-1 à R*234-2)](#635)
-          - [SECTION 2 : Recettes réparties par le comité des finances locales (art. R*234-3 à R*234-32)](#636)
-            - [SOUS-SECTION 1 : Organisation du comité des finances locales. (art. R*234-3 à R*234-18)](#637)
-            - [SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière. (art. R*234-29 à R*234-32)](#638)
-        - [CHAPITRE 5 : Subventions (art. R*235-2 à R235-48)](#639)
-          - [SECTION 1 : Subventions de fonctionnement sans affectation spéciale. (art. R*235-2 à R235-4)](#640)
-          - [SECTION 2 : Subventions d'investissement (art. R*235-5 à R235-48)](#641)
-            - [SOUS-SECTION 1 : Régime des subventions accordées par l'Etat (art. R*235-5 à R*235-45)](#642)
-              - [PARAGRAPHE 1 : Dispositions générales. (art. R*235-5 à R*235-13)](#643)
-              - [PARAGRAPHE 2 : Subventions spécifiques. (art. R*235-14 à R235-31)](#644)
-              - [PARAGRAPHE 3 : Subventions globales. (art. R*235-42 à R*235-45)](#645)
-            - [SOUS-SECTION 2 : Majorations de subvention accordées aux communes fusionnées. (art. R235-46 à R235-48)](#646)
-        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-49)](#647)
-          - [SECTION 1 : Avances. (art. R236-1 à R236-7)](#648)
-          - [SECTION 2 : Recours à l'emprunt. (art. R236-8 à R236-9)](#649)
-          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-10 à R236-47)](#650)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R236-10)](#651)
-            - [SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales. (art. R236-11 à R236-21)](#652)
-            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-22 à R236-25)](#653)
-            - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R236-47)](#654)
-          - [SECTION 4 : Garanties d'emprunts. (art. R*236-48 à R236-49)](#655)
-        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunt (art. R236-26)](#656)
-          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-26)](#657)
-            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-26)](#658)
-      - [TITRE 4 : Comptabilité (art. R*241-1 à R242-8)](#659)
-        - [CHAPITRE 1 : Comptabilités du maire et du comptable (art. R*241-1 à R241-33)](#660)
-          - [SECTION 1 : Dispositions générales. (art. R*241-1 à R241-3)](#661)
-          - [SECTION 2 : Comptabilité du maire. (art. R241-6 à R241-15)](#662)
-          - [SECTION 3 : Comptabilité du comptable. (art. R*241-21 à R241-33)](#663)
-        - [CHAPITRE 1 : Comptabilité du maire et du comptable (art. R241-17)](#664)
-          - [SECTION 3 : Comptabilité du comptable. (art. R241-17)](#665)
-        - [CHAPITRE 2 : Arrêt, jugement des comptes et gestion de fait. (art. R242-1 à R242-8)](#666)
-      - [TITRE 5 : Dispositions applicables à certains établissements communaux (art. R251-1 à R256-1)](#667)
-        - [CHAPITRE 1 : Dispositions applicables au syndicat de communes. (art. R251-1 à R251-10)](#668)
-        - [CHAPITRE 2 : Dispositions applicables au district. (art. R252-1 à R252-5)](#669)
-        - [CHAPITRE 3 : Dispositions applicables à la communauté urbaine (art. R253-1 à R253-14)](#670)
-          - [SECTION 1 : Dispositions générales. (art. R253-1)](#671)
-          - [SECTION 2 : Dispositions relatives à la dotation globale de fonctionnement. (art. R*253-2 à R*253-5)](#672)
-          - [SECTION 3 : Majorations de subvention d'équipement. (art. R253-8 à R253-10)](#673)
-          - [SECTION 4 : Contrat de plan pluriannuel. (art. R253-11 à R253-14)](#674)
-        - [CHAPITRE 4 : Dispositions applicables au syndicat mixte. (art. R*254-1)](#675)
-        - [CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement (art. R255-1 à R*255-17)](#676)
-          - [SECTION 1 : Dispositions générales. (art. R255-1)](#677)
-          - [SECTION 2 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R255-2 à R255-7)](#678)
-          - [SECTION 3 : Allocation versée aux communes situées dans la zone d'agglomération nouvelle. (art. R*255-8 à R*255-17)](#679)
-        - [CHAPITRE 6 : Dispositions applicables à l'ensemble urbain. (art. R*256-2 à R256-1)](#680)
-      - [TITRE 6 : Dispositions particulières (art. R*261-1 à R*264-7)](#681)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*261-1 à R261-2)](#682)
-          - [SECTION 1 : Dispositions générales. (art. R*261-1)](#683)
-          - [SECTION 5 : Comptabilité. (art. R261-2)](#684)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R262-2 à R262-3)](#685)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R262-2 à R262-3)](#686)
-        - [CHAPITRE 2 : Dispositions applicables aux départements d'Outre-mer (art. R*262-1 à R*262-15)](#687)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*262-1 à R262-10)](#688)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*262-12 à R*262-15)](#689)
-        - [CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France. (art. R*263-1 à R*263-39)](#690)
-          - [SECTION 1 : Versement destiné aux transports en commun (art. R263-2 à R263-24)](#691)
-            - [SOUS-SECTION 1 : Dispositions communes. (art. R263-2 à R263-7)](#692)
-            - [SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles. (art. R263-9 à R263-19)](#693)
-            - [SOUS-SECTION 3 : Dispositions particulières aux employeurs relevant du régime d'assurances sociales agricoles. (art. R263-20 à R263-24)](#694)
-          - [SECTION 2 : Comité du fonds d'égalisation des charges (art. R*263-25 à R*263-37)](#695)
-            - [SOUS-SECTION 2 : Organisation. (art. R*263-25 à R*263-35)](#696)
-            - [SOUS-SECTION 3 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R*263-36 à R*263-37)](#697)
-          - [SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière. (art. R*263-38 à R*263-39)](#698)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*264-1 à R*264-7)](#699)
-          - [SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police. (art. R*264-2 à R*264-6)](#700)
-          - [SECTION 4 : Dispositions relatives aux recettes. (art. R*264-7)](#701)
-    - [FINANCES COMMUNALES (art. R221-7 à R263-8)](#702)
-      - [Dépenses . (art. R221-7)](#703)
-      - [RECETTES (art. R233-1 à R*234-21)](#704)
-        - [Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R233-1 à R233-69)](#705)
-          - [Taxe sur l'électricité (art. R233-1 à R233-5)](#706)
-            - [Dispositions générales . (art. R233-1 à R233-4)](#707)
-            - [Dispositions applicables à l'électricité livrée en basse tension par des distributeurs . (art. R233-5)](#708)
-          - [Taxe communale sur les emplacements publicitaires fixes (art. R233-111 à R233-113)](#709)
-            - [Recouvrement et paiement de la taxe . (art. R233-111 à R233-113)](#710)
-          - [Taxes particulières aux stations (art. R*233-39 à R233-69)](#711)
-            - [Taxe de séjour (art. R*233-39 à R233-60)](#712)
-              - [Dispositions générales . (art. R*233-39 à R233-41)](#713)
-              - [Tarifs de la taxe de séjour et exonérations . (art. R*233-43 à R233-45)](#714)
-              - [Recouvrement de la taxe de séjour et pénalités . (art. R*233-53 à R233-59)](#715)
-              - [Dispositions particulières aux stations de sport d'hiver et d'alpinisme . (art. R233-60)](#716)
-            - [Taxe sur les entreprises spécialement intéressées à la prospérité des stations . (art. R233-61 à R233-69)](#717)
-        - [Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. R*234-13 à R*234-26)](#718)
-          - [Recettes réparties par le comité des finances locales (art. R*234-13 à R*234-26)](#719)
-            - [Organisation du comité des finances locales . (art. R*234-13)](#720)
-            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements (art. R*234-19 à R234-21-1)](#721)
-            - [Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements. (art. R*234-22)](#722)
-            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement (art. R*234-26)](#723)
-              - [SOUS-SECTION 5 : Comité des finances locales. (art. R*234-26)](#724)
-        - [DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS. (art. R*234-20 à R*234-24)](#725)
-        - [Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales (art. R*234-21)](#726)
-          - [Recettes réparties par le comité des finances locales (art. R*234-21)](#727)
-            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements. (art. R*234-21)](#728)
-      - [Dispositions applicables à certains établissements communaux (art. R253-7)](#729)
-        - [Dispositions applicables à la communauté urbaine (art. R253-7)](#730)
-          - [Majorations de subvention d'équipement . (art. R253-7)](#731)
-      - [DISPOSITIONS PARTICULIERES (art. R263-6 à R263-8)](#732)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6 à R263-8)](#733)
-          - [Versement destiné aux transports en commun (art. R263-6 à R263-8)](#734)
-            - [Dispositions communes . (art. R263-6 à R263-8)](#735)
-    - [LIVRE 3 : Administration et services communaux (art. R*311-1 à R395-2)](#736)
-      - [TITRE 1 : Administration de la commune (art. R*311-1 à R318-1)](#737)
-        - [CHAPITRE 1 : Biens communaux (art. R*311-1 à R*311-20)](#738)
-          - [SECTION 1 : Acquisition, location et affectation de biens. (art. R*311-1 à R*311-15)](#739)
-          - [SECTION 2 : Aliénation de biens. (art. R*311-18)](#740)
-          - [SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif. (art. R*311-19 à R*311-20)](#741)
-        - [CHAPITRE 2 : Dons et legs (art. R*312-1 à R312-28)](#742)
-          - [SECTION 1 : Dispositions générales (art. R*312-1 à R*312-11)](#743)
-            - [SOUS-SECTION 1 : Acceptation et refus de libéralités. (art. R*312-1 à R*312-3)](#744)
-            - [SOUS-SECTION 2 : Procédure applicable en matière de libéralités. (art. R*312-4 à R*312-5)](#745)
-            - [SOUS-SECTION 3 : Contrôle de l'administration des biens légués ou donnés. (art. R*312-8 à R*312-11)](#746)
-          - [SECTION 2 : Réduction des charges des libéralités. (art. R312-12 à R312-18)](#747)
-          - [SECTION 3 : Modification des conditions d'exécution des charges assortissant les libéralités. (art. R312-19 à R312-28)](#748)
-        - [CHAPITRE 3 : Adjudications publiques en matière de biens communaux. (art. R*313-1)](#749)
-        - [CHAPITRE 4 : Marchés. (art. R*314-1 à R*314-2)](#750)
-        - [CHAPITRE 5 : Travaux communaux (art. R315-1 à R315-16)](#751)
-          - [SECTION 1 : Dispositions générales. (art. R315-1 à R315-3)](#752)
-          - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R315-16)](#753)
-        - [CHAPITRE 6 : Actions judiciaires (art. R*316-1 à R*316-7)](#754)
-          - [SECTION 2 : Exercice, par un contribuable, des actions appartenant à la commune. (art. R*316-1 à R*316-4)](#755)
-          - [SECTION 3 : Actions intentées contre la commune. (art. R*316-5 à R*316-7)](#756)
-        - [CHAPITRE 7 : Archives communales. (art. R*317-1 à R317-5)](#757)
-        - [CHAPITRE 8 : Dispositions diverses (art. R318-1)](#758)
-      - [TITRE 2 : Services communaux (art. R*321-1 à R*324-13)](#759)
-        - [CHAPITRE 1 : Dispositions générales applicables aux services communaux. (art. R*321-1 à R321-9)](#760)
-        - [CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages. (art. R*322-1 à R*322-4)](#761)
-        - [CHAPITRE 3 : Régies municipales (art. R*323-3 à R*323-133)](#762)
-          - [SECTION 1 : Dispositions générales. (art. R*323-3 à R*323-6)](#763)
-          - [SECTION 2 : Régies dotées de la personnalité morale et de l'autonomie financière. (art. R323-7 à R323-35)](#764)
-            - [SOUS-SECTION 2 : Organisation administrative (art. R323-11 à R323-19)](#765)
-              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-11)](#766)
-              - [PARAGRAPHE 2 : Conseil d'administration. (art. R323-14 à R323-19)](#767)
-            - [SOUS-SECTION 3 : Fonctionnement (art. R323-30 à R323-35)](#768)
-              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-30 à R323-35)](#769)
-          - [SECTION 3 : Régies dotées de la seule autonomie financière. (art. R*323-75 à R323-129)](#770)
-            - [SOUS-SECTION 2 : Organisation administrative (art. R323-81 à R323-93)](#771)
-              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-81)](#772)
-              - [PARAGRAPHE 2 : Conseil d'exploitation. (art. R323-88 à R323-89)](#773)
-              - [PARAGRAPHE 3 : Directeur. (art. R323-93)](#774)
-            - [SOUS-SECTION 3 : Régime financier. (art. R323-98 à R323-102)](#775)
-            - [SOUS-SECTION 5 : Régies intercommunales. (art. R323-123 à R323-129)](#776)
-          - [SECTION 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité. (art. R*323-133)](#777)
-        - [CHAPITRE 4 : Concessions et affermages (art. R*324-1 à R*324-13)](#778)
-          - [SECTION 1 : Dispositions générales. (art. R*324-1 à R*324-7)](#779)
-          - [SECTION 2 : Révision des contrats. (art. R*324-8 à R*324-13)](#780)
-      - [TITRE 3 : Voirie. (art. R*331-2 à R331-5)](#781)
-      - [TITRE 4 : Bibliothèques et musées (art. R342-1 à R342-2)](#782)
-        - [CHAPITRE 2 : Musées. (art. R342-1 à R342-2)](#783)
-      - [TITRE 5 : Protection contre l'incendie (art. R352-7 à R*354-50)](#784)
-        - [CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux (art. R352-7 à R352-66)](#785)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-7 à R352-8)](#786)
-          - [SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers. (art. R352-14 à R352-19)](#787)
-          - [SECTION 4 : Discipline des sapeurs-pompiers communaux. (art. R352-27 à R352-47)](#788)
-          - [SECTION 5 : Honneurs et récompenses. (art. R*352-48 à R352-57)](#789)
-          - [SECTION 6 : Honorariat. (art. R352-58 à R352-63)](#790)
-          - [SECTION 7 : Service de santé et de secours médical. (art. R352-66)](#791)
-        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-21 à R*352-51)](#792)
-          - [SECTION 3 : Règlement de service - commandement. (art. R352-21 à R352-23)](#793)
-          - [SECTION 5 : Honneurs et récompenses. (art. R*352-50 à R*352-51)](#794)
-        - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-1 à R353-120)](#795)
-          - [SECTION 1 : Généralités. (art. R353-1 à R353-12)](#796)
-          - [SECTION 2 : Durée du service. (art. R353-14)](#797)
-          - [SECTION 3 : Recrutement. (art. R353-15 à R353-26)](#798)
-          - [SECTION 4 : Rémunération - Avantages en nature. (art. R353-27 à R353-30)](#799)
-          - [SECTION 5 : Notation et avancement. (art. R353-31 à R353-59)](#800)
-          - [SECTION 6 : Discipline. (art. R353-60 à R353-68)](#801)
-          - [SECTION 7 : Positions. (art. R353-69 à R353-104)](#802)
-            - [SOUS-SECTION 1 : Activité - congé. (art. R353-70 à R353-85)](#803)
-            - [SOUS-SECTION 2 : Détachement. (art. R353-86 à R353-93)](#804)
-            - [SOUS-SECTION 3 : Disponibilité. (art. R353-94 à R353-102)](#805)
-            - [SOUS-SECTION 4 : Position "sous les drapeaux". (art. R353-103 à R353-104)](#806)
-          - [SECTION 8 : Cessation de fonctions. (art. R353-105 à R353-118)](#807)
-          - [SECTION 9 : Pensions et sécurité sociale. (art. R353-119 à R353-120)](#808)
-        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-2 à R354-78)](#809)
-          - [SECTION 1 : Recrutement. (art. R354-2 à R354-14)](#810)
-          - [SECTION 2 : Notation et avancement. (art. R354-15 à R354-21)](#811)
-          - [SECTION 3 : Discipline. (art. R354-22 à R354-25)](#812)
-          - [SECTION 4 : Cessation de fonctions. (art. R354-26 à R354-35)](#813)
-          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-36 à R354-78)](#814)
-            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-36 à R*354-61)](#815)
-              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-36 à R354-44)](#816)
-              - [PARAGRAPHE 2 : Affiliation aux assurances sociales. (art. R*354-51 à R*354-61)](#817)
-            - [SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire. (art. R*354-62 à R*354-68)](#818)
-            - [SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques. (art. R*354-70 à R*354-71)](#819)
-            - [SOUS-SECTION 4 : Frais funéraires. (art. R*354-72 à R*354-73)](#820)
-            - [SOUS-SECTION 5 : Caisse communale de secours et de retraite. (art. R*354-77 à R354-78)](#821)
-        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires (art. R*354-50)](#822)
-          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-50)](#823)
-            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-50)](#824)
-              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-50)](#825)
-      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-15)](#826)
-        - [CHAPITRE 1 : Sépultures (art. R*361-1 à R361-47)](#827)
-          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-16)](#828)
-            - [SOUS-SECTION 1 : Cimetières. (art. R*361-1 à R361-5)](#829)
-            - [SOUS-SECTION 2 : Inhumations. (art. R361-10 à R361-14)](#830)
-            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-16)](#831)
-          - [SECTION 2 : Concessions funéraires. (art. R*361-18 à R361-34)](#832)
-          - [SECTION 3 : Chambres funéraires. (art. R361-36 à R361-39)](#833)
-          - [SECTION 4 : Crémations. (art. R361-41 à R361-45)](#834)
-          - [SECTION 5 : Dispositions diverses. (art. R361-47)](#835)
-        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-2 à R363-36)](#836)
-          - [SECTION 1 : Soins de conservation. (art. R363-2 à R363-3)](#837)
-          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-14 à R363-15)](#838)
-            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-14 à R363-15)](#839)
-          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-17 à R363-25)](#840)
-            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-17 à R363-21)](#841)
-            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25)](#842)
-          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#843)
-        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-15)](#844)
-          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#845)
-          - [SECTION 3 : Moulages. (art. R364-17)](#846)
-          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-15)](#847)
-      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#848)
-        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#849)
-          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#850)
-          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-9 à R*371-14)](#851)
-          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#852)
-        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#853)
-          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#854)
-          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#855)
-        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#856)
-        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#857)
-        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#858)
-        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#859)
-        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#860)
-        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#861)
-      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#862)
-        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#863)
-        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#864)
-        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#865)
-        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#866)
-        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#867)
-        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#868)
-      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#869)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#870)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#871)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#872)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#873)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#874)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#875)
-          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#876)
-          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#877)
-        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#878)
-    - [Administration et services communaux (art. R*311-14 à R381-2)](#879)
-      - [Administration de la commune (art. R*311-14 à R*311-17)](#880)
-        - [Biens communaux (art. R*311-14 à R*311-17)](#881)
-          - [Acquisition, location et affectation de biens . (art. R*311-14)](#882)
-          - [Aliénation de biens . (art. R*311-17)](#883)
-      - [Services communaux (art. R*323-1 à R323-132)](#884)
-        - [Régies municipales (art. R*323-1 à R323-132)](#885)
-          - [Dispositions générales . (art. R*323-1 à R*323-4)](#886)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie . (art. R323-8 à R323-10)](#887)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative (art. R323-12 à R323-29)](#888)
-            - [Dispositions générales . (art. R323-12)](#889)
-            - [Conseil d'administration . (art. R323-13 à R323-20)](#890)
-            - [Directeur . (art. R323-21 à R323-24)](#891)
-            - [Agent comptable . (art. R323-25 à R323-29)](#892)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement (art. R323-33 à R323-70)](#893)
-            - [Dispositions générales . (art. R323-33 à R323-37)](#894)
-            - [Régime financier . (art. R323-38 à R323-51)](#895)
-            - [Budget . (art. R323-52 à R323-57)](#896)
-            - [Comptabilité . (art. R323-58 à R323-65)](#897)
-            - [Compte de fin d'exercice . (art. R323-66 à R323-70)](#898)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie . (art. R323-71 à R323-74)](#899)
-          - [Régies dotées de la seule autonomie financière (art. R323-76 à R323-132)](#900)
-            - [Création . (art. R323-76 à R323-80)](#901)
-            - [Organisation administrative (art. R323-82 à R323-97)](#902)
-              - [Dispositions générales . (art. R323-82 à R323-83)](#903)
-              - [Conseil d'exploitation . (art. R323-84 à R323-90)](#904)
-              - [Directeur . (art. R323-91 à R323-95)](#905)
-              - [Agent comptable et régisseur . (art. R323-96 à R323-97)](#906)
-            - [Régime financier . (art. R323-99 à R323-116)](#907)
-            - [Fin de la régie . (art. R323-117 à R323-121)](#908)
-            - [Régies intercommunales . (art. R323-122 à R323-132)](#909)
-      - [Bibliothèques et musées (art. R341-2 à R341-14)](#910)
-        - [Bibliothèques (art. R341-2 à R341-14)](#911)
-          - [Organisation . (art. R341-2 à R341-11)](#912)
-          - [Catégories de bibliothèques . (art. R341-12 à R341-14)](#913)
-      - [Protection contre l'incendie (art. R352-2 à R354-17)](#914)
-        - [Sapeurs-pompiers communaux (art. R352-2 à R352-64)](#915)
-          - [Mission et constitution des corps de sapeurs-pompiers . (art. R352-2)](#916)
-          - [Conseil d'administration des corps de sapeurs-pompiers . (art. R352-13)](#917)
-          - [Service de santé et de secours médical . (art. R352-64)](#918)
-        - [Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)* (art. R352-20)](#919)
-          - [Règlement de service - commandement. (art. R352-20)](#920)
-        - [Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-2 à R353-49)](#921)
-          - [Généralités . (art. R353-2)](#922)
-          - [Durée du service . (art. R353-13)](#923)
-          - [Notation et avancement. (art. R353-49)](#924)
-        - [Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R*354-43 à R*354-69)](#925)
-          - [Allocations, rentes et autres prestations (art. R*354-43 à R*354-69)](#926)
-            - [Indemnisation en cas d'incapacité permanente (art. R*354-43)](#927)
-              - [Allocations, rentes, pensions et indemnités . (art. R*354-43)](#928)
-            - [Indemnités allouées en cas d'incapacité temporaire . (art. R*354-64 à R*354-65)](#929)
-            - [Frais médicaux chirurgicaux et pharmaceutiques . (art. R*354-69)](#930)
-        - [Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires* (art. R354-17)](#931)
-          - [Notation et avancement. (art. R354-17)](#932)
-      - [Pompes funèbres et cimetières (art. R*361-3 à R363-33)](#933)
-        - [Sépultures (art. R*361-3 à R361-46)](#934)
-          - [Lieux de sépultures ; inhumations et exhumations (art. R*361-3 à R361-17)](#935)
-            - [Cimetières . (art. R*361-3)](#936)
-            - [Inhumations . (art. R361-12)](#937)
-            - [Exhumations . (art. R361-17)](#938)
-          - [Concessions funéraires . (art. R361-30 à R361-33)](#939)
-          - [Chambres funéraires . (art. R361-35 à R361-40)](#940)
-          - [Crémations . (art. R361-42 à R361-43)](#941)
-          - [Dispositions diverses . (art. R361-46)](#942)
-        - [Pompes funèbres (art. R*362-1 à R*362-4)](#943)
-          - [Service des pompes funèbres (art. R*362-1 à R*362-3)](#944)
-          - [Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres (art. R*362-4)](#945)
-        - [Soins de conservation et transport de corps (art. R363-1 à R363-33)](#946)
-          - [Soins de conservation . (art. R363-1)](#947)
-          - [Transport de corps avant mise en bière (art. R363-4 à R363-13)](#948)
-            - [Transport du corps à résidence après décès dans un établissement d'hospitalisation . (art. R363-4 à R363-9)](#949)
-            - [Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche . (art. R363-10 à R363-11)](#950)
-            - [Conditions du transport . (art. R363-12 à R363-13)](#951)
-          - [Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-33)](#952)
-            - [Mise en bière et fermeture du cercueil . (art. R363-16)](#953)
-            - [Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres (art. R363-23)](#954)
-            - [Conditions de transport . (art. R363-26 à R363-33)](#955)
-      - [Dispositions particulières à certains services industriels et commerciaux (art. R*371-8)](#956)
-        - [Eau (art. R*371-8)](#957)
-          - [Fonds national pour le développement des adductions d'eau . (art. R*371-8)](#958)
-      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. R381-2)](#959)
-        - [Dispositions générales . (art. R381-2)](#960)
-    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#961)
-      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#962)
-        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#963)
-        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#964)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#965)
-        - [CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-10 à R352-11)](#966)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-10 à R352-11)](#967)
-        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#968)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#969)
-        - [CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-22)](#970)
-          - [SECTION 1 : Règlement de service - commandement. (art. R352-22)](#971)
-        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#972)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#973)
-        - [CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-25)](#974)
-          - [SECTION 1 : Règlement de service - commandement. (art. R352-25)](#975)
-        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#976)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#977)
-        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#978)
-          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65 à R352-67)](#979)
-          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#980)
-        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#981)
-          - [SECTION 2 : Notation et avancement. (art. R354-16)](#982)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#983)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#984)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#985)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#986)
-          - [SECTION 2 : Syndicat de communes pour le personnel communal (art. R*411-13 à R411-37)](#987)
-            - [SOUS-SECTION 1 : Constitution du syndicat. (art. R*411-13 à R411-18)](#988)
-            - [SOUS-SECTION 2 : Formation du comité du syndicat. (art. R411-19 à R411-26)](#989)
-            - [SOUS-SECTION 3 : Fonctionnement du comité du syndicat. (art. R411-27 à R411-34)](#990)
-            - [SOUS-SECTION 4 : Dispositions diverses. (art. R411-35 à R411-37)](#991)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#992)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#993)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#994)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#995)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#996)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#997)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#998)
-            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#999)
-          - [SECTION 2 : Centre de formation des personnels communaux (art. R412-44 à R412-93)](#1000)
-            - [SOUS-SECTION 1 : Rôle. (art. R412-44 à R412-54)](#1001)
-            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. R412-55 à R412-73)](#1002)
-            - [SOUS-SECTION 3 : Le budget. (art. R*412-74 à R412-87)](#1003)
-            - [SOUS-SECTION 4 : Le personnel. (art. R412-88 à R412-91)](#1004)
-            - [SOUS-SECTION 5 : Organisation des études. (art. R412-92 à R412-93)](#1005)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#1006)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#1007)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#1008)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#1009)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#1010)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#1011)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#1012)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#1013)
-          - [SECTION 1 : Notation. (art. R414-1)](#1014)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#1015)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#1016)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-16)](#1017)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#1018)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#1019)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#1020)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#1021)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#1022)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#1023)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-4)](#1024)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#1025)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#1026)
-          - [SECTION 2 : Nomination dans une autre commune. (art. R*416-4)](#1027)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#1028)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#1029)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#1030)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#1031)
-      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#1032)
-        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#1033)
-          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#1034)
-          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#1035)
-          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#1036)
-          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#1037)
-          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#1038)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#1039)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#1040)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#1041)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#1042)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#1043)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#1044)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#1045)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#1046)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#1047)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#1048)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#1049)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#1050)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#1051)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#1052)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#1053)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#1054)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#1055)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#1056)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#1057)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#1058)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#1059)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#1060)
-            - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#1061)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#1062)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#1063)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#1064)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#1065)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#1066)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#1067)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#1068)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#1069)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#1070)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1071)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1072)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1073)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1074)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1075)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1076)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1077)
-    - [Personnel communal (art. R*411-4 à R*444-178)](#1078)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1079)
-        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1080)
-          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1081)
-          - [Commission paritaire communale . (art. R411-39)](#1082)
-          - [Commission paritaire intercommunale . (art. R411-40)](#1083)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1084)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1085)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1086)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1087)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1088)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1089)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1090)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1091)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1092)
-          - [Discipline (art. R*414-17 à R*414-20)](#1093)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1094)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1095)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1096)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1097)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1098)
-          - [La disponibilité . (art. R*415-15)](#1099)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1100)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1101)
-          - [Dispositions générales . (art. R*422-2)](#1102)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1103)
-          - [Congé parental . (art. R422-42 à R422-49)](#1104)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1105)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1106)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1107)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1108)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1109)
-          - [Recrutement . (art. R*444-29)](#1110)
-          - [Positions (art. R*444-110 à R*444-168)](#1111)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#1112)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1113)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1114)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1115)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1116)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1117)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1118)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1119)
-          - [Cessation de fonctions . (art. R*444-178)](#1120)
+    - [Personnel communal (art. L411-27 à L417-27)](#399)
+      - [Agents nommés dans des emplois permanents à temps complet (art. L411-27 à L417-27)](#400)
+        - [Dispositions générales et organiques (art. L411-27 à L411-30)](#401)
+          - [Syndicat de communes pour le personnel communal . (art. L411-27 à L411-30)](#402)
+        - [Recrutement, formation et promotion sociale (art. L412-18)](#403)
+          - [Recrutement (art. L412-18)](#404)
+            - [Modalités de recrutement applicables à certains emplois. (art. L412-18)](#405)
+        - [Sécurité sociale, pensions, hygiène et sécurité (art. L417-27)](#406)
+          - [Hygiène et sécurité . (art. L417-27)](#407)
+            - [Médecine professionnelle . (art. L417-27)](#408)
+    - [LIVRE 4 : Personnel communal (art. L411-26 à L444-5)](#409)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. L411-26 à L417-28)](#410)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. L411-26 à L411-29)](#411)
+          - [SECTION 3 : Syndicats de communes pour le personnel communal. (art. L411-26 à L411-29)](#412)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-28 à L412-50)](#413)
+          - [SECTION 2 : Centre de formation des personnels communaux. (art. L412-28 à L412-40)](#414)
+            - [SOUS-SECTION 1 : Rôle. (art. L412-33)](#415)
+            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. L412-34 à L412-36)](#416)
+            - [SOUS-SECTION 3 : Le budget. (art. L412-37 à L412-38)](#417)
+            - [SOUS-SECTION 4 : Le personnel. (art. L412-40)](#418)
+          - [SECTION 4 : Formation professionnelle continue. (art. L412-45)](#419)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-46 à L412-50)](#420)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-46 à L412-50)](#421)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. L413-5 à L413-15)](#422)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. L414-23 à L414-24)](#423)
+          - [SECTION 3 : Discipline (art. L414-23 à L414-24)](#424)
+            - [SOUS-SECTION 3 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L414-23 à L414-24)](#425)
+        - [CHAPITRE 5 : Positions (art. L415-6)](#426)
+          - [SECTION 1 : Activités, congés (art. L415-6)](#427)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. L415-6)](#428)
+        - [CHAPITRE 6 : Cessation de fonctions (art. L416-1 à L416-4)](#429)
+          - [SECTION 1 : L'admission à la retraite. (art. L416-1 à L416-4)](#430)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. L417-1 à L417-28)](#431)
+          - [SECTION 1 : Sécurité sociale. (art. L417-1)](#432)
+          - [SECTION 2 : Prestations familiales. (art. L417-2)](#433)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. L417-8 à L417-9)](#434)
+          - [SECTION 4 : Pensions. (art. L417-11 à L417-17)](#435)
+          - [SECTION 5 : Hygiène et sécurité (art. L417-26 à L417-28)](#436)
+            - [SOUS-SECTION 3 : Médecine professionnelle. (art. L417-26 à L417-28)](#437)
+      - [TITRE 2 : Personnels divers (art. L422-4 à L422-8)](#438)
+        - [CHAPITRE 2 : Agents non titulaires. (art. L422-4 à L422-8)](#439)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. L431-1 à L432-8)](#440)
+        - [CHAPITRE 1 : Fusion de communes. (art. L431-1 à L431-3)](#441)
+        - [CHAPITRE 2 : Création de communauté urbaine. (art. L432-1 à L432-8)](#442)
+      - [TITRE 4 : Dispositions particulières (art. L441-1 à L444-5)](#443)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L441-1 à L441-4)](#444)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. L444-3 à L444-5)](#445)
+    - [LIVRE 5 : Dispositions finales. (art. L501-1 à L501-3)](#446)
+  - [Partie réglementaire (art. R*111-1 à R*444-178)](#447)
+    - [LIVRE 1 : Organisation communale (art. R*111-1 à R185-6)](#448)
+      - [TITRE 1 : Nom, limites territoriales et population des communes (art. R*111-1 à R114-7)](#449)
+        - [CHAPITRE 1 : Nom des communes. (art. R*111-1)](#450)
+        - [CHAPITRE 2 : Limites territoriales, chef-lieu et fusion des communes (art. R*112-1 à R*112-30)](#451)
+          - [SECTION 1 : Dispositions générales. (art. R*112-1 à R112-3)](#452)
+          - [SECTION 2 : Fusion de communes (art. R*112-12 à R112-16)](#453)
+            - [SOUS-SECTION 1 : Dispositions communes. (art. R*112-12 à R112-16)](#454)
+          - [SECTION 3 : Modifications aux limites territoriales des communes. (art. R*112-17 à R*112-30)](#455)
+        - [CHAPITRE 3 : Suppression des communes après rachat de tout ou partie de leur territoire. (art. R*113-1 à R*113-2)](#456)
+        - [CHAPITRE 4 : Population des communes. (art. R114-1 à R114-7)](#457)
+      - [TITRE 2 : Organes de la commune (art. R*121-1 à R*124-6)](#458)
+        - [CHAPITRE 1 : Conseil municipal. (art. R*121-1 à R*121-15)](#459)
+          - [SECTION 1 : Formation. (art. R*121-2 à R*121-6)](#460)
+          - [SECTION 2 : Fonctionnement. (art. R*121-7 à R*121-10)](#461)
+          - [SECTION 3 : Dispositions applicables aux membres des conseils municipaux. (art. R*121-11 à R*121-14)](#462)
+          - [SECTION 4 : Attributions des conseils municipaux. (art. R*121-15)](#463)
+        - [CHAPITRE 2 : Maires et adjoints (art. R*122-1 à R122-7)](#464)
+          - [SECTION 2 : Désignation et statut des maires et adjoints. (art. R*122-1 à R122-6)](#465)
+          - [SECTION 3 : Attributions des maires et adjoints. (art. R*122-8 à R122-7)](#466)
+        - [CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. R*123-1 à R123-8)](#467)
+          - [SECTION 3 : Indemnités de fonctions. (art. R*123-1 à R*123-3)](#468)
+          - [SECTION 4 : Régime de retraite des maires et adjoints. (art. R123-4 à R123-8)](#469)
+        - [CHAPITRE 4 : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R*124-1 à R*124-6)](#470)
+          - [SECTION 1 : Dispositions applicables aux conseils et aux conseillers municipaux. (art. R*124-1 à R*124-3)](#471)
+          - [SECTION 2 : Dispositions applicables aux maires et adjoints. (art. R*124-4 à R*124-6)](#472)
+      - [TITRE 3 : Police (art. R*131-1 à R*133-1)](#473)
+        - [CHAPITRE 1 : Dispositions générales (art. R*131-1 à R131-3)](#474)
+          - [SECTION 2 : Pouvoirs de police du maire portant sur des objets particuliers. (art. R*131-1 à R131-3)](#475)
+        - [CHAPITRE 2 : Dispositions particulières (art. R*132-1 à R*132-3)](#476)
+          - [SECTION 1 : Police dans les campagnes. (art. R*132-1 à R*132-3)](#477)
+        - [CHAPITRE 3 : Responsabilité des communes (art. R*133-1)](#478)
+          - [SECTION 2 : Actions et recours. (art. R*133-1)](#479)
+      - [TITRE 4 : Stations classées (art. R*142-1 à R143-35)](#480)
+        - [CHAPITRE 2 : Dispositions communes aux stations classées (art. R*142-1 à R*142-29)](#481)
+          - [SECTION 1 : Classement. (art. R*142-1)](#482)
+          - [SECTION 2 : Office du tourisme (art. R*142-2 à R*142-29)](#483)
+            - [SOUS-SECTION 1 : Création d'offices du tourisme. (art. R*142-2 à R*142-3)](#484)
+            - [SOUS-SECTION 2 : Organisation. (art. R*142-4 à R*142-15)](#485)
+            - [SOUS-SECTION 3 : Budget et comptabilité. (art. R*142-16 à R*142-19)](#486)
+            - [SOUS-SECTION 4 : Dissolution de l'office du tourisme. (art. R*142-20)](#487)
+            - [SOUS-SECTION 5 : Les offices de tourisme intercommunaux. (art. R*142-21 à R*142-29)](#488)
+        - [CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations (art. R*143-1 à R143-35)](#489)
+          - [SECTION 1 : Stations hydrominérales et climatiques (art. R*143-1 à R143-16)](#490)
+            - [SOUS-SECTION 1 : Procédure de classement. (art. R*143-1 à R143-9)](#491)
+            - [SOUS-SECTION 2 : Groupes de communes érigés en stations hydrominérales et climatiques. (art. R*143-10 à R143-16)](#492)
+          - [SECTION 2 : Stations uvales. (art. R*143-17 à R143-18)](#493)
+          - [SECTION 3 : Stations de tourisme (art. R*143-19 à R143-24)](#494)
+            - [SOUS-SECTION 1 : Procédure de classement. (art. R*143-19 à R143-21)](#495)
+            - [SOUS-SECTION 2 : Groupes de communes érigés en stations de tourisme. (art. R143-24)](#496)
+          - [SECTION 4 : Stations balnéaires (art. R143-25 à R143-27)](#497)
+            - [SOUS-SECTION 1 : Création. (art. R143-25 à R143-26)](#498)
+            - [SOUS-SECTION 2 : Groupes de communes érigés en stations balnéaires. (art. R143-27)](#499)
+          - [SECTION 5 : Stations de sports d'hiver et d'alpinisme. (art. R*143-30 à R143-35)](#500)
+      - [TITRE 5 : Intérêts propres à certaines catégories d'habitants (art. R*152-1 à R153-3)](#501)
+        - [CHAPITRE 2 : Secteur de commune. (art. R*152-1 à R*152-2)](#502)
+        - [CHAPITRE 3 : Communes associées. (art. R*153-1 à R153-3)](#503)
+      - [TITRE 6 : Intérêts communs à plusieurs communes (art. R*162-1 à R*165-31)](#504)
+        - [CHAPITRE 2 : Biens et droits indivis entre plusieurs communes. (art. R*162-1 à R*162-2)](#505)
+        - [CHAPITRE 3 : Syndicats de communes (art. R*163-1 à R*163-6)](#506)
+          - [SECTION 1 : Création du syndicat. (art. R*163-1)](#507)
+          - [SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat. (art. R*163-4 à R*163-5)](#508)
+          - [SECTION 4 : Durée du syndicat. (art. R*163-6)](#509)
+        - [CHAPITRE 4 : Districts. (art. R*164-1 à R*164-5)](#510)
+        - [CHAPITRE 5: Communautés urbaines (art. R*165-1 à R*165-31)](#511)
+          - [SECTION 3 : Compétences de la communauté urbaine (art. R*165-1 à R*165-12)](#512)
+            - [SOUS-SECTION 1 : Etendue des compétences. (art. R*165-1 à R*165-5)](#513)
+            - [SOUS-SECTION 2 : Effets du transfert des compétences. (art. R*165-6 à R*165-12)](#514)
+          - [SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations. (art. R*165-15 à R*165-31)](#515)
+      - [TITRE 7 : Agglomérations nouvelles (art. R*171-1 à R*173-14)](#516)
+        - [CHAPITRE 1 : Création d'agglomérations nouvelles. (art. R*171-1 à R*171-6)](#517)
+        - [CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement (art. R*172-1 à R*172-3)](#518)
+          - [SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement. (art. R*172-1 à R*172-3)](#519)
+        - [CHAPITRE 3 : Ensemble urbain (art. R*173-1 à R*173-14)](#520)
+          - [SECTION 2 : Conseil de l'ensemble urbain. (art. R*173-1 à R*173-11)](#521)
+          - [SECTION 3 : Transformation de l'ensemble urbain en commune. (art. R*173-12 à R*173-14)](#522)
+      - [TITRE 8 : Dispositions particulières (art. R*181-1 à R185-6)](#523)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*181-1 à R*181-6)](#524)
+          - [SECTION 1 : Dispositions générales. (art. R*181-1)](#525)
+          - [SECTION 2 : Le conseil municipal. (art. R*181-2)](#526)
+          - [SECTION 6 : Intérêts communs (art. R*181-5 à R*181-6)](#527)
+            - [SOUS-SECTION 1 : Ententes et conférences intercommunales. (art. R*181-5)](#528)
+            - [SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes. (art. R*181-6)](#529)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R*182-1 à R*182-3)](#530)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R*182-1 à R*182-2)](#531)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*182-3)](#532)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne . (art. R*183-1)](#533)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*184-1 à R184-14)](#534)
+          - [SECTION 1 : Dispositions générales. (art. R*184-1)](#535)
+          - [SECTION 3 : Le maire et les adjoints. (art. R*184-2 à R*184-11)](#536)
+          - [SECTION 5 : Les commissions d'arrondissement. (art. R*184-13 à R184-14)](#537)
+        - [CHAPITRE 5 : Dispositions applicables à certaines grandes villes (art. R*185-1 à R185-6)](#538)
+          - [SECTION 1 : Dispositions applicables à la ville de Lyon. (art. R*185-1 à R185-2)](#539)
+          - [SECTION 2 : Dispositions applicables à la ville de Marseille. (art. R*185-4 à R185-6)](#540)
+    - [Organisation communale (art. R*112-19 à R*166-2)](#541)
+      - [Nom, limites territoriales et population des communes (art. R*112-19 à R*112-28)](#542)
+        - [Limites territoriales, chef-lieu et fusion des communes (art. R*112-19 à R*112-28)](#543)
+          - [Modifications aux limites territoriales des communes (art. R*112-19 à R*112-28)](#544)
+      - [INTERETS COMMUNS A PLUSIEURS COMMUNES (art. R*165-32 à R*166-2)](#545)
+        - [Communautés urbaines (art. R*165-32 à R*165-35)](#546)
+          - [Le conseil de communauté (art. R*165-32 à R*165-35)](#547)
+            - [Composition du conseil de communauté et désignation de ses membres . (art. R*165-32 à R*165-35)](#548)
+        - [Syndicats mixtes . (art. R*166-1 à R*166-2)](#549)
+    - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-7)](#550)
+      - [TITRE 1 : Budget (art. R*211-1 à R*212-6)](#551)
+        - [CHAPITRE 1 : Dispositions générales. (art. R*211-1)](#552)
+        - [CHAPITRE 2 : Vote et règlement. (art. R*212-1 à R*212-6)](#553)
+      - [TITRE 2 : Dépenses. (art. R221-1 à R221-9)](#554)
+      - [TITRE 3 : Recettes (art. R231-1 à R236-26)](#555)
+        - [CHAPITRE 1 : Dispositions générales (art. R231-1)](#556)
+          - [SECTION 2 : Contrôle de la Cour des comptes. (art. R231-1)](#557)
+        - [CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R*233-6 à R233-114)](#558)
+          - [SECTION 1 : Taxe sur certaines fournitures d'électricité (art. R*233-6 à R*233-10)](#559)
+            - [SOUS-SECTION 2 : Dispositions applicables à l'électricité livrée en basse tension par des distributeurs. (art. R*233-6 à R*233-10)](#560)
+          - [SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché des viandes (art. R233-11 à R233-12)](#561)
+            - [SOUS-SECTION 1 : Taxe d'usage des abattoirs publics. (art. R233-11)](#562)
+            - [SOUS-SECTION 2 : Taxe de protection sanitaire et d'organisation du marché des viandes. (art. R233-12)](#563)
+          - [SECTION 3 : Taxe sur la publicité (art. R233-19 à R233-38)](#564)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R233-19 à R233-20)](#565)
+            - [SOUS-SECTION 2 : Assiette de la taxe et exonérations. (art. R233-21 à R233-23)](#566)
+            - [SOUS-SECTION 4 : Paiement et recouvrement de la taxe. (art. R*233-29 à R233-35)](#567)
+            - [SOUS-SECTION 5 : Sanctions applicables. (art. R233-36 à R233-38)](#568)
+          - [SECTION 4 : Taxes particulières aux stations (art. R233-70 à R233-77)](#569)
+            - [SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos. (art. R233-70 à R233-77)](#570)
+          - [SECTION 6 : Taxes destinées au financement des transports en commun (art. R233-78 à R233-102)](#571)
+            - [SOUS-SECTION 1 : Versement destiné aux transports en commun (art. R233-78 à R233-101)](#572)
+              - [PARAGRAPHE 1 : Dispositions communes. (art. R233-78 à R233-85)](#573)
+              - [PARAGRAPHE 2 : Dispositions particulières applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles. (art. R233-86 à R233-96)](#574)
+              - [PARAGRAPHE 3 : Dispositions particulières aux employeurs relevant du régime des assurances sociales agricoles. (art. R233-97 à R233-101)](#575)
+            - [SOUS-SECTION 2 : Surtaxes locales temporaires. (art. R233-102)](#576)
+          - [SECTION 7 : Droits de port. (art. R*233-103)](#577)
+          - [SECTION 8 : Redevances d'occupation du domaine public (art. R233-104 à R233-107)](#578)
+            - [SOUS-SECTION 1 : Redevances des distributions d'électricité et de gaz. (art. R233-104 à R233-106)](#579)
+            - [SOUS-SECTION 2 : Redevances des gazoducs et oléoducs d'intérêt général. (art. R233-107)](#580)
+          - [SECTION 9 : Autres redevances pour services rendus (art. R*233-108)](#581)
+            - [SOUS-SECTION 2 : Redevances d'assainissement . (art. R*233-108)](#582)
+          - [SECTION 10 : Taxe communale sur les emplacements publicitaires fixes (art. R*233-108 à R233-114)](#583)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*233-108)](#584)
+            - [SOUS-SECTION 2 : Assiette de la taxe et exonérations. (art. R233-109 à R233-110)](#585)
+            - [SOUS-SECTION 4 : Recouvrement et paiement de la taxe. (art. R233-114)](#586)
+        - [CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. R*234-1 à R*234-32)](#587)
+          - [SECTION 1 : Dotation globale de fonctionnement (art. R*234-1 à R*234-2)](#588)
+            - [SOUS-SECTION 4 : Concours particuliers. (art. R*234-1 à R*234-2)](#589)
+          - [SECTION 2 : Recettes réparties par le comité des finances locales (art. R*234-3 à R*234-32)](#590)
+            - [SOUS-SECTION 1 : Organisation du comité des finances locales. (art. R*234-3 à R*234-18)](#591)
+            - [SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière. (art. R*234-29 à R*234-32)](#592)
+        - [CHAPITRE 5 : Subventions (art. R*235-2 à R235-48)](#593)
+          - [SECTION 1 : Subventions de fonctionnement sans affectation spéciale. (art. R*235-2 à R235-4)](#594)
+          - [SECTION 2 : Subventions d'investissement (art. R*235-5 à R235-48)](#595)
+            - [SOUS-SECTION 1 : Régime des subventions accordées par l'Etat (art. R*235-5 à R*235-45)](#596)
+              - [PARAGRAPHE 1 : Dispositions générales. (art. R*235-5 à R*235-13)](#597)
+              - [PARAGRAPHE 2 : Subventions spécifiques. (art. R*235-14 à R235-31)](#598)
+              - [PARAGRAPHE 3 : Subventions globales. (art. R*235-42 à R*235-45)](#599)
+            - [SOUS-SECTION 2 : Majorations de subvention accordées aux communes fusionnées. (art. R235-46 à R235-48)](#600)
+        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-49)](#601)
+          - [SECTION 1 : Avances. (art. R236-1 à R236-7)](#602)
+          - [SECTION 2 : Recours à l'emprunt. (art. R236-8 à R236-9)](#603)
+          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-10 à R236-47)](#604)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R236-10)](#605)
+            - [SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales. (art. R236-11 à R236-21)](#606)
+            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-22 à R236-25)](#607)
+            - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R236-47)](#608)
+          - [SECTION 4 : Garanties d'emprunts. (art. R*236-48 à R236-49)](#609)
+        - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunt (art. R236-26)](#610)
+          - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-26)](#611)
+            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-26)](#612)
+      - [TITRE 4 : Comptabilité (art. R*241-1 à R242-8)](#613)
+        - [CHAPITRE 1 : Comptabilités du maire et du comptable (art. R*241-1 à R241-33)](#614)
+          - [SECTION 1 : Dispositions générales. (art. R*241-1 à R241-3)](#615)
+          - [SECTION 2 : Comptabilité du maire. (art. R241-6 à R241-15)](#616)
+          - [SECTION 3 : Comptabilité du comptable. (art. R*241-21 à R241-33)](#617)
+        - [CHAPITRE 1 : Comptabilité du maire et du comptable (art. R241-17)](#618)
+          - [SECTION 3 : Comptabilité du comptable. (art. R241-17)](#619)
+        - [CHAPITRE 2 : Arrêt, jugement des comptes et gestion de fait. (art. R242-1 à R242-8)](#620)
+      - [TITRE 5 : Dispositions applicables à certains établissements communaux (art. R251-1 à R256-1)](#621)
+        - [CHAPITRE 1 : Dispositions applicables au syndicat de communes. (art. R251-1 à R251-10)](#622)
+        - [CHAPITRE 2 : Dispositions applicables au district. (art. R252-1 à R252-5)](#623)
+        - [CHAPITRE 3 : Dispositions applicables à la communauté urbaine (art. R253-1 à R253-14)](#624)
+          - [SECTION 1 : Dispositions générales. (art. R253-1)](#625)
+          - [SECTION 2 : Dispositions relatives à la dotation globale de fonctionnement. (art. R*253-2 à R*253-5)](#626)
+          - [SECTION 3 : Majorations de subvention d'équipement. (art. R253-8 à R253-10)](#627)
+          - [SECTION 4 : Contrat de plan pluriannuel. (art. R253-11 à R253-14)](#628)
+        - [CHAPITRE 4 : Dispositions applicables au syndicat mixte. (art. R*254-1)](#629)
+        - [CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement (art. R255-1 à R*255-17)](#630)
+          - [SECTION 1 : Dispositions générales. (art. R255-1)](#631)
+          - [SECTION 2 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R255-2 à R255-7)](#632)
+          - [SECTION 3 : Allocation versée aux communes situées dans la zone d'agglomération nouvelle. (art. R*255-8 à R*255-17)](#633)
+        - [CHAPITRE 6 : Dispositions applicables à l'ensemble urbain. (art. R*256-2 à R256-1)](#634)
+      - [TITRE 6 : Dispositions particulières (art. R*261-1 à R*264-7)](#635)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*261-1 à R261-2)](#636)
+          - [SECTION 1 : Dispositions générales. (art. R*261-1)](#637)
+          - [SECTION 5 : Comptabilité. (art. R261-2)](#638)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R262-2 à R262-3)](#639)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R262-2 à R262-3)](#640)
+        - [CHAPITRE 2 : Dispositions applicables aux départements d'Outre-mer (art. R*262-1 à R*262-15)](#641)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*262-1 à R262-10)](#642)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*262-12 à R*262-15)](#643)
+        - [CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France. (art. R*263-1 à R*263-39)](#644)
+          - [SECTION 1 : Versement destiné aux transports en commun (art. R263-2 à R263-24)](#645)
+            - [SOUS-SECTION 1 : Dispositions communes. (art. R263-2 à R263-7)](#646)
+            - [SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles. (art. R263-9 à R263-19)](#647)
+            - [SOUS-SECTION 3 : Dispositions particulières aux employeurs relevant du régime d'assurances sociales agricoles. (art. R263-20 à R263-24)](#648)
+          - [SECTION 2 : Comité du fonds d'égalisation des charges (art. R*263-25 à R*263-37)](#649)
+            - [SOUS-SECTION 2 : Organisation. (art. R*263-25 à R*263-35)](#650)
+            - [SOUS-SECTION 3 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R*263-36 à R*263-37)](#651)
+          - [SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière. (art. R*263-38 à R*263-39)](#652)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*264-1 à R*264-7)](#653)
+          - [SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police. (art. R*264-2 à R*264-6)](#654)
+          - [SECTION 4 : Dispositions relatives aux recettes. (art. R*264-7)](#655)
+    - [FINANCES COMMUNALES (art. R221-7 à R263-8)](#656)
+      - [Dépenses . (art. R221-7)](#657)
+      - [RECETTES (art. R233-1 à R*234-21)](#658)
+        - [Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R233-1 à R233-69)](#659)
+          - [Taxe sur l'électricité (art. R233-1 à R233-5)](#660)
+            - [Dispositions générales . (art. R233-1 à R233-4)](#661)
+            - [Dispositions applicables à l'électricité livrée en basse tension par des distributeurs . (art. R233-5)](#662)
+          - [Taxe communale sur les emplacements publicitaires fixes (art. R233-111 à R233-113)](#663)
+            - [Recouvrement et paiement de la taxe . (art. R233-111 à R233-113)](#664)
+          - [Taxes particulières aux stations (art. R*233-39 à R233-69)](#665)
+            - [Taxe de séjour (art. R*233-39 à R233-60)](#666)
+              - [Dispositions générales . (art. R*233-39 à R233-41)](#667)
+              - [Tarifs de la taxe de séjour et exonérations . (art. R*233-43 à R233-45)](#668)
+              - [Recouvrement de la taxe de séjour et pénalités . (art. R*233-53 à R233-59)](#669)
+              - [Dispositions particulières aux stations de sport d'hiver et d'alpinisme . (art. R233-60)](#670)
+            - [Taxe sur les entreprises spécialement intéressées à la prospérité des stations . (art. R233-61 à R233-69)](#671)
+        - [Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. R*234-13 à R*234-26)](#672)
+          - [Recettes réparties par le comité des finances locales (art. R*234-13 à R*234-26)](#673)
+            - [Organisation du comité des finances locales . (art. R*234-13)](#674)
+            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements (art. R*234-19 à R234-21-1)](#675)
+            - [Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements. (art. R*234-22)](#676)
+            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement (art. R*234-26)](#677)
+              - [SOUS-SECTION 5 : Comité des finances locales. (art. R*234-26)](#678)
+        - [DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS. (art. R*234-20 à R*234-24)](#679)
+        - [Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales (art. R*234-21)](#680)
+          - [Recettes réparties par le comité des finances locales (art. R*234-21)](#681)
+            - [Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements. (art. R*234-21)](#682)
+      - [Dispositions applicables à certains établissements communaux (art. R253-7)](#683)
+        - [Dispositions applicables à la communauté urbaine (art. R253-7)](#684)
+          - [Majorations de subvention d'équipement . (art. R253-7)](#685)
+      - [DISPOSITIONS PARTICULIERES (art. R263-6 à R263-8)](#686)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6 à R263-8)](#687)
+          - [Versement destiné aux transports en commun (art. R263-6 à R263-8)](#688)
+            - [Dispositions communes . (art. R263-6 à R263-8)](#689)
+    - [LIVRE 3 : Administration et services communaux (art. R*311-1 à R395-2)](#690)
+      - [TITRE 1 : Administration de la commune (art. R*311-1 à R318-1)](#691)
+        - [CHAPITRE 1 : Biens communaux (art. R*311-1 à R*311-20)](#692)
+          - [SECTION 1 : Acquisition, location et affectation de biens. (art. R*311-1 à R*311-15)](#693)
+          - [SECTION 2 : Aliénation de biens. (art. R*311-18)](#694)
+          - [SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif. (art. R*311-19 à R*311-20)](#695)
+        - [CHAPITRE 2 : Dons et legs (art. R*312-1 à R312-28)](#696)
+          - [SECTION 1 : Dispositions générales (art. R*312-1 à R*312-11)](#697)
+            - [SOUS-SECTION 1 : Acceptation et refus de libéralités. (art. R*312-1 à R*312-3)](#698)
+            - [SOUS-SECTION 2 : Procédure applicable en matière de libéralités. (art. R*312-4 à R*312-5)](#699)
+            - [SOUS-SECTION 3 : Contrôle de l'administration des biens légués ou donnés. (art. R*312-8 à R*312-11)](#700)
+          - [SECTION 2 : Réduction des charges des libéralités. (art. R312-12 à R312-18)](#701)
+          - [SECTION 3 : Modification des conditions d'exécution des charges assortissant les libéralités. (art. R312-19 à R312-28)](#702)
+        - [CHAPITRE 3 : Adjudications publiques en matière de biens communaux. (art. R*313-1)](#703)
+        - [CHAPITRE 4 : Marchés. (art. R*314-1 à R*314-2)](#704)
+        - [CHAPITRE 5 : Travaux communaux (art. R315-1 à R315-16)](#705)
+          - [SECTION 1 : Dispositions générales. (art. R315-1 à R315-3)](#706)
+          - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R315-16)](#707)
+        - [CHAPITRE 6 : Actions judiciaires (art. R*316-1 à R*316-7)](#708)
+          - [SECTION 2 : Exercice, par un contribuable, des actions appartenant à la commune. (art. R*316-1 à R*316-4)](#709)
+          - [SECTION 3 : Actions intentées contre la commune. (art. R*316-5 à R*316-7)](#710)
+        - [CHAPITRE 7 : Archives communales. (art. R*317-1 à R317-5)](#711)
+        - [CHAPITRE 8 : Dispositions diverses (art. R318-1)](#712)
+      - [TITRE 2 : Services communaux (art. R*321-1 à R*324-13)](#713)
+        - [CHAPITRE 1 : Dispositions générales applicables aux services communaux. (art. R*321-1 à R321-9)](#714)
+        - [CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages. (art. R*322-1 à R*322-4)](#715)
+        - [CHAPITRE 3 : Régies municipales (art. R*323-3 à R*323-133)](#716)
+          - [SECTION 1 : Dispositions générales. (art. R*323-3 à R*323-6)](#717)
+          - [SECTION 2 : Régies dotées de la personnalité morale et de l'autonomie financière. (art. R323-7 à R323-35)](#718)
+            - [SOUS-SECTION 2 : Organisation administrative (art. R323-11 à R323-19)](#719)
+              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-11)](#720)
+              - [PARAGRAPHE 2 : Conseil d'administration. (art. R323-14 à R323-19)](#721)
+            - [SOUS-SECTION 3 : Fonctionnement (art. R323-30 à R323-35)](#722)
+              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-30 à R323-35)](#723)
+          - [SECTION 3 : Régies dotées de la seule autonomie financière. (art. R*323-75 à R323-129)](#724)
+            - [SOUS-SECTION 2 : Organisation administrative (art. R323-81 à R323-93)](#725)
+              - [PARAGRAPHE 1 : Dispositions générales. (art. R323-81)](#726)
+              - [PARAGRAPHE 2 : Conseil d'exploitation. (art. R323-88 à R323-89)](#727)
+              - [PARAGRAPHE 3 : Directeur. (art. R323-93)](#728)
+            - [SOUS-SECTION 3 : Régime financier. (art. R323-98 à R323-102)](#729)
+            - [SOUS-SECTION 5 : Régies intercommunales. (art. R323-123 à R323-129)](#730)
+          - [SECTION 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité. (art. R*323-133)](#731)
+        - [CHAPITRE 4 : Concessions et affermages (art. R*324-1 à R*324-13)](#732)
+          - [SECTION 1 : Dispositions générales. (art. R*324-1 à R*324-7)](#733)
+          - [SECTION 2 : Révision des contrats. (art. R*324-8 à R*324-13)](#734)
+      - [TITRE 3 : Voirie. (art. R*331-2 à R331-5)](#735)
+      - [TITRE 4 : Bibliothèques et musées (art. R342-1 à R342-2)](#736)
+        - [CHAPITRE 2 : Musées. (art. R342-1 à R342-2)](#737)
+      - [TITRE 5 : Protection contre l'incendie (art. R352-7 à R*354-50)](#738)
+        - [CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux (art. R352-7 à R352-66)](#739)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-7 à R352-8)](#740)
+          - [SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers. (art. R352-14 à R352-19)](#741)
+          - [SECTION 4 : Discipline des sapeurs-pompiers communaux. (art. R352-27 à R352-47)](#742)
+          - [SECTION 5 : Honneurs et récompenses. (art. R*352-48 à R352-57)](#743)
+          - [SECTION 6 : Honorariat. (art. R352-58 à R352-63)](#744)
+          - [SECTION 7 : Service de santé et de secours médical. (art. R352-66)](#745)
+        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-21 à R*352-51)](#746)
+          - [SECTION 3 : Règlement de service - commandement. (art. R352-21 à R352-23)](#747)
+          - [SECTION 5 : Honneurs et récompenses. (art. R*352-50 à R*352-51)](#748)
+        - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-1 à R353-120)](#749)
+          - [SECTION 1 : Généralités. (art. R353-1 à R353-12)](#750)
+          - [SECTION 2 : Durée du service. (art. R353-14)](#751)
+          - [SECTION 3 : Recrutement. (art. R353-15 à R353-26)](#752)
+          - [SECTION 4 : Rémunération - Avantages en nature. (art. R353-27 à R353-30)](#753)
+          - [SECTION 5 : Notation et avancement. (art. R353-31 à R353-59)](#754)
+          - [SECTION 6 : Discipline. (art. R353-60 à R353-68)](#755)
+          - [SECTION 7 : Positions. (art. R353-69 à R353-104)](#756)
+            - [SOUS-SECTION 1 : Activité - congé. (art. R353-70 à R353-85)](#757)
+            - [SOUS-SECTION 2 : Détachement. (art. R353-86 à R353-93)](#758)
+            - [SOUS-SECTION 3 : Disponibilité. (art. R353-94 à R353-102)](#759)
+            - [SOUS-SECTION 4 : Position "sous les drapeaux". (art. R353-103 à R353-104)](#760)
+          - [SECTION 8 : Cessation de fonctions. (art. R353-105 à R353-118)](#761)
+          - [SECTION 9 : Pensions et sécurité sociale. (art. R353-119 à R353-120)](#762)
+        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-2 à R354-78)](#763)
+          - [SECTION 1 : Recrutement. (art. R354-2 à R354-14)](#764)
+          - [SECTION 2 : Notation et avancement. (art. R354-15 à R354-21)](#765)
+          - [SECTION 3 : Discipline. (art. R354-22 à R354-25)](#766)
+          - [SECTION 4 : Cessation de fonctions. (art. R354-26 à R354-35)](#767)
+          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-36 à R354-78)](#768)
+            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-36 à R*354-61)](#769)
+              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-36 à R354-44)](#770)
+              - [PARAGRAPHE 2 : Affiliation aux assurances sociales. (art. R*354-51 à R*354-61)](#771)
+            - [SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire. (art. R*354-62 à R*354-68)](#772)
+            - [SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques. (art. R*354-70 à R*354-71)](#773)
+            - [SOUS-SECTION 4 : Frais funéraires. (art. R*354-72 à R*354-73)](#774)
+            - [SOUS-SECTION 5 : Caisse communale de secours et de retraite. (art. R*354-77 à R354-78)](#775)
+        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires (art. R*354-50)](#776)
+          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-50)](#777)
+            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-50)](#778)
+              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-50)](#779)
+      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-15)](#780)
+        - [CHAPITRE 1 : Sépultures (art. R*361-1 à R361-47)](#781)
+          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-16)](#782)
+            - [SOUS-SECTION 1 : Cimetières. (art. R*361-1 à R361-5)](#783)
+            - [SOUS-SECTION 2 : Inhumations. (art. R361-10 à R361-14)](#784)
+            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-16)](#785)
+          - [SECTION 2 : Concessions funéraires. (art. R*361-18 à R361-34)](#786)
+          - [SECTION 3 : Chambres funéraires. (art. R361-36 à R361-39)](#787)
+          - [SECTION 4 : Crémations. (art. R361-41 à R361-45)](#788)
+          - [SECTION 5 : Dispositions diverses. (art. R361-47)](#789)
+        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-2 à R363-36)](#790)
+          - [SECTION 1 : Soins de conservation. (art. R363-2 à R363-3)](#791)
+          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-14 à R363-15)](#792)
+            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-14 à R363-15)](#793)
+          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-17 à R363-25)](#794)
+            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-17 à R363-21)](#795)
+            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25)](#796)
+          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#797)
+        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-15)](#798)
+          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#799)
+          - [SECTION 3 : Moulages. (art. R364-17)](#800)
+          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-15)](#801)
+      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#802)
+        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#803)
+          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#804)
+          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-9 à R*371-14)](#805)
+          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#806)
+        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#807)
+          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#808)
+          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#809)
+        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#810)
+        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#811)
+        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#812)
+        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#813)
+        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#814)
+        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#815)
+      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#816)
+        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#817)
+        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#818)
+        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#819)
+        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#820)
+        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#821)
+        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#822)
+      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#823)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#824)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#825)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#826)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#827)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#828)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#829)
+          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#830)
+          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#831)
+        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#832)
+    - [Administration et services communaux (art. R*311-14 à R381-2)](#833)
+      - [Administration de la commune (art. R*311-14 à R*311-17)](#834)
+        - [Biens communaux (art. R*311-14 à R*311-17)](#835)
+          - [Acquisition, location et affectation de biens . (art. R*311-14)](#836)
+          - [Aliénation de biens . (art. R*311-17)](#837)
+      - [Services communaux (art. R*323-1 à R323-132)](#838)
+        - [Régies municipales (art. R*323-1 à R323-132)](#839)
+          - [Dispositions générales . (art. R*323-1 à R*323-4)](#840)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie . (art. R323-8 à R323-10)](#841)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative (art. R323-12 à R323-29)](#842)
+            - [Dispositions générales . (art. R323-12)](#843)
+            - [Conseil d'administration . (art. R323-13 à R323-20)](#844)
+            - [Directeur . (art. R323-21 à R323-24)](#845)
+            - [Agent comptable . (art. R323-25 à R323-29)](#846)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement (art. R323-33 à R323-70)](#847)
+            - [Dispositions générales . (art. R323-33 à R323-37)](#848)
+            - [Régime financier . (art. R323-38 à R323-51)](#849)
+            - [Budget . (art. R323-52 à R323-57)](#850)
+            - [Comptabilité . (art. R323-58 à R323-65)](#851)
+            - [Compte de fin d'exercice . (art. R323-66 à R323-70)](#852)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie . (art. R323-71 à R323-74)](#853)
+          - [Régies dotées de la seule autonomie financière (art. R323-76 à R323-132)](#854)
+            - [Création . (art. R323-76 à R323-80)](#855)
+            - [Organisation administrative (art. R323-82 à R323-97)](#856)
+              - [Dispositions générales . (art. R323-82 à R323-83)](#857)
+              - [Conseil d'exploitation . (art. R323-84 à R323-90)](#858)
+              - [Directeur . (art. R323-91 à R323-95)](#859)
+              - [Agent comptable et régisseur . (art. R323-96 à R323-97)](#860)
+            - [Régime financier . (art. R323-99 à R323-116)](#861)
+            - [Fin de la régie . (art. R323-117 à R323-121)](#862)
+            - [Régies intercommunales . (art. R323-122 à R323-132)](#863)
+      - [Bibliothèques et musées (art. R341-2 à R341-14)](#864)
+        - [Bibliothèques (art. R341-2 à R341-14)](#865)
+          - [Organisation . (art. R341-2 à R341-11)](#866)
+          - [Catégories de bibliothèques . (art. R341-12 à R341-14)](#867)
+      - [Protection contre l'incendie (art. R352-2 à R354-17)](#868)
+        - [Sapeurs-pompiers communaux (art. R352-2 à R352-64)](#869)
+          - [Mission et constitution des corps de sapeurs-pompiers . (art. R352-2)](#870)
+          - [Conseil d'administration des corps de sapeurs-pompiers . (art. R352-13)](#871)
+          - [Service de santé et de secours médical . (art. R352-64)](#872)
+        - [Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)* (art. R352-20)](#873)
+          - [Règlement de service - commandement. (art. R352-20)](#874)
+        - [Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-2 à R353-49)](#875)
+          - [Généralités . (art. R353-2)](#876)
+          - [Durée du service . (art. R353-13)](#877)
+          - [Notation et avancement. (art. R353-49)](#878)
+        - [Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R*354-43 à R*354-69)](#879)
+          - [Allocations, rentes et autres prestations (art. R*354-43 à R*354-69)](#880)
+            - [Indemnisation en cas d'incapacité permanente (art. R*354-43)](#881)
+              - [Allocations, rentes, pensions et indemnités . (art. R*354-43)](#882)
+            - [Indemnités allouées en cas d'incapacité temporaire . (art. R*354-64 à R*354-65)](#883)
+            - [Frais médicaux chirurgicaux et pharmaceutiques . (art. R*354-69)](#884)
+        - [Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires* (art. R354-17)](#885)
+          - [Notation et avancement. (art. R354-17)](#886)
+      - [Pompes funèbres et cimetières (art. R*361-3 à R363-33)](#887)
+        - [Sépultures (art. R*361-3 à R361-46)](#888)
+          - [Lieux de sépultures ; inhumations et exhumations (art. R*361-3 à R361-17)](#889)
+            - [Cimetières . (art. R*361-3)](#890)
+            - [Inhumations . (art. R361-12)](#891)
+            - [Exhumations . (art. R361-17)](#892)
+          - [Concessions funéraires . (art. R361-30 à R361-33)](#893)
+          - [Chambres funéraires . (art. R361-35 à R361-40)](#894)
+          - [Crémations . (art. R361-42 à R361-43)](#895)
+          - [Dispositions diverses . (art. R361-46)](#896)
+        - [Pompes funèbres (art. R*362-1 à R*362-4)](#897)
+          - [Service des pompes funèbres (art. R*362-1 à R*362-3)](#898)
+          - [Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres (art. R*362-4)](#899)
+        - [Soins de conservation et transport de corps (art. R363-1 à R363-33)](#900)
+          - [Soins de conservation . (art. R363-1)](#901)
+          - [Transport de corps avant mise en bière (art. R363-4 à R363-13)](#902)
+            - [Transport du corps à résidence après décès dans un établissement d'hospitalisation . (art. R363-4 à R363-9)](#903)
+            - [Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche . (art. R363-10 à R363-11)](#904)
+            - [Conditions du transport . (art. R363-12 à R363-13)](#905)
+          - [Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-33)](#906)
+            - [Mise en bière et fermeture du cercueil . (art. R363-16)](#907)
+            - [Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres (art. R363-23)](#908)
+            - [Conditions de transport . (art. R363-26 à R363-33)](#909)
+      - [Dispositions particulières à certains services industriels et commerciaux (art. R*371-8)](#910)
+        - [Eau (art. R*371-8)](#911)
+          - [Fonds national pour le développement des adductions d'eau . (art. R*371-8)](#912)
+      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. R381-2)](#913)
+        - [Dispositions générales . (art. R381-2)](#914)
+    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#915)
+      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#916)
+        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#917)
+        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#918)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#919)
+        - [CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-10 à R352-11)](#920)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-10 à R352-11)](#921)
+        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#922)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#923)
+        - [CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-22)](#924)
+          - [SECTION 1 : Règlement de service - commandement. (art. R352-22)](#925)
+        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#926)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#927)
+        - [CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-25)](#928)
+          - [SECTION 1 : Règlement de service - commandement. (art. R352-25)](#929)
+        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#930)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#931)
+        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#932)
+          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65 à R352-67)](#933)
+          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#934)
+        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#935)
+          - [SECTION 2 : Notation et avancement. (art. R354-16)](#936)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#937)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#938)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#939)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#940)
+          - [SECTION 2 : Syndicat de communes pour le personnel communal (art. R*411-13 à R411-37)](#941)
+            - [SOUS-SECTION 1 : Constitution du syndicat. (art. R*411-13 à R411-18)](#942)
+            - [SOUS-SECTION 2 : Formation du comité du syndicat. (art. R411-19 à R411-26)](#943)
+            - [SOUS-SECTION 3 : Fonctionnement du comité du syndicat. (art. R411-27 à R411-34)](#944)
+            - [SOUS-SECTION 4 : Dispositions diverses. (art. R411-35 à R411-37)](#945)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#946)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#947)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#948)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#949)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#950)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#951)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#952)
+            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#953)
+          - [SECTION 2 : Centre de formation des personnels communaux (art. R412-44 à R412-93)](#954)
+            - [SOUS-SECTION 1 : Rôle. (art. R412-44 à R412-54)](#955)
+            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. R412-55 à R412-73)](#956)
+            - [SOUS-SECTION 3 : Le budget. (art. R*412-74 à R412-87)](#957)
+            - [SOUS-SECTION 4 : Le personnel. (art. R412-88 à R412-91)](#958)
+            - [SOUS-SECTION 5 : Organisation des études. (art. R412-92 à R412-93)](#959)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#960)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#961)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#962)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#963)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#964)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#965)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#966)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#967)
+          - [SECTION 1 : Notation. (art. R414-1)](#968)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#969)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#970)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-16)](#971)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#972)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#973)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#974)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#975)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#976)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#977)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-4)](#978)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#979)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#980)
+          - [SECTION 2 : Nomination dans une autre commune. (art. R*416-4)](#981)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#982)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#983)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#984)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#985)
+      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#986)
+        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#987)
+          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#988)
+          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#989)
+          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#990)
+          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#991)
+          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#992)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#993)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#994)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#995)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#996)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#997)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#998)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#999)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#1000)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#1001)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#1002)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#1003)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#1004)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#1005)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#1006)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#1007)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#1008)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#1009)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#1010)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#1011)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#1012)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#1013)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#1014)
+            - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#1015)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#1016)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#1017)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#1018)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#1019)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#1020)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#1021)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#1022)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#1023)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#1024)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1025)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1026)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1027)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1028)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1029)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1030)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1031)
+    - [Personnel communal (art. R*411-4 à R*444-178)](#1032)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1033)
+        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1034)
+          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1035)
+          - [Commission paritaire communale . (art. R411-39)](#1036)
+          - [Commission paritaire intercommunale . (art. R411-40)](#1037)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1038)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1039)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1040)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1041)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1042)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1043)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1044)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1045)
+        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1046)
+          - [Discipline (art. R*414-17 à R*414-20)](#1047)
+            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1048)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1049)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1050)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1051)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1052)
+          - [La disponibilité . (art. R*415-15)](#1053)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1054)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1055)
+          - [Dispositions générales . (art. R*422-2)](#1056)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1057)
+          - [Congé parental . (art. R422-42 à R422-49)](#1058)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1059)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1060)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1061)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1062)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1063)
+          - [Recrutement . (art. R*444-29)](#1064)
+          - [Positions (art. R*444-110 à R*444-168)](#1065)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#1066)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1067)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1068)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1069)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1070)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1071)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1072)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1073)
+          - [Cessation de fonctions . (art. R*444-178)](#1074)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -7650,6 +7604,51 @@ _Créé par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L5213-10 (Ab)
+
+
+###### Article L164-9
+
+Le district est constitué soit à perpétuité, soit pour une durée déterminée par la décision institutive.
+
+Il est dissous sur la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de la population
+totale du district.
+
+Il est également dissous de plein droit selon les dispositions de l'article L. 165-18.
+
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
+paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un
+emploi de même niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges
+financières correspondantes.
+
+L'arrêt de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est
+liquidé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 art. 121 I JORF 27 janvier 1984
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L165-18 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L5213-24 (Ab)
+  - Code général des collectivités territoriales - art. L5213-5 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-825 1977-07-22
 
 
 #### CHAPITRE 5 : Communautés urbaines<a id=63></a>
@@ -14902,16 +14901,19 @@ b) Soit par le consentement de tous les conseils municipaux intéressés.
 Il peut être dissous [*conditions*], soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du
 bureau du conseil général, soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
 
-La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions paritaires
-compétentes.
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
+paritaires compétentes.
 
 Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même niveau et en
-tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.
-
-Le décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est
+tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.    Le
+décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est
 liquidé.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code de l'administration communale 151 MODIFIE
 
 _Codifié par_:
 
@@ -14919,17 +14921,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-1169 1982-12-31 ART. 62 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
+  - Loi n°84-53 1984-01-26 ART. 121 I JORF 27 JANVIER 1984
 
 _Cité par_:
 
   - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
   - CODE DES COMMUNES. - art. L167-5 (Ab)
   - CODE DES COMMUNES. - art. R*163-6 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 151 MODIFIE
 
 
 #### DISTRICTS .<a id=144></a>
@@ -14979,43 +14977,6 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5213-7 (Ab)
   - Code général des collectivités territoriales - art. L5213-8 (Ab)
   - Code général des collectivités territoriales - art. L5213-9 (Ab)
-
-
-###### Article L164-9
-
-Le district est constitué soit à perpétuité, soit pour une durée déterminée par la décision institutive.
-
-Il est dissous [*conditions*] sur la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de
-la population totale du district.
-
-Il est également dissous de plein droit selon les dispositions de l'article L. 165-18 [*transfert de compétences à une
-communauté urbaine*].
-
-La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions paritaires
-compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même
-niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières
-correspondantes.
-
-L'arrêt de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est
-liquidé.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°82-1169 1982-12-31 ART. 63 ET 64 JORF 1ER JANVIER 1983 date d'entrée en vigueur 13 MARS 1983
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 121 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L165-18 (M)
-
-_Codifié par_:
-
-  - Décret n°77-825 1977-07-22
 
 
 #### COMMUNAUTES URBAINES<a id=145></a>
@@ -35036,924 +34997,7 @@ _Nouveaux textes_:
 
 #### Dispositions générales et organiques<a id=401></a>
 
-##### Dispositions générales .<a id=402></a>
-
-###### Article L411-1
-
-Le conseil municipal fixe par une délibération la liste des emplois permanents à temps complet confiés à un personnel
-exclusivement communal et dont les titulaires sont soumis aux dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 478 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*411-13 (Ab)
-  - CODE DES COMMUNES. - art. R*432-4 (V)
-  - CODE DES COMMUNES. - art. R411-15 (Ab)
-  - CODE DES COMMUNES. - art. R411-17 (Ab)
-
-
-###### Article L411-2
-
-Les attributions dévolues par le présent titre au conseil municipal et au maire sont exercées, en ce qui concerne le
-personnel des établissements publics communaux et intercommunaux, par la commission administrative, le conseil
-d'administration ou le comité chargé de la gestion et de l'administration de l'établissement public, et leur président.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 479
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-3
-
-Aucune création de service ou d'emplois nouveaux ne peut être opérée qu'après l'ouverture préalable d'un crédit au chapitre
-budgétaire intéressé [*condition*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - TXT_ASSOCIE: Circulaire 525 1977-12-12
-  - SPEC_APPLI: Code des communes L421-2 :
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 478 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-4
-
-Le personnel est vis-à-vis de la municipalité dans une situation statutaire et réglementaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 491
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-5
-
-Le statut défini au présent titre s'applique aux agents des communes et des établissements publics communaux et
-intercommunaux, titularisés dans un emploi permanent à temps complet, sans qu'il soit dérogé aux dispositions législatives et
-réglementaires qui créent, en faveur de certaines catégories d'agents, un régime spécial. 
-
-Il s'applique également aux agents intercommunaux, c'est-à-dire aux agents qui exercent leur fonction dans plusieurs
-communes, sous réserve que la durée totale de leur service corresponde à la durée de service des agents des collectivités
-locales titulaires   du présent statut.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 27 juin 1962 - art. ANNEXE 1 A (V)
-  - Arrêté du 27 juin 1962 - art. Annexe 1 B (V)
-  - Arrêté du 27 juin 1962 - art. Annexe 2 (V)
-  - Arrêté du 27 juin 1962 - art. Annexe 4 (V)
-  - Arrêté du 27 juin 1962 - art. Annexe 6 (V)
-  - Arrêté du 27 juin 1962 - art. Annexe 7 (V)
-  - Arrêté du 28 février 1963 - art. Annexe 8 (V)
-  - Arrêté du 24 janvier 1966 - art. Annexe 2 (V)
-  - Arrêté du 24 janvier 1966 - art. Annexe 3 (V)
-  - Arrêté du 28 mai 1968 - art. 4 (Ab)
-  - Arrêté du 26 septembre 1973 - art. 1 (V)
-  - Arrêté du 26 septembre 1973 - art. 4 (V)
-  - Arrêté du 26 septembre 1973 - art. 6 (V)
-  - Arrêté du 19 décembre 1973 - art. 1 (V)
-  - Arrêté du 23 juin 1976 - art. 10 (V)
-  - Arrêté du 15 novembre 1978 - art. 1 (V)
-  - Arrêté du 15 novembre 1978 - art. 3 (V)
-  - Arrêté du 15 novembre 1978 - art. 4 (V)
-  - Arrêté du 9 juin 1980 - art. 1 (V)
-  - Arrêté du 9 juin 1980 - art. 3 (V)
-  - Arrêté du 16 octobre 1980 - art. 1 (V)
-  - Arrêté du 15 juillet 1981 - art. 1 (V)
-  - Arrêté du 15 juillet 1981 - art. 2 (V)
-  - Arrêté du 15 juillet 1981 - art. 7 (V)
-  - Arrêté du 25 février 1982 - art. 19 (V)
-  - Arrêté du 21 juillet 1983 - art. 1 (V)
-  - Décret n°83-964 du 8 novembre 1983 - art. Annexe (Ab)
-  - Arrêté du 19 avril 1973 - art. 3 (Ab)
-  - Arrêté du 23 juin 1976 - art. 14 (V)
-  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
-  - Arrêté du 29 janvier 1969 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Anciens textes_:
-
-  - Code de l'administration communale 477 al. 1 et 3
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-6
-
-Le statut défini au présent titre ne s'applique pas aux personnels des établissements communaux qui présentent un caractère
-industriel ou commercial.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cité par_:
-
-  - Arrêté du 28 février 1963 - art. Annexe 8 (V)
-  - Arrêté du 24 janvier 1966 - art. Annexe 2 (V)
-  - Arrêté du 24 janvier 1966 - art. Annexe 3 (V)
-  - Arrêté du 28 mai 1968 - art. 4 (Ab)
-  - Arrêté du 26 septembre 1973 - art. 1 (V)
-  - Arrêté du 26 septembre 1973 - art. 4 (V)
-  - Arrêté du 26 septembre 1973 - art. 6 (V)
-  - Arrêté du 23 juin 1976 - art. 10 (V)
-  - Arrêté du 15 septembre 1978 - art. 1 (V)
-  - Arrêté du 19 avril 1973 - art. 3 (Ab)
-  - Arrêté du 23 juin 1976 - art. 14 (V)
-  - Arrêté du 26 novembre 1976 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Anciens textes_:
-
-  - Code de l'administration communale 477 al. 4
-
-
-###### Article L411-7
-
-Conformément à l'article L. 352-1, le statut défini au présent titre ne s'applique pas aux sapeurs-pompiers communaux
-[*exception*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L352-1 (Ab)
-
-
-###### Article L411-8
-
-Conformément à l'article 171 du code de l'urbanisme et de l'habitation, le statut défini au présent titre [*relatif aux
-emplois permanents à temps complet*] ne s'applique pas aux personnels des offices publics communaux et intercommunaux
-d'habitation à loyer modéré [*exception*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Décret n°54-1023 1954-10-13 modifié
-  - Décret n°76-690 1976-06-24
-  - Code de l'urbanisme 171 devenu Code de la construction et de l'habitation L421-7, R421-65, R421-66
-  - Code de la construction et de l'habitation. - art. L421-7 (Ab)
-  - Code de la construction et de l'habitation. - art. R421-65 (Ab)
-  - Code de la construction et de l'habitation. - art. R421-66 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Arrêté du 15 septembre 1978 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-9
-
-Conformément à l'article L. 792 du code de la santé publique, le statut défini au présent titre ne s'applique pas aux
-personnels des établissements d'hospitalisation publics, des hospices publics et des maisons de retraite publiques des
-communes et de leurs groupements [*exception*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Arrêté du 15 septembre 1978 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code de la santé publique 792
-
-
-###### Article L411-10
-
-Conformément au décret n° 55-622 du 20 mai 1955, le statut défini au présent titre [*relatif aux emplois permanents à temps
-complet*] ne s'applique pas aux personnels des caisses de crédit municipal [*exception*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Décret n°55-622 1955-05-20
-  - Décret n°61-506 1961-05-17
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-11
-
-Le droit syndical est reconnu au personnel soumis au présent titre.
-
-L'appartenance ou la non-appartenance à un syndicat ne doit entraîner aucune conséquence en ce qui concerne le recrutement,
-l'avancement, l'affectation et, d'une manière générale, la situation des agents soumis au présent statut.
-
-L'exercice du droit syndical ne doit pas avoir pour conséquence des actes contraires aux lois.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Circulaire 1974-05-06 Intérieur
-  - Instruction 1970-05-14 Premier Ministre
-
-_Anciens textes_:
-
-  - Code de l'administration communale 480 al. 1 phr. 1 et al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-12
-
-Les syndicats professionnels régis par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Ils
-peuvent notamment, devant les juridictions de l'ordre administratif, se pourvoir [**]recours[**] contre les actes
-réglementaires concernant le statut du personnel et contre les décisions individuelles portant atteinte aux intérêts
-collectifs des agents.
-
-Toute organisation syndicale d'agents soumis aux dispositions du présent titre [*emplois permanents à temps complet*] est
-tenue d'effectuer, dans les deux mois de sa création [**]délai[**], le dépôt de ses statuts et de la liste de ses
-administrateurs auprès de l'autorité hiérarchique dont dépendent les agents appelés à en faire partie.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Anciens textes_:
-
-  - Code de l'administration communale 480 al. 1 phr. 1 et al. 3
-
-_Cite_:
-
-  - Code du travail L410-1 à L413-2
-
-
-###### Article L411-13
-
-Les dispositions du décret du 29 octobre 1936 et les textes subséquents relatifs aux cumuls de retraites, de rémunérations et
-de fonctions sont applicables aux agents communaux soumis au présent titre.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*411-3 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 482
-
-_Cite_:
-
-  - Décret n°1936-10-29 modifié
-
-
-###### Article L411-14
-
-Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
-
-Cependant, pour certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la
-commission nationale paritaire du personnel communal, des recrutements distincts pour les hommes ou les femmes pourront être
-organisés si l'appartenance à l'un ou l'autre sexe constitue une condition déterminante pour l'exercice des fonctions
-considérées. Les modalités de ces recrutements seront fixées après avis des commissions paritaires communales ou
-intercommunales, selon le cas.
-
-Suivant la même procédure, lorsque des épreuves physiques sont prévues pour l'accès à un emploi des communes ou de leurs
-établissements publics, des épreuves ou des cotations distinctes en fonction du sexe des candidats pourront être prévues.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-599 1975-07-10 ART. 3 (partie)
-  - Code de l'administration communale 481
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-380 du 7 mai 1982 - art. 4 () JORF 8 MAI 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE PENAL - art. 416 (Ab)
-
-
-###### Article L411-15
-
-Il est interdit à tout agent soumis au présent titre, quelle que soit sa position, et sous quelque dénomination que ce soit,
-d'avoir par lui-même ou par personne interposée des intérêts dans une entreprise soumise au contrôle de l'administration ou
-service dont il fait partie ou en relation avec son administration ou service.
-
-Le fonctionnaire municipal demeure, à la suite de la cessation de ses fonctions, soumis à l'interdiction mentionnée à
-l'alinéa précédent pendant un délai fixé par décret.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 483
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-16
-
-Il est interdit à tout agent soumis au présent titre d'exercer, à titre professionnel, une activité privée lucrative de
-quelque nature que ce soit.
-
-Il ne peut être exceptionnellement dérogé à cette interdiction que dans les conditions prévues par le décret du 29 octobre
-1936 et les textes subséquents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 484 al. 1
-
-_Cite_:
-
-  - Décret  1936-10-29
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-17
-
-Lorsque le conjoint d'un agent soumis au présent titre exerce, à titre professionnel, une activité privée lucrative, la
-déclaration en est faite au maire.
-
-Le maire prend, s'il y a lieu, les mesures propres à sauvegarder les intérêts du service, après avis de la commission
-paritaire communale ou de la commission paritaire intercommunale selon le cas [**]conditions de forme - compétence[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 484 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-18
-
-Tout agent, quel que soit son rang dans la hiérarchie, est responsable de l'exécution des tâches qui lui sont confiées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 485
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-19
-
-L'agent chargé d'assurer la marche d'un service est responsable à l'égard de ses chefs de l'autorité qui lui a été confiée
-pour cet objet et de l'exécution des ordres qu'il a donnés.
-
-Il n'est dégagé d'aucune des responsabilités qui lui incombent par la responsabilité propre de ses subordonnés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 486
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-20
-
-Indépendamment des dispositions de l'article 378 du code pénal [*qui prévoit les peines applicables à toute personne
-dépositaire, par état, profession ou fonctions temporaires ou permanentes, de secrets qui lui sont confiés et qui révèle ces
-secrets*], tout agent est lié par l'obligation de discrétion professionnelle pour tout ce qui concerne les faits et
-informations dont il a connaissance dans l'exercice ou à l'occasion de l'exercice de ses fonctions.
-
-Tout détournement, toute communication contraire aux règlements de pièces ou documents de service à des tiers sont interdits.
-
-En dehors des cas expressément prévus par la réglementation en vigueur, l'agent ne peut être délié de cette obligation de
-discrétion ou relevé de l'interdiction édictée par l'alinéa précédent qu'avec l'autorisation du maire [**]conditions de
-forme[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 487
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code pénal 378
-
-
-###### Article L411-21
-
-Les agents ont droit, conformément aux règles fixées par le code pénal et des lois spéciales, à une protection contre les
-menaces, outrages, injures ou diffamations dont ils peuvent être l'objet.
-
-L'autorité investie du pouvoir de nomination est tenue de protéger ses agents contre les menaces, attaques, de quelque nature
-qu'elles soient, dont ils peuvent être l'objet à l'occasion de leurs fonctions.
-
-La collectivité locale répare, le cas échéant, le préjudice qui en est résulté dans tous les cas non prévus par la
-réglementation des pensions des personnels en cause [*responsabilité*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 489
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code pénal 224 et 230
-
-
-###### Article L411-22
-
-Conformément à l'article premier de la loi n° 63-777 du 31 juillet 1963 relative à certaines modalités de la grève dans les
-services publics [*Code du travail art. L. 521-2*], les dispositions de cette loi sont applicables aux personnels des
-communes comptant plus de dix mille habitants [*nombre*] ainsi qu'aux personnels des organismes et des établissements publics
-chargés de la gestion d'un service public.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Loi n°63-777 du 31 juillet 1963 - art. 1 (Ab)
-  - Code du travail - art. L521-2 (M)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-
-
-###### Article L411-23
-
-Aucune mention des opinions politiques, philosophiques ou religieuses ne peut figurer au dossier individuel de l'agent.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-2 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 490 al. 1 phr. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Commission nationale paritaire du personnel communal .<a id=403></a>
-
-###### Article L411-24
-
-Une commission nationale paritaire du personnel communal, constituée au sein de la section du personnel du conseil national
-des services publics départementaux et communaux, est consultée sur tous les textes réglementaires intéressant l'application
-du présent titre.
-
-Elle participe à l'établissement des règles générales de fonctionnement des services, notamment au point de vue du
-recrutement, de l'avancement et de la discipline.
-
-Elle peut procéder à toutes études sur l'organisation et le perfectionnement des méthodes de travail des services municipaux.
-
-Elle constitue une documentation et des statistiques d'ensemble concernant la fonction publique locale.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-  - CODE DES COMMUNES. - art. R352-2 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 al. 1
-
-
-###### Article L411-25
-
-La commission nationale paritaire du personnel communal comprend, sous la présidence du président de la section du personnel
-du conseil national des services publics départementaux et communaux, des représentants, en nombre égal, des maires et des
-personnels.
-
-Les représentants des maires sont, pour moitié, élus par les maires des communes.
-
-Les représentants des personnels sont, pour moitié, élus par les agents soumis au présent titre et, pour un tiers, désignés
-par leurs organisations représentatives.
-
-Un arrêté ministériel fixe les modalités d'élection des représentants élus des maires et du personnel.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 18 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 20 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 23 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 24 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 25 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 26 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 27 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 28 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 29 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 30 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 31 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 32 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 33 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 34 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 9 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Arrêté  1967-11-09
-  - Arrêté  1968-02-09
-  - Décret n°59-1155 1959-09-28
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-  - CODE DES COMMUNES. - art. R411-6 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 492 AL. 2 (partie) et dernier alinéa (partie)
-
-
-##### Syndicat de communes pour le personnel communal .<a id=404></a>
+##### Syndicat de communes pour le personnel communal .<a id=402></a>
 
 ###### Article L411-27
 
@@ -36029,1233 +35073,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L417-27 (M)
 
 
-##### Commission paritaire communale .<a id=405></a>
+#### Recrutement, formation et promotion sociale<a id=403></a>
 
-###### Article L411-31
+##### Recrutement<a id=404></a>
 
-Dans les communes qui occupent au moins cent agents [*nombre*] soumis au présent titre, la commission paritaire communale
-comprend [*membres*], d'une part, le maire et des délégués choisis par lui parmi les adjoints ou les conseillers municipaux
-et, d'autre part, en nombre égal, [*proportion*] des représentants du personnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 494 al. 1 modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 4 (V)
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-  - CODE DES COMMUNES. - art. L443-2 (Ab)
-
-
-###### Article L411-32
-
-Chaque catégorie d'agents élit, au bulletin secret et à la majorité des voix, ses représentants à la commission [*paritaire
-communale*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 494 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 4 (V)
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-
-
-###### Article L411-33
-
-Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal [**]conditions de
-forme[**], détermine les catégories et fixe les modalités d'élection des délégués du personnel aux commissions paritaires
-communales.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 18 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 20 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 23 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 24 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 25 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 26 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 27 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 28 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 29 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 30 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 31 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 32 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 33 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 66 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 67 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 68 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 69 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 70 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 71 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 72 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 73 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 74 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 75 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 9 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 497 al. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 4 (V)
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-  - CODE DES COMMUNES. - art. L411-34 (Ab)
-
-
-###### Article L411-34
-
-Pour l'élection des représentants du personnel à la commission paritaire communale, le maire [**]attributions[**] dresse la
-liste des électeurs, reçoit les candidatures, porte celles-ci à la connaissance des électeurs, convoque les collèges
-électoraux, procède au dépouillement des suffrages et à la proclamation des résultats dans les conditions et délais fixés par
-l'arrêté ministériel prévu à l'article précédent.
-
-Le vote peut avoir lieu par correspondance.
-
-Les représentants du personnel assistent aux opérations du scrutin et au dépouillement des suffrages.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 497 al. 2 à 4 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-33 (Ab)
-
-
-###### Article L411-35
-
-Le maire ou son représentant préside la commission paritaire communale.
-
-Il a voix prépondérante en cas de partage des voix.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 494 al. 3 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-36
-
-La commission paritaire communale se réunit sur convocation de son président.
-
-La convocation est obligatoire chaque fois qu'elle est demandée par le tiers au moins des membres de la commission ou lorsque
-le conseil municipal sollicite un avis [*proportion*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-37
-
-Le conseil municipal peut fixer une ou plusieurs sessions obligatoires pour les travaux de la commission paritaire communale.
-
-Dans ce cas, la demande d'avis est renvoyée à la plus proche session obligatoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 2 et 3 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-38
-
-La commission paritaire communale donne des avis au maire, notamment sur les modalités d'application du présent titre et
-chaque fois qu'elle est consultée par lui.
-
-Elle peut donner son avis sur les conflits provoqués par l'application du présent titre. Dans ce cas, elle peut demander
-l'avis de la commission nationale paritaire du personnel communal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 4 à 6 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-
-_Cite_:
-
-  - Code des communes L411-1 à L417-17
-
-
-##### Commission paritaire intercommunale .<a id=406></a>
-
-###### Article L411-39
-
-Dans chaque département, pour les communes qui possèdent moins de cent agents soumis au présent titre, une commission
-paritaire intercommunale est composée d'un nombre égal de maires désignés par le syndicat de communes pour le personnel
-communal et de délégués du personnel élus au scrutin de liste, avec représentation proportionnelle, par les catégories
-déterminées conformément à l'article suivant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 4 (V)
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-40 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 496 al. 1 modifié
-
-
-###### Article L411-40
-
-Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal [**]conditions de
-forme[**], détermine les catégories et fixe les modalités d'élection des délégués du personnel aux commissions paritaires
-intercommunales.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 34 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 35 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 36 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 37 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 38 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 39 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 40 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 41 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 42 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 43 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 44 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 45 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 46 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 47 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 48 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 49 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 51 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 52 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 53 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 54 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 55 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 56 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 57 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 58 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 60 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 61 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 62 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 63 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 64 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 65 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 66 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 67 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 68 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 69 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 70 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 71 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 72 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 73 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 74 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1976 - art. 75 (V)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L411-39 (Ab)
-  - CODE DES COMMUNES. - art. L411-41 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 497 al. 1 (partie)
-
-
-###### Article L411-41
-
-Pour l'élection des représentants du personnel à la commission paritaire intercommunale, le président du bureau du syndicat
-de communes pour le personnel communal dresse la liste des électeurs, convoque les collèges électoraux, procède au
-dépouillement des suffrages et à la proclamation des résultats dans les conditions et délais fixés par l'arrêté ministériel
-prévu à l'article précédent.
-
-Le vote peut avoir lieu par correspondance.
-
-Les représentants du personnel assistent aux opérations du scrutin et au dépouillement des suffrages.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-40 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 497 al. 2 à 4 (partie)
-
-
-###### Article L411-42
-
-La commission paritaire intercommunale nomme son président parmi les maires qui en font partie ; celui-ci a voix
-prépondérante en cas de partage des voix.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 496 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 4 (V)
-  - Arrêté du 28 octobre 1958 - art. 5 (V)
-
-
-###### Article L411-43
-
-La commission paritaire intercommunale se réunit sur convocation de son président.
-
-La convocation est obligatoire chaque fois qu'elle est demandée par le tiers au moins des membres de la commission ou
-lorsqu'un conseil municipal, ou le bureau du syndicat de communes, sollicite un avis [*proportion*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-44
-
-Le bureau du syndicat de communes pour le personnel communal peut fixer une ou plusieurs sessions obligatoires pour les
-travaux de la commission paritaire intercommunale.
-
-Dans ce cas, la demande d'avis est renvoyée à la plus proche session obligatoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 2 et 3 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-45
-
-La commission paritaire intercommunale donne des avis aux maires et au bureau du syndicat de communes pour le personnel
-communal notamment sur les modalités d'application du présent titre et chaque fois qu'elle est consultée par un maire ou le
-bureau du syndicat de communes pour le personnel communal [*fréquence*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 4 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L411-46
-
-La commission paritaire intercommunale peut donner son avis sur les conflits provoqués par l'application du présent titre.
-Dans ce cas, elle peut demander l'avis de la commission nationale paritaire du personnel communal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 498 al. 5 et 6 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L411-11 à L417-17
-
-
-#### Recrutement, formation et promotion sociale<a id=407></a>
-
-##### Recrutement<a id=408></a>
-
-##### Dispositions générales .<a id=409></a>
-
-###### Article L412-1
-
-Le maire [**]attributions[**] nomme à tous les emplois communaux ; il suspend et révoque les titulaires de ces emplois.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 500 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-
-
-###### Article L412-2
-
-Le conseil municipal ou le comité du syndicat de communes pour le personnel communal fixe, par délibérations, les conditions
-de recrutement pour l'accès à ceux des emplois pour lesquels ces conditions n'ont pas été déterminées par une réglementation
-particulière.
-
-Les pouvoirs ainsi conférés au conseil municipal ou au comité du syndicat s'exercent dans le cadre des dispositions prévues
-en application du présent chapitre.
-
-Le maire a la faculté de déterminer par arrêté les modalités d'application des décisions prises en exécution du premier
-alinéa.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 501 AL. 1 (partie), AL. 2 et AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Décret n°85-643 du 26 juin 1985 - art. 107 (Ab)
-  - Décret n°85-643 du 26 juin 1985 - art. 107-1 (Ab)
-  - Décret n°86-68 du 13 janvier 1986 - art. 11-4 (V)
-  - Décret n°86-68 du 13 janvier 1986 - art. 26-3 (V)
-  - Décret n°86-417 du 13 mars 1986 - art. 36 (Ab)
-  - Décret n°86-479 du 15 mars 1986 - art. 45 (Ab)
-  - Décret n°87-1097 du 30 décembre 1987 - art. 27 (VT)
-  - Décret n°87-1099 du 30 décembre 1987 - art. 33 (Ab)
-  - Décret n°87-1099 du 30 décembre 1987 - art. 33-1 (Ab)
-  - Décret n°87-1099 du 30 décembre 1987 - art. 33-2 (Ab)
-  - Décret n°87-1105 du 30 décembre 1987 - art. 28 (V)
-  - Décret n°87-1109 du 30 décembre 1987 - art. 17 (Ab)
-  - Décret n°87-1111 du 30 décembre 1987 - art. 14 (V)
-  - Décret n°88-549 du 6 mai 1988 - art. 29 (V)
-  - Décret n°90-126 du 9 février 1990 - art. 32 (Ab)
-  - Décret n°90-126 du 9 février 1990 - art. 33 (Ab)
-  - Décret n°90-126 du 9 février 1990 - art. 34 (Ab)
-  - Décret n°90-126 du 9 février 1990 - art. 36 (Ab)
-  - Décret n°91-298 du 20 mars 1991 - art. 6 (V)
-  - Décret n°91-839 du 2 septembre 1991 - art. 32 (Ab)
-  - Décret n°91-839 du 2 septembre 1991 - art. 33 (Ab)
-  - Décret n°91-839 du 2 septembre 1991 - art. 34 (Ab)
-  - Décret n°91-841 du 2 septembre 1991 - art. 29 (VT)
-  - Décret n°91-841 du 2 septembre 1991 - art. 30 (VT)
-  - Décret n°91-841 du 2 septembre 1991 - art. 31 (VT)
-  - Décret n°91-843 du 2 septembre 1991 - art. 28 (Ab)
-  - Décret n°91-843 du 2 septembre 1991 - art. 29 (Ab)
-  - Décret n°91-845 du 2 septembre 1991 - art. 28 (Ab)
-  - Décret n°91-845 du 2 septembre 1991 - art. 29 (Ab)
-  - Décret n°91-847 du 2 septembre 1991 - art. 24 (VT)
-  - Décret n°91-849 du 2 septembre 1991 - art. 25 (V)
-  - Décret n°91-851 du 2 septembre 1991 - art. 23 (V)
-  - Décret n°91-853 du 2 septembre 1991 - art. 20 (Ab)
-  - Décret n°91-854 du 2 septembre 1991 - art. 18 (Ab)
-  - Décret n°91-857 du 2 septembre 1991 - art. 28 (Ab)
-  - Décret n°91-859 du 2 septembre 1991 - art. 25 (Ab)
-  - Décret n°91-861 du 2 septembre 1991 - art. 21 (Ab)
-  - Décret n°92-363 du 1 avril 1992 - art. 27 (Ab)
-  - Décret n°92-364 du 1 avril 1992 - art. 27 (VT)
-  - Décret n°92-368 du 1 avril 1992 - art. 20 (Ab)
-  - Décret n°92-843 du 28 août 1992 - art. 22 (Ab)
-  - Décret n°92-845 du 28 août 1992 - art. 23 (Ab)
-  - Décret n°92-847 du 28 août 1992 - art. 19 (Ab)
-  - Décret n°92-849 du 28 août 1992 - art. 13 (Ab)
-  - Décret n°92-867 du 28 août 1992 - art. 20 (VT)
-  - Décret n°92-867 du 28 août 1992 - art. 21 (VT)
-  - Décret n°92-867 du 28 août 1992 - art. 22 (VT)
-  - Décret n°92-867 du 28 août 1992 - art. 23 (VT)
-  - Décret n°92-874 du 28 août 1992 - art. 27 (Ab)
-  - Décret n°94-732 du 24 août 1994 - art. 17 bis (Ab)
-  - Décret n°97-701 du 31 mai 1997 - art. 26 (VT)
-  - Décret n°2000-43 du 20 janvier 2000 - art. 25 (VT)
-  - Décret n°2006-1392 du 17 novembre 2006 - art. 27 (VT)
-  - Décret n°2009-414 du 15 avril 2009 - art. 1 (V)
-  - Arrêté du 1 octobre 1973 - art. 1 (V)
-  - Arrêté du 1 octobre 1973 - art. 2 (V)
-  - CODE DES COMMUNES. - art. R*412-1 (V)
-
-_Cite_:
-
-  - Code des communes L412-1 à L412-53
-
-
-###### Article L412-3
-
-Les conditions générales d'accès aux emplois communaux et les limites d'âge sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 502
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R412-9 (V)
-
-
-###### Article L412-4
-
-Conformément aux dispositions du 4° de l'article L. 323-12 du code du travail, les administrations des communes et de leurs
-établissements publics sont assujetties aux dispositions relatives à l'emploi des travailleurs handicapés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-
-_Cite_:
-
-  - Code du travail - art. L323-12 (M)
-
-
-###### Article L412-5
-
-Conformément à l'article 1er de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées, les
-communes, les groupements de communes et leurs établissements publics, associent leurs interventions avec celles des
-familles, de l'Etat, des autres collectivités locales et établissements publics, des organismes et entreprises publics et
-privés, pour mettre en oeuvre l'obligation nationale que constituent la prévention et le dépistage des handicaps, les soins,
-l'éducation, la formation et l'orientation professionnelle, l'emploi, la garantie d'un minimum de ressources, l'intégration
-sociale et l'accès aux sports et aux loisirs du mineur et de l'adulte handicapés physiques, sensoriels ou mentaux.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-6
-
-Conformément à l'article 64 du code du service national, pour l'accès à un emploi des communes et de leurs établissements
-publics, la limite d'âge est reculée d'un temps égal à celui passé effectivement dans le service national actif accompli dans
-l'une des formes du titre III dudit code.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code du service national - art. L64 (M)
-  - Code du service national L67 à L115
-
-
-###### Article L412-7
-
-Conformément à l'article 36 du code de la famille et de l'aide sociale, l'âge limite d'admission dans les cadres des communes
-et de leurs établissements publics est, à moins de dispositions contraires motivées par les nécessités spéciales de certains
-services, reculé d'un an par enfant à charge ou par personne à charge ouvrant droit aux allocations prévues pour les
-handicapés et tout candidat à un emploi dans ces cadres bénéficie, par enfant élevé dans les conditions prévues au deuxième
-alinéa de l'article 327 du code de la sécurité sociale, d'un recul de la limite d'âge d'admission égal à une année, un même
-enfant ne pouvant ouvrir droit qu'au bénéfice de l'une ou de l'autre de ces dispositions.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 36 (Ab)
-  - Code de la sécurité sociale 327 al. 2
-
-
-###### Article L412-8
-
-Les limites d'âge pour l'accès aux emplois des communes et de leurs établissements publics ne sont pas opposables aux femmes
-qui se trouvent dans l'obligation de travailler après la mort de leur mari.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Loi n°75-3 1975-01-03 art. 8 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-9
-
-Nonobstant toutes dispositions contraires, la limite d'âge applicable au recrutement par concours des agents des communes et
-de leurs établissements publics, de même niveau que les fonctionnaires de l'Etat de catégorie A et assimilés, est portée à
-quarante-cinq ans en faveur des femmes élevant leur enfant ou ayant élevé au moins un enfant.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-  - TXT_ASSOCIE: Code des communes R412-7-1
-
-_Anciens textes_:
-
-  - Loi n°76-617 1976-07-09 art. 21 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-  - CODE DES COMMUNES. - art. R*412-7-1 (V)
-
-
-###### Article L412-10
-
-L'appartenance d'un agent à l'administration communale résulte de la titularisation dans un emploi quelle que soit l'autorité
-qui a prononcé la titularisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 503 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R411-39 (Ab)
-  - CODE DES COMMUNES. - art. R411-40 (Ab)
-
-
-##### Modalités de recrutement communes à tous les emplois .<a id=410></a>
-
-###### Article L412-11
-
-Sous réserve de l'application de la législation relative aux emplois réservés, le recrutement aux emplois de début de
-l'administration communale ne peut avoir lieu que selon l'une ou plusieurs des modalités ci-après :
-
-1° Après concours sur épreuves ouverts, d'une part, aux candidats titulaires de certains diplômes ou titres, d'autre part,
-pour une fraction des emplois à pourvoir, aux agents communaux réunissant des conditions d'âge, de grade et d'ancienneté ;
-
-2° Après concours sur titres pouvant comporter une ou plusieurs épreuves consistant en conversation avec un jury ;
-
-3° Après examen professionnel ;
-
-4° Directement sur la justification de diplômes ou de capacités professionnelles ;
-
-5° Au titre de la promotion sociale.
-
-Des arrêtés du ministre de l'intérieur déterminent, pour chaque emploi, les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Ordonnance n°67-706 du 21 août 1967 - art. 82 (V)
-  - TXT_ASSOCIE: Loi n°69-1137 1969-12-20 ART. 1
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE 1 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 1 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 2 juillet 1975 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 2 juillet 1975 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 15 novembre 1978 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1977 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 26 septembre 1973 - art. ANNEXE 2 (V)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*412-100 (Ab)
-  - CODE DES COMMUNES. - art. R*412-105 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 503-1
-
-
-###### Article L412-12
-
-La nomination [*à tout emploi communal*] a un caractère conditionnel. La nomination peut être annulée au cours de la période
-de stage à l'issue de laquelle est prononcée la titularisation. En cas d'insuffisance professionnelle, les agents ainsi
-recrutés peuvent être licenciés au cours du stage [**]sanctions[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 505 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-7 (Ab)
-
-
-###### Article L412-13
-
-Le congé de maladie n'est pas compté [*calcul*] dans la durée du stage [*à l'issue duquel est prononcée la titularisation des
-agents communaux*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 505 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-14
-
-La période de stage [*à l'issue duquel est prononcé la titularisation des agents communaux*] entre en ligne de compte pour
-l'avancement et pour la retraite, après validation, conformément au règlement de la caisse nationale de retraites des agents
-des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 505 al. 3
-
-**Liens**:
-
-  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17
-  - TXT_ASSOCIE: Décret n°47-1846 1947-09-19
-  - TXT_ASSOCIE: Décret n°49-1416 1949-10-05
-  - TXT_ASSOCIE: Décret n°65-773 1965-09-09
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-15
-
-L'agent qui a la qualité de titulaire dans un emploi communal et qui, en application de l'article suivant, n'est pas dispensé
-de stage, est placé en position de détachement pendant la durée de celui-ci.
-
-Il est réintégré dans l'emploi qu'il occupait précédemment lorsqu'il n'est pas titularisé en fin de stage.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 505 al. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-16
-
-Lorsqu'un agent titulaire est nommé au service d'une nouvelle collectivité, sa carrière se poursuit sans discontinuité.
-
-Si l'agent est nommé dans un emploi identique, il conserve le bénéfice de son grade, de son échelon et de son ancienneté ;
-dans les autres cas, il est dispensé du stage à condition qu'il ait occupé depuis deux ans au moins [*durée*] un emploi
-immédiatement inférieur et de même nature dans sa commune d'origine.
-
-Cette dispense de stage s'applique dans les mêmes conditions à l'agent qui est nommé dans un emploi supérieur et de même
-nature à l'intérieur de la même collectivité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 506
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-17
-
-Par dérogation aux dispositions des articles L. 412-19 à L. 412-26, les emplois de secrétaire général, secrétaire général
-adjoint ou secrétaire de mairie, directeur général des services techniques et de direction de services autres
-qu'administratifs peuvent être pourvus par la voie du recrutement direct parmi les personnes justifiant des conditions de
-diplômes ou de capacité fixées par décision de l'autorité qualifiée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES L412-19 à L412-26
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L412-25 (Ab)
-  - CODE DES COMMUNES. - art. R412-13 (V)
-  - CODE DES COMMUNES. - art. R412-4 (V)
-
-
-##### Modalités de recrutement applicables à certains emplois.<a id=411></a>
+##### Modalités de recrutement applicables à certains emplois.<a id=405></a>
 
 ###### Article L412-18
 
@@ -37280,4533 +35102,11 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R412-14 (V)
 
 
-###### Article L412-19
+#### Sécurité sociale, pensions, hygiène et sécurité<a id=406></a>
 
-Les emplois des communes et de leurs établissements publics énumérés par des décisions de l'autorité qualifiée prises après
-avis de la commission nationale paritaire du personnel communal, sont organisés de manière que le recrutement et le
-déroulement de carrière des agents intéressés s'effectuent sur le plan intercommunal.
+##### Hygiène et sécurité .<a id=407></a>
 
-Les mêmes décisions fixent, compte tenu de l'importance des communes et des fonctions exercées, les règles applicables au
-recrutement et à l'avancement des agents.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1958-11-03
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 20 mars 1974 - art. 2 (V)
-  - CODE DES COMMUNES. - art. L412-29 (Ab)
-  - CODE DES COMMUNES. - art. L412-31 (Ab)
-  - CODE DES COMMUNES. - art. R412-15 (V)
-  - CODE DES COMMUNES. - art. R412-26 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504 AL. 1 et AL. 2 (partie)
-
-
-###### Article L412-20
-
-En ce qui concerne les emplois définis en application de l'article précédent et sous réserve des dispositions de l'article L.
-412-17 [*recrutement par voie directe*], les nominations aux emplois de début sont prononcées par le maire ou le président de
-l'établissement public intéressé parmi les candidats inscrits dans l'ordre alphabétique sur une liste d'aptitude
-départementale ou interdépartementale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 20 mars 1974 - art. 2 (V)
-  - CODE DES COMMUNES. - art. L412-41 (Ab)
-  - CODE DES COMMUNES. - art. L412-42 (Ab)
-  - CODE DES COMMUNES. - art. L412-43 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504 al. 3
-
-_Cite_:
-
-  - Code des communes L412-17 et L412-19
-
-
-###### Article L412-21
-
-Nul ne peut être inscrit [*interdiction*] sur une liste d'aptitude [*sur la base de laquelle sont prononcées les nominations
-aux emplois de début*] s'il n'a été recruté par la voie d'un concours organisé selon les modalités fixées à l'article L.
-412-32 [*par décret*], sauf le cas où il remplit les conditions pour qu'il puisse être procédé à son inscription au titre de
-la promotion sociale conformément à l'article L. 412-41 [*listes d'aptitude*].
-
-L'inscription sur les listes d'aptitude s'effectue selon les procédures prévues par les articles L. 412-22 à L. 412-26 et L.
-412-42.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 20 mars 1974 - art. 2 (V)
-  - CODE DES COMMUNES. - art. R412-16 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-32 (Ab)
-  - Code des communes L412-41 et L412-42
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504 al. 4 et 5
-
-
-###### Article L412-22
-
-Sous réserve des dispositions de l'article L. 412-41 [*sur la promotion sociale*], l'établissement des listes d'aptitude
-[*sur la base desquelles sont prononcées les nominations aux emplois de début*] s'effectue conformément aux dispositions des
-articles suivants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504-1 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-41 (Ab)
-  - Code des communes L412-23 à L412-26
-
-
-###### Article L412-23
-
-Chaque liste d'aptitude [*sur la base de laquelle sont prononcées les nominations aux emplois de début*] est arrêtée
-annuellement [**]fréquence[**] par une commission départementale ou interdépartementale qui comprend, en nombre égal, des
-représentants des maires et des personnels de la catégorie intéressée.
-
-La commission, présidée par un maire, ne dispose d'aucun pouvoir d'appréciation.
-
-La commission enregistre, dans l'ordre alphabétique, les candidatures qui lui sont transmises, après avoir vérifié qu'elles
-remplissent les conditions requises par les lois et règlements en vigueur.
-
-Les décisions de la commission peuvent faire l'objet d'un recours devant le tribunal administratif.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 13 mars 1973 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 19 (V)
-  - Arrêté du 25 février 1982 - art. 39 (V)
-  - CODE DES COMMUNES. - art. L412-42 (Ab)
-  - CODE DES COMMUNES. - art. R412-26 (V)
-  - CODE DES COMMUNES. - art. R412-48 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504-1 al. 2 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-24
-
-L'agent est inscrit sur une ou plusieurs listes d'aptitude [*sur la base desquelles sont prononcées les nominations aux
-emplois de début*] départementales ou interdépartementales de son choix.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 13 mars 1973 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 19 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504-1 al. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-25
-
-Lorsqu'un emploi n'est pas pourvu par voie de mutation à grade égal, l'autorité investie du pouvoir de nomination ne peut
-recruter à cet emploi, sous réserve des dispositions de l'article L. 412-17 [*recrutement direct possible pour les emplois de
-secrétaire de mairie, de directeur général des services techniques et de direction de services autres qu'administratifs*],
-qu'un candidat inscrit sur la liste d'aptitude établie pour le ou les départements où s'exerce le recrutement.
-
-Cette obligation cesse lorsque la liste comporte moins de six candidats [*nombre*].
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 13 mars 1973 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 1 (V)
-  - Arrêté du 9 janvier 1975 - art. 19 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504-1 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-17 (M)
-
-
-###### Article L412-26
-
-L'agent qui figure sur une liste d'aptitude [*sur la base de laquelle est prononcée la nomination à un emploi de début*] et
-refuse plus de trois nominations [*nombre*], est radié de la liste [*sanctions*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 504-1 al. 5
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Bourse de l'emploi .<a id=412></a>
-
-###### Article L412-27
-
-Une bourse de l'emploi facilite la mobilité d'emploi du personnel communal.
-
-Les maires lui déclarent les vacances qui se produisent dans les emplois déterminés par une décision de l'autorité
-supérieure.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1973-12-19
-  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 décembre 1973 - art. 2 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 507-1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R412-36 (Ab)
-
-
-##### Centre de formation des personnels communaux<a id=413></a>
-
-##### Rôle .<a id=414></a>
-
-###### Article L412-29
-
-Le centre de formation des personnels communaux organise les concours d'accès aux emplois communaux prévus à l'article L.
-412-19.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-4 al. 1 phr. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°85-1221 du 22 novembre 1985 - art. 29 bis (V)
-  - CODE DES COMMUNES. - art. L412-30 (Ab)
-  - CODE DES COMMUNES. - art. R412-48 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-19 (M)
-
-
-###### Article L412-30
-
-A la demande d'un maire ou d'un président d'établissement public communal ou intercommunal, les concours [*d'accès aux
-emplois communaux*] prévus à l'article précédent [*les concours d'accès aux emplois communaux*] sont organisés [*sur le plan
-local*] au niveau de la commune ou de l'établissement public intéressé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-29 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-4 al. 2
-
-
-###### Article L412-31
-
-Les communes ou les établissements publics communaux et intercommunaux peuvent, pour le recrutement à un emploi [*déterminé
-par décision de l'autorité supérieure*] prévu à l'article L. 412-19, décider d'organiser leur propre concours [*concours
-organisés sur le plan local*].
-
-Dans ce cas, le jury est présidé par le maire ou président du syndicat et il est composé d'un représentant du centre de
-formation des personnels communaux, chargé de s'assurer de la conformité des programmes et de la régularité des épreuves, et
-de membres choisis par le président sur une liste dressée, chaque année, pour son ressort, par le tribunal administratif.
-
-Le jury s'adjoint un représentant au moins de la catégorie du personnel communal pour le recrutement de laquelle le concours
-est organisé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-19 (M)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R412-53 (Ab)
-  - CODE DES COMMUNES. - art. R412-54 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-4 al. 3
-
-
-###### Article L412-32
-
-Les conditions générales d'organisation des concours prévus aux articles précédents sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-4 al. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L412-21 (Ab)
-
-_Cite_:
-
-  - Code des communes L412-29 à L412-31
-
-
-##### Promotion sociale .<a id=415></a>
-
-###### Article L412-41
-
-Au titre de la promotion sociale, une proportion des inscriptions effectuées sur les listes d'aptitude [*sur la base
-desquelles sont prononcées les nominations à des emplois de début*] prévues aux articles L. 412-20 et L. 412-22 est réservée
-aux agents soumis aux dispositions de ces articles, selon les modalités et dans les conditions fixées par arrêté du ministre
-de l'intérieur.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°73-293 1973-03-13
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 13 mars 1973 - art. 7 (V)
-
-_Cité par_:
-
-  - Arrêté du 13 mars 1973 - art. 1 (V)
-  - CODE DES COMMUNES. - art. L412-22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-20 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-1 al. 1
-
-
-###### Article L412-42
-
-Les listes d'aptitude [*sur la base desquelles sont prononcées les nominations à des emplois de début*] prévues à l'article
-L. 412-20 sont complétées, au titre de la promotion sociale, sur proposition des maires ou des présidents des établissements
-publics intéressés, par les commissions [*départementales ou interdépartementales*] instituées en application de l'article L.
-412-23, selon les modalités et dans les conditions fixées par arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 19 avril 1973 - art. 1 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-20 (Ab)
-  - CODE DES COMMUNES. - art. L412-23 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-43
-
-Les inscriptions au titre de la promotion sociale ne donnent lieu à aucune mention particulière sur les listes d'aptitude
-[*sur la base desquelles sont prononcées les nominations à un emploi de début*] prévues à l'article L. 412-20.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-20 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L412-44
-
-Pour les agents autres que ceux qui sont mentionnés aux articles L. 412-20 et L. 412-22 [*agents recrutés pour certains
-emplois*], la promotion sociale est assurée selon les modalités et dans les conditions fixées par décret pris après avis de
-la commission nationale paritaire du personnel communal [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 13 mars 1973 - art. 1 (V)
-  - CODE DES COMMUNES. - art. R412-94 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-1 al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L412-20 et L412-22
-
-
-##### Dispositions applicables à certains personnels<a id=416></a>
-
-##### Dispositions applicables aux personnels des écoles d'art et musées.<a id=417></a>
-
-###### Article L412-52
-
-Conformément au premier alinéa de l'article 10 de l'ordonnance n° 45-1546 du 13 juillet 1945, les conservateurs des musées
-classés [*statut*], ainsi que le conservateur du musée du Palais des Arts à Lyon et son assistant, sont fonctionnaires de
-l'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-1546 1945-07-13 art. 10 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°99-291 du 15 avril 1999 - art. 24 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 1 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 2 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 3 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 4 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 5 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 6 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 7 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 1 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 10 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 11 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 12 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 2 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 3 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 4 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 5 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 6 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 7 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 8 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 9 (VT)
-
-
-###### Article L412-53
-
-Conformément au troisième alinéa de l'article 10 de l'ordonnance n° 45-1546 du 13 juillet 1945, le recrutement et la
-nomination du personnel scientifique des musées classés et des musées contrôlés qui n'a pas la qualité de fonctionnaire de
-l'Etat, sont soumis aux mêmes règles que ceux des conservateurs des musées classés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-1546 1945-07-13 art. 10 al. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-#### Rémunération et effectifs .<a id=418></a>
-
-###### Article L413-1
-
-La rémunération des agents communaux    comprend le traitement, l'indemnité de résidence, le supplément familial de
-traitement, les prestations familiales obligatoires ainsi que toutes autres indemnités instituées par un texte législatif ou
-réglementaire et ayant le caractère de complément de traitement.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1951-11-22 modifié
-  - TXT_ASSOCIE: Arrêté 1968-05-28 modifié
-  - TXT_ASSOCIE: Arrêté 1968-11-27 modifié
-  - TXT_ASSOCIE: Décret n°1954-11-08
-  - TXT_ASSOCIE: Décret n°1955-06-30
-  - TXT_ASSOCIE: Décret n°1956-03-17
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-5 (Ab)
-  - Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 509
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L413-2
-
-Les dispositions relatives à la valeur du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de
-l'indemnité de résidence, des prestations familiales, du supplément familial de traitement, ainsi que de toutes autres
-indemnités instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement sont
-applicables de plein droit aux agents communaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté  1978-08-03 (J.O. 6 septembre 1978) classement indiciaire des adjoints d'enseignement musical municipaux
-
-_Cité par_:
-
-  - Arrêté du 8 février 1971 - art. 2 (V)
-  - CODE DES COMMUNES. - art. L421-6 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 510 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L413-3
-
-Tout agent titulaire d'un emploi communal qui est doté d'une échelle indiciaire fixée par décision de l'autorité qualifiée
-prise après avis de la commission nationale paritaire du personnel communal, bénéficie de cette échelle.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1978-08-03
-  - TXT_SOURCE: Arrêté du 25 mai 1970
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 3 (M)
-  - TXT_SOURCE: Arrêté du 25 mai 1970 - art. Tableau annexe 3 (V)
-
-_Cité par_:
-
-  - Arrêté du 8 février 1971 - art. 2 (V)
-  - CODE DES COMMUNES. - art. L121-38 (Ab)
-  - CODE DES COMMUNES. - art. L413-10 (Ab)
-  - CODE DES COMMUNES. - art. R*413-1 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 510 AL. 2 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L413-4
-
-L'échelon le plus bas de la première catégorie des emplois communaux doit comporter un traitement net qui ne peut être
-inférieur à 120 p. 100 [*pourcentage*] du salaire minimum vital.
-
-En aucun cas, la rémunération totale de l'agent célibataire débutant, titulaire et employé à temps complet, ne peut être
-inférieure au salaire minimum interprofessionnel de croissance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 511
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°1955-04-02
-  - TXT_ASSOCIE: Décret n°1956-03-17
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L413-6
-
-Des avantages accessoires peuvent être accordés, à titre exceptionnel, notamment pour travaux pénibles ou insalubres.
-
-Des primes de rendement ou des indemnités pour travaux supplémentaires peuvent également être attribuées à des agents du
-personnel communal.
-
-Ces avantages et ces primes sont déterminés selon la procédure suivie pour les échelles de traitements et salaires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 14 mars 1964 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 15 septembre 1978 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 10 juin 1980 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 18 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 9 juin 1980 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 8 juin 1982
-  - TXT_SOURCE: Arrêté du 8 juin 1982 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 8 juin 1982 - art. 2 (V)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Anciens textes_:
-
-  - Code de l'administration communale 513
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L413-7
-
-Les rémunérations allouées par les communes à leurs agents ne peuvent en aucun cas dépasser celles que l'Etat attribue à ses
-fonctionnaires remplissant des fonctions équivalentes.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 514
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°82-573 du 2 juillet 1982 - art. 3 (Ab)
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L322-4 (Ab)
-
-
-###### Article L413-8
-
-Un arrêté ministériel, pris après avis de la commission nationale paritaire du personnel communal, établit à titre indicatif
-un tableau type des emplois communaux en tenant compte de l'importance respective des communes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°52-432 1952-04-28 ART. 22 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L413-9 (Ab)
-  - CODE DES COMMUNES. - art. R413-2 (V)
-
-
-###### Article L413-9
-
-Dans les limites fixées par la décision prévue à l'article précédent [*un tableau type des emplois communaux*], le conseil
-municipal [**]attributions[**] détermine, par délibération, les effectifs des différents emplois communaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°52-432 1952-04-28 art. 22 al. 3 (partie) modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L413-8 (Ab)
-
-
-###### Article L413-10
-
-Le conseil municipal [*attributions*] détermine, par délibération, les échelles de traitement des catégories de personnel
-autres que celles qui sont prévues à l'article L. 413-3 [*agents titulaires*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°52-432 1952-04-28 art. 22 al. 3 (partie) modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L413-3 (M)
-
-
-#### Notation, avancement et discipline<a id=419></a>
-
-##### Notation .<a id=420></a>
-
-###### Article L414-1
-
-Il est attribué chaque année [**]fréquence[**] à tout agent en activité une note chiffrée accompagnée d'une appréciation
-écrite qui exprime sa valeur professionnelle.
-
-Le maire [*attributions*] note les agents après avis du chef de service et du secrétaire général [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 515 AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R414-1 (V)
-
-
-###### Article L414-2
-
-Les notes chiffrées [*attribuées chaque année à tous les agents en activité*] sont obligatoirement portées à la connaissance
-des intéressés et de la commission paritaire communale ou intercommunale compétente.
-
-La commission paritaire peut, à la requête de l'intéressé [**]recours[**], proposer au maire la révision de la note
-attribuée. Dans ce cas, communication est faite à la commission de tous les éléments d'information utiles [*dossier*].
-
-Toutefois, les notes ne peuvent être communiquées aux agents des catégories inférieures à celles de l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 515 AL. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-3
-
-La commission nationale paritaire du personnel communal détermine les éléments dont il est tenu compte pour l'établissement
-des notes [*attribuées chaque année à tout agent en activité*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 515 AL. 5
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-4
-
-La commission paritaire intercommunale procède, dans chaque département, à une péréquation générale des notes.
-
-Un représentant du maire et un représentant du personnel désignés par chaque commission paritaire communale participent avec
-voix délibérative aux travaux de péréquation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 517 AL. 1 remplacé et AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L414-7 (Ab)
-
-
-##### Avancement .<a id=421></a>
-
-###### Article L414-5
-
-L'avancement des agents soumis au présent statut            comprend l'avancement d'échelon et l'avancement de grade. 
-
-Il a lieu d'échelon à échelon et de grade à grade.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1959-11-05
-
-_Anciens textes_:
-
-  - Code de l'administration communale 518
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-6
-
-L'avancement d'échelon se traduit par une augmentation de traitement. Il est fonction à la fois de l'ancienneté et de la
-notation de l'agent.
-
-Le maximum et le minimum du temps susceptible d'être passé dans chaque échelon sont fixés, pour chaque catégorie d'emplois,
-par décision de l'autorité supérieure prise après avis de la commission nationale paritaire du personnel communal.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 10 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 4 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 5 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 6 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 7 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 8 (V)
-  - TXT_SOURCE: Arrêté du 30 juillet 1963 - art. Annexe 9 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE 17 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE 18 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. ANNEXE I (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 10 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 11 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 12 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 13 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 14 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 15 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 16 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 19 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 2 bis (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 20 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 4 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 5 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 6 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 6 bis (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 7 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 7 bis (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 8 (V)
-  - TXT_SOURCE: Arrêté du 12 février 1968 - art. Annexe 9 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. ANNEXE 1 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 3 bis (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 4 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 4 bis (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 5 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 6 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 7 (V)
-  - TXT_SOURCE: Arrêté du 30 août 1968 - art. Annexe 8 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 4 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 5 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 6 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 7 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 8 (V)
-  - TXT_SOURCE: Arrêté du 1 septembre 1969 - art. Annexe 9 (V)
-  - TXT_SOURCE: Arrêté du 8 février 1971 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 8 février 1971 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 8 février 1971 - art. Annexe (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 519 AL. 1 et AL. 2 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Cité par_:
-
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-  - CODE DES COMMUNES. - art. R*414-3 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-119 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-7
-
-L'avancement d'échelon à l'ancienneté maximum est accordé de plein droit.
-
-L'avancement d'échelon à l'ancienneté minimum peut être accordé par le maire, après avis de la commission paritaire
-compétente [**]conditions de forme[**], aux agents auxquels a été attribuée une note supérieure à la note moyenne obtenue par
-les agents du même grade à la suite de la péréquation générale des notes prévues à l'article L. 414-4 [*dans chaque
-département*].
-
-Lorsque l'agent est seul de son grade dans le département, l'avancement d'échelon à l'ancienneté minimum peut être accordé
-par le maire au vu de la note attribuée et après avis de la commission paritaire compétente.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 519 AL. 3 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L414-4 (Ab)
-
-
-###### Article L414-8
-
-La durée des périodes d'instruction militaire, de congés de maladie, et, éventuellement, de congés d'allaitement, entre en
-ligne de compte pour l'avancement d'échelon et de grade.
-
-La durée du service national est également prise en considération conformément aux règles applicables en l'espèce aux
-fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 521
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°52-836 1952-07-18
-  - TXT_ASSOCIE: Décret n°56-1167 1956-11-17
-  - TXT_ASSOCIE: Loi n°1928-03-31
-  - TXT_ASSOCIE: Loi n°1932-02-16
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-9
-
-Les listes d'aptitude [*pour l'avancement*] sont communiquées chaque année, pour avis, à la commission paritaire communale ou
-intercommunale, suivant le cas.
-
-Celle-ci peut charger de l'examen des listes une sous-commission de six membres [*nombre*], comprenant obligatoirement trois
-délégués du maire ou du bureau du syndicat de communes pour le personnel communal, suivant le cas, et trois représentants du
-personnel.
-
-La sous-commission choisit son président parmi les élus municipaux.
-
-En aucun cas, un agent ne peut être appelé à donner son avis sur l'avancement d'un agent d'une catégorie supérieure à la
-sienne.
-
-La commission paritaire ou la sous-commission peut s'adjoindre des techniciens à titre consultatif.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 27 septembre 1973 - art. 1 (V)
-  - Arrêté du 27 septembre 1973 - art. 2 (V)
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-  - CODE DES COMMUNES. - art. L414-10 (Ab)
-  - CODE DES COMMUNES. - art. R*414-2 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 523 AL. 1 à 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-10
-
-Les listes d'aptitude [*pour l'avancement*] prévues à l'article précédent comprennent un nombre de candidats égal au nombre
-des emplois qui sont susceptibles de devenir vacants dans l'année, majoré de 50 p. 100 [*pourcentage*].
-
-Elles sont arrêtées par l'autorité investie du pouvoir de nomination.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 523 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°83-964 du 8 novembre 1983 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L414-9 (Ab)
-
-
-##### Discipline<a id=422></a>
-
-##### Le conseil de discipline .<a id=423></a>
-
-###### Article L414-11
-
-Le conseil de discipline comprend trois conseillers municipaux et trois représentants du personnel lorsqu'il s'agit du
-conseil de discipline communal, et trois maires et trois représentants du personnel [*nombre*] lorsqu'il s'agit du conseil de
-discipline intercommunal.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 525 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L414-14 (Ab)
-
-
-###### Article L414-12
-
-Les membres du conseil de discipline [*communal*] sont tirés au sort parmi les membres des commissions paritaires
-[*recrutement*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 525 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L414-14 (Ab)
-
-
-###### Article L414-13
-
-Le conseil de discipline [*communal*] ne comprend, en aucun cas, des agents d'une catégorie inférieure à celle de l'agent
-déféré devant lui.
-
-Il comprend au moins un agent de sa catégorie ou d'une catégorie équivalente.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L414-14 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 525 AL. 3
-
-
-###### Article L414-14
-
-Par dérogation aux dispositions de l'article L. 414-12 [*tirage au sort des membres du conseil de discipline parmi les
-membres des commissions paritaires*], les représentants du personnel aux conseils de discipline, appelés à donner leur avis
-sur les sanctions applicables aux personnels occupant les emplois de secrétaire général, secrétaire général adjoint,
-directeur des services techniques et directeur des services autres qu'administratifs dans les villes comportant cent agents
-[*nombre*] et plus, sont tirés au sort sur des listes établies par catégories dans un cadre interdépartemental et comportant
-les noms de tous les agents occupant ces emplois.
-
-Dans les communes affiliées aux syndicats de communes pour le personnel communal, les listes mentionnées à l'alinéa précédent
-peuvent être exceptionnellement utilisées lorsque la représentation du personnel ne peut être assurée dans les conditions
-prévues par les articles L. 414-11 et L. 414-13.
-
-La décision de recourir à cette procédure appartient au maire ou président de syndicat de communes.
-
-Un arrêté du ministre de l'intérieur détermine les départements pour lesquels sont établies les listes mentionnées au premier
-alinéa, l'autorité chargée d'établir les listes ainsi que les emplois qui composent chacune des catégories.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - TXT_SOURCE: Arrêté du 24 décembre 1957 - art. 5 (V)
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 527 modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 24 décembre 1957 - art. 1 (V)
-  - Arrêté du 24 décembre 1957 - art. 2 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L414-11 (Ab)
-  - CODE DES COMMUNES. - art. L414-12 (Ab)
-  - CODE DES COMMUNES. - art. L414-13 (Ab)
-
-
-###### Article L414-15
-
-Le conseil de discipline est saisi par un rapport de l'autorité qui exerce le pouvoir disciplinaire.
-
-Le rapport précise les faits répréhensibles et les circonstances dans lesquelles ils ont été commis.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 532
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-16
-
-L'agent incriminé a le droit d'obtenir, aussitôt que l'action disciplinaire est engagée [**]délai - date[**], la
-communication intégrale de son dossier individuel et de tous documents annexes.
-
-Il peut présenter devant le conseil de discipline des observations écrites ou verbales, citer des témoins et se faire
-assister d'un défenseur de son choix.
-
-Le droit de citer des témoins appartient également à l'administration.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 533
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L414-17
-
-Les dispositions de l'article 65 de la loi du 22 avril 1905 sont applicables aux agents soumis au présent titre [*emplois
-permanents à temps complet*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-1 (Ab)
-  - SPEC_APPLI: Code des communes L421-1, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 535
-
-_Cite_:
-
-  - Code des communes L411-1 à L417-17
-  - Loi   1905-04-22  ART. 65
-
-
-##### Les sanctions disciplinaires .<a id=424></a>
-
-###### Article L414-18
-
-Les sanctions disciplinaires applicables au personnel communal sont les suivantes :       1° L'avertissement ou rappel à
-l'ordre ; 
-
-2° Le blâme avec inscription au dossier ; 
-
-3° La mise à pied jusqu'à un maximum de cinq jours ; 
-
-4° L'exclusion temporaire de fonction pour une durée qui ne peut excéder quinze jours ; 
-
-5° Le retard dans l'avancement ; 
-
-6° L'abaissement d'échelon ; 
-
-7° La rétrogradation ; 
-
-8° La mise à la retraite d'office ; 
-
-9° La révocation sans suspension des droits à pension, ou la révocation avec suspension des droits à pension.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - TXT_ASSOCIE: Décret n°49-1416 1949-10-05
-  - TXT_ASSOCIE: Ordonnance 60-1036 1960-09-28
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 524 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L414-19 (Ab)
-  - CODE DES COMMUNES. - art. R421-14 (Ab)
-
-
-###### Article L414-19
-
-La commission nationale paritaire du personnel communal fixe pour chacune des sanctions prévues aux 1° à 7° de l'article
-précédent les délais à l'expiration desquels la mention des sanctions cesse de figurer au dossier lorsque l'agent en cause
-n'a pas été l'objet, au cours de ces délais, d'une nouvelle mesure disciplinaire.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Cité par_:
-
-  - Arrêté du 23 juin 1976 - art. 13 (V)
-  - Arrêté du 23 juin 1976 - art. 31 (V)
-  - Arrêté du 23 juin 1976 - art. 17 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 524 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L414-18 (Ab)
-
-
-###### Article L414-20
-
-Les sanctions prévues aux 3° et 4° de l'article L. 414-18 [*mise à pied et exclusion temporaire de fonction*] entraînent la
-privation de toute rémunération, à l'exception des prestations familiales légales.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 524 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L414-18 3° et 4°
-
-
-###### Article L414-21
-
-L'agent révoqué sans pension bénéficie de l'assurance vieillesse dans les conditions prévues par un règlement
-d'administration publique.
-
-Ses ayants droit bénéficient des mêmes dispositions.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes R414-28
-
-
-###### Article L414-22
-
-Les sanctions sont prononcées par le maire [*compétence*].
-
-Les sanctions énumérées aux 4° à 9° de l'article L. 414-18 ne peuvent être prononcées qu'après avis motivé du conseil de
-discipline [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 528
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L414-18 4° à 9°
-
-
-#### Positions .<a id=425></a>
-
-###### Article L415-1
-
-Tout agent soumis au présent statut est placé dans une des positions suivantes    : 
-
-1° En activité ; 
-
-2° En congé postnatal ; 
-
-3° En service détaché ; 
-
-4° Hors cadre ; 
-
-5° En disponibilité ; 
-
-6° Sous les drapeaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 536 complété
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Activités, congés .<a id=426></a>
-
-###### Article L415-2
-
-L'activité       est la position de l'agent communal qui, régulièrement titulaire d'un grade, exerce effectivement les
-fonctions de l'un des emplois correspondants.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 537
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Les congés annuels .<a id=427></a>
-
-###### Article L415-3
-
-Tout agent en activité a droit à un congé de trente jours consécutifs ou de vingt-six jours ouvrables pour une année de
-service accompli.
-
-Les congés de maladie, ainsi que le congé [*pour période d'instruction obligatoire*] qui est prévu à l'article L. 415-63,
-sont considérés, pour l'application de cette disposition, comme service accompli.
-
-L'administration conserve toute liberté pour échelonner les congés. Elle peut, en outre, s'opposer, si l'intérêt du service
-l'exige, à tout fractionnement de congé.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 538 AL. 1 à 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-63 (Ab)
-
-
-###### Article L415-4
-
-Le fonctionnaire chargé de famille bénéficie d'une priorité pour le choix des périodes des congés annuels.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 538 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-5
-
-Le congé dû pour une année de service accompli ne peut se reporter sur l'année suivante, sauf autorisation exceptionnelle
-donnée par le maire, après avis du chef de service [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 539 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-6
-
-L'agent originaire des départements de la Haute-Corse et de la Corse-du-Sud ou des territoires d'outre-mer peut bénéficier,
-sur sa demande, d'un congé bloqué de soixante jours [*durée*] tous les deux ans [*fréquence*], pour se rendre dans son
-département ou territoire d'origine.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 539 AL. 2 modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-
-
-###### Article L415-7
-
-L'agent originaire des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, de Saint-Pierre-et-
-Miquelon, exerçant en métropole peut cumuler ses congés dans les mêmes conditions que les fonctionnaires de l'Etat
-originaires de ces départements.
-
-Il peut bénéficier en matière de congé des avantages accordés, par décret, aux fonctionnaires de l'Etat [*prise en charge des
-frais de voyage de congés bonifiés*] à condition que la charge financière qui en résulte n'excède pas les ressources propres
-de la collectivité locale intéressée.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-8
-
-Un congé d'une durée maximum de douze jours ouvrables par an, pris en une ou deux fois, est accordé, dans des conditions
-analogues à celles qui sont prévues pour les travailleurs du secteur privé en vue de favoriser l'éducation ouvrière, à
-l'agent qui en fait la demande.
-
-Pendant la durée de ce congé, les émoluments de l'agent sont réduits au montant des retenues légales pour la retraite et la
-sécurité sociale afférentes à son grade. L'intéressé conserve, en outre, ses droits à la totalité des suppléments pour
-charges de famille.
-
-Un règlement d'administration publique détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - TXT_ASSOCIE: Décret n°62-1225 1962-10-18
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Loi n°52-432 1952-04-28 ART. 47 bis (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-9 (Ab)
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-  - CODE DES COMMUNES. - art. R*412-113 (Ab)
-  - CODE DES COMMUNES. - art. R415-1 (V)
-
-
-###### Article L415-9
-
-L'agent qui est âgé de moins de vingt-cinq ans et qui désire participer aux activités des organisations de jeunesse et
-d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à
-favoriser la préparation, la formation ou le perfectionnement de cadres et animateurs, a droit, sur sa demande, à un congé
-non rémunéré d'une durée de six jours ouvrables par an et qui peut être pris en une ou deux fois à la demande du
-bénéficiaire. 
-
-La durée du congé est assimilée à une période de travail effectif. 
-
-Elle ne peut être imputée sur la durée du congé annuel. 
-
-Le congé prévu au premier alinéa ne peut se cumuler avec celui qui est prévu à l'article précédent               qu'à
-concurrence de douze jours ouvrables pour une même année. 
-
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles il est attribué.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R*415-5 (V)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Anciens textes_:
-
-  - Loi n°61-1448 1961-12-29 ART. 1 à 4 (Parties)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-8 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-  - CODE DES COMMUNES. - art. L422-1 (Ab)
-  - CODE DES COMMUNES. - art. R*415-2 (V)
-  - CODE DES COMMUNES. - art. R*415-3 (V)
-  - CODE DES COMMUNES. - art. R*415-4 (V)
-
-
-##### Les congés de maladie .<a id=428></a>
-
-###### Article L415-10
-
-En cas de maladie dûment constatée par une certificat médical et qui le met dans l'impossibilité d'exercer ses fonctions,
-l'agent est mis en congé de plein droit.
-
-Le maire peut exiger un examen par un médecin assermenté ou provoquer une expertise par un comité médical.
-
-L'agent intéressé peut demander une expertise contradictoire entre un médecin choisi par lui et un autre médecin désigné par
-le maire.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 542
-
-_Cite_:
-
-  - Décret n°59-310 1959-02-14
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-11
-
-Les agents en activité bénéficient des mêmes congés de maladie que ceux qui sont prévus pour les fonctionnaires de l'Etat par
-le 2° de l'article 36 de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 543
-  - Loi n°72-59 1972-07-05 ART. 3 (Partie)
-
-_Cite_:
-
-  - Ordonnance 59-244 1959-02-04 ART. 36 2°
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-12
-
-L'agent atteint d'une maladie provenant de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions
-civiles et militaires de retraites ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions
-conserve l'intégralité de ses émoluments [*traitement, salaire*] jusqu'à ce qu'il soit en état de reprendre son service ou
-jusqu'à sa mise à la retraite.
-
-Il a droit au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident.
-
-Pour l'application du présent article, l'imputation au service de l'accident est appréciée par la commission de réforme
-instituée par le régime de pensions des agents des collectivités locales.
-
-Quand un agent a été atteint d'une maladie longue et sérieuse ou susceptible de rechute, ou quand il se trouve en état
-d'invalidité partielle ou de diminution physique permanente ne lui permettant pas d'assurer son emploi, le maire peut
-l'affecter à un service moins pénible sur avis de la commission de réforme [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - TXT_ASSOCIE: Arrêté 1958-10-28
-  - TXT_SOURCE: Arrêté du 27 août 1948
-  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 27 août 1948 - art. 6 (V)
-  - TXT_ASSOCIE: Décret n°77-1024 1977-09-07
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 18 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 20 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 23 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 24 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 28 octobre 1958 - art. 9 (V)
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 18 (V)
-  - CODE DES COMMUNES. - art. R*414-14 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 544
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retrait - art. L27 (M)
-
-
-###### Article L415-13
-
-L'agent qui remplit les conditions exigées des fonctionnaires de l'Etat pour bénéficier des dispositions de l'article 41 de
-la loi du 19 mars 1928 peut demander qu'il lui en soit fait application.
-
-Le bénéfice de ces dispositions est étendu à l'agent atteint d'une infirmité qui lui a ouvert droit à pension au titre du
-code des pensions militaires d'invalidité et des victimes de la guerre.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 9 mars 1973 - art. 19 (V)
-  - Arrêté du 9 janvier 1975 - art. 15 (V)
-  - Arrêté du 23 juin 1976 - art. 13 (V)
-  - Arrêté du 23 juin 1976 - art. 17 (V)
-  - Arrêté du 28 octobre 1958 - art. 19 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 545
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de la guerre
-  - Loi   1928-03-19 ART. 41
-
-
-###### Article L415-14
-
-L'agent atteint de l'une des maladies mentionnées au 3° de l'article 36 de l'ordonnance n° 59-244 du 4 février 1959 relative
-au statut général des fonctionnaires bénéficie d'un congé de longue durée.
-
-Il conserve, pendant les trois premières années, l'intégralité et, pendant les deux années suivantes, la moitié de son
-traitement [*montant*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 546 AL. 1
-
-_Cite_:
-
-  - Ordonnance 59-244 1959-02-04 ART. 36 3°
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°82-722 du 16 août 1982 - art. 3 (Ab)
-  - Décret n°84-1104 du 10 décembre 1984 - art. 2 (Ab)
-  - Arrêté du 28 octobre 1958 - art. 20 (V)
-  - CODE DES COMMUNES. - art. L415-15 (Ab)
-  - CODE DES COMMUNES. - art. L415-21 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-15
-
-Lorsqu'il est constaté que la maladie qui ouvre droit à un congé de longue durée a été contractée dans l'exercice des
-fonctions, les délais fixés par l'article précédent sont respectivement portés à cinq et trois années.
-
-Lorsque l'agent intéressé demande le bénéfice de la prolongation prévue au premier alinéa, la décision est prise après avis
-du comité médical supérieur relevant du ministre chargé de la santé [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°59-310 1959-02-14 TITRE II modifié
-
-_Cite_:
-
-  - Décret n°59-310 1959-02-14 Titre II modifié
-  - CODE DES COMMUNES. - art. L415-14 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 9 mars 1973 - art. 19 (V)
-  - Arrêté du 9 janvier 1975 - art. 15 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 546 AL. 2 et 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-16
-
-Les congés de longue durée sont accordés et renouvelés [*fréquence*] par périodes successives qui ne doivent pas dépasser six
-mois, après examen par le comité médical départemental chargé d'examiner les fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 546 AL. 3
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°59-310 1959-02-14 TITRE II modifié
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 20 (V)
-
-
-###### Article L415-17
-
-L'agent qui n'a plus droit aux congés [*de maladie*] prévus par les articles L. 415-13 à L. 415-16 et qui, à l'expiration de
-son dernier congé, ne peut reprendre son service est soit mis en disponibilité, soit, sur sa demande et s'il est reconnu
-définitivement inapte, admis à la retraite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 547
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L415-13 à L415-16
-
-
-###### Article L415-18
-
-Lorsqu'un agent [*en congé maladie*] prolonge son absence sans autorisation, il est immédiatement placé dans la position de
-congé sans traitement, sous réserve de justification ultérieure reconnue valable par le médecin de l'administration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 548
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-19
-
-L'agent bénéficiaire d'un congé de maladie doit se soumettre au contrôle exercé par l'administration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 549 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-20
-
-L'agent qui se livre à une activité lucrative quelconque au cours d'un congé de maladie ne reçoit aucune rémunération. Il est
-passible de sanctions disciplinaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 549 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-21
-
-Sous peine des sanctions [*disciplinaires*] prévues à l'article précédent, l'agent bénéficiaire d'un congé de longue durée,
-obtenu en application des articles L. 415-14 et L. 415-15 [*congé de maladie*], doit se soumettre au contrôle exercé par
-l'administration et, en outre, aux prescriptions que comporte son état de santé.
-
-Le temps pendant lequel la rémunération a été suspendue compte dans la période de congé en cours.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-14 (Ab)
-  - Code des communes L415-14, L415-15 et L415-20
-
-_Anciens textes_:
-
-  - Code de l'administration communale 549 AL. 3
-
-
-###### Article L415-22
-
-L'agent atteint, à la suite d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, d'une
-invalidité partielle permanente qui ne lui permet pas d'assurer son emploi peut, sur avis de la commission de réforme
-[**]conditions de forme[**], être pourvu d'un emploi correspondant à ses aptitudes physiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté  1959-02-28 (accident aérien ou maritime, indemnité)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 18 (V)
-  - CODE DES COMMUNES. - art. R*415-6 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 550 AL. 1
-
-
-###### Article L415-23
-
-La commune est subrogée dans les droits éventuels de l'agent victime d'un accident provoqué par un tiers jusqu'à concurrence
-du montant des charges qu'elle a supportées ou supporte du fait de cet accident.
-
-La commune dispose de plein droit contre ce tiers d'une action en remboursement [**]recours[**] conformément aux dispositions
-de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres
-personnes publiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 550 AL. 3
-
-_Cite_:
-
-  - Ordonnance 59-76 1959-01-07
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 1958 - art. 18 (V)
-
-
-###### Article L415-24
-
-Les congés de maladie sont considérés comme services accomplis   .
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-25
-
-Une caisse d'assurance couvre les charges financières incombant aux communes adhérentes du fait de l'attribution du capital
-décès et des avantages prévus aux articles L. 415-12 à L. 415-16 [*sur les congés de maladie*] et L. 415-51 [*la mise en
-disponibilité n'est prononcée qu'à l'expiration des congés de maladie*].
-
-La gestion de la caisse est confiée à la caisse des dépôts et consignations.
-
-Le conseil d'administration de la caisse comprend une représentation prépondérante des maires.
-
-Un règlement d'administration publique fixe les conditions de fonctionnement de la caisse.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 609
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°47-2045 1947-10-20 ART. 8 modifié
-  - TXT_ASSOCIE: Décret n°56-717 1956-07-16
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-51 (Ab)
-  - Code des communes L415-12 à L415-16
-
-
-##### Les congés de maternité .<a id=429></a>
-
-###### Article L415-26
-
-Le personnel féminin des communes, soumis au présent titre         , bénéficie d'un congé avec traitement pour couches et
-allaitement ou pour adoption. 
-
-La durée de ce congé est égale à celle prévue par la législation sur la sécurité sociale. 
-
-Le congé prévu au premier alinéa est considéré comme service accompli.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COAbMUNES. - art. R415-6-A (M)
-  - CODE DES COAbMUNES. - art. R415-6-B (M)
-  - CODE DES COMMUNES. - art. L421-1 (Ab)
-  - CODE DES COMMUNES. - art. R*415-6-1 (Ab)
-
-
-##### Les congés exceptionnels .<a id=430></a>
-
-###### Article L415-27
-
-Les congés exceptionnels rémunérés sont considérés comme services accomplis   .
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Les autorisations d'absence .<a id=431></a>
-
-###### Article L415-28
-
-Un arrêté du maire, pris après avis de la commission paritaire communale ou intercommunale, suivant le cas [**]conditions de
-forme[**], détermine les conditions dans lesquelles des autorisations d'absence peuvent être accordées aux agents à
-l'occasion de certains événements familiaux.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 540
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-29
-
-Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcul des congés annuels sont accordées
-[*conditions*] :
-
-1° Aux agents qui occupent des fonctions publiques électives pour la durée totale des sessions des assemblées dont ils font
-partie ;
-
-2° Aux représentants dûment mandatés des syndicats à l'occasion de la convocation des congrès professionnels syndicaux,
-fédéraux, confédéraux et internationaux, ainsi que des organismes directeurs des syndicats dont ils sont membres élus ;
-
-3° Aux membres des commissions paritaires et conseils de discipline ;
-
-4° Aux agents qui fréquentent les cours de formation professionnelle dans le cadre de l'administration municipale.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R421-26 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 541
-
-
-##### Le congé postnatal .<a id=432></a>
-
-###### Article L415-30
-
-Le congé postnatal est une position de l'agent qui est placé hors de son administration ou service d'origine pour élever son
-enfant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COAbMUNES. - art. R415-6-A (M)
-  - CODE DES COMMUNES. - art. R*415-6-1 (Ab)
-  - CODE DES COMMUNES. - art. R*415-6-2 (Ab)
-
-
-###### Article L415-31
-
-Dans cette position, accordée après un congé de maternité ou l'adoption d'un enfant de moins de trois ans, et pour une durée
-maximale de deux ans, l'intéressé cesse de bénéficier de ses droits à la retraite ; il conserve ses droits à l'avancement
-d'échelon, réduits de moitié.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-32
-
-A l'expiration de son congé, l'intéressé est réintégré de plein droit, au besoin en surnombre, dans son administration
-d'origine.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
-
-_Cité par_:
-
-  - CODE DES COAbMUNES. - art. R415-6-G (M)
-
-
-###### Article L415-32-1
-
-Le congé postnatal est accordé de droit, sur simple demande [*formalités*], pour la mère agent féminin ; il peut être ouvert
-au père agent si la mère ne peut bénéficier ni du congé postnatal ni du congé parental prévu par l'article L. 122-28-1 du
-Code du travail ou si elle y renonce. Si une nouvelle maternité ou adoption survient au cours du congé postnatal, ce congé
-est prolongé d'une durée maximale de deux ans, à compter de la naissance du nouvel enfant ou de son adoption, dans les
-conditions prévues ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978 p. 2851
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-6-2 (Ab)
-
-_Cite_:
-
-  - Code des communes L415-31 (2ème version) et L415-32 (2ème version)
-  - Code du travail - art. L122-28-1 (M)
-
-
-###### Article L415-33
-
-Un décret en Conseil d'Etat détermine les modalités d'application de la présente section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 V JORF 18 juillet 1978
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 art. 119 JORF 27 janvier 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R422-47 (Ab)
-
-
-##### Le détachement .<a id=433></a>
-
-###### Article L415-34
-
-Le détachement d'un agent est autorisé par arrêté du maire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 555 PHR. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-35
-
-Il existe deux sortes de détachements    : 
-
-1° Le détachement de courte durée ou délégation ; 
-
-2° Le détachement de longue durée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 555 PHR. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-36
-
-Le détachement de courte durée ne peut excéder six mois ni faire l'objet d'un renouvellement.
-
-A l'expiration du détachement et, en tout état de cause, de ce délai de six mois, l'agent détaché est réintégré dans son
-emploi antérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 556
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-37
-
-Le détachement de longue durée ne peut excéder cinq années.
-
-Toutefois, il peut être indéfiniment renouvelé [**]fréquence[**] par arrêté du maire par période de cinq années.
-
-L'agent qui fait l'objet d'un détachement de longue durée peut être aussitôt remplacé dans son emploi.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 557 AL. 1 et 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-38
-
-A l'expiration du détachement de longue durée, l'agent est réintégré, à la première vacance, dans son grade d'origine et
-réaffecté à un emploi correspondant à son grade.
-
-Il a priorité pour être affecté au poste qu'il occupait avant son détachement.
-
-Lorsqu'il refuse le poste qui lui est assigné, il ne peut être nommé au poste auquel il peut prétendre ou à un poste
-équivalent que lorsqu'une vacance est budgétairement ouverte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 558
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-44 (Ab)
-
-
-###### Article L415-39
-
-L'agent détaché conserve son droit à l'avancement de classe et de grade.
-
-Il reste tributaire de la caisse nationale de retraites des agents des collectivités locales et effectue les versements fixés
-par le règlement de cette caisse, sur le traitement d'activité afférent à son grade et à son échelon dans le service dont il
-est détaché.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 560
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°1947-09-19
-  - TXT_ASSOCIE: Ordonnance 45-993 1945-05-17 ART. 3
-  - TXT_ASSOCIE: Décret n°65-773 1965-09-09
-
-_Cite_:
-
-  - Ordonnance 45-993 1945-05-17 ART. 3
-  - Décret n°47-1846 1947-09-19
-  - Décret n°65-773 1965-09-09
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-40
-
-Conformément à l'article 15 de la loi n° 73-6 du 3 janvier 1973 instituant un médiateur, les collaborateurs du médiateur qui
-ont la qualité de fonctionnaire des communes bénéficient de garanties, quant à leur réintégration dans leur corps d'origine.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-2 :
-
-_Cite_:
-
-  - Loi n°73-6 du 3 janvier 1973 - art. 15, v. init.
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-2 (Ab)
-  - CODE DES COMMUNES. - art. R*415-11 (Ab)
-
-
-##### Position hors cadre .<a id=434></a>
-
-###### Article L415-41
-
-L'agent comptant au moins quinze années de services effectifs [**]ancienneté[**] accomplis en position d'activité ou sous les
-drapeaux dans un emploi conduisant à pension de la caisse nationale de retraites des agents des collectivités locales,
-détaché :
-
-1° Soit auprès des administrations dans un emploi ne conduisant pas à pension du régime général des retraites ou à pension
-d'un des régimes fixés par le code des pensions civiles et militaires de retraites ;
-
-2° Soit auprès d'un organisme d'intérêt communal ou intercommunal, peut, dans le délai de trois mois suivant son détachement,
-être placé, sur sa demande, en position hors cadre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 561 AL. 1
-
-_Cite_:
-
-  - Ordonnance 45-993 1945-05-17 ART. 3
-  - Décret n°47-1846 1947-09-19
-  - Décret n°65-773 1965-09-09
-  - Code des pensions civiles et militaires de retraite
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-42
-
-La mise hors cadre d'un agent est prononcée, sur sa demande, par arrêté du maire.
-
-Elle ne comporte aucune limitation de durée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 561 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-43
-
-L'agent en position hors cadre cesse de bénéficier de ses droits à l'avancement et à la retraite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 561 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-44
-
-L'agent en position hors cadre peut demander sa réintégration dans son cadre d'origine.
-
-La réintégration est prononcée dans les conditions prévues à l'article L. 415-38 [*relatif à la réintégration à l'expiration
-du congé de longue durée*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 562
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-38 (Ab)
-
-
-###### Article L415-45
-
-L'agent en position hors cadre est soumis aux régimes statutaire et de retraite régissant la fonction qu'il exerce dans cette
-position.
-
-Les retenues au titre du régime de retraites des agents des collectivités locales ne sont pas exigibles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-46
-
-Lorsqu'il cesse d'être en position hors cadre et n'est pas réintégré dans son cadre d'origine, l'agent peut être mis à la
-retraite et prétendre à la pension du régime de retraites des agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 564 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-13 (Ab)
-
-
-###### Article L415-47
-
-Lorsque l'agent cesse d'être en position hors cadre et qu'il fait l'objet d'une réintégration dans son cadre d'origine, ses
-droits à pension, au regard de la caisse nationale de retraites des agents des collectivités locales, recommencent à courir à
-compter de la date de la réintégration.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-48 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 564 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-48
-
-Toutefois, dans le cas où il pourrait prétendre à pension au titre du régime de retraite auquel il a été affilié pendant sa
-mise hors cadre, l'agent peut, dans les trois mois suivant sa réintégration, solliciter la prise en compte, par la caisse
-nationale de retraites des agents des collectivités locales, de la période considérée, sous réserve du versement de la
-retenue correspondant à cette période calculée sur les émoluments attachés à l'emploi dans lequel il est réintégré.
-
-L'organisme dans lequel l'intéressé a été employé verse, sur les mêmes bases, la retenue pour le régime de retraites de
-agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 564 AL. 3 et AL. 4 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-47 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-14 (Ab)
-
-
-##### La disponibilité .<a id=435></a>
-
-###### Article L415-49
-
-La disponibilité est la position de l'agent qui, placé hors de son cadre d'origine, cesse de bénéficier, dans cette position,
-de ses droits à l'avancement et à la retraite. 
-
-Il existe, en outre, à l'égard du personnel féminin, une disponibilité spéciale accordée conformément aux dispositions de
-l'article L. 415-57                      .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 566 AL. 1 et 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-57 (Ab)
-
-
-###### Article L415-50
-
-La disponibilité est prononcée par arrêté du maire, soit d'office, soit à la demande de l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 566 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-51
-
-La mise en disponibilité ne peut être prononcée d'office qu'à l'expiration des congés de maladie prévus aux articles L.
-415-11 et L. 415-17 [*congé de longue durée, prolongation*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 567 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-25 (Ab)
-  - CODE DES COMMUNES. - art. R*415-15 (Ab)
-
-_Cite_:
-
-  - Code des communes L415-11 et L415-17
-
-
-###### Article L415-52
-
-La durée de la disponibilité prononcée d'office ne peut excéder une année.
-
-Elle peut être renouvelée à deux reprises pour une durée égale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 568 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-15 (Ab)
-
-
-###### Article L415-53
-
-A l'expiration de la durée de la disponibilité prononcée d'office, l'agent est, soit réintégré dans les cadres de son
-administration ou service d'origine, soit mis à la retraite, soit, s'il n'a pas droit à pension, rayé des cadres par
-licenciement.
-
-Toutefois, si, à l'expiration de la troisième année de disponibilité [*délai*], l'agent est inapte à reprendre son service,
-mais qu'il résulte d'un avis du comité médical départemental chargé d'examiner les fonctionnaires de l'Etat qu'il doit
-normalement pouvoir reprendre ses fonctions avant l'expiration d'une nouvelle année, la disponibilité peut faire l'objet d'un
-troisième renouvellement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 568 AL. 2 et AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*415-15 (Ab)
-
-
-###### Article L415-54
-
-La mise en disponibilité sur demande de l'agent intéressé ne peut être accordée que dans les cas suivants :
-
-1° Accident ou maladie grave du conjoint ou d'un enfant :
-
-la durée de la disponibilité ne peut, en ce cas, excéder trois années, mais est renouvelable deux fois pour une durée égale ;
-
-2° Etudes ou recherches présentant un intérêt général :
-
-la durée de la disponibilité ne peut, en ce cas, excéder trois années, mais est renouvelable une fois pour une durée égale ;
-
-3° Pour convenances personnelles : la durée de la disponibilité ne peut, en ce cas, excéder un an, mais est renouvelable une
-fois pour une durée égale ;
-
-4° Pour contracter un engagement dans une formation militaire : la durée de la disponibilité ne peut, en ce cas, excéder
-trois années, mais peut être renouvelée une fois pour une durée égale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 569
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-55
-
-La disponibilité peut être également prononcée, sur la demande de l'agent, pour exercer une activité relevant de sa
-compétence, dans une entreprise publique ou privée, à condition :
-
-- qu'il soit constaté que cette mise en disponibilité est compatible avec les nécessités du service ;
-
-- que l'intéressé ait accompli au moins dix années de services effectifs dans l'administration [*ancienneté*] ;
-
-- que l'activité présente un caractère d'intérêt public à raison de la fin qu'elle poursuit ou de l'importance du rôle
-qu'elle joue dans l'économie nationale ;
-
-- que l'intéressé n'ait pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à
-participer à l'élaboration ou à la passation de marchés avec elle.
-
-La durée de la disponibilité prévue au présent article ne peut excéder trois années mais peut être renouvelée une fois pour
-une durée égale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 570
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-56
-
-Le maire peut, à tout moment, et doit, au moins deux fois par an [*fréquence*], faire procéder aux enquêtes nécessaires en
-vue de s'assurer que l'activité de l'agent mis en disponibilité correspond réellement aux motifs pour lesquels il a été placé
-dans cette position.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 571
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-57
-
-La mise en disponibilité spéciale est accordée de droit à la femme agent de la commune et sur sa demande pour élever un
-enfant âgé de moins de cinq ans ou atteint d'une infirmité exigeant des soins continus.
-
-Cette mise en disponibilité dure aussi longtemps que sont remplies les conditions prévues à l'alinéa précédent, dans la
-limite maximum de deux ans.
-
-Elle peut être renouvelée, à la demande de l'intéressée, aussi longtemps que sont remplies ces conditions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 572
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-49 (Ab)
-  - CODE DES COMMUNES. - art. L415-58 (Ab)
-
-
-###### Article L415-58
-
-L'agent mis en disponibilité sur sa demande n'a droit à aucune rémunération.
-
-Toutefois, dans le cas [*où la femme agent communal doit élever un enfant âgé de moins de cinq ans ou atteint d'infirmité*],
-prévu à l'article précédent la femme agent de la commune perçoit la totalité des prestations familiales obligatoires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 573
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-57 (Ab)
-
-
-###### Article L415-59
-
-La réintégration de l'agent mis en disponibilité sur sa demande est de droit à l'une des trois premières vacances, si la
-durée de la disponibilité n'a pas excédé trois années.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 574
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-60
-
-L'agent mis en disponibilité qui, lors de sa réintégration, refuse le poste qui lui est assigné peut être rayé des cadres par
-licenciement, après avis de la commission paritaire compétente [**]conditions de forme[**].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 575
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1983
-
-
-###### Article L415-61
-
-Les agents qui, antérieurement au 1er mai 1952 [*date*], ont été appelés à remplir des fonctions soit électives, soit
-syndicales, soit d'un caractère communal ou intercommunal, dont les statuts particuliers ne prévoyaient pas le détachement et
-les avantages y afférents et qui ont dû, pour remplir leurs fonctions, solliciter leur mise en disponibilité, bénéficient
-d'une reconstitution de carrière permettant la prise en compte de leurs années tant au point de vue avancement de classe
-qu'au point de vue validation pour leur retraite, à dater du 19 octobre 1946.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 613
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Position "sous les drapeaux" .<a id=436></a>
-
-###### Article L415-62
-
-Pendant la durée légale de son service militaire, l'agent est placé dans une position spéciale, dite " sous les drapeaux ". 
-
-Il perd alors son traitement d'activité et ne perçoit que sa solde militaire   .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 576 AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L415-63
-
-L'agent qui accomplit une période d'instruction obligatoire est mis en congé avec traitement pour la durée de cette période.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 577
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L415-3 (Ab)
-
-
-###### Article L415-64
-
-En cas de mobilisation générale ou de rappel sous les drapeaux, les fonctionnaires et agents communaux bénéficient des mêmes
-dispositions que les fonctionnaires de l'Etat, en ce qui concerne leur situation administrative et leurs traitements.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 576 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cite_:
-
-  - Décret-loi 1939-09-01 modifié
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-#### Cessation de fonctions<a id=437></a>
-
-##### L'admission à la retraite .<a id=438></a>
-
-###### Article L416-3
-
-Les dispositions législatives ou réglementaires relatives à la fixation des limites d'âge des fonctionnaires de l'Etat sont
-applicables aux agents soumis au présent titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 589
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°46-195 1946-02-15
-  - TXT_ASSOCIE: Décret n°53-711 1953-08-09
-  - TXT_ASSOCIE: Décret n°77-810 du 13 juillet 1977 - art. 1 (V)
-  - TXT_ASSOCIE: Décret n°77-810 du 13 juillet 1977 - art. 3 (V)
-  - TXT_ASSOCIE: Loi n°1936-08-18
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Décret n°77-810 du 13 juillet 1977 - art. 2 (V)
-  - Décret n°77-810 du 13 juillet 1977 - art. 3 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### La démission .<a id=439></a>
-
-###### Article L416-5
-
-La démission ne peut résulter que d'une demande écrite de l'agent marquant sa volonté non équivoque de cesser ses fonctions
-[*conditions de forme*].
-
-Elle n'a d'effet qu'autant qu'elle est acceptée par l'autorité investie du pouvoir de nomination et prend effet à la date
-fixée par cette autorité.
-
-La décision de l'autorité compétente doit intervenir dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 579
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L416-6
-
-L'acceptation de la démission [*demandée par un agent communal*] rend celle-ci irrévocable.
-
-Cette acceptation ne fait pas obstacle, le cas échéant, à l'exercice de l'action disciplinaire, en raison de faits qui
-seraient révélés postérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 580
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L416-7
-
-Lorsque l'autorité compétente refuse d'accepter la démission [*d'un agent communal*], l'agent intéressé peut saisir la
-commission paritaire.
-
-Celle-ci émet un avis motivé qu'elle transmet à l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 581
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L416-8
-
-L'agent qui cesse ses fonctions avant la date fixée par l'autorité compétente pour accepter la démission peut faire l'objet
-d'une sanction disciplinaire.
-
-Lorsqu'il a droit à pension, il peut subir une retenue correspondant au plus à la rémunération des services non effectués ;
-cette retenue est répartie sur les premiers versements qui lui sont faits à ce titre, à concurrence d'un cinquième du montant
-de ces versements [*pourcentage*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 583
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Le licenciement .<a id=440></a>
-
-###### Article L416-9
-
-En dehors de l'application d'une sanction disciplinaire, le dégagement des cadres d'un agent ne peut être prononcé qu'à la
-suite d'une suppression d'emploi décidée par mesure d'économie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 584 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L416-10 (Ab)
-
-
-###### Article L416-10
-
-L'agent licencié dans les conditions prévues à l'article précédent [*à la suite d'une suppression d'emploi décidée par mesure
-d'économie*], sans avoir droit à pension, bénéficie d'un reclassement par priorité dans l'un des emplois vacants similaires
-des communes du département, sous réserve qu'il remplisse les conditions d'aptitude nécessaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 584 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L416-9 (Ab)
-
-
-###### Article L416-11
-
-L'agent titulaire dont l'emploi a été supprimé et qui ne peut être affecté à un emploi équivalent reçoit une indemnité en
-capital égale à un mois de traitement [*montant*] par année de service, à moins de remplir, au moment du licenciement, les
-conditions exigées pour avoir droit à une pension de retraite proportionnelle avec jouissance immédiate.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 585
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-  - CODE DES COMMUNES. - art. L431-3 (M)
-
-
-###### Article L416-12
-
-L'agent qui fait preuve d'insuffisance professionnelle et qui ne peut être reclassé dans un autre service peut, soit être
-admis à faire valoir ses droits à la retraite, soit être licencié.
-
-La décision est prise par le maire [*compétence*] après avis du conseil de discipline [**]conditions de forme[**], suivant la
-procédure prévue au chapitre IV du présent titre [*relatif aux emplois permanents à temps complet*].
-
-L'agent licencié pour insuffisance professionnelle peut recevoir une indemnité de licenciement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 586
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L414-1 à L414-24
-
-
-#### Sécurité sociale, pensions, hygiène et sécurité<a id=441></a>
-
-##### Pensions .<a id=442></a>
-
-###### Article L417-10
-
-Les régimes de retraites des personnels des communes et de leurs établissements publics ne peuvent en aucun cas comporter
-d'avantages supérieurs à ceux qui sont consentis par les régimes généraux de retraites des personnels de l'Etat [*exception :
-pour les agents des réseaux souterrains des égouts s'ils remplissent certaines conditions*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes L421-2 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 596
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Hygiène et sécurité .<a id=443></a>
-
-###### Article L417-18
-
-Les dispositions de la présente section sont applicables aux communes et établissements publics administratifs communaux et
-intercommunaux employant des agents, titulaires ou non, soumis aux dispositions du présent livre.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Comités d'hygiène et de sécurité .<a id=444></a>
-
-###### Article L417-19
-
-Un comité d'hygiène et de sécurité est institué [*création*] dans les communes et les établissements publics administratifs
-communaux et intercommunaux employant au moins [*nombre*] cinquante agents, titulaires ou non, soumis aux dispositions du
-présent livre.
-
-Les dépenses de fonctionnement du comité sont à la charge de la collectivité ou de l'établissement public concerné.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L417-23 (Ab)
-
-
-###### Article L417-20
-
-Le comité est composé, en nombre égal :
-
-a) d'une part, du maire ou du président de l'établissement public intéressé et de conseillers municipaux désignés par le
-conseil municipal ou de membres de l'assemblée délibérante de l'établissement, désignés par celle-ci ;
-
-b) d'autre part, de représentants du personnel, élus au suffrage direct, au nombre de trois à dix au choix de la commune ou
-de l'établissement.
-
-Le comité est renouvelé tous les six ans [*durée du mandat*]. Des suppléants, en nombre au plus égal à celui des membres
-titulaires du comité, sont désignés de la même façon.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L417-21
-
-Le maire ou le président de l'établissement public intéressé, ou leur représentant, préside le comité d'hygiène et de
-sécurité.
-
-En cas de partage des voix, le président a voix prépondérante.
-
-Le comité élit un bureau comprenant, outre le président, deux vice-présidents, dont l'un est choisi parmi les représentants
-du personnel.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L417-22
-
-Le comité se réunit à l'initiative de son président au moins une fois par trimestre [*fréquence*]. En outre, son président le
-réunit à la suite de tout accident mettant en cause l'hygiène ou la sécurité, ayant entraîné ou ayant pu entraîner des
-conséquences graves.
-
-Le comité est obligatoirement consulté par son président sur les mesures de salubrité et de sécurité applicables aux locaux
-et aux installations ainsi que sur les prescriptions concernant la protection de la santé des agents [*attributions*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Commission intercommunale d'hygiène et de sécurité .<a id=445></a>
-
-###### Article L417-23
-
-Le comité d'administration du syndicat de communes pour le personnel peut décider de la création d'une commission
-intercommunale d'hygiène et de sécurité pour les adhérents au syndicat qui ne sont pas tenus d'instituer un comité d'hygiène
-et de sécurité en vertu de l'article L. 417-19.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-  - CODE DES COMMUNES. - art. L417-19 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L411-30 (Ab)
-
-
-###### Article L417-24
-
-La commission intercommunale d'hygiène et de sécurité est composée, en nombre égal, d'une part, du président du syndicat de
-communes intéressé, président,et de membres du comité d'administration élus par ce dernier et, d'autre part, de représentants
-du personnel, au nombre de cinq à dix, au choix du comité du syndicat, élus pour six ans [*durée du mandat*] au suffrage
-direct par les agents des communes et établissements communaux et intercommunaux concernés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L417-25
-
-La commission est réunie, à l'initiative de son président, au moins deux fois par an [*fréquence*]. En outre, son président
-la réunit à la suite de tout accident ou maladie professionnelle pouvant entraîner une incapacité permanente ou ayant
-entraîné le décès de la victime.
-
-La commission facilite, par tous travaux d'étude et de conseil, l'application des règles d'hygiène et de sécurité par les
-communes et les établissements qui dépendent d'elle [*attributions*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-##### Médecine professionnelle .<a id=446></a>
+##### Médecine professionnelle .<a id=408></a>
 
 ###### Article L417-27
 
@@ -41833,1176 +35133,13 @@ _Cité par_:
   - CODE DES COMMUNES. - art. L417-26 (Ab)
 
 
-### Personnels divers<a id=447></a>
+## LIVRE 4 : Personnel communal<a id=409></a>
 
-#### Agents nommés dans des emplois permanents à temps non complet<a id=448></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=410></a>
 
-###### Article L421-1
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=411></a>
 
-La section III du chapitre IV du titre Ier du présent livre ainsi que les articles L. 415-2 à L. 415-7, L. 415-10 et L.
-415-11, L. 415-26, L. 415-28 et L. 415-29 sont applicables aux agents qui remplissent à titre permanent un emploi à temps non
-complet [*discipline, activité, congés des agents nommés dans des emplois permanents à temps complet*].
-
-Un règlement d'administration publique fixe les modalités d'application de ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-**Liens**:
-
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L414-17 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L415-26 (Ab)
-  - Code des communes L415-2 à L415-7
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-6 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 614 al. 1 et 2
-
-
-###### Article L421-2
-
-Sont applicables aux agents soumis aux dispositions du présent chapitre les articles L. 411-3, L. 411-6 à L. 411-15, L.
-411-22 à L. 411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 à L. 412-50, L. 413-7, L. 415-8, L. 415-9, L. 415-40, le 3° de
-l'article L. 416-1, les articles L. 417-1 et L. 417-2, L. 417-10 à L. 417-13 et L. 417-16 [*dispositions générales concernant
-les agents nommés dans des emplois permanents à temps complet, commission nationale paritaire, recrutement, formation
-professionnelle continue, rémunérations et effectifs, congés annuels, détachement, admission à la retraite, prestations
-sociales, hygiène et sécurité*].
-
-Les articles L. 417-18 à L. 417-28 leur sont également applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES L411-3, L411-6 à L411-15, L411-22 à L411-25, L412-1, L412-4 à L412-9, L412-45 à L412-50, L413-7, L415-8, L415-9, L415-40, L416-1, L417-1, L417-2, L417-10 à L417-13, L417-16, L417-18 à L417-28
-  - CODE DES COMMUNES. - art. L411-3 (Ab)
-  - CODE DES COMMUNES. - art. L412-1 (Ab)
-  - CODE DES COMMUNES. - art. L413-7 (Ab)
-  - CODE DES COMMUNES. - art. L415-40 (Ab)
-  - CODE DES COMMUNES. - art. L415-8 (Ab)
-  - CODE DES COMMUNES. - art. L415-9 (Ab)
-  - CODE DES COMMUNES. - art. L416-1 (V)
-  - CODE DES COMMUNES. - art. L417-1 (V)
-  - CODE DES COMMUNES. - art. L417-16 (V)
-  - CODE DES COMMUNES. - art. L417-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-10 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-11 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-12 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-13 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-14 (M)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-15 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-22 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-24 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-25 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-6 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-7 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-8 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L411-9 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-1 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-4 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-46 (VT)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-5 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-6 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-7 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-8 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L412-9 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L413-7 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-8 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L415-9 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-18 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-19 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-2 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-20 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-21 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-22 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-23 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-24 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-25 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-26 (Ab)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L417-27 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 614 AL. 3
-
-
-###### Article L421-3
-
-La limite d'âge prévue par les statuts pour l'accès aux emplois permanents à temps non complet est prolongée du temps passé
-au service des communes en qualité d'auxiliaire depuis le 1er septembre 1939 [*date*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 615
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1983
-
-_Cité par_:
-
-  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
-  - CODE DES COMMUNES. - art. L421-4 (V)
-
-
-###### Article L421-4
-
-Une décision de l'autorité qualifiée prise après avis de la commission nationale paritaire du personnel communal fixe à titre
-indicatif la liste des emplois permanents à temps non complet.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L421-6 (V)
-  - CODE DES COMMUNES. - art. L421-8 (Ab)
-  - CODE DES COMMUNES. - art. R421-3 (Ab)
-  - CODE DES COMMUNES. - art. R421-6 (Ab)
-  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 al. 1 (partie) remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L421-5
-
-La rémunération des agents permanents à temps non complet comprend le traitement et, sous réserve qu'ils ne soient pas perçus
-à un titre différent, les autres éléments énumérés par l'article L. 413-1 [*indemnité de résidence, supplément familial de
-traitement, prestations familiales obligatoires*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 2
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°96-370 du 3 mai 1996 - art. 24 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L413-1 (Ab)
-
-
-###### Article L421-6
-
-Les dispositions de l'article L. 413-2, en tant qu'elles concernent la valeur des éléments de la rémunération, sont
-applicables aux agents permanents à temps non complet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L413-2 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 3
-
-
-###### Article L421-7
-
-Une décision de l'autorité qualifiée détermine, suivant la procédure fixée à l'article L. 413-3 [*après avis de la commission
-nationale paritaire du personnel communal*], les échelles indiciaires de référence afférentes aux emplois permanents à temps
-non complet prévus à l'article L. 421-4.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1971-02-08 modifié
-  - TXT_ASSOCIE: Arrêté 1972-01-06
-  - TXT_ASSOCIE: Arrêté 1974-07-23
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L413-3 et L413-4
-
-
-###### Article L421-8
-
-Tout agent permanent à temps non complet qui occupe un emploi de la liste [*des emplois permanents à temps non complet*]
-prévue à l'article L. 421-4 bénéficie de l'échelle indiciaire de référence afférente à cet emploi.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 4
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L421-4 (M)
-
-
-###### Article L421-9
-
-Le traitement et les indemnités ayant le caractère de complément de traitement sont calculés au prorata [*proportion*] du
-nombre d'heures de service fixé par délibération du ou des conseils municipaux [**]attributions[**] selon que l'agent exerce
-dans une ou plusieurs communes [*lieu*].
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 février 1971 - art. 4 (V)
-  - Arrêté du 25 mars 1958 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 5
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L421-10
-
-Une décision de l'autorité qualifiée prise après avis de la commission nationale paritaire du personnel communal fixe les
-conditions de l'avancement des agents permanents à temps non complet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 616 complété al. 6 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R421-3 (Ab)
-
-
-###### Article L421-11
-
-Les communes qui n'occupent qu'un ou plusieurs agents permanents à temps non complet sont affiliées au syndicat de communes
-pour le personnel communal, prévu à l'article L. 411-26.
-
-Les représentants des communes qui n'occupent que des agents permanents à temps non complet n'ont voix délibérative au sein
-du comité du syndicat et de son bureau que pour les questions intéressant ces agents.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents non titulaires*
-  - SPEC_APPLI: Code des communes L422-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 617
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-26 (Ab)
-
-
-###### Article L421-12
-
-Conformément à l'article L. 451-5 du code du travail, un décret en Conseil d'Etat détermine les conditions d'application des
-dispositions des articles L. 451-1 à L. 451-4 de ce code [*dispositions relatives au congé d'éducation ouvrière*] aux agents
-permanents à temps non complet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code du travail L451-1 à L451-5
-
-
-###### Article L421-13
-
-Les limites d'âge des agents permanents à temps non complet ne peuvent être inférieures à celles des fonctionnaires
-civils   .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 619
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L421-14
-
-Dans les communes de plus de 10.000 habitants [*nombre*], les délibérations des conseils municipaux portant suppression
-totale ou partielle des services communaux entraînant une perte d'emploi pour tout ou partie du personnel titularisé dans un
-emploi permanent à temps non complet doivent contenir une clause assurant aux agents licenciés un emploi ou des compensations
-en rapport avec la situation perdue.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-  - SPEC_APPLI: Code des communes L442-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 620
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L442-1 (Ab)
-
-
-###### Article L421-15
-
-Les agents permanents à temps non complet peuvent être affiliés à la caisse nationale de retraites des agents des
-collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 621
-
-_Cite_:
-
-  - Ordonnance 45-993 1945-05-17 art. 3
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L421-16
-
-Les agents communaux titularisés dans des emplois permanents à temps non complet, qui ne sont pas tributaires du régime de
-retraites de la caisse nationale de retraites des agents des collectivités locales, sont affiliés à une institution de
-retraite complémentaire régie par l'article L. 4 du code de la sécurité sociale en vue de leur accorder des avantages
-s'ajoutant à ceux qui résultent de l'organisation de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: Code des communes L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°72-1223 1972-12-29 art. 4 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code de la sécurité sociale L4
-
-
-#### Agents non titulaires .<a id=449></a>
-
-###### Article L422-1
-
-Sont applicables aux agents non titulaires les dispositions des articles L. 411-6 à L. 411-15, L. 411-22, L. 411-24 et L.
-411-25, L. 412-1, L. 412-4 à L. 412-9, L. 412-45 et L. 412-46, L. 413-7, L. 414-17, L. 415-8 et L. 415-9, L. 417-2 et L.
-421-11 [*dispositions concernant les agents nommés dans des emplois permanents à temps complet*].
-
-Les articles L. 417-18 à L. 417-28 leur sont également applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-22 (Ab)
-  - CODE DES COMMUNES. - art. L411-24 (Ab)
-  - CODE DES COMMUNES. - art. L411-25 (Ab)
-  - CODE DES COMMUNES. - art. L412-1 (Ab)
-  - CODE DES COMMUNES. - art. L412-4 (Ab)
-  - CODE DES COMMUNES. - art. L412-9 (Ab)
-  - CODE DES COMMUNES. - art. L413-7 (Ab)
-  - CODE DES COMMUNES. - art. L414-17 (Ab)
-  - CODE DES COMMUNES. - art. L415-8 (Ab)
-  - CODE DES COMMUNES. - art. L415-9 (Ab)
-  - Code des communes L411-6 à L411-15
-
-
-###### Article L422-2
-
-Les communes et leurs établissements publics ne peuvent recruter d'agents temporaires pour les emplois permanents qu'en vue
-d'assurer le remplacement des titulaires momentanément indisponibles.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 622
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L422-3
-
-La rémunération maximum susceptible d'être allouée aux agents non titulaires des communes et de leurs établissements publics
-est déterminée par un ou plusieurs barèmes types qui font l'objet de décisions de l'autorité qualifiée prises après avis du
-conseil national des services publics départementaux et communaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 5 mai 1978 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe I (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe II (V)
-  - TXT_SOURCE: Arrêté du 19 avril 1982 - art. Annexe III (V)
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*422-2 (Ab)
-
-
-###### Article L422-4
-
-Conformément aux dispositions du premier alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
-communes et de leurs établissements publics administratifs ont droit, en cas de licenciement et à condition d'avoir été
-employés de manière permanente, à une allocation servie par la collectivité intéressée et dont les conditions d'attribution
-et de calcul sont déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail l351-18 al. 1
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
-  - CODE DES COMMUNES. - art. L422-6 (V)
-  - CODE DES COMMUNES. - art. R*422-38 (Ab)
-
-
-###### Article L422-5
-
-Conformément aux dispositions du troisième alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
-communes et de leurs établissements publics administratifs, qui ont accompli un service continu pendant une durée déterminée
-alors même qu'ils n'ont pas été employés à titre permanent, ont droit, en cas de licenciement, à une allocation servie par la
-collectivité intéressée ; les catégories de personnels intéressés, les conditions d'ouverture du droit à l'allocation et
-notamment la durée du service continu exigée sont déterminées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L422-6 (V)
-  - CODE DES COMMUNES. - art. R*422-40 (Ab)
-
-_Cite_:
-
-  - Code du travail L351-18 al. 3
-
-
-###### Article L422-9
-
-Un décret fixe les conditions dans lesquelles les dispositions relatives au congé parental d'éducation s'appliquent aux
-agents non titulaires des communes et de leurs établissements publics.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-### Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=450></a>
-
-#### Fusion de communes .<a id=451></a>
-
-###### Article L431-1
-
-Les personnels soumis aux dispositions du présent code et les personnels soumis aux dispositions du code du travail qui
-remplissent leurs fonctions dans les communes fusionnées sont pris en charge par la nouvelle commune à compter de l'acte
-prononçant la fusion et demeurent soumis aux dispositions de leur statut.
-
-Jusqu'au règlement définitif de leur situation, ils sont maintenus dans leur situation administrative antérieure et
-continuent d'être rémunérés dans les mêmes conditions qu'ils l'étaient par leur commune d'origine.
-
-En tout état de cause, ils conservent, dans la nouvelle commune, leurs droits acquis et l'ensemble des avantages dont ils
-bénéficiaient et qui comportent notamment la garantie des mêmes modalités de rémunération que dans leur commune d'origine.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°71-588 1971-07-16 art. 10 I
-  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-
-
-###### Article L431-2
-
-Pour pourvoir les emplois de la nouvelle commune, il ne peut être fait appel à des personnels extérieurs qu'à défaut de
-candidats issus des personnels des anciennes communes.
-
-Dans tous les cas et quels que soient les grades ou emplois concernés, les qualifications exigées doivent être conformes à
-celles prévues par les dispositions du présent code.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°71-588 1971-07-16 art. 10 II al. 1
-  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-
-
-###### Article L431-3
-
-Les agents titulaires, qui se trouvent non pourvus d'emploi dans la nouvelle commune, sont maintenus en surnombre dans leur
-emploi d'origine jusqu'à leur reclassement éventuel en priorité dans l'un des emplois vacants similaires de la nouvelle
-commune ou des communes du département, sous réserve qu'ils remplissent les conditions d'aptitude requises.
-
-Les délibérations du conseil municipal de la nouvelle commune qui ont pour effet d'entraîner une perte d'emploi permanent à
-temps non complet d'une ancienne commune doivent contenir une clause assurant aux agents licenciés un emploi ou une indemnité
-calculée conformément aux dispositions de l'article L. 416-11 [*indemnité en capital égale à un mois de traitement par année
-de service*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°71-588 1971-07-16 art. 10 II al. 2 et art. 10 III
-  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L416-11 (Ab)
-
-
-#### Création de communauté urbaine .<a id=452></a>
-
-###### Article L432-1
-
-Les personnels soumis aux dispositions du présent code et les personnels soumis aux dispositions du code du travail qui
-remplissent leurs fonctions dans les services transférés à la communauté urbaine sont mis à la disposition de la communauté à
-compter de la date à laquelle l'exigent les nécessités du service et demeurent soumis aux dispositions de leur statut à cette
-date.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°66-1069 1966-12-31 art. 24 al. 1
-  - Loi n°66-1069 du 31 décembre 1966 - art. 24 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L432-7 (V)
-
-
-###### Article L432-8
-
-Les dispositions du présent code s'appliquent aux agents de la communauté urbaine.
-
-Le président et le conseil de communauté exercent à leur égard les pouvoirs respectivement dévolus au maire et au conseil
-municipal.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
-_Anciens textes_:
-
-  - Loi n°66-1069 du 31 décembre 1966 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
-### Dispositions particulières<a id=453></a>
-
-#### Dispositions applicables aux communes des départements d'Outre-mer<a id=454></a>
-
-##### Dispositions particulières aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=455></a>
-
-###### Article L442-1
-
-Les dispositions des titres I et II du présent livre sont applicables dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion à l'exception des articles L. 412-48 et L. 421-14.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-48 (M)
-  - CODE DES COMMUNES. - art. L421-14 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-1 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-2 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L431-3 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-1 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-2 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-3 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-4 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-5 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-6 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-7 (V)
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L432-8 (V)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 628 al. 1 (Partie)
-
-
-##### Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon .<a id=456></a>
-
-###### Article L442-2
-
-Sont applicables aux communes du département de Saint-Pierre-et-Miquelon les dispositions contenues dans les titres Ier et II
-du présent livre, à l'exception des articles L. 417-1 à L. 417-9 [*les articles L417-3 à L417-7 ont été transférés sous les
-articles L413-11 à L413-15*], L421-16 et L. 422-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 77-1099 1977-09-26
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L423-1 (Ab)
-  - Code des communes L421-1 à L421-15
-
-
-#### Dispositions applicables aux communes des départements de la région d'Ile-de-France .<a id=457></a>
-
-###### Article L443-1
-
-Les dispositions des titres I à III du présent livre sont applicables aux communes des départements de la région d'Ile-de-
-France sous réserve des dispositions ci-après.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L411-1 à L432-8
-
-
-###### Article L443-2
-
-Par dérogation aux dispositions de l'article L. 411-31, l'ensemble des communes des départements des Hauts-de-Seine, de la
-Seine-Saint-Denis et du Val-de-Marne est obligatoirement affilié à un syndicat de communes pour le personnel communal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 495 al. 1 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-52 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
-  - Loi n°84-53 du 26 janvier 1984 - art. 17 (V)
-  - CODE DES COMMUNES. - art. R443-2 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L411-26 (Ab)
-  - CODE DES COMMUNES. - art. L411-31 (Ab)
-
-
-###### Article L443-3
-
-Les communes des départements de l'Essonne, des Yvelines et du Val-d'Oise qui possèdent moins de cent agents titularisés
-[*nombre*] dans un emploi permanent à temps complet sont affiliées à un syndicat de communes pour le personnel communal,
-unique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 495 al. 2 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 121 (V)
-  - CODE DES COMMUNES. - art. R443-3 (Ab)
-
-
-###### Article L443-4
-
-Les syndicats [*de communes des départements de la région d'Ile de France*] prévus aux deux articles précédents ont pour
-objet de faciliter aux communes affiliées l'application du statut du personnel communal et d'exercer les attributions prévues
-par ce statut.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 495 AL. 3 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-#### Dispositions applicables à la ville de Paris .<a id=458></a>
-
-###### Article L444-1
-
-La commune de Paris dispose d'un personnel communal soumis à un statut qui lui est propre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-1331 1975-12-31 ART. 25 AL. 1 (Partie)
-  - Loi n°75-1331 du 31 décembre 1975 - art. 25 (M)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-###### Article L444-2
-
-Les dispositions statutaires applicables aux personnels de la commune de Paris peuvent déroger aux dispositions du présent
-livre. Elles sont fixées par décret en Conseil d'Etat.
-
-Les dispositions de la section V du chapitre VII du titre Ier du présent livre ne sont pas applicables à la ville de Paris.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-1331 du 31 décembre 1975 - art. 26 (M)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-_Cite_:
-
-  - Code des communes L417-18 à L417-28
-
-
-###### Article L444-4
-
-La commune de Paris dispose également des fonctionnaires de l'Etat détachés auprès d'elle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-1331 1975-12-31 ART. 25 AL. 3 (Partie)
-  - Loi n°75-1331 du 31 décembre 1975 - art. 25 (M)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
-
-
-## LIVRE 4 : Personnel communal<a id=459></a>
-
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=460></a>
-
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=461></a>
-
-##### SECTION 3 : Syndicats de communes pour le personnel communal.<a id=462></a>
+##### SECTION 3 : Syndicats de communes pour le personnel communal.<a id=412></a>
 
 ###### Article L411-26
 
@@ -43128,9 +35265,9 @@ _Modifié par_:
   - Loi n°85-1221 du 22 novembre 1985 - art. 28 (V) JORF 23 NOVEMBRE 1985
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=463></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=413></a>
 
-##### SECTION 2 : Centre de formation des personnels communaux.<a id=464></a>
+##### SECTION 2 : Centre de formation des personnels communaux.<a id=414></a>
 
 ###### Article L412-28
 
@@ -43173,7 +35310,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
 
 
-##### SOUS-SECTION 1 : Rôle.<a id=465></a>
+##### SOUS-SECTION 1 : Rôle.<a id=415></a>
 
 ###### Article L412-33
 
@@ -43217,7 +35354,7 @@ _Anciens textes_:
   - Code de l'administration communale 508-4 al. 5
 
 
-##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=466></a>
+##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=416></a>
 
 ###### Article L412-34
 
@@ -43359,7 +35496,7 @@ _Cité par_:
   - SPEC_APPLI: Loi n°86-972 1986-08-19 art. 30 :
 
 
-##### SOUS-SECTION 3 : Le budget.<a id=467></a>
+##### SOUS-SECTION 3 : Le budget.<a id=417></a>
 
 ###### Article L412-37
 
@@ -43465,7 +35602,7 @@ _Anciens textes_:
   - Code de l'administration communale 508-7 AL. 1 (partie)
 
 
-##### SOUS-SECTION 4 : Le personnel.<a id=468></a>
+##### SOUS-SECTION 4 : Le personnel.<a id=418></a>
 
 ###### Article L412-40
 
@@ -43506,7 +35643,7 @@ _Abrogé par_:
   - Loi n°84-594 1984-07-12 ART. 26 JORF 13 JUILLET 1984
 
 
-##### SECTION 4 : Formation professionnelle continue.<a id=469></a>
+##### SECTION 4 : Formation professionnelle continue.<a id=419></a>
 
 ###### Article L412-45
 
@@ -43553,9 +35690,9 @@ _Cite_:
   - Code du travail L970-1 à L970-5, R970-1 à R970-37
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=470></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=420></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=471></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=421></a>
 
 ###### Article L412-46
 
@@ -43701,7 +35838,7 @@ _Cite_:
   - Code des communes L132-6 et L132-9
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=472></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=422></a>
 
 ###### Article L413-5
 
@@ -43883,11 +36020,11 @@ _Cite_:
   - Code des communes L413-11 à L413-14
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=473></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=423></a>
 
-##### SECTION 3 : Discipline<a id=474></a>
+##### SECTION 3 : Discipline<a id=424></a>
 
-##### SOUS-SECTION 3 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=475></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=425></a>
 
 ###### Article L414-23
 
@@ -43959,9 +36096,45 @@ _Abrogé par_:
   - Loi n°99-291 du 15 avril 1999 - art. 12 (V)
 
 
-#### CHAPITRE 6 : Cessation de fonctions<a id=476></a>
+#### CHAPITRE 5 : Positions<a id=426></a>
 
-##### SECTION 1 : L'admission à la retraite.<a id=477></a>
+##### SECTION 1 : Activités, congés<a id=427></a>
+
+##### SOUS-SECTION 1 : Les congés annuels.<a id=428></a>
+
+###### Article L415-6
+
+L'agent originaire des départements de la Haute-Corse et de la Corse-du-Sud ou des territoires d'outre-mer peut bénéficier,
+sur sa demande, d'un cumul sur deux années de ses congés annuels, pour se rendre dans son département ou territoire
+d'origine.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
+  - SPEC_APPLI: Code des communes L421-1 :
+
+_Anciens textes_:
+
+  - Code de l'administration communale 539 AL. 2 modifié
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 III JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+#### CHAPITRE 6 : Cessation de fonctions<a id=429></a>
+
+##### SECTION 1 : L'admission à la retraite.<a id=430></a>
 
 ###### Article L416-1
 
@@ -44052,9 +36225,9 @@ _Cité par_:
   - Décret n°86-552 du 14 mars 1986 - art. 1 (V)
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=478></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=431></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=479></a>
+##### SECTION 1 : Sécurité sociale.<a id=432></a>
 
 ###### Article L417-1
 
@@ -44094,7 +36267,7 @@ _Cite_:
   - Code de la sécurité sociale 1 et 3
 
 
-##### SECTION 2 : Prestations familiales.<a id=480></a>
+##### SECTION 2 : Prestations familiales.<a id=433></a>
 
 ###### Article L417-2
 
@@ -44126,7 +36299,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. L421-2 (Ab)
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=481></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=434></a>
 
 ###### Article L417-8
 
@@ -44196,7 +36369,7 @@ _Cité par_:
   - Loi n°96-1093 du 16 décembre 1996 - art. 45 (V)
 
 
-##### SECTION 4 : Pensions.<a id=482></a>
+##### SECTION 4 : Pensions.<a id=435></a>
 
 ###### Article L417-11
 
@@ -44363,9 +36536,9 @@ _Codifié par_:
   - Décret n°77-372 1977-03-28
 
 
-##### SECTION 5 : Hygiène et sécurité<a id=483></a>
+##### SECTION 5 : Hygiène et sécurité<a id=436></a>
 
-##### SOUS-SECTION 3 : Médecine professionnelle.<a id=484></a>
+##### SOUS-SECTION 3 : Médecine professionnelle.<a id=437></a>
 
 ###### Article L417-26
 
@@ -44441,9 +36614,65 @@ _Abrogé par_:
   - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
 
 
-### TITRE 2 : Personnels divers<a id=485></a>
+### TITRE 2 : Personnels divers<a id=438></a>
 
-#### CHAPITRE 2 : Agents non titulaires.<a id=486></a>
+#### CHAPITRE 2 : Agents non titulaires.<a id=439></a>
+
+###### Article L422-4
+
+Conformément aux dispositions du premier alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
+communes et de leurs établissements publics administratifs ont droit, en cas de perte involontaire d'emploi et à condition
+d'avoir été employés de manière permanente, à une allocation servie par la collectivité intéressée et dont les conditions
+d'attribution et de calcul sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail l351-18 al. 1
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 III JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
+  - CODE DES COMMUNES. - art. L422-6 (V)
+  - CODE DES COMMUNES. - art. R*422-38 (Ab)
+
+
+###### Article L422-5
+
+Conformément aux dispositions du troisième alinéa de l'article L. 351-18 du code du travail, les agents non titulaires des
+communes et de leurs établissements publics administratifs, qui ont accompli un service continu pendant une durée déterminée
+alors même qu'ils n'ont pas été employés à titre permanent, ont droit, en cas de perte involontaire d'emploi à une allocation
+servie par la collectivité intéressée ; les catégories de personnels intéressés, les conditions d'ouverture du droit à
+l'allocation et notamment la durée du service continu exigée sont déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 III JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L422-6 (V)
+  - CODE DES COMMUNES. - art. R*422-40 (Ab)
+
+_Cite_:
+
+  - Code du travail L351-18 al. 3
+
 
 ###### Article L422-6
 
@@ -44525,9 +36754,160 @@ _Créé par_:
   - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=487></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=440></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine.<a id=488></a>
+#### CHAPITRE 1 : Fusion de communes.<a id=441></a>
+
+###### Article L431-1
+
+Les personnels soumis aux dispositions de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique territoriale et les personnels soumis aux dispositions du code du travail qui remplissent leurs fonctions
+dans les communes fusionnées sont pris en charge par la nouvelle commune à compter de l'acte prononçant la fusion et
+demeurent soumis aux dispositions de leur statut.
+
+Jusqu'au règlement définitif de leur situation, ils sont maintenus dans leur situation administrative antérieure et
+continuent d'être rémunérés dans les mêmes conditions qu'ils l'étaient par leur commune d'origine.
+
+En tout état de cause, ils conservent, dans la nouvelle commune, leurs droits acquis et l'ensemble des avantages dont ils
+bénéficiaient et qui comportent notamment la garantie des mêmes possibilités d'avancement d'échelon et de grade ainsi que de
+durée de carrière et les mêmes modalités de rémunération que dans leur commune d'origine.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+_Anciens textes_:
+
+  - Loi n°71-588 1971-07-16 art. 10 I
+  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L431-2
+
+Pour pourvoir les emplois de la nouvelle commune, il ne peut être fait appel à des personnels extérieurs qu'à défaut de
+candidats issus des personnels des anciennes communes.
+
+Dans tous les cas et quels que soient les grades ou emplois concernés, les qualifications exigées doivent être conformes à
+celles prévues par les dispositions de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+_Anciens textes_:
+
+  - Loi n°71-588 1971-07-16 art. 10 II al. 1
+  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+###### Article L431-3
+
+Les agents titulaires, qui se trouvent non pourvus d'emploi dans la nouvelle commune, sont maintenus en surnombre dans leur
+emploi d'origine jusqu'à leur reclassement éventuel en priorité dans l'un des emplois vacants similaires de la nouvelle
+commune ou des communes du département, sous réserve qu'ils remplissent les conditions d'aptitude requises.
+
+Les délibérations du conseil municipal de la nouvelle commune qui ont pour effet d'entraîner une perte d'emploi pour tout ou
+partie du personnel titularisé dans un emploi permanent à temps non complet d'une ancienne commune doivent contenir une
+clause assurant aux agents licenciés un emploi ou une indemnité calculée conformément à l'article 97 de la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+_Anciens textes_:
+
+  - Loi n°71-588 1971-07-16 art. 10 II al. 2 et art. 10 III
+  - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+
+_Cite_:
+
+  - Loi n°84-53 1984-01-26 art. 97
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+
+#### CHAPITRE 2 : Création de communauté urbaine.<a id=442></a>
+
+###### Article L432-1
+
+Les personnels soumis aux dispositions de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique territoriale et les personnels soumis aux dispositions du code du travail qui remplissent leurs fonctions
+dans les services transférés à la communauté urbaine sont mis à la disposition de la communauté à compter de la date à
+laquelle l'exigent les nécessités du service et demeurent soumis aux dispositions de leur statut à cette date.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+_Anciens textes_:
+
+  - Loi n°66-1069 1966-12-31 art. 24 al. 1
+  - Loi n°66-1069 du 31 décembre 1966 - art. 24 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L432-7 (V)
+
 
 ###### Article L432-2
 
@@ -44728,9 +37108,35 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*432-3 (V)
 
 
-### TITRE 4 : Dispositions particulières<a id=489></a>
+###### Article L432-8
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=490></a>
+Le président et le conseil de communauté exercent à l'égard des agents de la communauté urbaine les pouvoirs respectivement
+dévolus au maire et au conseil municipal.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
+  - SPEC_APPLI: Code des communes L442-1, L442-2 :
+
+_Anciens textes_:
+
+  - Loi n°66-1069 du 31 décembre 1966 - art. 28 (Ab)
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+
+
+### TITRE 4 : Dispositions particulières<a id=443></a>
+
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=444></a>
 
 ###### Article L441-1
 
@@ -44840,7 +37246,7 @@ _Créé par_:
   - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=491></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=445></a>
 
 ###### Article L444-3
 
@@ -44896,7 +37302,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L417-11 (V)
 
 
-## LIVRE 5 : Dispositions finales.<a id=492></a>
+## LIVRE 5 : Dispositions finales.<a id=446></a>
 
 ###### Article L501-1
 
@@ -45770,13 +38176,13 @@ _Créé par_:
   - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
 
 
-# Partie réglementaire<a id=493></a>
+# Partie réglementaire<a id=447></a>
 
-## LIVRE 1 : Organisation communale<a id=494></a>
+## LIVRE 1 : Organisation communale<a id=448></a>
 
-### TITRE 1 : Nom, limites territoriales et population des communes<a id=495></a>
+### TITRE 1 : Nom, limites territoriales et population des communes<a id=449></a>
 
-#### CHAPITRE 1 : Nom des communes.<a id=496></a>
+#### CHAPITRE 1 : Nom des communes.<a id=450></a>
 
 ###### Article R*111-1
 
@@ -45806,9 +38212,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L111-1 (Ab)
 
 
-#### CHAPITRE 2 : Limites territoriales, chef-lieu et fusion des communes<a id=497></a>
+#### CHAPITRE 2 : Limites territoriales, chef-lieu et fusion des communes<a id=451></a>
 
-##### SECTION 1 : Dispositions générales.<a id=498></a>
+##### SECTION 1 : Dispositions générales.<a id=452></a>
 
 ###### Article R*112-1
 
@@ -45896,9 +38302,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2112-1 (M)
 
 
-##### SECTION 2 : Fusion de communes<a id=499></a>
+##### SECTION 2 : Fusion de communes<a id=453></a>
 
-##### SOUS-SECTION 1 : Dispositions communes.<a id=500></a>
+##### SOUS-SECTION 1 : Dispositions communes.<a id=454></a>
 
 ###### Article R*112-12
 
@@ -46460,7 +38866,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2113-13 (V)
 
 
-##### SECTION 3 : Modifications aux limites territoriales des communes.<a id=501></a>
+##### SECTION 3 : Modifications aux limites territoriales des communes.<a id=455></a>
 
 ###### Article R*112-17
 
@@ -46838,7 +39244,7 @@ _Cite_:
   - Code des communes R112-25
 
 
-#### CHAPITRE 3 : Suppression des communes après rachat de tout ou partie de leur territoire.<a id=502></a>
+#### CHAPITRE 3 : Suppression des communes après rachat de tout ou partie de leur territoire.<a id=456></a>
 
 ###### Article R*113-1
 
@@ -46923,7 +39329,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2114-2 (V)
 
 
-#### CHAPITRE 4 : Population des communes.<a id=503></a>
+#### CHAPITRE 4 : Population des communes.<a id=457></a>
 
 ###### Article R114-1
 
@@ -47150,9 +39556,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 2 : Organes de la commune<a id=504></a>
+### TITRE 2 : Organes de la commune<a id=458></a>
 
-#### CHAPITRE 1 : Conseil municipal.<a id=505></a>
+#### CHAPITRE 1 : Conseil municipal.<a id=459></a>
 
 ###### Article R*121-1
 
@@ -47182,7 +39588,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 1 : Formation.<a id=506></a>
+##### SECTION 1 : Formation.<a id=460></a>
 
 ###### Article R*121-2
 
@@ -47303,7 +39709,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L2121-37 (V)
 
 
-##### SECTION 2 : Fonctionnement.<a id=507></a>
+##### SECTION 2 : Fonctionnement.<a id=461></a>
 
 ###### Article R*121-7
 
@@ -47439,7 +39845,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2121-9 (V)
 
 
-##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.<a id=508></a>
+##### SECTION 3 : Dispositions applicables aux membres des conseils municipaux.<a id=462></a>
 
 ###### Article R*121-11
 
@@ -47531,7 +39937,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-##### SECTION 4 : Attributions des conseils municipaux.<a id=509></a>
+##### SECTION 4 : Attributions des conseils municipaux.<a id=463></a>
 
 ###### Article R*121-15
 
@@ -47571,9 +39977,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-#### CHAPITRE 2 : Maires et adjoints<a id=510></a>
+#### CHAPITRE 2 : Maires et adjoints<a id=464></a>
 
-##### SECTION 2 : Désignation et statut des maires et adjoints.<a id=511></a>
+##### SECTION 2 : Désignation et statut des maires et adjoints.<a id=465></a>
 
 ###### Article R*122-1
 
@@ -47759,7 +40165,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Attributions des maires et adjoints.<a id=512></a>
+##### SECTION 3 : Attributions des maires et adjoints.<a id=466></a>
 
 ###### Article R*122-8
 
@@ -47909,9 +40315,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-#### CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=513></a>
+#### CHAPITRE 3 : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=467></a>
 
-##### SECTION 3 : Indemnités de fonctions.<a id=514></a>
+##### SECTION 3 : Indemnités de fonctions.<a id=468></a>
 
 ###### Article R*123-1
 
@@ -48229,7 +40635,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 4 : Régime de retraite des maires et adjoints.<a id=515></a>
+##### SECTION 4 : Régime de retraite des maires et adjoints.<a id=469></a>
 
 ###### Article R123-4
 
@@ -48431,9 +40837,9 @@ _Cite_:
   - Code des communes R123-4 à R123-7
 
 
-#### CHAPITRE 4 : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=516></a>
+#### CHAPITRE 4 : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=470></a>
 
-##### SECTION 1 : Dispositions applicables aux conseils et aux conseillers municipaux.<a id=517></a>
+##### SECTION 1 : Dispositions applicables aux conseils et aux conseillers municipaux.<a id=471></a>
 
 ###### Article R*124-1
 
@@ -48522,7 +40928,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L124-4 (Ab)
 
 
-##### SECTION 2 : Dispositions applicables aux maires et adjoints.<a id=518></a>
+##### SECTION 2 : Dispositions applicables aux maires et adjoints.<a id=472></a>
 
 ###### Article R*124-4
 
@@ -48635,11 +41041,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-### TITRE 3 : Police<a id=519></a>
+### TITRE 3 : Police<a id=473></a>
 
-#### CHAPITRE 1 : Dispositions générales<a id=520></a>
+#### CHAPITRE 1 : Dispositions générales<a id=474></a>
 
-##### SECTION 2 : Pouvoirs de police du maire portant sur des objets particuliers.<a id=521></a>
+##### SECTION 2 : Pouvoirs de police du maire portant sur des objets particuliers.<a id=475></a>
 
 ###### Article R*131-1
 
@@ -48780,9 +41186,9 @@ _Anciens textes_:
   - Décret n°1939-04-22 art. 2
 
 
-#### CHAPITRE 2 : Dispositions particulières<a id=522></a>
+#### CHAPITRE 2 : Dispositions particulières<a id=476></a>
 
-##### SECTION 1 : Police dans les campagnes.<a id=523></a>
+##### SECTION 1 : Police dans les campagnes.<a id=477></a>
 
 ###### Article R*132-1
 
@@ -48885,9 +41291,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L132-2 (Ab)
 
 
-#### CHAPITRE 3 : Responsabilité des communes<a id=524></a>
+#### CHAPITRE 3 : Responsabilité des communes<a id=478></a>
 
-##### SECTION 2 : Actions et recours.<a id=525></a>
+##### SECTION 2 : Actions et recours.<a id=479></a>
 
 ###### Article R*133-1
 
@@ -48926,11 +41332,11 @@ _Nouveaux textes_:
   - SPEC_APPLI: Les dispositions de l'article R133-1 sont rendues caduques du fait de l'abrogation des articles L133-1 à L133-8
 
 
-### TITRE 4 : Stations classées<a id=526></a>
+### TITRE 4 : Stations classées<a id=480></a>
 
-#### CHAPITRE 2 : Dispositions communes aux stations classées<a id=527></a>
+#### CHAPITRE 2 : Dispositions communes aux stations classées<a id=481></a>
 
-##### SECTION 1 : Classement.<a id=528></a>
+##### SECTION 1 : Classement.<a id=482></a>
 
 ###### Article R*142-1
 
@@ -48964,9 +41370,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-##### SECTION 2 : Office du tourisme<a id=529></a>
+##### SECTION 2 : Office du tourisme<a id=483></a>
 
-##### SOUS-SECTION 1 : Création d'offices du tourisme.<a id=530></a>
+##### SOUS-SECTION 1 : Création d'offices du tourisme.<a id=484></a>
 
 ###### Article R*142-2
 
@@ -49030,7 +41436,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 2 : Organisation.<a id=531></a>
+##### SOUS-SECTION 2 : Organisation.<a id=485></a>
 
 ###### Article R*142-4
 
@@ -49474,7 +41880,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 3 : Budget et comptabilité.<a id=532></a>
+##### SOUS-SECTION 3 : Budget et comptabilité.<a id=486></a>
 
 ###### Article R*142-16
 
@@ -49610,7 +42016,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 4 : Dissolution de l'office du tourisme.<a id=533></a>
+##### SOUS-SECTION 4 : Dissolution de l'office du tourisme.<a id=487></a>
 
 ###### Article R*142-20
 
@@ -49640,7 +42046,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 5 : Les offices de tourisme intercommunaux.<a id=534></a>
+##### SOUS-SECTION 5 : Les offices de tourisme intercommunaux.<a id=488></a>
 
 ###### Article R*142-21
 
@@ -49895,11 +42301,11 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations<a id=535></a>
+#### CHAPITRE 3 : Dispositions particulières aux diverses catégories de stations<a id=489></a>
 
-##### SECTION 1 : Stations hydrominérales et climatiques<a id=536></a>
+##### SECTION 1 : Stations hydrominérales et climatiques<a id=490></a>
 
-##### SOUS-SECTION 1 : Procédure de classement.<a id=537></a>
+##### SOUS-SECTION 1 : Procédure de classement.<a id=491></a>
 
 ###### Article R*143-1
 
@@ -50226,7 +42632,7 @@ _Anciens textes_:
   - Décret n°1920-05-04 art. 21
 
 
-##### SOUS-SECTION 2 : Groupes de communes érigés en stations hydrominérales et climatiques.<a id=538></a>
+##### SOUS-SECTION 2 : Groupes de communes érigés en stations hydrominérales et climatiques.<a id=492></a>
 
 ###### Article R*143-10
 
@@ -50456,7 +42862,7 @@ _Anciens textes_:
   - Décret n°1920-05-04 complété art. 87 al. 6
 
 
-##### SECTION 2 : Stations uvales.<a id=539></a>
+##### SECTION 2 : Stations uvales.<a id=493></a>
 
 ###### Article R*143-17
 
@@ -50527,9 +42933,9 @@ _Anciens textes_:
   - Décret n°1935-10-25 art. 1 al. 2
 
 
-##### SECTION 3 : Stations de tourisme<a id=540></a>
+##### SECTION 3 : Stations de tourisme<a id=494></a>
 
-##### SOUS-SECTION 1 : Procédure de classement.<a id=541></a>
+##### SOUS-SECTION 1 : Procédure de classement.<a id=495></a>
 
 ###### Article R*143-19
 
@@ -50698,7 +43104,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R143-20 (M)
 
 
-##### SOUS-SECTION 2 : Groupes de communes érigés en stations de tourisme.<a id=542></a>
+##### SOUS-SECTION 2 : Groupes de communes érigés en stations de tourisme.<a id=496></a>
 
 ###### Article R143-24
 
@@ -50729,9 +43135,9 @@ _Anciens textes_:
   - Décret n°1920-05-04 complété art. 87 al. 1 (partie)
 
 
-##### SECTION 4 : Stations balnéaires<a id=543></a>
+##### SECTION 4 : Stations balnéaires<a id=497></a>
 
-##### SOUS-SECTION 1 : Création.<a id=544></a>
+##### SOUS-SECTION 1 : Création.<a id=498></a>
 
 ###### Article R143-25
 
@@ -50801,7 +43207,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-##### SOUS-SECTION 2 : Groupes de communes érigés en stations balnéaires.<a id=545></a>
+##### SOUS-SECTION 2 : Groupes de communes érigés en stations balnéaires.<a id=499></a>
 
 ###### Article R143-27
 
@@ -50832,7 +43238,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 5 : Stations de sports d'hiver et d'alpinisme.<a id=546></a>
+##### SECTION 5 : Stations de sports d'hiver et d'alpinisme.<a id=500></a>
 
 ###### Article R*143-30
 
@@ -51121,9 +43527,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 5 : Intérêts propres à certaines catégories d'habitants<a id=547></a>
+### TITRE 5 : Intérêts propres à certaines catégories d'habitants<a id=501></a>
 
-#### CHAPITRE 2 : Secteur de commune.<a id=548></a>
+#### CHAPITRE 2 : Secteur de commune.<a id=502></a>
 
 ###### Article R*152-1
 
@@ -51188,7 +43594,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L152-2 (M)
 
 
-#### CHAPITRE 3 : Communes associées.<a id=549></a>
+#### CHAPITRE 3 : Communes associées.<a id=503></a>
 
 ###### Article R*153-1
 
@@ -51308,9 +43714,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 6 : Intérêts communs à plusieurs communes<a id=550></a>
+### TITRE 6 : Intérêts communs à plusieurs communes<a id=504></a>
 
-#### CHAPITRE 2 : Biens et droits indivis entre plusieurs communes.<a id=551></a>
+#### CHAPITRE 2 : Biens et droits indivis entre plusieurs communes.<a id=505></a>
 
 ###### Article R*162-1
 
@@ -51389,9 +43795,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L162-3 (M)
 
 
-#### CHAPITRE 3 : Syndicats de communes<a id=552></a>
+#### CHAPITRE 3 : Syndicats de communes<a id=506></a>
 
-##### SECTION 1 : Création du syndicat.<a id=553></a>
+##### SECTION 1 : Création du syndicat.<a id=507></a>
 
 ###### Article R*163-1
 
@@ -51426,7 +43832,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5212-3 (Ab)
 
 
-##### SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat.<a id=554></a>
+##### SECTION 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat.<a id=508></a>
 
 ###### Article R*163-4
 
@@ -51493,7 +43899,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L163-16 (M)
 
 
-##### SECTION 4 : Durée du syndicat.<a id=555></a>
+##### SECTION 4 : Durée du syndicat.<a id=509></a>
 
 ###### Article R*163-6
 
@@ -51531,7 +43937,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. L5212-33 (M)
 
 
-#### CHAPITRE 4 : Districts.<a id=556></a>
+#### CHAPITRE 4 : Districts.<a id=510></a>
 
 ###### Article R*164-1
 
@@ -51697,11 +44103,11 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 5: Communautés urbaines<a id=557></a>
+#### CHAPITRE 5: Communautés urbaines<a id=511></a>
 
-##### SECTION 3 : Compétences de la communauté urbaine<a id=558></a>
+##### SECTION 3 : Compétences de la communauté urbaine<a id=512></a>
 
-##### SOUS-SECTION 1 : Etendue des compétences.<a id=559></a>
+##### SOUS-SECTION 1 : Etendue des compétences.<a id=513></a>
 
 ###### Article R*165-1
 
@@ -51891,7 +44297,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales L
 
 
-##### SOUS-SECTION 2 : Effets du transfert des compétences.<a id=560></a>
+##### SOUS-SECTION 2 : Effets du transfert des compétences.<a id=514></a>
 
 ###### Article R*165-6
 
@@ -52164,7 +44570,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations.<a id=561></a>
+##### SECTION 4 : Dispositions relatives aux transferts des biens, droits et obligations.<a id=515></a>
 
 ###### Article R*165-15
 
@@ -52901,9 +45307,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 7 : Agglomérations nouvelles<a id=562></a>
+### TITRE 7 : Agglomérations nouvelles<a id=516></a>
 
-#### CHAPITRE 1 : Création d'agglomérations nouvelles.<a id=563></a>
+#### CHAPITRE 1 : Création d'agglomérations nouvelles.<a id=517></a>
 
 ###### Article R*171-1
 
@@ -53101,9 +45507,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L171-9 (Ab)
 
 
-#### CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement<a id=564></a>
+#### CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement<a id=518></a>
 
-##### SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement.<a id=565></a>
+##### SECTION 1 : Organisation, fonctionnement et compétences du syndicat communautaire d'aménagement.<a id=519></a>
 
 ###### Article R*172-1
 
@@ -53421,9 +45827,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 3 : Ensemble urbain<a id=566></a>
+#### CHAPITRE 3 : Ensemble urbain<a id=520></a>
 
-##### SECTION 2 : Conseil de l'ensemble urbain.<a id=567></a>
+##### SECTION 2 : Conseil de l'ensemble urbain.<a id=521></a>
 
 ###### Article R*173-1
 
@@ -53775,7 +46181,7 @@ _Cite_:
   - Code électoral - art. R40 (M)
 
 
-##### SECTION 3 : Transformation de l'ensemble urbain en commune.<a id=568></a>
+##### SECTION 3 : Transformation de l'ensemble urbain en commune.<a id=522></a>
 
 ###### Article R*173-12
 
@@ -53868,11 +46274,11 @@ _Cite_:
   - Code des communes R173-12
 
 
-### TITRE 8 : Dispositions particulières<a id=569></a>
+### TITRE 8 : Dispositions particulières<a id=523></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=570></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=524></a>
 
-##### SECTION 1 : Dispositions générales.<a id=571></a>
+##### SECTION 1 : Dispositions générales.<a id=525></a>
 
 ###### Article R*181-1
 
@@ -53900,7 +46306,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Le conseil municipal.<a id=572></a>
+##### SECTION 2 : Le conseil municipal.<a id=526></a>
 
 ###### Article R*181-2
 
@@ -53926,9 +46332,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L181-7 (Ab)
 
 
-##### SECTION 6 : Intérêts communs<a id=573></a>
+##### SECTION 6 : Intérêts communs<a id=527></a>
 
-##### SOUS-SECTION 1 : Ententes et conférences intercommunales.<a id=574></a>
+##### SOUS-SECTION 1 : Ententes et conférences intercommunales.<a id=528></a>
 
 ###### Article R*181-5
 
@@ -53954,7 +46360,7 @@ _Anciens textes_:
   - Loi n°1902-06-11 ART. 1 AL. 2, LOCALE, ALSACE ET LORRAINE
 
 
-##### SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=575></a>
+##### SOUS-SECTION 2 : Administration du patrimoine possédé indivisément par plusieurs communes.<a id=529></a>
 
 ###### Article R*181-6
 
@@ -53989,9 +46395,9 @@ _Anciens textes_:
   - Loi n°1897-07-07 ART. 7 AL. 1 (PARTIE), LOCALE, ALSACE ET LORRAINE
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=576></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=530></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=577></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=531></a>
 
 ###### Article R*182-1
 
@@ -54057,7 +46463,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=578></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=532></a>
 
 ###### Article R*182-3
 
@@ -54089,7 +46495,7 @@ _Cite_:
   - Code des communes R153-1 à R153-3
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne .<a id=579></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne .<a id=533></a>
 
 ###### Article R*183-1
 
@@ -54125,9 +46531,9 @@ _Cite_:
   - Loi n°1953-06-10 MODIFIEE
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=580></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=534></a>
 
-##### SECTION 1 : Dispositions générales.<a id=581></a>
+##### SECTION 1 : Dispositions générales.<a id=535></a>
 
 ###### Article R*184-1
 
@@ -54159,7 +46565,7 @@ _Cite_:
   - Code des communes R111-1 à R173-14
 
 
-##### SECTION 3 : Le maire et les adjoints.<a id=582></a>
+##### SECTION 3 : Le maire et les adjoints.<a id=536></a>
 
 ###### Article R*184-2
 
@@ -54457,7 +46863,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 5 : Les commissions d'arrondissement.<a id=583></a>
+##### SECTION 5 : Les commissions d'arrondissement.<a id=537></a>
 
 ###### Article R*184-13
 
@@ -54578,9 +46984,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2512-3 (V)
 
 
-#### CHAPITRE 5 : Dispositions applicables à certaines grandes villes<a id=584></a>
+#### CHAPITRE 5 : Dispositions applicables à certaines grandes villes<a id=538></a>
 
-##### SECTION 1 : Dispositions applicables à la ville de Lyon.<a id=585></a>
+##### SECTION 1 : Dispositions applicables à la ville de Lyon.<a id=539></a>
 
 ###### Article R*185-1
 
@@ -54663,7 +47069,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2513-3 (V)
 
 
-##### SECTION 2 : Dispositions applicables à la ville de Marseille.<a id=586></a>
+##### SECTION 2 : Dispositions applicables à la ville de Marseille.<a id=540></a>
 
 ###### Article R*185-4
 
@@ -55076,13 +47482,13 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-## Organisation communale<a id=587></a>
+## Organisation communale<a id=541></a>
 
-### Nom, limites territoriales et population des communes<a id=588></a>
+### Nom, limites territoriales et population des communes<a id=542></a>
 
-#### Limites territoriales, chef-lieu et fusion des communes<a id=589></a>
+#### Limites territoriales, chef-lieu et fusion des communes<a id=543></a>
 
-##### Modifications aux limites territoriales des communes<a id=590></a>
+##### Modifications aux limites territoriales des communes<a id=544></a>
 
 ###### Article R*112-19
 
@@ -55169,13 +47575,13 @@ _Cite_:
   - Code des communes R112-25 A R112-27
 
 
-### INTERETS COMMUNS A PLUSIEURS COMMUNES<a id=591></a>
+### INTERETS COMMUNS A PLUSIEURS COMMUNES<a id=545></a>
 
-#### Communautés urbaines<a id=592></a>
+#### Communautés urbaines<a id=546></a>
 
-##### Le conseil de communauté<a id=593></a>
+##### Le conseil de communauté<a id=547></a>
 
-##### Composition du conseil de communauté et désignation de ses membres .<a id=594></a>
+##### Composition du conseil de communauté et désignation de ses membres .<a id=548></a>
 
 ###### Article R*165-32
 
@@ -55340,7 +47746,7 @@ _Cite_:
   - Code des communes R165-32
 
 
-#### Syndicats mixtes .<a id=595></a>
+#### Syndicats mixtes .<a id=549></a>
 
 ###### Article R*166-1
 
@@ -55393,11 +47799,11 @@ _Cite_:
   - Code des communes R116-1 al. 2
 
 
-## LIVRE 2 : Finances communales<a id=596></a>
+## LIVRE 2 : Finances communales<a id=550></a>
 
-### TITRE 1 : Budget<a id=597></a>
+### TITRE 1 : Budget<a id=551></a>
 
-#### CHAPITRE 1 : Dispositions générales.<a id=598></a>
+#### CHAPITRE 1 : Dispositions générales.<a id=552></a>
 
 ###### Article R*211-1
 
@@ -55426,7 +47832,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L211-3 (M)
 
 
-#### CHAPITRE 2 : Vote et règlement.<a id=599></a>
+#### CHAPITRE 2 : Vote et règlement.<a id=553></a>
 
 ###### Article R*212-1
 
@@ -55615,7 +48021,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L212-13 (Ab)
 
 
-### TITRE 2 : Dépenses.<a id=600></a>
+### TITRE 2 : Dépenses.<a id=554></a>
 
 ###### Article R221-1
 
@@ -55915,11 +48321,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2321-16 (V)
 
 
-### TITRE 3 : Recettes<a id=601></a>
+### TITRE 3 : Recettes<a id=555></a>
 
-#### CHAPITRE 1 : Dispositions générales<a id=602></a>
+#### CHAPITRE 1 : Dispositions générales<a id=556></a>
 
-##### SECTION 2 : Contrôle de la Cour des comptes.<a id=603></a>
+##### SECTION 2 : Contrôle de la Cour des comptes.<a id=557></a>
 
 ###### Article R231-1
 
@@ -55953,11 +48359,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L231-16 (Ab)
 
 
-#### CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=604></a>
+#### CHAPITRE 3 : Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=558></a>
 
-##### SECTION 1 : Taxe sur certaines fournitures d'électricité<a id=605></a>
+##### SECTION 1 : Taxe sur certaines fournitures d'électricité<a id=559></a>
 
-##### SOUS-SECTION 2 : Dispositions applicables à l'électricité livrée en basse tension par des distributeurs.<a id=606></a>
+##### SOUS-SECTION 2 : Dispositions applicables à l'électricité livrée en basse tension par des distributeurs.<a id=560></a>
 
 ###### Article R*233-6
 
@@ -56110,9 +48516,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L233-8 (M)
 
 
-##### SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché des viandes<a id=607></a>
+##### SECTION 2 : Taxes d'usage des abattoirs publics et de protection sanitaire et d'organisation du marché des viandes<a id=561></a>
 
-##### SOUS-SECTION 1 : Taxe d'usage des abattoirs publics.<a id=608></a>
+##### SOUS-SECTION 1 : Taxe d'usage des abattoirs publics.<a id=562></a>
 
 ###### Article R233-11
 
@@ -56140,7 +48546,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 2 : Taxe de protection sanitaire et d'organisation du marché des viandes.<a id=609></a>
+##### SOUS-SECTION 2 : Taxe de protection sanitaire et d'organisation du marché des viandes.<a id=563></a>
 
 ###### Article R233-12
 
@@ -56166,9 +48572,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Taxe sur la publicité<a id=610></a>
+##### SECTION 3 : Taxe sur la publicité<a id=564></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=611></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=565></a>
 
 ###### Article R233-19
 
@@ -56230,7 +48636,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.<a id=612></a>
+##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.<a id=566></a>
 
 ###### Article R233-21
 
@@ -56324,7 +48730,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2333-14 (VT)
 
 
-##### SOUS-SECTION 4 : Paiement et recouvrement de la taxe.<a id=613></a>
+##### SOUS-SECTION 4 : Paiement et recouvrement de la taxe.<a id=567></a>
 
 ###### Article R*233-29
 
@@ -56770,7 +49176,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L233-24 (M)
 
 
-##### SOUS-SECTION 5 : Sanctions applicables.<a id=614></a>
+##### SOUS-SECTION 5 : Sanctions applicables.<a id=568></a>
 
 ###### Article R233-36
 
@@ -56852,9 +49258,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L233-26 (Ab)
 
 
-##### SECTION 4 : Taxes particulières aux stations<a id=615></a>
+##### SECTION 4 : Taxes particulières aux stations<a id=569></a>
 
-##### SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos.<a id=616></a>
+##### SOUS-SECTION 3 : Prélèvement progressif sur le produit des jeux dans les casinos.<a id=570></a>
 
 ###### Article R233-70
 
@@ -57171,11 +49577,11 @@ _Anciens textes_:
   - Décret n°57-636 1957-05-24 art. 8
 
 
-##### SECTION 6 : Taxes destinées au financement des transports en commun<a id=617></a>
+##### SECTION 6 : Taxes destinées au financement des transports en commun<a id=571></a>
 
-##### SOUS-SECTION 1 : Versement destiné aux transports en commun<a id=618></a>
+##### SOUS-SECTION 1 : Versement destiné aux transports en commun<a id=572></a>
 
-##### PARAGRAPHE 1 : Dispositions communes.<a id=619></a>
+##### PARAGRAPHE 1 : Dispositions communes.<a id=573></a>
 
 ###### Article R233-78
 
@@ -57466,7 +49872,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2333-86 (M)
 
 
-##### PARAGRAPHE 2 : Dispositions particulières applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.<a id=620></a>
+##### PARAGRAPHE 2 : Dispositions particulières applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.<a id=574></a>
 
 ###### Article R233-86
 
@@ -57884,7 +50290,7 @@ _Cite_:
   - Code de la sécurité sociale
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux employeurs relevant du régime des assurances sociales agricoles.<a id=621></a>
+##### PARAGRAPHE 3 : Dispositions particulières aux employeurs relevant du régime des assurances sociales agricoles.<a id=575></a>
 
 ###### Article R233-97
 
@@ -58063,7 +50469,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2333-104 (Ab)
 
 
-##### SOUS-SECTION 2 : Surtaxes locales temporaires.<a id=622></a>
+##### SOUS-SECTION 2 : Surtaxes locales temporaires.<a id=576></a>
 
 ###### Article R233-102
 
@@ -58099,7 +50505,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2331-4 (V)
 
 
-##### SECTION 7 : Droits de port.<a id=623></a>
+##### SECTION 7 : Droits de port.<a id=577></a>
 
 ###### Article R*233-103
 
@@ -58130,9 +50536,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2331-2 (V)
 
 
-##### SECTION 8 : Redevances d'occupation du domaine public<a id=624></a>
+##### SECTION 8 : Redevances d'occupation du domaine public<a id=578></a>
 
-##### SOUS-SECTION 1 : Redevances des distributions d'électricité et de gaz.<a id=625></a>
+##### SOUS-SECTION 1 : Redevances des distributions d'électricité et de gaz.<a id=579></a>
 
 ###### Article R233-104
 
@@ -58227,7 +50633,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2331-1 (V)
 
 
-##### SOUS-SECTION 2 : Redevances des gazoducs et oléoducs d'intérêt général.<a id=626></a>
+##### SOUS-SECTION 2 : Redevances des gazoducs et oléoducs d'intérêt général.<a id=580></a>
 
 ###### Article R233-107
 
@@ -58263,9 +50669,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-120 (V)
 
 
-##### SECTION 9 : Autres redevances pour services rendus<a id=627></a>
+##### SECTION 9 : Autres redevances pour services rendus<a id=581></a>
 
-##### SOUS-SECTION 2 : Redevances d'assainissement .<a id=628></a>
+##### SOUS-SECTION 2 : Redevances d'assainissement .<a id=582></a>
 
 ###### Article R*233-108
 
@@ -58300,9 +50706,9 @@ _Anciens textes_:
   - Code des communes R233-107 (1ERE VERSION)
 
 
-##### SECTION 10 : Taxe communale sur les emplacements publicitaires fixes<a id=629></a>
+##### SECTION 10 : Taxe communale sur les emplacements publicitaires fixes<a id=583></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=630></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=584></a>
 
 ###### Article R*233-108
 
@@ -58334,7 +50740,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.<a id=631></a>
+##### SOUS-SECTION 2 : Assiette de la taxe et exonérations.<a id=585></a>
 
 ###### Article R233-109
 
@@ -58384,7 +50790,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-37 (VT)
 
 
-##### SOUS-SECTION 4 : Recouvrement et paiement de la taxe.<a id=632></a>
+##### SOUS-SECTION 4 : Recouvrement et paiement de la taxe.<a id=586></a>
 
 ###### Article R233-114
 
@@ -58415,11 +50821,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-41 (VT)
 
 
-#### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales<a id=633></a>
+#### CHAPITRE 4 : Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales<a id=587></a>
 
-##### SECTION 1 : Dotation globale de fonctionnement<a id=634></a>
+##### SECTION 1 : Dotation globale de fonctionnement<a id=588></a>
 
-##### SOUS-SECTION 4 : Concours particuliers.<a id=635></a>
+##### SOUS-SECTION 4 : Concours particuliers.<a id=589></a>
 
 ###### Article R*234-1
 
@@ -58463,9 +50869,9 @@ _Codifié par_:
   - Décret n°77-91 1977-01-27
 
 
-##### SECTION 2 : Recettes réparties par le comité des finances locales<a id=636></a>
+##### SECTION 2 : Recettes réparties par le comité des finances locales<a id=590></a>
 
-##### SOUS-SECTION 1 : Organisation du comité des finances locales.<a id=637></a>
+##### SOUS-SECTION 1 : Organisation du comité des finances locales.<a id=591></a>
 
 ###### Article R*234-3
 
@@ -58849,7 +51255,7 @@ _Codifié par_:
   - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
-##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.<a id=638></a>
+##### SOUS-SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.<a id=592></a>
 
 ###### Article R*234-29
 
@@ -59002,9 +51408,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des communes R263-39
 
 
-#### CHAPITRE 5 : Subventions<a id=639></a>
+#### CHAPITRE 5 : Subventions<a id=593></a>
 
-##### SECTION 1 : Subventions de fonctionnement sans affectation spéciale.<a id=640></a>
+##### SECTION 1 : Subventions de fonctionnement sans affectation spéciale.<a id=594></a>
 
 ###### Article R*235-2
 
@@ -59127,11 +51533,11 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Subventions d'investissement<a id=641></a>
+##### SECTION 2 : Subventions d'investissement<a id=595></a>
 
-##### SOUS-SECTION 1 : Régime des subventions accordées par l'Etat<a id=642></a>
+##### SOUS-SECTION 1 : Régime des subventions accordées par l'Etat<a id=596></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=643></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=597></a>
 
 ###### Article R*235-5
 
@@ -59393,7 +51799,7 @@ _Abrogé par_:
   - Décret n°99-1060 du 16 décembre 1999 - art. 19 (VT)
 
 
-##### PARAGRAPHE 2 : Subventions spécifiques.<a id=644></a>
+##### PARAGRAPHE 2 : Subventions spécifiques.<a id=598></a>
 
 ###### Article R*235-14
 
@@ -60272,7 +52678,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R*235-30 (Ab)
 
 
-##### PARAGRAPHE 3 : Subventions globales.<a id=645></a>
+##### PARAGRAPHE 3 : Subventions globales.<a id=599></a>
 
 ###### Article R*235-42
 
@@ -60391,7 +52797,7 @@ _Abrogé par_:
   - Décret n°99-1060 du 16 décembre 1999 - art. 19 (VT)
 
 
-##### SOUS-SECTION 2 : Majorations de subvention accordées aux communes fusionnées.<a id=646></a>
+##### SOUS-SECTION 2 : Majorations de subvention accordées aux communes fusionnées.<a id=600></a>
 
 ###### Article R235-46
 
@@ -60506,9 +52912,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2335-7 (V)
 
 
-#### CHAPITRE 6 : Avances, emprunts et garanties d'emprunts<a id=647></a>
+#### CHAPITRE 6 : Avances, emprunts et garanties d'emprunts<a id=601></a>
 
-##### SECTION 1 : Avances.<a id=648></a>
+##### SECTION 1 : Avances.<a id=602></a>
 
 ###### Article R236-1
 
@@ -60773,7 +53179,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2336-7 (T)
 
 
-##### SECTION 2 : Recours à l'emprunt.<a id=649></a>
+##### SECTION 2 : Recours à l'emprunt.<a id=603></a>
 
 ###### Article R236-8
 
@@ -60860,9 +53266,9 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*262-1 (Ab)
 
 
-##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales<a id=650></a>
+##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales<a id=604></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=651></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=605></a>
 
 ###### Article R236-10
 
@@ -60888,7 +53294,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L236-10 (Ab)
 
 
-##### SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales.<a id=652></a>
+##### SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales.<a id=606></a>
 
 ###### Article R236-11
 
@@ -61230,7 +53636,7 @@ _Abrogé par_:
   - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
 
 
-##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.<a id=653></a>
+##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.<a id=607></a>
 
 ###### Article R236-22
 
@@ -61390,7 +53796,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R236-22 (Ab)
 
 
-##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.<a id=654></a>
+##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.<a id=608></a>
 
 ###### Article R*236-27
 
@@ -62031,7 +54437,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R236-30 (Ab)
 
 
-##### SECTION 4 : Garanties d'emprunts.<a id=655></a>
+##### SECTION 4 : Garanties d'emprunts.<a id=609></a>
 
 ###### Article R*236-48
 
@@ -62138,11 +54544,11 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*262-12 (Ab)
 
 
-#### CHAPITRE 6 : Avances, emprunts et garanties d'emprunt<a id=656></a>
+#### CHAPITRE 6 : Avances, emprunts et garanties d'emprunt<a id=610></a>
 
-##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales<a id=657></a>
+##### SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales<a id=611></a>
 
-##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.<a id=658></a>
+##### SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales.<a id=612></a>
 
 ###### Article R236-26
 
@@ -62169,11 +54575,11 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-### TITRE 4 : Comptabilité<a id=659></a>
+### TITRE 4 : Comptabilité<a id=613></a>
 
-#### CHAPITRE 1 : Comptabilités du maire et du comptable<a id=660></a>
+#### CHAPITRE 1 : Comptabilités du maire et du comptable<a id=614></a>
 
-##### SECTION 1 : Dispositions générales.<a id=661></a>
+##### SECTION 1 : Dispositions générales.<a id=615></a>
 
 ###### Article R*241-1
 
@@ -62302,7 +54708,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2342-3 (V)
 
 
-##### SECTION 2 : Comptabilité du maire.<a id=662></a>
+##### SECTION 2 : Comptabilité du maire.<a id=616></a>
 
 ###### Article R241-6
 
@@ -62603,7 +55009,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2342-12 (V)
 
 
-##### SECTION 3 : Comptabilité du comptable.<a id=663></a>
+##### SECTION 3 : Comptabilité du comptable.<a id=617></a>
 
 ###### Article R*241-21
 
@@ -63133,9 +55539,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 1 : Comptabilité du maire et du comptable<a id=664></a>
+#### CHAPITRE 1 : Comptabilité du maire et du comptable<a id=618></a>
 
-##### SECTION 3 : Comptabilité du comptable.<a id=665></a>
+##### SECTION 3 : Comptabilité du comptable.<a id=619></a>
 
 ###### Article R241-17
 
@@ -63170,7 +55576,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2343-1 (V)
 
 
-#### CHAPITRE 2 : Arrêt, jugement des comptes et gestion de fait.<a id=666></a>
+#### CHAPITRE 2 : Arrêt, jugement des comptes et gestion de fait.<a id=620></a>
 
 ###### Article R242-1
 
@@ -63414,9 +55820,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 5 : Dispositions applicables à certains établissements communaux<a id=667></a>
+### TITRE 5 : Dispositions applicables à certains établissements communaux<a id=621></a>
 
-#### CHAPITRE 1 : Dispositions applicables au syndicat de communes.<a id=668></a>
+#### CHAPITRE 1 : Dispositions applicables au syndicat de communes.<a id=622></a>
 
 ###### Article R251-1
 
@@ -63797,7 +56203,7 @@ _Anciens textes_:
   - Décret n°74-476 1974-03-17 art. 8 (partie)
 
 
-#### CHAPITRE 2 : Dispositions applicables au district.<a id=669></a>
+#### CHAPITRE 2 : Dispositions applicables au district.<a id=623></a>
 
 ###### Article R252-1
 
@@ -63963,9 +56369,9 @@ _Anciens textes_:
   - Décret n°74-476 1974-03-17 art. 4 à 8 (parties)
 
 
-#### CHAPITRE 3 : Dispositions applicables à la communauté urbaine<a id=670></a>
+#### CHAPITRE 3 : Dispositions applicables à la communauté urbaine<a id=624></a>
 
-##### SECTION 1 : Dispositions générales.<a id=671></a>
+##### SECTION 1 : Dispositions générales.<a id=625></a>
 
 ###### Article R253-1
 
@@ -63996,7 +56402,7 @@ _Anciens textes_:
   - Loi n°66-1069 1966-12-24 art. 42 (partie)
 
 
-##### SECTION 2 : Dispositions relatives à la dotation globale de fonctionnement.<a id=672></a>
+##### SECTION 2 : Dispositions relatives à la dotation globale de fonctionnement.<a id=626></a>
 
 ###### Article R*253-2
 
@@ -64068,7 +56474,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Majorations de subvention d'équipement.<a id=673></a>
+##### SECTION 3 : Majorations de subvention d'équipement.<a id=627></a>
 
 ###### Article R253-8
 
@@ -64169,7 +56575,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 4 : Contrat de plan pluriannuel.<a id=674></a>
+##### SECTION 4 : Contrat de plan pluriannuel.<a id=628></a>
 
 ###### Article R253-11
 
@@ -64310,7 +56716,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 4 : Dispositions applicables au syndicat mixte.<a id=675></a>
+#### CHAPITRE 4 : Dispositions applicables au syndicat mixte.<a id=629></a>
 
 ###### Article R*254-1
 
@@ -64333,9 +56739,9 @@ _Cite_:
   - Code des communes R211-1 à R242-8
 
 
-#### CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement<a id=676></a>
+#### CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement<a id=630></a>
 
-##### SECTION 1 : Dispositions générales.<a id=677></a>
+##### SECTION 1 : Dispositions générales.<a id=631></a>
 
 ###### Article R255-1
 
@@ -64373,7 +56779,7 @@ _Cite_:
   - Code des communes R211-1 à R242-8
 
 
-##### SECTION 2 : Dispositions relatives au versement représentatif de la taxe sur les salaires.<a id=678></a>
+##### SECTION 2 : Dispositions relatives au versement représentatif de la taxe sur les salaires.<a id=632></a>
 
 ###### Article R255-2
 
@@ -64626,7 +57032,7 @@ _Cite_:
   - Code des communes R255-3 al. 2 et R255-4
 
 
-##### SECTION 3 : Allocation versée aux communes situées dans la zone d'agglomération nouvelle.<a id=679></a>
+##### SECTION 3 : Allocation versée aux communes situées dans la zone d'agglomération nouvelle.<a id=633></a>
 
 ###### Article R*255-8
 
@@ -65001,7 +57407,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 6 : Dispositions applicables à l'ensemble urbain.<a id=680></a>
+#### CHAPITRE 6 : Dispositions applicables à l'ensemble urbain.<a id=634></a>
 
 ###### Article R*256-2
 
@@ -65143,11 +57549,11 @@ _Anciens textes_:
   - Loi n°66-610 1966-07-10 art. 19 (partie)
 
 
-### TITRE 6 : Dispositions particulières<a id=681></a>
+### TITRE 6 : Dispositions particulières<a id=635></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=682></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=636></a>
 
-##### SECTION 1 : Dispositions générales.<a id=683></a>
+##### SECTION 1 : Dispositions générales.<a id=637></a>
 
 ###### Article R*261-1
 
@@ -65175,7 +57581,7 @@ _Cite_:
   - Code des communes R211-1
 
 
-##### SECTION 5 : Comptabilité.<a id=684></a>
+##### SECTION 5 : Comptabilité.<a id=638></a>
 
 ###### Article R261-2
 
@@ -65209,9 +57615,9 @@ _Anciens textes_:
   - Loi n°1895-06-06 art. 67 (partie), locale, Alsace et Lorraine
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=685></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=639></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=686></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=640></a>
 
 ###### Article R262-2
 
@@ -65254,9 +57660,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 2 : Dispositions applicables aux départements d'Outre-mer<a id=687></a>
+#### CHAPITRE 2 : Dispositions applicables aux départements d'Outre-mer<a id=641></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=688></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=642></a>
 
 ###### Article R*262-1
 
@@ -65489,7 +57895,7 @@ _Cite_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. L262-9 (Ab)
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=689></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=643></a>
 
 ###### Article R*262-12
 
@@ -65558,7 +57964,7 @@ _Abrogé par_:
   - Décret n°94-704 du 17 août 1994 - art. 8 ()
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France.<a id=690></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes de la région d'Ile-de-France.<a id=644></a>
 
 ###### Article R*263-1
 
@@ -65586,9 +57992,9 @@ _Cite_:
   - Code des communes R211-1 à R256-4
 
 
-##### SECTION 1 : Versement destiné aux transports en commun<a id=691></a>
+##### SECTION 1 : Versement destiné aux transports en commun<a id=645></a>
 
-##### SOUS-SECTION 1 : Dispositions communes.<a id=692></a>
+##### SOUS-SECTION 1 : Dispositions communes.<a id=646></a>
 
 ###### Article R263-2
 
@@ -65762,7 +58168,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.<a id=693></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles.<a id=647></a>
 
 ###### Article R263-9
 
@@ -66149,7 +58555,7 @@ _Cite_:
   - Code de la sécurité sociale
 
 
-##### SOUS-SECTION 3 : Dispositions particulières aux employeurs relevant du régime d'assurances sociales agricoles.<a id=694></a>
+##### SOUS-SECTION 3 : Dispositions particulières aux employeurs relevant du régime d'assurances sociales agricoles.<a id=648></a>
 
 ###### Article R263-20
 
@@ -66323,9 +58729,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2531-22 (V)
 
 
-##### SECTION 2 : Comité du fonds d'égalisation des charges<a id=695></a>
+##### SECTION 2 : Comité du fonds d'égalisation des charges<a id=649></a>
 
-##### SOUS-SECTION 2 : Organisation.<a id=696></a>
+##### SOUS-SECTION 2 : Organisation.<a id=650></a>
 
 ###### Article R*263-25
 
@@ -66642,7 +59048,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 3 : Dispositions relatives au versement représentatif de la taxe sur les salaires.<a id=697></a>
+##### SOUS-SECTION 3 : Dispositions relatives au versement représentatif de la taxe sur les salaires.<a id=651></a>
 
 ###### Article R*263-36
 
@@ -66712,7 +59118,7 @@ _Cite_:
   - Code des communes R263-36
 
 
-##### SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.<a id=698></a>
+##### SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière.<a id=652></a>
 
 ###### Article R*263-38
 
@@ -66767,7 +59173,7 @@ _Cite_:
   - Code des communes R263-38
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=699></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=653></a>
 
 ###### Article R*264-1
 
@@ -66797,7 +59203,7 @@ _Cite_:
   - Code des communes R264-2 à R264-7
 
 
-##### SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police.<a id=700></a>
+##### SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police.<a id=654></a>
 
 ###### Article R*264-2
 
@@ -66917,7 +59323,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 4 : Dispositions relatives aux recettes.<a id=701></a>
+##### SECTION 4 : Dispositions relatives aux recettes.<a id=655></a>
 
 ###### Article R*264-7
 
@@ -66946,9 +59352,9 @@ _Cite_:
   - Code des communes L233-5 et L233-7
 
 
-## FINANCES COMMUNALES<a id=702></a>
+## FINANCES COMMUNALES<a id=656></a>
 
-### Dépenses .<a id=703></a>
+### Dépenses .<a id=657></a>
 
 ###### Article R221-7
 
@@ -66994,13 +59400,13 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2321-14 (V)
 
 
-### RECETTES<a id=704></a>
+### RECETTES<a id=658></a>
 
-#### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=705></a>
+#### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=659></a>
 
-##### Taxe sur l'électricité<a id=706></a>
+##### Taxe sur l'électricité<a id=660></a>
 
-##### Dispositions générales .<a id=707></a>
+##### Dispositions générales .<a id=661></a>
 
 ###### Article R233-1
 
@@ -67105,7 +59511,7 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .<a id=708></a>
+##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .<a id=662></a>
 
 ###### Article R233-5
 
@@ -67137,9 +59543,9 @@ _Cite_:
   - Code des communes L233-1 et L233-2
 
 
-##### Taxe communale sur les emplacements publicitaires fixes<a id=709></a>
+##### Taxe communale sur les emplacements publicitaires fixes<a id=663></a>
 
-##### Recouvrement et paiement de la taxe .<a id=710></a>
+##### Recouvrement et paiement de la taxe .<a id=664></a>
 
 ###### Article R233-111
 
@@ -67236,11 +59642,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-40 (VT)
 
 
-##### Taxes particulières aux stations<a id=711></a>
+##### Taxes particulières aux stations<a id=665></a>
 
-##### Taxe de séjour<a id=712></a>
+##### Taxe de séjour<a id=666></a>
 
-##### Dispositions générales .<a id=713></a>
+##### Dispositions générales .<a id=667></a>
 
 ###### Article R*233-39
 
@@ -67322,7 +59728,7 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-##### Tarifs de la taxe de séjour et exonérations .<a id=714></a>
+##### Tarifs de la taxe de séjour et exonérations .<a id=668></a>
 
 ###### Article R*233-43
 
@@ -67487,7 +59893,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-46 (M)
 
 
-##### Recouvrement de la taxe de séjour et pénalités .<a id=715></a>
+##### Recouvrement de la taxe de séjour et pénalités .<a id=669></a>
 
 ###### Article R*233-53
 
@@ -67832,7 +60238,7 @@ _Anciens textes_:
   - Décret n°1920-05-04 art. 16 al. 1 et 3
 
 
-##### Dispositions particulières aux stations de sport d'hiver et d'alpinisme .<a id=716></a>
+##### Dispositions particulières aux stations de sport d'hiver et d'alpinisme .<a id=670></a>
 
 ###### Article R233-60
 
@@ -67860,7 +60266,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-60 (Ab)
 
 
-##### Taxe sur les entreprises spécialement intéressées à la prospérité des stations .<a id=717></a>
+##### Taxe sur les entreprises spécialement intéressées à la prospérité des stations .<a id=671></a>
 
 ###### Article R233-61
 
@@ -68114,11 +60520,11 @@ _Abrogé par_:
   - Décret n°87-45 du 29 janvier 1987 - art. 8 (Ab)
 
 
-#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales<a id=718></a>
+#### Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales<a id=672></a>
 
-##### Recettes réparties par le comité des finances locales<a id=719></a>
+##### Recettes réparties par le comité des finances locales<a id=673></a>
 
-##### Organisation du comité des finances locales .<a id=720></a>
+##### Organisation du comité des finances locales .<a id=674></a>
 
 ###### Article R*234-13
 
@@ -68149,7 +60555,7 @@ _Codifié par_:
   - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements<a id=721></a>
+##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements<a id=675></a>
 
 ###### Article R*234-19
 
@@ -68340,7 +60746,7 @@ _Cite_:
   - Code des communes R234-21
 
 
-##### Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements.<a id=722></a>
+##### Dotation supplémentaire versée aux communes touristiques et thermales et à leurs groupements.<a id=676></a>
 
 ###### Article R*234-22
 
@@ -68359,9 +60765,9 @@ _Codifié par_:
   - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement<a id=723></a>
+##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements SECTION 1 : Dotation globale de fonctionnement<a id=677></a>
 
-##### SOUS-SECTION 5 : Comité des finances locales.<a id=724></a>
+##### SOUS-SECTION 5 : Comité des finances locales.<a id=678></a>
 
 ###### Article R*234-26
 
@@ -68402,7 +60808,7 @@ _Abrogé par_:
   - Décret n°88-625 du 6 mai 1988 - art. 3 (Ab)
 
 
-#### DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS.<a id=725></a>
+#### DOTATION SUPPLEMENTAIRE VERSEE AUX COMMUNES TOURISTIQUES OU THERMALES ET A LEURS GROUPEMENTS.<a id=679></a>
 
 ###### Article R*234-20
 
@@ -68516,11 +60922,11 @@ _Codifié par_:
   - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
-#### Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales<a id=726></a>
+#### Dotation globale de fonctionnement - Autres recettes réparties par le comité des finances locales<a id=680></a>
 
-##### Recettes réparties par le comité des finances locales<a id=727></a>
+##### Recettes réparties par le comité des finances locales<a id=681></a>
 
-##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements.<a id=728></a>
+##### Dotation supplémentaire versée aux communes touristiques ou thermales et à leurs groupements.<a id=682></a>
 
 ###### Article R*234-21
 
@@ -68565,11 +60971,11 @@ _Codifié par_:
   - SPEC_APPLI: Code des communes R262-1, R262-12 : *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon*
 
 
-### Dispositions applicables à certains établissements communaux<a id=729></a>
+### Dispositions applicables à certains établissements communaux<a id=683></a>
 
-#### Dispositions applicables à la communauté urbaine<a id=730></a>
+#### Dispositions applicables à la communauté urbaine<a id=684></a>
 
-##### Majorations de subvention d'équipement .<a id=731></a>
+##### Majorations de subvention d'équipement .<a id=685></a>
 
 ###### Article R253-7
 
@@ -68601,13 +61007,13 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-### DISPOSITIONS PARTICULIERES<a id=732></a>
+### DISPOSITIONS PARTICULIERES<a id=686></a>
 
-#### Dispositions applicables aux communes de la région d'Ile-de-France<a id=733></a>
+#### Dispositions applicables aux communes de la région d'Ile-de-France<a id=687></a>
 
-##### Versement destiné aux transports en commun<a id=734></a>
+##### Versement destiné aux transports en commun<a id=688></a>
 
-##### Dispositions communes .<a id=735></a>
+##### Dispositions communes .<a id=689></a>
 
 ###### Article R263-6
 
@@ -68664,13 +61070,13 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2531-6 (Ab)
 
 
-## LIVRE 3 : Administration et services communaux<a id=736></a>
+## LIVRE 3 : Administration et services communaux<a id=690></a>
 
-### TITRE 1 : Administration de la commune<a id=737></a>
+### TITRE 1 : Administration de la commune<a id=691></a>
 
-#### CHAPITRE 1 : Biens communaux<a id=738></a>
+#### CHAPITRE 1 : Biens communaux<a id=692></a>
 
-##### SECTION 1 : Acquisition, location et affectation de biens.<a id=739></a>
+##### SECTION 1 : Acquisition, location et affectation de biens.<a id=693></a>
 
 ###### Article R*311-1
 
@@ -69142,7 +61548,7 @@ _Cite_:
   - Code du domaine de l'Etat R177 à R185
 
 
-##### SECTION 2 : Aliénation de biens.<a id=740></a>
+##### SECTION 2 : Aliénation de biens.<a id=694></a>
 
 ###### Article R*311-18
 
@@ -69170,7 +61576,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif.<a id=741></a>
+##### SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif.<a id=695></a>
 
 ###### Article R*311-19
 
@@ -69234,11 +61640,11 @@ _Cite_:
   - Code des communes L311-18, L311-19 et L311-21
 
 
-#### CHAPITRE 2 : Dons et legs<a id=742></a>
+#### CHAPITRE 2 : Dons et legs<a id=696></a>
 
-##### SECTION 1 : Dispositions générales<a id=743></a>
+##### SECTION 1 : Dispositions générales<a id=697></a>
 
-##### SOUS-SECTION 1 : Acceptation et refus de libéralités.<a id=744></a>
+##### SOUS-SECTION 1 : Acceptation et refus de libéralités.<a id=698></a>
 
 ###### Article R*312-1
 
@@ -69341,7 +61747,7 @@ _Cite_:
   - Code des communes L312-3 AL. 2
 
 
-##### SOUS-SECTION 2 : Procédure applicable en matière de libéralités.<a id=745></a>
+##### SOUS-SECTION 2 : Procédure applicable en matière de libéralités.<a id=699></a>
 
 ###### Article R*312-4
 
@@ -69420,7 +61826,7 @@ _Cite_:
   - Code des communes R312-4
 
 
-##### SOUS-SECTION 3 : Contrôle de l'administration des biens légués ou donnés.<a id=746></a>
+##### SOUS-SECTION 3 : Contrôle de l'administration des biens légués ou donnés.<a id=700></a>
 
 ###### Article R*312-8
 
@@ -69555,7 +61961,7 @@ _Anciens textes_:
   - Loi n°42-860 1942-09-10 ART. 4
 
 
-##### SECTION 2 : Réduction des charges des libéralités.<a id=747></a>
+##### SECTION 2 : Réduction des charges des libéralités.<a id=701></a>
 
 ###### Article R312-12
 
@@ -69838,7 +62244,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R312-15 (Ab)
 
 
-##### SECTION 3 : Modification des conditions d'exécution des charges assortissant les libéralités.<a id=748></a>
+##### SECTION 3 : Modification des conditions d'exécution des charges assortissant les libéralités.<a id=702></a>
 
 ###### Article R312-19
 
@@ -70188,7 +62594,7 @@ _Cite_:
   - Code des communes R312-24, R312-25 et R312-26 AL. 1
 
 
-#### CHAPITRE 3 : Adjudications publiques en matière de biens communaux.<a id=749></a>
+#### CHAPITRE 3 : Adjudications publiques en matière de biens communaux.<a id=703></a>
 
 ###### Article R*313-1
 
@@ -70223,7 +62629,7 @@ _Anciens textes_:
   - Code de l'administration communale 306 dernier alinéa (partie)
 
 
-#### CHAPITRE 4 : Marchés.<a id=750></a>
+#### CHAPITRE 4 : Marchés.<a id=704></a>
 
 ###### Article R*314-1
 
@@ -70275,9 +62681,9 @@ _Cite_:
   - Code des communes L314-1 AL. 1
 
 
-#### CHAPITRE 5 : Travaux communaux<a id=751></a>
+#### CHAPITRE 5 : Travaux communaux<a id=705></a>
 
-##### SECTION 1 : Dispositions générales.<a id=752></a>
+##### SECTION 1 : Dispositions générales.<a id=706></a>
 
 ###### Article R315-1
 
@@ -70370,7 +62776,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R315-2 (Ab)
 
 
-##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.<a id=753></a>
+##### SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural.<a id=707></a>
 
 ###### Article R*315-4
 
@@ -70970,9 +63376,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 6 : Actions judiciaires<a id=754></a>
+#### CHAPITRE 6 : Actions judiciaires<a id=708></a>
 
-##### SECTION 2 : Exercice, par un contribuable, des actions appartenant à la commune.<a id=755></a>
+##### SECTION 2 : Exercice, par un contribuable, des actions appartenant à la commune.<a id=709></a>
 
 ###### Article R*316-1
 
@@ -71087,7 +63493,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Actions intentées contre la commune.<a id=756></a>
+##### SECTION 3 : Actions intentées contre la commune.<a id=710></a>
 
 ###### Article R*316-5
 
@@ -71176,7 +63582,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L316-11 (M)
 
 
-#### CHAPITRE 7 : Archives communales.<a id=757></a>
+#### CHAPITRE 7 : Archives communales.<a id=711></a>
 
 ###### Article R*317-1
 
@@ -71338,7 +63744,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 8 : Dispositions diverses<a id=758></a>
+#### CHAPITRE 8 : Dispositions diverses<a id=712></a>
 
 ###### Article R318-1
 
@@ -71386,9 +63792,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2121-12 (V)
 
 
-### TITRE 2 : Services communaux<a id=759></a>
+### TITRE 2 : Services communaux<a id=713></a>
 
-#### CHAPITRE 1 : Dispositions générales applicables aux services communaux.<a id=760></a>
+#### CHAPITRE 1 : Dispositions générales applicables aux services communaux.<a id=714></a>
 
 ###### Article R*321-1
 
@@ -71648,7 +64054,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages.<a id=761></a>
+#### CHAPITRE 2 : Dispositions communes aux régies, aux concessions et aux affermages.<a id=715></a>
 
 ###### Article R*322-1
 
@@ -71759,9 +64165,9 @@ _Cite_:
   - Code des communes L322-6 AL. 2
 
 
-#### CHAPITRE 3 : Régies municipales<a id=762></a>
+#### CHAPITRE 3 : Régies municipales<a id=716></a>
 
-##### SECTION 1 : Dispositions générales.<a id=763></a>
+##### SECTION 1 : Dispositions générales.<a id=717></a>
 
 ###### Article R*323-3
 
@@ -71836,7 +64242,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L323-7 (M)
 
 
-##### SECTION 2 : Régies dotées de la personnalité morale et de l'autonomie financière.<a id=764></a>
+##### SECTION 2 : Régies dotées de la personnalité morale et de l'autonomie financière.<a id=718></a>
 
 ###### Article R323-7
 
@@ -71870,9 +64276,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-7 (V)
 
 
-##### SOUS-SECTION 2 : Organisation administrative<a id=765></a>
+##### SOUS-SECTION 2 : Organisation administrative<a id=719></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=766></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=720></a>
 
 ###### Article R323-11
 
@@ -71901,7 +64307,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-10 (V)
 
 
-##### PARAGRAPHE 2 : Conseil d'administration.<a id=767></a>
+##### PARAGRAPHE 2 : Conseil d'administration.<a id=721></a>
 
 ###### Article R323-14
 
@@ -71999,9 +64405,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-18 (V)
 
 
-##### SOUS-SECTION 3 : Fonctionnement<a id=768></a>
+##### SOUS-SECTION 3 : Fonctionnement<a id=722></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=769></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=723></a>
 
 ###### Article R323-30
 
@@ -72128,7 +64534,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-33 (V)
 
 
-##### SECTION 3 : Régies dotées de la seule autonomie financière.<a id=770></a>
+##### SECTION 3 : Régies dotées de la seule autonomie financière.<a id=724></a>
 
 ###### Article R*323-75
 
@@ -72154,9 +64560,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L323-13 (M)
 
 
-##### SOUS-SECTION 2 : Organisation administrative<a id=771></a>
+##### SOUS-SECTION 2 : Organisation administrative<a id=725></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=772></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=726></a>
 
 ###### Article R323-81
 
@@ -72189,7 +64595,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-55 (V)
 
 
-##### PARAGRAPHE 2 : Conseil d'exploitation.<a id=773></a>
+##### PARAGRAPHE 2 : Conseil d'exploitation.<a id=727></a>
 
 ###### Article R323-88
 
@@ -72251,7 +64657,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-63 (V)
 
 
-##### PARAGRAPHE 3 : Directeur.<a id=774></a>
+##### PARAGRAPHE 3 : Directeur.<a id=728></a>
 
 ###### Article R323-93
 
@@ -72284,7 +64690,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SOUS-SECTION 3 : Régime financier.<a id=775></a>
+##### SOUS-SECTION 3 : Régime financier.<a id=729></a>
 
 ###### Article R323-98
 
@@ -72345,7 +64751,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-76 (V)
 
 
-##### SOUS-SECTION 5 : Régies intercommunales.<a id=776></a>
+##### SOUS-SECTION 5 : Régies intercommunales.<a id=730></a>
 
 ###### Article R323-123
 
@@ -72450,7 +64856,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité.<a id=777></a>
+##### SECTION 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité.<a id=731></a>
 
 ###### Article R*323-133
 
@@ -72479,9 +64885,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L323-16 (M)
 
 
-#### CHAPITRE 4 : Concessions et affermages<a id=778></a>
+#### CHAPITRE 4 : Concessions et affermages<a id=732></a>
 
-##### SECTION 1 : Dispositions générales.<a id=779></a>
+##### SECTION 1 : Dispositions générales.<a id=733></a>
 
 ###### Article R*324-1
 
@@ -72682,7 +65088,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Révision des contrats.<a id=780></a>
+##### SECTION 2 : Révision des contrats.<a id=734></a>
 
 ###### Article R*324-8
 
@@ -72838,7 +65244,7 @@ _Cite_:
   - Code des communes L324-7 et L324-9
 
 
-### TITRE 3 : Voirie.<a id=781></a>
+### TITRE 3 : Voirie.<a id=735></a>
 
 ###### Article R*331-2
 
@@ -72968,9 +65374,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 4 : Bibliothèques et musées<a id=782></a>
+### TITRE 4 : Bibliothèques et musées<a id=736></a>
 
-#### CHAPITRE 2 : Musées.<a id=783></a>
+#### CHAPITRE 2 : Musées.<a id=737></a>
 
 ###### Article R342-1
 
@@ -73024,11 +65430,11 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 5 : Protection contre l'incendie<a id=784></a>
+### TITRE 5 : Protection contre l'incendie<a id=738></a>
 
-#### CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux<a id=785></a>
+#### CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux<a id=739></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=786></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=740></a>
 
 ###### Article R352-7
 
@@ -73090,7 +65496,7 @@ _Abrogé par_:
   - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
-##### SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers.<a id=787></a>
+##### SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers.<a id=741></a>
 
 ###### Article R352-14
 
@@ -73253,7 +65659,7 @@ _Abrogé par_:
   - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
-##### SECTION 4 : Discipline des sapeurs-pompiers communaux.<a id=788></a>
+##### SECTION 4 : Discipline des sapeurs-pompiers communaux.<a id=742></a>
 
 ###### Article R352-27
 
@@ -73938,7 +66344,7 @@ _Abrogé par_:
   - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
-##### SECTION 5 : Honneurs et récompenses.<a id=789></a>
+##### SECTION 5 : Honneurs et récompenses.<a id=743></a>
 
 ###### Article R*352-48
 
@@ -74178,7 +66584,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R352-63 (Ab)
 
 
-##### SECTION 6 : Honorariat.<a id=790></a>
+##### SECTION 6 : Honorariat.<a id=744></a>
 
 ###### Article R352-58
 
@@ -74356,7 +66762,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R352-57 (Ab)
 
 
-##### SECTION 7 : Service de santé et de secours médical.<a id=791></a>
+##### SECTION 7 : Service de santé et de secours médical.<a id=745></a>
 
 ###### Article R352-66
 
@@ -74388,9 +66794,9 @@ _Abrogé par_:
   - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
-#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=792></a>
+#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=746></a>
 
-##### SECTION 3 : Règlement de service - commandement.<a id=793></a>
+##### SECTION 3 : Règlement de service - commandement.<a id=747></a>
 
 ###### Article R352-21
 
@@ -74448,7 +66854,7 @@ _Cité par_:
   - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
 
 
-##### SECTION 5 : Honneurs et récompenses.<a id=794></a>
+##### SECTION 5 : Honneurs et récompenses.<a id=748></a>
 
 ###### Article R*352-50
 
@@ -74505,9 +66911,9 @@ _Cite_:
   - Code des communes R352-50
 
 
-#### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=795></a>
+#### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=749></a>
 
-##### SECTION 1 : Généralités.<a id=796></a>
+##### SECTION 1 : Généralités.<a id=750></a>
 
 ###### Article R353-1
 
@@ -74855,7 +67261,7 @@ _Abrogé par_:
   - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
 
 
-##### SECTION 2 : Durée du service.<a id=797></a>
+##### SECTION 2 : Durée du service.<a id=751></a>
 
 ###### Article R353-14
 
@@ -74883,7 +67289,7 @@ _Abrogé par_:
   - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
 
 
-##### SECTION 3 : Recrutement.<a id=798></a>
+##### SECTION 3 : Recrutement.<a id=752></a>
 
 ###### Article R353-15
 
@@ -75334,7 +67740,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-##### SECTION 4 : Rémunération - Avantages en nature.<a id=799></a>
+##### SECTION 4 : Rémunération - Avantages en nature.<a id=753></a>
 
 ###### Article R353-27
 
@@ -75534,7 +67940,7 @@ _Cité par_:
   - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
 
 
-##### SECTION 5 : Notation et avancement.<a id=800></a>
+##### SECTION 5 : Notation et avancement.<a id=754></a>
 
 ###### Article R353-31
 
@@ -76615,7 +69021,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R353-83 (Ab)
 
 
-##### SECTION 6 : Discipline.<a id=801></a>
+##### SECTION 6 : Discipline.<a id=755></a>
 
 ###### Article R353-60
 
@@ -76930,7 +69336,7 @@ _Abrogé par_:
   - Décret n°89-677 du 18 septembre 1989 - art. 36 (V)
 
 
-##### SECTION 7 : Positions.<a id=802></a>
+##### SECTION 7 : Positions.<a id=756></a>
 
 ###### Article R353-69
 
@@ -76967,7 +69373,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-##### SOUS-SECTION 1 : Activité - congé.<a id=803></a>
+##### SOUS-SECTION 1 : Activité - congé.<a id=757></a>
 
 ###### Article R353-70
 
@@ -77517,7 +69923,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-##### SOUS-SECTION 2 : Détachement.<a id=804></a>
+##### SOUS-SECTION 2 : Détachement.<a id=758></a>
 
 ###### Article R353-86
 
@@ -77775,7 +70181,7 @@ _Abrogé par_:
   - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-##### SOUS-SECTION 3 : Disponibilité.<a id=805></a>
+##### SOUS-SECTION 3 : Disponibilité.<a id=759></a>
 
 ###### Article R353-94
 
@@ -78062,7 +70468,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R353-2 (M)
 
 
-##### SOUS-SECTION 4 : Position "sous les drapeaux".<a id=806></a>
+##### SOUS-SECTION 4 : Position "sous les drapeaux".<a id=760></a>
 
 ###### Article R353-103
 
@@ -78124,7 +70530,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R353-72 (Ab)
 
 
-##### SECTION 8 : Cessation de fonctions.<a id=807></a>
+##### SECTION 8 : Cessation de fonctions.<a id=761></a>
 
 ###### Article R353-105
 
@@ -78559,7 +70965,7 @@ _Abrogé par_:
   - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
 
 
-##### SECTION 9 : Pensions et sécurité sociale.<a id=808></a>
+##### SECTION 9 : Pensions et sécurité sociale.<a id=762></a>
 
 ###### Article R353-119
 
@@ -78632,9 +71038,9 @@ _Abrogé par_:
   - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
 
 
-#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=809></a>
+#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=763></a>
 
-##### SECTION 1 : Recrutement.<a id=810></a>
+##### SECTION 1 : Recrutement.<a id=764></a>
 
 ###### Article R354-2
 
@@ -79001,7 +71407,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R354-2 (M)
 
 
-##### SECTION 2 : Notation et avancement.<a id=811></a>
+##### SECTION 2 : Notation et avancement.<a id=765></a>
 
 ###### Article R354-15
 
@@ -79146,7 +71552,7 @@ _Cite_:
   - Code des communes R354-18 et R354-19
 
 
-##### SECTION 3 : Discipline.<a id=812></a>
+##### SECTION 3 : Discipline.<a id=766></a>
 
 ###### Article R354-22
 
@@ -79284,7 +71690,7 @@ _Cité par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R354-24 (Ab)
 
 
-##### SECTION 4 : Cessation de fonctions.<a id=813></a>
+##### SECTION 4 : Cessation de fonctions.<a id=767></a>
 
 ###### Article R354-26
 
@@ -79594,11 +72000,11 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R354-34 (Ab)
 
 
-##### SECTION 5 : Allocations, rentes et autres prestations<a id=814></a>
+##### SECTION 5 : Allocations, rentes et autres prestations<a id=768></a>
 
-##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=815></a>
+##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=769></a>
 
-##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=816></a>
+##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=770></a>
 
 ###### Article R*354-36
 
@@ -80078,7 +72484,7 @@ _Abrogé par_:
   - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
 
 
-##### PARAGRAPHE 2 : Affiliation aux assurances sociales.<a id=817></a>
+##### PARAGRAPHE 2 : Affiliation aux assurances sociales.<a id=771></a>
 
 ###### Article R*354-51
 
@@ -80402,7 +72808,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L354-12 (Ab)
 
 
-##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.<a id=818></a>
+##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.<a id=772></a>
 
 ###### Article R*354-62
 
@@ -80566,7 +72972,7 @@ _Abrogé par_:
   - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
 
 
-##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.<a id=819></a>
+##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.<a id=773></a>
 
 ###### Article R*354-70
 
@@ -80642,7 +73048,7 @@ _Anciens textes_:
   - Loi n°44-210 1944-05-22 ART. 4 (PARTIE)
 
 
-##### SOUS-SECTION 4 : Frais funéraires.<a id=820></a>
+##### SOUS-SECTION 4 : Frais funéraires.<a id=774></a>
 
 ###### Article R*354-72
 
@@ -80707,7 +73113,7 @@ _Anciens textes_:
   - Décret  1929-02-16 ART. 17 (PARTIE)
 
 
-##### SOUS-SECTION 5 : Caisse communale de secours et de retraite.<a id=821></a>
+##### SOUS-SECTION 5 : Caisse communale de secours et de retraite.<a id=775></a>
 
 ###### Article R*354-77
 
@@ -80896,13 +73302,13 @@ _Cite_:
   - Code de la mutualité
 
 
-#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires<a id=822></a>
+#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires<a id=776></a>
 
-##### SECTION 5 : Allocations, rentes et autres prestations<a id=823></a>
+##### SECTION 5 : Allocations, rentes et autres prestations<a id=777></a>
 
-##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=824></a>
+##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=778></a>
 
-##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=825></a>
+##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=779></a>
 
 ###### Article R*354-50
 
@@ -80944,13 +73350,13 @@ _Cite_:
   - CODE DES COMMUNES. - art. L354-1 (Ab)
 
 
-### TITRE 6 : Pompes funèbres et cimetières<a id=826></a>
+### TITRE 6 : Pompes funèbres et cimetières<a id=780></a>
 
-#### CHAPITRE 1 : Sépultures<a id=827></a>
+#### CHAPITRE 1 : Sépultures<a id=781></a>
 
-##### SECTION 1 : Lieux de sépultures : inhumations et exhumations<a id=828></a>
+##### SECTION 1 : Lieux de sépultures : inhumations et exhumations<a id=782></a>
 
-##### SOUS-SECTION 1 : Cimetières.<a id=829></a>
+##### SOUS-SECTION 1 : Cimetières.<a id=783></a>
 
 ###### Article R*361-1
 
@@ -81167,7 +73573,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-7 (V)
 
 
-##### SOUS-SECTION 2 : Inhumations.<a id=830></a>
+##### SOUS-SECTION 2 : Inhumations.<a id=784></a>
 
 ###### Article R361-10
 
@@ -81333,7 +73739,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-39 (V)
 
 
-##### SOUS-SECTION 3 : Exhumations.<a id=831></a>
+##### SOUS-SECTION 3 : Exhumations.<a id=785></a>
 
 ###### Article R361-15
 
@@ -81411,7 +73817,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-41 (V)
 
 
-##### SECTION 2 : Concessions funéraires.<a id=832></a>
+##### SECTION 2 : Concessions funéraires.<a id=786></a>
 
 ###### Article R*361-18
 
@@ -81915,7 +74321,7 @@ _Anciens textes_:
   - Décret  1924-04-25 ART. 12
 
 
-##### SECTION 3 : Chambres funéraires.<a id=833></a>
+##### SECTION 3 : Chambres funéraires.<a id=787></a>
 
 ###### Article R361-36
 
@@ -81991,7 +74397,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-78 (V)
 
 
-##### SECTION 4 : Crémations.<a id=834></a>
+##### SECTION 4 : Crémations.<a id=788></a>
 
 ###### Article R361-41
 
@@ -82083,7 +74489,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-39-1 (V)
 
 
-##### SECTION 5 : Dispositions diverses.<a id=835></a>
+##### SECTION 5 : Dispositions diverses.<a id=789></a>
 
 ###### Article R361-47
 
@@ -82115,9 +74521,9 @@ _Cite_:
   - Code des communes R361-10 à R361-17 et R361-35 à R361-45
 
 
-#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=836></a>
+#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=790></a>
 
-##### SECTION 1 : Soins de conservation.<a id=837></a>
+##### SECTION 1 : Soins de conservation.<a id=791></a>
 
 ###### Article R363-2
 
@@ -82198,9 +74604,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-4 (V)
 
 
-##### SECTION 2 : Transport de corps avant mise en bière<a id=838></a>
+##### SECTION 2 : Transport de corps avant mise en bière<a id=792></a>
 
-##### SOUS-SECTION 3 : Conditions du transport.<a id=839></a>
+##### SOUS-SECTION 3 : Conditions du transport.<a id=793></a>
 
 ###### Article R363-14
 
@@ -82279,9 +74685,9 @@ _Cite_:
   - Code des communes R363-12 à R363-14
 
 
-##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=840></a>
+##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=794></a>
 
-##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=841></a>
+##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=795></a>
 
 ###### Article R363-17
 
@@ -82435,7 +74841,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-20 (V)
 
 
-##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=842></a>
+##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=796></a>
 
 ###### Article R363-22
 
@@ -82548,7 +74954,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-24 (V)
 
 
-##### SECTION 4 : Dépôts temporaires.<a id=843></a>
+##### SECTION 4 : Dépôts temporaires.<a id=797></a>
 
 ###### Article R363-34
 
@@ -82660,9 +75066,9 @@ _Cite_:
   - Code des communes R363-1 à R363-35
 
 
-#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=844></a>
+#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=798></a>
 
-##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=845></a>
+##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=799></a>
 
 ###### Article R364-1
 
@@ -83249,7 +75655,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 4
 
 
-##### SECTION 3 : Moulages.<a id=846></a>
+##### SECTION 3 : Moulages.<a id=800></a>
 
 ###### Article R364-17
 
@@ -83292,7 +75698,7 @@ _Anciens textes_:
   - Décret  1941-12-31 ART. 27 COMPLETE AL. 3 et 4 MODIFIES
 
 
-##### SECTION 3 : Moulages et autopsies.<a id=847></a>
+##### SECTION 3 : Moulages et autopsies.<a id=801></a>
 
 ###### Article R364-14
 
@@ -83361,11 +75767,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-6 (V)
 
 
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=848></a>
+### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=802></a>
 
-#### CHAPITRE 1 : Eau<a id=849></a>
+#### CHAPITRE 1 : Eau<a id=803></a>
 
-##### SECTION 1 : Dispositions générales.<a id=850></a>
+##### SECTION 1 : Dispositions générales.<a id=804></a>
 
 ###### Article R*371-5
 
@@ -83526,7 +75932,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=851></a>
+##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=805></a>
 
 ###### Article R*371-9
 
@@ -83723,7 +76129,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L371-10 (Ab)
 
 
-##### SECTION 3 : Contrôle des distributions d'eau.<a id=852></a>
+##### SECTION 3 : Contrôle des distributions d'eau.<a id=806></a>
 
 ###### Article R*371-15
 
@@ -84042,9 +76448,9 @@ _Cite_:
   - Code des communes R371-15 à R371-23
 
 
-#### CHAPITRE 2 : Assainissement et eaux usées<a id=853></a>
+#### CHAPITRE 2 : Assainissement et eaux usées<a id=807></a>
 
-##### SECTION 1 : Dispositions générales.<a id=854></a>
+##### SECTION 1 : Dispositions générales.<a id=808></a>
 
 ###### Article R*372-1
 
@@ -84196,7 +76602,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=855></a>
+##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=809></a>
 
 ###### Article R*372-6
 
@@ -84525,7 +76931,7 @@ _Cite_:
   - Code de la santé publique - art. L35-5 (M)
 
 
-#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=856></a>
+#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=810></a>
 
 ###### Article R*373-1
 
@@ -84599,7 +77005,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 4 : Gaz.<a id=857></a>
+#### CHAPITRE 4 : Gaz.<a id=811></a>
 
 ###### Article R*374-4
 
@@ -84732,7 +77138,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-114 (V)
 
 
-#### CHAPITRE 5 : Electricité.<a id=858></a>
+#### CHAPITRE 5 : Electricité.<a id=812></a>
 
 ###### Article R*375-17
 
@@ -85313,7 +77719,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-112 (T)
 
 
-#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=859></a>
+#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=813></a>
 
 ###### Article R*376-1
 
@@ -85478,7 +77884,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 7 : Transports publics.<a id=860></a>
+#### CHAPITRE 7 : Transports publics.<a id=814></a>
 
 ###### Article R*377-1
 
@@ -85688,7 +78094,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=861></a>
+#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=815></a>
 
 ###### Article R*378-1
 
@@ -85872,9 +78278,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 8 : Participation à des entreprises privées<a id=862></a>
+### TITRE 8 : Participation à des entreprises privées<a id=816></a>
 
-#### SECTION 1 : Dispositions générales.<a id=863></a>
+#### SECTION 1 : Dispositions générales.<a id=817></a>
 
 ###### Article R381-1
 
@@ -85996,7 +78402,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 2 : Régime des titres.<a id=864></a>
+#### SECTION 2 : Régime des titres.<a id=818></a>
 
 ###### Article R381-6
 
@@ -86062,7 +78468,7 @@ _Cite_:
   - Code des communes R381-1 et R381-2
 
 
-#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=865></a>
+#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=819></a>
 
 ###### Article R381-8
 
@@ -86609,7 +79015,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 4 : Communes obligataires.<a id=866></a>
+#### SECTION 4 : Communes obligataires.<a id=820></a>
 
 ###### Article R381-26
 
@@ -86673,7 +79079,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 5 : Commissaires du gouvernement.<a id=867></a>
+#### SECTION 5 : Commissaires du gouvernement.<a id=821></a>
 
 ###### Article R*381-28
 
@@ -86796,7 +79202,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 6 : Dispositions diverses.<a id=868></a>
+#### SECTION 6 : Dispositions diverses.<a id=822></a>
 
 ###### Article R*381-33
 
@@ -86853,9 +79259,9 @@ _Cite_:
   - Code des communes R381-3 à R381-27
 
 
-### TITRE 9 : Dispositions particulières<a id=869></a>
+### TITRE 9 : Dispositions particulières<a id=823></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=870></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=824></a>
 
 ###### Article R*391-1
 
@@ -86944,9 +79350,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2543-1 (V)
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=871></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=825></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=872></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=826></a>
 
 ###### Article R*392-1
 
@@ -86976,7 +79382,7 @@ _Cite_:
   - Code des communes R311-1 à R312-1, R312-19 à R374-1, R374-3 à R375-1, R375-7 à R375-17, R376-3, R376-4, R377-1, R377-2, R378-1 à R381-33
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=873></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=827></a>
 
 ###### Article R392-2
 
@@ -87009,7 +79415,7 @@ _Cite_:
   - Code des communes R311-8
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=874></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=828></a>
 
 ###### Article R*393-1
 
@@ -87129,7 +79535,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 1 (PARTIE) MODIFIE
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=875></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=829></a>
 
 ###### Article R*394-1
 
@@ -87158,7 +79564,7 @@ _Cite_:
   - Code des communes R351-1 à R351-4
 
 
-##### SECTION 2 : Protection contre l'incendie.<a id=876></a>
+##### SECTION 2 : Protection contre l'incendie.<a id=830></a>
 
 ###### Article R*394-2
 
@@ -87205,7 +79611,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Pompes funèbres et cimetières.<a id=877></a>
+##### SECTION 3 : Pompes funèbres et cimetières.<a id=831></a>
 
 ###### Article R394-3
 
@@ -87491,7 +79897,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2512-37 (V)
 
 
-#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=878></a>
+#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=832></a>
 
 ###### Article R395-1
 
@@ -87554,13 +79960,13 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2513-5 (T)
 
 
-## Administration et services communaux<a id=879></a>
+## Administration et services communaux<a id=833></a>
 
-### Administration de la commune<a id=880></a>
+### Administration de la commune<a id=834></a>
 
-#### Biens communaux<a id=881></a>
+#### Biens communaux<a id=835></a>
 
-##### Acquisition, location et affectation de biens .<a id=882></a>
+##### Acquisition, location et affectation de biens .<a id=836></a>
 
 ###### Article R*311-14
 
@@ -87584,7 +79990,7 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-##### Aliénation de biens .<a id=883></a>
+##### Aliénation de biens .<a id=837></a>
 
 ###### Article R*311-17
 
@@ -87616,11 +80022,11 @@ _Cite_:
   - Code de l'urbanisme R222-1 à R222-5
 
 
-### Services communaux<a id=884></a>
+### Services communaux<a id=838></a>
 
-#### Régies municipales<a id=885></a>
+#### Régies municipales<a id=839></a>
 
-##### Dispositions générales .<a id=886></a>
+##### Dispositions générales .<a id=840></a>
 
 ###### Article R*323-1
 
@@ -87699,7 +80105,7 @@ _Cite_:
   - Code des communes R323-2 ET R323-3
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .<a id=887></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .<a id=841></a>
 
 ###### Article R323-8
 
@@ -87792,9 +80198,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-9 (V)
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative<a id=888></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative<a id=842></a>
 
-##### Dispositions générales .<a id=889></a>
+##### Dispositions générales .<a id=843></a>
 
 ###### Article R323-12
 
@@ -87824,7 +80230,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-11 (V)
 
 
-##### Conseil d'administration .<a id=890></a>
+##### Conseil d'administration .<a id=844></a>
 
 ###### Article R323-13
 
@@ -87981,7 +80387,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-19 (V)
 
 
-##### Directeur .<a id=891></a>
+##### Directeur .<a id=845></a>
 
 ###### Article R323-21
 
@@ -88107,7 +80513,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-23 (V)
 
 
-##### Agent comptable .<a id=892></a>
+##### Agent comptable .<a id=846></a>
 
 ###### Article R323-25
 
@@ -88260,9 +80666,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-27 (V)
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement<a id=893></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement<a id=847></a>
 
-##### Dispositions générales .<a id=894></a>
+##### Dispositions générales .<a id=848></a>
 
 ###### Article R323-33
 
@@ -88391,7 +80797,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Régime financier .<a id=895></a>
+##### Régime financier .<a id=849></a>
 
 ###### Article R323-38
 
@@ -88828,7 +81234,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-38 (V)
 
 
-##### Budget .<a id=896></a>
+##### Budget .<a id=850></a>
 
 ###### Article R323-52
 
@@ -89016,7 +81422,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-44 (V)
 
 
-##### Comptabilité .<a id=897></a>
+##### Comptabilité .<a id=851></a>
 
 ###### Article R323-58
 
@@ -89242,7 +81648,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Compte de fin d'exercice .<a id=898></a>
+##### Compte de fin d'exercice .<a id=852></a>
 
 ###### Article R323-66
 
@@ -89407,7 +81813,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie .<a id=899></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie .<a id=853></a>
 
 ###### Article R323-71
 
@@ -89555,9 +81961,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-52 (V)
 
 
-##### Régies dotées de la seule autonomie financière<a id=900></a>
+##### Régies dotées de la seule autonomie financière<a id=854></a>
 
-##### Création .<a id=901></a>
+##### Création .<a id=855></a>
 
 ###### Article R323-76
 
@@ -89729,9 +82135,9 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Organisation administrative<a id=902></a>
+##### Organisation administrative<a id=856></a>
 
-##### Dispositions générales .<a id=903></a>
+##### Dispositions générales .<a id=857></a>
 
 ###### Article R323-82
 
@@ -89814,7 +82220,7 @@ _Anciens textes_:
   - Décret n°1930-02-17 art. 14
 
 
-##### Conseil d'exploitation .<a id=904></a>
+##### Conseil d'exploitation .<a id=858></a>
 
 ###### Article R323-84
 
@@ -89977,7 +82383,7 @@ _Anciens textes_:
   - Décret  1930-02-17 ART. 11
 
 
-##### Directeur .<a id=905></a>
+##### Directeur .<a id=859></a>
 
 ###### Article R323-91
 
@@ -90099,7 +82505,7 @@ _Anciens textes_:
   - Décret n°1930-02-17 art. 12
 
 
-##### Agent comptable et régisseur .<a id=906></a>
+##### Agent comptable et régisseur .<a id=860></a>
 
 ###### Article R323-96
 
@@ -90167,7 +82573,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-71 (V)
 
 
-##### Régime financier .<a id=907></a>
+##### Régime financier .<a id=861></a>
 
 ###### Article R323-99
 
@@ -90701,7 +83107,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Fin de la régie .<a id=908></a>
+##### Fin de la régie .<a id=862></a>
 
 ###### Article R323-117
 
@@ -90869,7 +83275,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-90 (V)
 
 
-##### Régies intercommunales .<a id=909></a>
+##### Régies intercommunales .<a id=863></a>
 
 ###### Article R323-122
 
@@ -91141,11 +83547,11 @@ _Anciens textes_:
   - Décret  1930-02-17 ART. 47
 
 
-### Bibliothèques et musées<a id=910></a>
+### Bibliothèques et musées<a id=864></a>
 
-#### Bibliothèques<a id=911></a>
+#### Bibliothèques<a id=865></a>
 
-##### Organisation .<a id=912></a>
+##### Organisation .<a id=866></a>
 
 ###### Article R341-2
 
@@ -91436,7 +83842,7 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-##### Catégories de bibliothèques .<a id=913></a>
+##### Catégories de bibliothèques .<a id=867></a>
 
 ###### Article R341-12
 
@@ -91527,11 +83933,11 @@ _Abrogé par_:
   - Décret n°88-1037 du 9 novembre 1988 - art. 12 (Ab)
 
 
-### Protection contre l'incendie<a id=914></a>
+### Protection contre l'incendie<a id=868></a>
 
-#### Sapeurs-pompiers communaux<a id=915></a>
+#### Sapeurs-pompiers communaux<a id=869></a>
 
-##### Mission et constitution des corps de sapeurs-pompiers .<a id=916></a>
+##### Mission et constitution des corps de sapeurs-pompiers .<a id=870></a>
 
 ###### Article R352-2
 
@@ -91560,7 +83966,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L411-24 (Ab)
 
 
-##### Conseil d'administration des corps de sapeurs-pompiers .<a id=917></a>
+##### Conseil d'administration des corps de sapeurs-pompiers .<a id=871></a>
 
 ###### Article R352-13
 
@@ -91597,7 +84003,7 @@ _Cite_:
   - Code des communes R353-1 à R353-120
 
 
-##### Service de santé et de secours médical .<a id=918></a>
+##### Service de santé et de secours médical .<a id=872></a>
 
 ###### Article R352-64
 
@@ -91626,9 +84032,9 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*<a id=919></a>
+#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*<a id=873></a>
 
-##### Règlement de service - commandement.<a id=920></a>
+##### Règlement de service - commandement.<a id=874></a>
 
 ###### Article R352-20
 
@@ -91661,9 +84067,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. R352-1 (Ab)
 
 
-#### Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=921></a>
+#### Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=875></a>
 
-##### Généralités .<a id=922></a>
+##### Généralités .<a id=876></a>
 
 ###### Article R353-2
 
@@ -91691,7 +84097,7 @@ _Cite_:
   - Code des communes L411-31 à L411-46
 
 
-##### Durée du service .<a id=923></a>
+##### Durée du service .<a id=877></a>
 
 ###### Article R353-13
 
@@ -91717,7 +84123,7 @@ _Abrogé par_:
   - Décret n°89-231 1989-04-17 art. 4 JORF 18 avril 1989
 
 
-##### Notation et avancement.<a id=924></a>
+##### Notation et avancement.<a id=878></a>
 
 ###### Article R353-49
 
@@ -91749,13 +84155,13 @@ _Cité par_:
   - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=925></a>
+#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=879></a>
 
-##### Allocations, rentes et autres prestations<a id=926></a>
+##### Allocations, rentes et autres prestations<a id=880></a>
 
-##### Indemnisation en cas d'incapacité permanente<a id=927></a>
+##### Indemnisation en cas d'incapacité permanente<a id=881></a>
 
-##### Allocations, rentes, pensions et indemnités .<a id=928></a>
+##### Allocations, rentes, pensions et indemnités .<a id=882></a>
 
 ###### Article R*354-43
 
@@ -91797,7 +84203,7 @@ _Cite_:
   - Code des communes L354-4 AL. 1
 
 
-##### Indemnités allouées en cas d'incapacité temporaire .<a id=929></a>
+##### Indemnités allouées en cas d'incapacité temporaire .<a id=883></a>
 
 ###### Article R*354-64
 
@@ -91854,7 +84260,7 @@ _Abrogé par_:
   - Décret n°85-327 1985-03-12 art. 3 JORF 13 Mars 1985
 
 
-##### Frais médicaux chirurgicaux et pharmaceutiques .<a id=930></a>
+##### Frais médicaux chirurgicaux et pharmaceutiques .<a id=884></a>
 
 ###### Article R*354-69
 
@@ -91889,9 +84295,9 @@ _Cite_:
   - Code des communes R354-62
 
 
-#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*<a id=931></a>
+#### Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*<a id=885></a>
 
-##### Notation et avancement.<a id=932></a>
+##### Notation et avancement.<a id=886></a>
 
 ###### Article R354-17
 
@@ -91940,13 +84346,13 @@ _Cite_:
   - CODE DES COMMUNES. - art. R354-1 (Ab)
 
 
-### Pompes funèbres et cimetières<a id=933></a>
+### Pompes funèbres et cimetières<a id=887></a>
 
-#### Sépultures<a id=934></a>
+#### Sépultures<a id=888></a>
 
-##### Lieux de sépultures ; inhumations et exhumations<a id=935></a>
+##### Lieux de sépultures ; inhumations et exhumations<a id=889></a>
 
-##### Cimetières .<a id=936></a>
+##### Cimetières .<a id=890></a>
 
 ###### Article R*361-3
 
@@ -91974,7 +84380,7 @@ _Cite_:
   - Code des communes L361-1 AL. 2
 
 
-##### Inhumations .<a id=937></a>
+##### Inhumations .<a id=891></a>
 
 ###### Article R361-12
 
@@ -92012,7 +84418,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-32 (V)
 
 
-##### Exhumations .<a id=938></a>
+##### Exhumations .<a id=892></a>
 
 ###### Article R361-17
 
@@ -92050,7 +84456,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-42 (M)
 
 
-##### Concessions funéraires .<a id=939></a>
+##### Concessions funéraires .<a id=893></a>
 
 ###### Article R361-30
 
@@ -92169,7 +84575,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-22 (V)
 
 
-##### Chambres funéraires .<a id=940></a>
+##### Chambres funéraires .<a id=894></a>
 
 ###### Article R361-35
 
@@ -92321,7 +84727,7 @@ _Cite_:
   - Code des communes R363-4 à R363-36
 
 
-##### Crémations .<a id=941></a>
+##### Crémations .<a id=895></a>
 
 ###### Article R361-42
 
@@ -92403,7 +84809,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-35 (V)
 
 
-##### Dispositions diverses .<a id=942></a>
+##### Dispositions diverses .<a id=896></a>
 
 ###### Article R361-46
 
@@ -92433,9 +84839,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-66 (V)
 
 
-#### Pompes funèbres<a id=943></a>
+#### Pompes funèbres<a id=897></a>
 
-##### Service des pompes funèbres<a id=944></a>
+##### Service des pompes funèbres<a id=898></a>
 
 ###### Article R*362-1
 
@@ -92533,7 +84939,7 @@ _Abrogé par_:
   - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
 
 
-##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres<a id=945></a>
+##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres<a id=899></a>
 
 ###### Article R*362-4
 
@@ -92561,9 +84967,9 @@ _Cite_:
   - Code des communes L362-8 à L362-10
 
 
-#### Soins de conservation et transport de corps<a id=946></a>
+#### Soins de conservation et transport de corps<a id=900></a>
 
-##### Soins de conservation .<a id=947></a>
+##### Soins de conservation .<a id=901></a>
 
 ###### Article R363-1
 
@@ -92605,9 +85011,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. A22 (Ab)
 
 
-##### Transport de corps avant mise en bière<a id=948></a>
+##### Transport de corps avant mise en bière<a id=902></a>
 
-##### Transport du corps à résidence après décès dans un établissement d'hospitalisation .<a id=949></a>
+##### Transport du corps à résidence après décès dans un établissement d'hospitalisation .<a id=903></a>
 
 ###### Article R363-4
 
@@ -92818,7 +85224,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-12 (V)
 
 
-##### Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche .<a id=950></a>
+##### Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche .<a id=904></a>
 
 ###### Article R363-10
 
@@ -92894,7 +85300,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-14 (V)
 
 
-##### Conditions du transport .<a id=951></a>
+##### Conditions du transport .<a id=905></a>
 
 ###### Article R363-12
 
@@ -92962,9 +85368,9 @@ _Créé par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
 
 
-##### Mise en bière et transport après mise en bière; fermeture du cercueil<a id=952></a>
+##### Mise en bière et transport après mise en bière; fermeture du cercueil<a id=906></a>
 
-##### Mise en bière et fermeture du cercueil .<a id=953></a>
+##### Mise en bière et fermeture du cercueil .<a id=907></a>
 
 ###### Article R363-16
 
@@ -93001,7 +85407,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-15 (V)
 
 
-##### Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres<a id=954></a>
+##### Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres<a id=908></a>
 
 ###### Article R363-23
 
@@ -93034,7 +85440,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-22 (V)
 
 
-##### Conditions de transport .<a id=955></a>
+##### Conditions de transport .<a id=909></a>
 
 ###### Article R363-26
 
@@ -93355,11 +85761,11 @@ _Abrogé par_:
   - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
 
 
-### Dispositions particulières à certains services industriels et commerciaux<a id=956></a>
+### Dispositions particulières à certains services industriels et commerciaux<a id=910></a>
 
-#### Eau<a id=957></a>
+#### Eau<a id=911></a>
 
-##### Fonds national pour le développement des adductions d'eau .<a id=958></a>
+##### Fonds national pour le développement des adductions d'eau .<a id=912></a>
 
 ###### Article R*371-8
 
@@ -93410,9 +85816,9 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=959></a>
+### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=913></a>
 
-#### Dispositions générales .<a id=960></a>
+#### Dispositions générales .<a id=914></a>
 
 ###### Article R381-2
 
@@ -93448,11 +85854,11 @@ _Codifié par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
 
 
-## LIVRE 16 : Administration et services communaux<a id=961></a>
+## LIVRE 16 : Administration et services communaux<a id=915></a>
 
-### TITRE 2 : Protection contre l'incendie<a id=962></a>
+### TITRE 2 : Protection contre l'incendie<a id=916></a>
 
-#### CHAPITRE 1 : Dispositions générales.<a id=963></a>
+#### CHAPITRE 1 : Dispositions générales.<a id=917></a>
 
 ###### Article R*351-2
 
@@ -93560,9 +85966,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=964></a>
+#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=918></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=965></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=919></a>
 
 ###### Article R352-1
 
@@ -93751,9 +86157,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=966></a>
+#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=920></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=967></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=921></a>
 
 ###### Article R352-10
 
@@ -93800,9 +86206,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=968></a>
+#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=922></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=969></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=923></a>
 
 ###### Article R352-12
 
@@ -93829,9 +86235,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=970></a>
+#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=924></a>
 
-##### SECTION 1 : Règlement de service - commandement.<a id=971></a>
+##### SECTION 1 : Règlement de service - commandement.<a id=925></a>
 
 ###### Article R352-22
 
@@ -93858,9 +86264,9 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R354-6 (Ab)
 
 
-#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=972></a>
+#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=926></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=973></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=927></a>
 
 ###### Article R352-24
 
@@ -93892,9 +86298,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=974></a>
+#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=928></a>
 
-##### SECTION 1 : Règlement de service - commandement.<a id=975></a>
+##### SECTION 1 : Règlement de service - commandement.<a id=929></a>
 
 ###### Article R352-25
 
@@ -93916,9 +86322,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=976></a>
+#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=930></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=977></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=931></a>
 
 ###### Article R352-26
 
@@ -93949,9 +86355,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L131-13 (M)
 
 
-#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=978></a>
+#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=932></a>
 
-##### SECTION 2 : Service de santé et de secours médical.<a id=979></a>
+##### SECTION 2 : Service de santé et de secours médical.<a id=933></a>
 
 ###### Article R352-65
 
@@ -94006,7 +86412,7 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=980></a>
+##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=934></a>
 
 ###### Article R352-68
 
@@ -94110,9 +86516,9 @@ _Cite_:
   - Loi   1901-07-01
 
 
-#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=981></a>
+#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=935></a>
 
-##### SECTION 2 : Notation et avancement.<a id=982></a>
+##### SECTION 2 : Notation et avancement.<a id=936></a>
 
 ###### Article R354-16
 
@@ -94138,13 +86544,13 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-## LIVRE 4 : Personnel communal<a id=983></a>
+## LIVRE 4 : Personnel communal<a id=937></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=984></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=938></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=985></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=939></a>
 
-##### SECTION 1 : Dispositions générales.<a id=986></a>
+##### SECTION 1 : Dispositions générales.<a id=940></a>
 
 ###### Article R*411-1
 
@@ -94225,9 +86631,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 2 : Syndicat de communes pour le personnel communal<a id=987></a>
+##### SECTION 2 : Syndicat de communes pour le personnel communal<a id=941></a>
 
-##### SOUS-SECTION 1 : Constitution du syndicat.<a id=988></a>
+##### SOUS-SECTION 1 : Constitution du syndicat.<a id=942></a>
 
 ###### Article R*411-13
 
@@ -94530,7 +86936,7 @@ _Cite_:
   - Code des communes R411-13 et R411-14
 
 
-##### SOUS-SECTION 2 : Formation du comité du syndicat.<a id=989></a>
+##### SOUS-SECTION 2 : Formation du comité du syndicat.<a id=943></a>
 
 ###### Article R411-19
 
@@ -94814,7 +87220,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-##### SOUS-SECTION 3 : Fonctionnement du comité du syndicat.<a id=990></a>
+##### SOUS-SECTION 3 : Fonctionnement du comité du syndicat.<a id=944></a>
 
 ###### Article R411-27
 
@@ -95066,7 +87472,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-##### SOUS-SECTION 4 : Dispositions diverses.<a id=991></a>
+##### SOUS-SECTION 4 : Dispositions diverses.<a id=945></a>
 
 ###### Article R411-35
 
@@ -95168,7 +87574,7 @@ _Cite_:
   - Code des communes L163-1 à L163-18
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=992></a>
+##### SECTION 4 : Commission paritaire communale.<a id=946></a>
 
 ###### Article R*411-38
 
@@ -95194,7 +87600,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 7 : Honorariat.<a id=993></a>
+##### SECTION 7 : Honorariat.<a id=947></a>
 
 ###### Article R411-55
 
@@ -95216,11 +87622,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=994></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=948></a>
 
-##### SECTION 1 : Recrutement<a id=995></a>
+##### SECTION 1 : Recrutement<a id=949></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=996></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=950></a>
 
 ###### Article R*412-1
 
@@ -95413,7 +87819,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=997></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=951></a>
 
 ###### Article R412-9
 
@@ -95620,7 +88026,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=998></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=952></a>
 
 ###### Article R*412-32
 
@@ -96160,7 +88566,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=999></a>
+##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=953></a>
 
 ###### Article R412-35
 
@@ -96477,9 +88883,9 @@ _Créé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 2 : Centre de formation des personnels communaux<a id=1000></a>
+##### SECTION 2 : Centre de formation des personnels communaux<a id=954></a>
 
-##### SOUS-SECTION 1 : Rôle.<a id=1001></a>
+##### SOUS-SECTION 1 : Rôle.<a id=955></a>
 
 ###### Article R412-44
 
@@ -96907,7 +89313,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-31 (Ab)
 
 
-##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=1002></a>
+##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=956></a>
 
 ###### Article R412-55
 
@@ -97606,7 +90012,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SOUS-SECTION 3 : Le budget.<a id=1003></a>
+##### SOUS-SECTION 3 : Le budget.<a id=957></a>
 
 ###### Article R*412-74
 
@@ -98124,7 +90530,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SOUS-SECTION 4 : Le personnel.<a id=1004></a>
+##### SOUS-SECTION 4 : Le personnel.<a id=958></a>
 
 ###### Article R412-88
 
@@ -98287,7 +90693,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-36 (Ab)
 
 
-##### SOUS-SECTION 5 : Organisation des études.<a id=1005></a>
+##### SOUS-SECTION 5 : Organisation des études.<a id=959></a>
 
 ###### Article R412-92
 
@@ -98357,7 +90763,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 3 : Promotion sociale.<a id=1006></a>
+##### SECTION 3 : Promotion sociale.<a id=960></a>
 
 ###### Article R412-94
 
@@ -98488,9 +90894,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=1007></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=961></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=1008></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=962></a>
 
 ###### Article R*412-116
 
@@ -98622,7 +91028,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=1009></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=963></a>
 
 ###### Article R412-120
 
@@ -98732,7 +91138,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=1010></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=964></a>
 
 ###### Article R*412-123
 
@@ -98821,7 +91227,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1011></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=965></a>
 
 ###### Article R*412-127
 
@@ -98841,7 +91247,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=1012></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=966></a>
 
 ###### Article R*413-1
 
@@ -98890,9 +91296,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=1013></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=967></a>
 
-##### SECTION 1 : Notation.<a id=1014></a>
+##### SECTION 1 : Notation.<a id=968></a>
 
 ###### Article R414-1
 
@@ -98919,7 +91325,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=1015></a>
+##### SECTION 2 : Avancement.<a id=969></a>
 
 ###### Article R*414-2
 
@@ -99450,9 +91856,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=1016></a>
+##### SECTION 3 : Discipline<a id=970></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=1017></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=971></a>
 
 ###### Article R*414-15
 
@@ -99513,7 +91919,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=1018></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=972></a>
 
 ###### Article R*414-22
 
@@ -99708,7 +92114,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1019></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=973></a>
 
 ###### Article R*414-29
 
@@ -99722,11 +92128,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=1020></a>
+#### CHAPITRE 5 : Positions<a id=974></a>
 
-##### SECTION 1 : Activités, congés<a id=1021></a>
+##### SECTION 1 : Activités, congés<a id=975></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=1022></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=976></a>
 
 ###### Article R*415-2
 
@@ -99893,7 +92299,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=1023></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=977></a>
 
 ###### Article R*415-6
 
@@ -99920,7 +92326,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=1024></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=978></a>
 
 ###### Article R*416-1
 
@@ -99952,7 +92358,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=1025></a>
+##### SECTION 1 : L'admission à la retraite.<a id=979></a>
 
 ###### Article R*416-2
 
@@ -99975,7 +92381,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=1026></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=980></a>
 
 ###### Article R*416-3
 
@@ -99997,7 +92403,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Nomination dans une autre commune.<a id=1027></a>
+##### SECTION 2 : Nomination dans une autre commune.<a id=981></a>
 
 ###### Article R*416-4
 
@@ -100027,9 +92433,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=1028></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=982></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=1029></a>
+##### SECTION 1 : Sécurité sociale.<a id=983></a>
 
 ###### Article R417-1
 
@@ -100054,7 +92460,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=1030></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=984></a>
 
 ###### Article R417-5
 
@@ -100647,7 +93053,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=1031></a>
+##### SECTION 4 : Pensions.<a id=985></a>
 
 ###### Article R417-22
 
@@ -100693,11 +93099,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=1032></a>
+### TITRE 2 : Personnels divers<a id=986></a>
 
-#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=1033></a>
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=987></a>
 
-##### SECTION 1 : Dispositions générales.<a id=1034></a>
+##### SECTION 1 : Dispositions générales.<a id=988></a>
 
 ###### Article R*421-7
 
@@ -100923,7 +93329,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-13 (M)
 
 
-##### SECTION 2 : Représentation aux commissions paritaires.<a id=1035></a>
+##### SECTION 2 : Représentation aux commissions paritaires.<a id=989></a>
 
 ###### Article R421-8
 
@@ -101085,7 +93491,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 3 : Garanties disciplinaires.<a id=1036></a>
+##### SECTION 3 : Garanties disciplinaires.<a id=990></a>
 
 ###### Article R421-14
 
@@ -101376,7 +93782,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 4 : Congés.<a id=1037></a>
+##### SECTION 4 : Congés.<a id=991></a>
 
 ###### Article R421-24
 
@@ -101464,7 +93870,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-29 (Ab)
 
 
-##### SECTION 5 : Régime particulier de retraite.<a id=1038></a>
+##### SECTION 5 : Régime particulier de retraite.<a id=992></a>
 
 ###### Article R421-27
 
@@ -101493,9 +93899,9 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-#### CHAPITRE 2 : Agents non titulaires<a id=1039></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=993></a>
 
-##### SECTION 1 : Dispositions générales.<a id=1040></a>
+##### SECTION 1 : Dispositions générales.<a id=994></a>
 
 ###### Article R*422-1
 
@@ -101516,7 +93922,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=1041></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=995></a>
 
 ###### Article R*422-3
 
@@ -101578,7 +93984,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=1042></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=996></a>
 
 ###### Article R*422-5
 
@@ -101695,7 +94101,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=1043></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=997></a>
 
 ###### Article R*422-9
 
@@ -101838,7 +94244,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=1044></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=998></a>
 
 ###### Article R*422-15
 
@@ -102281,7 +94687,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=1045></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=999></a>
 
 ###### Article R*422-33
 
@@ -102393,7 +94799,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=1046></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=1000></a>
 
 ###### Article R422-41
 
@@ -102429,7 +94835,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=1047></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=1001></a>
 
 ###### Article R*423-1
 
@@ -102521,11 +94927,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=1048></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=1002></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=1049></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=1003></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=1050></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=1004></a>
 
 ###### Article R*432-1
 
@@ -102618,7 +95024,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=1051></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=1005></a>
 
 ###### Article R*432-4
 
@@ -102822,9 +95228,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=1052></a>
+### TITRE 4 : Dispositions particulières<a id=1006></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=1053></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=1007></a>
 
 ###### Article R441-1
 
@@ -102854,9 +95260,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=1054></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=1008></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=1055></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=1009></a>
 
 ###### Article R442-1
 
@@ -102898,7 +95304,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=1056></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=1010></a>
 
 ###### Article R*442-2
 
@@ -102920,7 +95326,7 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.<a id=1057></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.<a id=1011></a>
 
 ###### Article R443-1
 
@@ -103024,11 +95430,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. R411-11 (Ab)
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=1058></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=1012></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=1059></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=1013></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=1060></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=1014></a>
 
 ###### Article R*444-1
 
@@ -103536,7 +95942,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Les commissions et comités paritaires.<a id=1061></a>
+##### SOUS-SECTION 3 : Les commissions et comités paritaires.<a id=1015></a>
 
 ###### Article R*444-24
 
@@ -103651,7 +96057,7 @@ _Cite_:
   - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
 
 
-##### SECTION 2 : Recrutement.<a id=1062></a>
+##### SECTION 2 : Recrutement.<a id=1016></a>
 
 ###### Article R*444-28
 
@@ -103872,7 +96278,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=1063></a>
+##### SECTION 3 : Rémunération.<a id=1017></a>
 
 ###### Article R*444-37
 
@@ -103994,9 +96400,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=1064></a>
+##### SECTION 4 : Notation et avancement<a id=1018></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=1065></a>
+##### SOUS-SECTION 1 : Notation.<a id=1019></a>
 
 ###### Article R*444-42
 
@@ -104163,7 +96569,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=1066></a>
+##### SOUS-SECTION 2 : Avancement.<a id=1020></a>
 
 ###### Article R*444-49
 
@@ -104562,7 +96968,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=1067></a>
+##### SECTION 5 : Discipline.<a id=1021></a>
 
 ###### Article R*444-65
 
@@ -105270,7 +97676,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=1068></a>
+##### SECTION 6 : Positions.<a id=1022></a>
 
 ###### Article R*444-88
 
@@ -105303,7 +97709,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=1069></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=1023></a>
 
 ###### Article R*444-89
 
@@ -105325,7 +97731,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=1070></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=1024></a>
 
 ###### Article R444-90
 
@@ -105400,7 +97806,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=1071></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=1025></a>
 
 ###### Article R*444-102
 
@@ -105562,7 +97968,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1072></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1026></a>
 
 ###### Article R*444-109
 
@@ -105605,7 +98011,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=1073></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=1027></a>
 
 ###### Article R*444-120
 
@@ -105631,7 +98037,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=1074></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=1028></a>
 
 ###### Article R*444-122
 
@@ -105654,7 +98060,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=1075></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=1029></a>
 
 ###### Article R*444-123
 
@@ -105695,7 +98101,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=1076></a>
+##### SOUS-SECTION 8 : Mutations.<a id=1030></a>
 
 ###### Article R*444-169
 
@@ -105759,7 +98165,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=1077></a>
+##### SECTION 7 : Cessation de fonctions.<a id=1031></a>
 
 ###### Article R*444-172
 
@@ -106105,13 +98511,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=1078></a>
+## Personnel communal<a id=1032></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=1079></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=1033></a>
 
-#### Dispositions générales et organiques<a id=1080></a>
+#### Dispositions générales et organiques<a id=1034></a>
 
-##### Commission nationale paritaire du personnel communal .<a id=1081></a>
+##### Commission nationale paritaire du personnel communal .<a id=1035></a>
 
 ###### Article R*411-4
 
@@ -106343,7 +98749,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L411-25 (Ab)
 
 
-##### Commission paritaire communale .<a id=1082></a>
+##### Commission paritaire communale .<a id=1036></a>
 
 ###### Article R411-39
 
@@ -106383,7 +98789,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### Commission paritaire intercommunale .<a id=1083></a>
+##### Commission paritaire intercommunale .<a id=1037></a>
 
 ###### Article R411-40
 
@@ -106417,7 +98823,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### La médaille d'honneur départementale et communal .<a id=1084></a>
+##### La médaille d'honneur départementale et communal .<a id=1038></a>
 
 ###### Article R411-41
 
@@ -106754,9 +99160,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=1085></a>
+#### Recrutement, formation et promotion sociale<a id=1039></a>
 
-##### Formation professionnelle continue .<a id=1086></a>
+##### Formation professionnelle continue .<a id=1040></a>
 
 ###### Article R*412-99
 
@@ -106800,7 +99206,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1087></a>
+##### Actions de formation .<a id=1041></a>
 
 ###### Article R*412-100
 
@@ -106950,7 +99356,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1088></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1042></a>
 
 ###### Article R*412-105
 
@@ -107123,7 +99529,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1089></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1043></a>
 
 ###### Article R*412-111
 
@@ -107225,7 +99631,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1090></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1044></a>
 
 ###### Article R*412-114
 
@@ -107287,7 +99693,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=1091></a>
+#### Rémunération et effectifs<a id=1045></a>
 
 ###### Article R413-3
 
@@ -107392,11 +99798,11 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### Notation, avancement et discipline<a id=1092></a>
+#### Notation, avancement et discipline<a id=1046></a>
 
-##### Discipline<a id=1093></a>
+##### Discipline<a id=1047></a>
 
-##### Le conseil de discipline .<a id=1094></a>
+##### Le conseil de discipline .<a id=1048></a>
 
 ###### Article R*414-17
 
@@ -107535,9 +99941,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-#### POSITIONS<a id=1095></a>
+#### POSITIONS<a id=1049></a>
 
-##### Le congé postnatal .<a id=1096></a>
+##### Le congé postnatal .<a id=1050></a>
 
 ###### Article R*415-6-1
 
@@ -107729,7 +100135,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1097></a>
+##### Le détachement .<a id=1051></a>
 
 ###### Article R*415-7
 
@@ -107891,7 +100297,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1098></a>
+##### Position hors cadre .<a id=1052></a>
 
 ###### Article R*415-12
 
@@ -107988,7 +100394,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1099></a>
+##### La disponibilité .<a id=1053></a>
 
 ###### Article R*415-15
 
@@ -108031,11 +100437,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=1100></a>
+### Personnels divers<a id=1054></a>
 
-#### Agents non titulaires<a id=1101></a>
+#### Agents non titulaires<a id=1055></a>
 
-##### Dispositions générales .<a id=1102></a>
+##### Dispositions générales .<a id=1056></a>
 
 ###### Article R*422-2
 
@@ -108070,7 +100476,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1103></a>
+##### Cessation de fonctions .<a id=1057></a>
 
 ###### Article R*422-37
 
@@ -108201,7 +100607,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1104></a>
+##### Congé parental .<a id=1058></a>
 
 ###### Article R422-42
 
@@ -108376,13 +100782,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1105></a>
+### Dispositions particulières<a id=1059></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1106></a>
+#### Dispositions applicables à la ville de Paris<a id=1060></a>
 
-##### Dispositions générales et organiques<a id=1107></a>
+##### Dispositions générales et organiques<a id=1061></a>
 
-##### Le conseil administratif supérieur .<a id=1108></a>
+##### Le conseil administratif supérieur .<a id=1062></a>
 
 ###### Article R*444-21
 
@@ -108482,7 +100888,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1109></a>
+##### Les commissions et comités paritaires .<a id=1063></a>
 
 ###### Article R*444-26
 
@@ -108534,7 +100940,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1110></a>
+##### Recrutement .<a id=1064></a>
 
 ###### Article R*444-29
 
@@ -108570,11 +100976,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1111></a>
+##### Positions<a id=1065></a>
 
-##### Activité, congés<a id=1112></a>
+##### Activité, congés<a id=1066></a>
 
-##### Congés de maladie .<a id=1113></a>
+##### Congés de maladie .<a id=1067></a>
 
 ###### Article R*444-110
 
@@ -108943,7 +101349,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1114></a>
+##### Détachement .<a id=1068></a>
 
 ###### Article R*444-125
 
@@ -109476,7 +101882,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1115></a>
+##### POSITION HORS CADRE .<a id=1069></a>
 
 ###### Article R*444-143
 
@@ -109681,7 +102087,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1116></a>
+##### Disponibilité.<a id=1070></a>
 
 ###### Article R*444-150
 
@@ -110031,7 +102437,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1117></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1071></a>
 
 ###### Article R*444-162
 
@@ -110080,7 +102486,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1118></a>
+##### Position "sous les drapeaux" .<a id=1072></a>
 
 ###### Article R*444-164
 
@@ -110162,7 +102568,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1119></a>
+##### CONGE POSTNATAL .<a id=1073></a>
 
 ###### Article R*444-167
 
@@ -110212,7 +102618,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1120></a>
+##### Cessation de fonctions .<a id=1074></a>
 
 ###### Article R*444-178
 
