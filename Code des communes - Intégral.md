@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-07-01
+Version Consolidée au 1982-07-07
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -646,8 +646,8 @@ Version Consolidée au 1982-07-01
             - [Procédure de classement (art. R143-1 à R143-4)](#643)
             - [Groupes de communes érigées en stations hydrominérales et climatiques (art. R143-10 à R143-14)](#644)
           - [Stations uvales (art. R143-17)](#645)
-          - [Stations de tourisme (art. R143-19)](#646)
-            - [Procédure de classement (art. R143-19)](#647)
+          - [Stations de tourisme (art. R143-19 à R143-20)](#646)
+            - [Procédure de classement (art. R143-19 à R143-20)](#647)
           - [Stations de sports d'hiver et d'alpinisme (art. R143-30 à R143-31)](#648)
       - [INTERETS PROPRES A CERTAINES CATEGORIES  D'HABITANTS (art. R*152-3)](#649)
         - [SECTEUR DE COMMUNE . (art. R*152-3)](#650)
@@ -55823,6 +55823,51 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Décret n°1920-05-04 art. 46 al. 1
+
+
+###### Article R143-20
+
+La demande de création fait ensuite l'objet d'une enquête à laquelle il est procédé dans les formes prévues pour la création
+des stations hydrominérales et climatiques.
+
+Après cette enquête, la proposition de création de la station de tourisme est adressée au préfet, qui la transmet au ministre
+chargé du tourisme après l'avoir, conformément aux dispositions de l'article L. 142-3, soumise pour avis au conseil général
+ou à la commission départementale, qui doivent statuer dans les conditions et délais prévus pour les stations hydrominérales
+ou climatiques.
+
+Le dossier est ensuite transmis à la commission départementale des sites, perspectives et paysages, et au conseil
+départemental d'hygiène qui délibèrent dans la quinzaine qui suit la communication qui leur est faite du projet. A défaut, il
+est passé outre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°77-91 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
+
+_Modifié par_:
+
+  - Décret n°81-534 1981-05-12 ART. 23 JORF 15 MAI 1981 date d'entrée en vigueur 1ER JUILLET 1982
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L142-3 (Ab)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R143-21 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2231-59 (Ab)
+
+_Anciens textes_:
+
+  - Décret  1920-05-04 art. 46 al. 2 et suivants
 
 
 ##### Stations de sports d'hiver et d'alpinisme<a id=648></a>
