@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-11-29
+Version Consolidée au 1996-12-17
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -622,6 +622,23 @@ _Cité par_:
 _Cite_:
 
   - Code pénal 20 et 21
+
+
+###### Article L412-49-1
+
+L'agrément mentionné à l'article précédent peut aussi être accordé à des agents titulaires de la commune habituellement
+affectés à des emplois autres que ceux de la police municipale ou non titulaires, chargés d'assister temporairement les
+agents de la police municipale dans les communes touristiques. Ces agents ne peuvent porter aucune arme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Créé par_:
+
+  - Loi n°96-1093 du 16 décembre 1996 - art. 75 ()
 
 
 ###### Article L412-50
