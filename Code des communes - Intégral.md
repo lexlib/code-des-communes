@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-09-24
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -973,41 +973,39 @@ Version Consolidée au 1985-07-26
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#970)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#971)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#972)
-    - [Personnel communal (art. R411-39 à R*444-168)](#973)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-39 à R*415-15)](#974)
-        - [Dispositions générales et organiques (art. R411-39 à R411-54)](#975)
-          - [Commission paritaire communale . (art. R411-39)](#976)
-          - [Commission paritaire intercommunale . (art. R411-40)](#977)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#978)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#979)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#980)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#981)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#982)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#983)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#984)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#985)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#986)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#987)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#988)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#989)
-          - [La disponibilité . (art. R*415-15)](#990)
-      - [Personnels divers (art. R*422-2 à R422-49)](#991)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#992)
-          - [Dispositions générales . (art. R*422-2)](#993)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#994)
-          - [Congé parental . (art. R422-42 à R422-49)](#995)
-      - [Dispositions particulières (art. R*444-29 à R*444-168)](#996)
-        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-168)](#997)
-          - [Recrutement . (art. R*444-29)](#998)
-          - [Positions (art. R*444-110 à R*444-168)](#999)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#1000)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1001)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1002)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1003)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1004)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1005)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1006)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1007)
+    - [Personnel communal (art. R411-41 à R*444-168)](#973)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-41 à R*415-15)](#974)
+        - [Dispositions générales et organiques (art. R411-41 à R411-54)](#975)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#976)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#977)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#978)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#979)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#980)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#981)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#982)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#983)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#984)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#985)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#986)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#987)
+          - [La disponibilité . (art. R*415-15)](#988)
+      - [Personnels divers (art. R*422-2 à R422-49)](#989)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#990)
+          - [Dispositions générales . (art. R*422-2)](#991)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#992)
+          - [Congé parental . (art. R422-42 à R422-49)](#993)
+      - [Dispositions particulières (art. R*444-29 à R*444-168)](#994)
+        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-168)](#995)
+          - [Recrutement . (art. R*444-29)](#996)
+          - [Positions (art. R*444-110 à R*444-168)](#997)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#998)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#999)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1000)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1001)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1002)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1003)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1004)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1005)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -96555,81 +96553,7 @@ _Codifié par_:
 
 #### Dispositions générales et organiques<a id=975></a>
 
-##### Commission paritaire communale .<a id=976></a>
-
-###### Article R411-39
-
-La commission paritaire communale connaît, en matière de recrutement, des propositions de titularisation prévues à l'article
-L. 412-10.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: Code des communes R421-7 :
-
-_Anciens textes_:
-
-  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 Septembre 1985
-
-_Cité par_:
-
-  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
-  - CODE DES COMMUNES. - art. R*421-7 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-10 (Ab)
-
-
-##### Commission paritaire intercommunale .<a id=977></a>
-
-###### Article R411-40
-
-La commission paritaire intercommunale connaît, en matière de recrutement, des propositions de titularisation prévues à
-l'article L. 412-10.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-280 1975-04-15 ART. 1 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab) JORF 24 septembre 1985
-
-_Cité par_:
-
-  - Décret n°85-1003 du 19 septembre 1985 - art. 38 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-10 (Ab)
-
-
-##### La médaille d'honneur départementale et communal .<a id=978></a>
+##### La médaille d'honneur départementale et communal .<a id=976></a>
 
 ###### Article R411-41
 
@@ -96966,9 +96890,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=979></a>
+#### Recrutement, formation et promotion sociale<a id=977></a>
 
-##### Formation professionnelle continue .<a id=980></a>
+##### Formation professionnelle continue .<a id=978></a>
 
 ###### Article R*412-99
 
@@ -97012,7 +96936,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=981></a>
+##### Actions de formation .<a id=979></a>
 
 ###### Article R*412-100
 
@@ -97162,7 +97086,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=982></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=980></a>
 
 ###### Article R*412-105
 
@@ -97335,7 +97259,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=983></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=981></a>
 
 ###### Article R*412-111
 
@@ -97437,7 +97361,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=984></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=982></a>
 
 ###### Article R*412-114
 
@@ -97499,7 +97423,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=985></a>
+#### Rémunération et effectifs<a id=983></a>
 
 ###### Article R413-3
 
@@ -97604,9 +97528,9 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### POSITIONS<a id=986></a>
+#### POSITIONS<a id=984></a>
 
-##### Le congé postnatal .<a id=987></a>
+##### Le congé postnatal .<a id=985></a>
 
 ###### Article R*415-6-1
 
@@ -97798,7 +97722,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=988></a>
+##### Le détachement .<a id=986></a>
 
 ###### Article R*415-7
 
@@ -97960,7 +97884,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=989></a>
+##### Position hors cadre .<a id=987></a>
 
 ###### Article R*415-12
 
@@ -98057,7 +97981,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=990></a>
+##### La disponibilité .<a id=988></a>
 
 ###### Article R*415-15
 
@@ -98100,11 +98024,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=991></a>
+### Personnels divers<a id=989></a>
 
-#### Agents non titulaires<a id=992></a>
+#### Agents non titulaires<a id=990></a>
 
-##### Dispositions générales .<a id=993></a>
+##### Dispositions générales .<a id=991></a>
 
 ###### Article R*422-2
 
@@ -98139,7 +98063,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=994></a>
+##### Cessation de fonctions .<a id=992></a>
 
 ###### Article R*422-37
 
@@ -98270,7 +98194,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=995></a>
+##### Congé parental .<a id=993></a>
 
 ###### Article R422-42
 
@@ -98445,11 +98369,11 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=996></a>
+### Dispositions particulières<a id=994></a>
 
-#### Dispositions applicables à la ville de Paris<a id=997></a>
+#### Dispositions applicables à la ville de Paris<a id=995></a>
 
-##### Recrutement .<a id=998></a>
+##### Recrutement .<a id=996></a>
 
 ###### Article R*444-29
 
@@ -98485,11 +98409,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=999></a>
+##### Positions<a id=997></a>
 
-##### Activité, congés<a id=1000></a>
+##### Activité, congés<a id=998></a>
 
-##### Congés de maladie .<a id=1001></a>
+##### Congés de maladie .<a id=999></a>
 
 ###### Article R*444-110
 
@@ -98858,7 +98782,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1002></a>
+##### Détachement .<a id=1000></a>
 
 ###### Article R*444-125
 
@@ -99391,7 +99315,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1003></a>
+##### POSITION HORS CADRE .<a id=1001></a>
 
 ###### Article R*444-143
 
@@ -99596,7 +99520,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1004></a>
+##### Disponibilité.<a id=1002></a>
 
 ###### Article R*444-150
 
@@ -99946,7 +99870,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1005></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1003></a>
 
 ###### Article R*444-162
 
@@ -99995,7 +99919,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1006></a>
+##### Position "sous les drapeaux" .<a id=1004></a>
 
 ###### Article R*444-164
 
@@ -100077,7 +100001,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1007></a>
+##### CONGE POSTNATAL .<a id=1005></a>
 
 ###### Article R*444-167
 
