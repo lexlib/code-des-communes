@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-03
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -256,8 +256,8 @@ Version Consolidée au 1985-01-01
               - [Recouvrement de la taxe de séjour et pénalités . (art. L233-42 à L233-44)](#253)
               - [Dispositions particulières aux communes groupées en syndicats . (art. L233-45)](#254)
             - [Prélèvement progressif sur le produit des jeux dans les casinos . (art. L233-48)](#255)
-          - [Taxes destinées au financement des transports en commun (art. L233-61 à L233-64)](#256)
-            - [Versement destiné aux transports en commun . (art. L233-61 à L233-64)](#257)
+          - [Taxes destinées au financement des transports en commun (art. L233-61)](#256)
+            - [Versement destiné aux transports en commun . (art. L233-61)](#257)
           - [Taxe communale sur les emplacements publicitaires fixes . (art. L233-81 à L233-84)](#258)
         - [Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. L234-1 à L234-19-1)](#259)
           - [Dotation globale de fonctionnement (art. L234-1 à L234-21)](#260)
@@ -17512,6 +17512,43 @@ _Cite_:
   - Code des communes L253-58
 
 
+###### Article L233-64
+
+Le produit de la taxe est versé au budget de la commune ou de l'établissement public qui rembourse les versements effectués :
+
+1° Aux employeurs qui justifient avoir assuré le logement permanent sur les lieux de travail ou effectué intégralement et à
+titre gratuit le transport collectif de tous leurs salariés, ou de certains d'entre eux au prorata des effectifs transportés
+ou logés par rapport à l'effectif total ;
+
+2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres d'urbanisation des villes nouvelles ou de
+certaines zones d'activité industrielle ou commerciale, prévues aux documents d'urbanisation, lorsque ces périmètres ou ces
+zones sont désignés par la délibération mentionnée à l'article L. 233-60.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L233-60 (Ab)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L233-62 (Ab)
+  - CODE DES COMMUNES. - art. L233-66 (Ab)
+  - CODE DES COMMUNES. - art. R233-81 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2333-70 (V)
+
+
 ###### Article L233-65
 
 La commune ou l'établissement public répartit le solde [*du produit de la taxe après remboursement aux employeurs en vertu de
@@ -23305,54 +23342,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2333-67 (V)
-
-
-###### Article L233-64
-
-Le produit de la taxe [*affectation*] est versé au budget de la commune ou de l'établissement public qui rembourse les
-versements effectués :
-
-1° Aux employeurs qui justifient avoir assuré le logement permanent sur les lieux de travail ou effectué intégralement le
-transport collectif de tous leurs salariés ou de certains d'entre eux, au prorata des effectifs transportés ou logés par
-rapport à l'effectif total ; 
-
-2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres d'urbanisation des villes nouvelles ou de
-certaines zones d'activité industrielle ou commerciale, prévues aux documents d'urbanisation, lorsque ces périmètres ou ces
-zones sont désignés par la délibération [*du conseil municipal ou de l'organe compétent de l'établissement communal ou
-intercommunal*] mentionnée à l'article L. 233-60.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-640 1973-07-11 art. 5 par. 2 al. 1 modifié
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L233-60 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L233-62 (Ab)
-  - CODE DES COMMUNES. - art. L233-66 (Ab)
-  - CODE DES COMMUNES. - art. R233-81 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-83 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. L2333-70 (V)
 
 
 ##### Taxe communale sur les emplacements publicitaires fixes .<a id=258></a>
