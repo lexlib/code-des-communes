@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-06-07
+Version Consolidée au 1985-06-18
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -389,7 +389,7 @@ Version Consolidée au 1985-06-07
         - [Dispositions générales et organiques (art. L411-27 à L411-30)](#386)
           - [Syndicat de communes pour le personnel communal . (art. L411-27 à L411-30)](#387)
     - [LIVRE 4 : Personnel communal (art. L411-26 à L444-5)](#388)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. L411-26 à L417-28)](#389)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. L411-26 à L417-26)](#389)
         - [CHAPITRE 1 : Dispositions générales et organiques (art. L411-26 à L411-29)](#390)
           - [SECTION 3 : Syndicats de communes pour le personnel communal. (art. L411-26 à L411-29)](#391)
         - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-28 à L412-50)](#392)
@@ -410,13 +410,13 @@ Version Consolidée au 1985-06-07
             - [SOUS-SECTION 1 : Les congés annuels. (art. L415-6)](#407)
         - [CHAPITRE 6 : Cessation de fonctions (art. L416-1 à L416-4)](#408)
           - [SECTION 1 : L'admission à la retraite. (art. L416-1 à L416-4)](#409)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. L417-1 à L417-28)](#410)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. L417-1 à L417-26)](#410)
           - [SECTION 1 : Sécurité sociale. (art. L417-1)](#411)
           - [SECTION 2 : Prestations familiales. (art. L417-2)](#412)
           - [SECTION 3 : Allocation temporaire d'invalidité. (art. L417-8 à L417-9)](#413)
           - [SECTION 4 : Pensions. (art. L417-11 à L417-17)](#414)
-          - [SECTION 5 : Hygiène et sécurité (art. L417-26 à L417-28)](#415)
-            - [SOUS-SECTION 3 : Médecine professionnelle. (art. L417-26 à L417-28)](#416)
+          - [SECTION 5 : Hygiène et sécurité (art. L417-26)](#415)
+            - [SOUS-SECTION 3 : Médecine professionnelle. (art. L417-26)](#416)
       - [TITRE 2 : Personnels divers (art. L422-4 à L422-8)](#417)
         - [CHAPITRE 2 : Agents non titulaires. (art. L422-4 à L422-8)](#418)
       - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. L431-1 à L432-8)](#419)
@@ -36401,44 +36401,6 @@ _Cité par_:
 
   - Décret n°87-602 du 30 juillet 1987 - art. 9 (M)
   - Décret n°88-145 du 15 février 1988 - art. 2 (V)
-
-_Abrogé par_:
-
-  - Loi n°2007-209 du 19 février 2007 - art. 56 () JORF 21 février 2007
-
-
-###### Article L417-28
-
-Le service de médecine professionnelle a pour mission d'éviter toute altération de la santé des agents du fait de leur
-travail, notamment en surveillant les conditions d'hygiène du travail, les risques de contagion et l'état de santé des
-agents. A cet effet, les agents sont obligatoirement soumis à un examen médical au moment de l'embauche et, au minimum, à un
-examen médical annuel. En outre, le service peut être consulté, à la demande du maire, du président de l'établissement
-intéressé ou du président du syndicat, sur les mesures de nature à améliorer l'hygiène générale des locaux, la prévention des
-accidents et l'éducation sanitaire dans le cadre de la commune, de l'établissement ou du syndicat.
-
-**Nota:**
-
-Loi 2007-209 du 19 février 2007 art. 56 : l'article L417-28 du code des communes est abrogé à l'exception de sa deuxième
-phrase. Elle est supprimée à compter de la publication du décret prévu au second alinéa de l'article 108-2 de la loi n° 84-53
-du 26 janvier 1984 (décret n° 85-603 du 10 juin 1985, article 20).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cité par_:
-
-  - Décret n°85-603 du 10 juin 1985 - art. 20 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Fin d'application : date indéterminée
-
-_Cite_:
-
-  - Loi n°78-1183 du 20 décembre 1978 - art. 7 (V)
 
 _Abrogé par_:
 
