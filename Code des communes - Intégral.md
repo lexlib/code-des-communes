@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -284,7 +284,7 @@ Version Consolidée au 1993-07-23
         - [CHAPITRE 2 : Pompes funèbres (art. L362-1 à L362-14)](#281)
           - [SECTION 1 : Service des pompes funèbres. (art. L362-1 à L362-7)](#282)
           - [SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres. (art. L362-8 à L362-11)](#283)
-          - [SECTION 3 : Sanction pénales. (art. L362-12)](#284)
+          - [SECTION 3 : Sanction pénales. (art. L362-12 à L362-13)](#284)
           - [SECTION 3 : Sanctions pénales. (art. L362-14)](#285)
         - [CHAPITRE 3 : Soins de conservation et transport de corps. (art. L363-1 à L363-2)](#286)
         - [CHAPITRE 4 : Police des funérailles et des sépultures. (art. L364-1 à L364-6)](#287)
@@ -32958,6 +32958,44 @@ _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2223-35 (V)
   - Code général des collectivités territoriales - art. L2223-35 (M)
+
+
+###### Article L362-13
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies à l'article L.362-12.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6°, 7°, 8° et 9° de l'article 131-39 du même code ;
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-240 1977-03-07
+
+_Créé par_:
+
+  - Loi n°93-23 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993 en vigueur le 1er septembre 1993
+  - Loi n°93-23 du 8 janvier 1993 - art. 17 () JORF 9 janvier 1993 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L362-14 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2223-36 (V)
 
 
 ##### SECTION 3 : Sanctions pénales.<a id=285></a>
