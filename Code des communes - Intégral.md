@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1997-05-22
+Version Consolidée au 1997-10-01
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -40861,11 +40861,12 @@ _Nouveaux textes_:
 
 ###### Article R363-16
 
-Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne décédée est mis en bière.
+Avant son inhumation ou sa crémation[*incinération*], le corps d'une personne décédée est mis en bière.
 
-La housse imperméable éventuellement utilisée pour envelopper le corps avant sa mise en bière est fabriqué dans un matériau
-biodégradable. Elle est d'un modéle agrée par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
-publique de France.
+La housse imperméable éventuellement utilisée pour envelopper le corps avant sa mise en bière est fabriquée dans un matériau
+biodégradable. Elle doit répondre a des caractéristiques de composition, de résistance et d'étanchéité fixées par arrêté du
+ministre chargé de la santé aprés avis du Conseil national d'hygiène publique de France et du Conseil national des opérations
+funéraires.
 
 Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin atteste de la
 récupération de l'appareil avant la mise en bière.
@@ -40885,16 +40886,20 @@ _Codifié par_:
 
 _Cité par_:
 
-  - CODE DES COMMUNES. - art. R361-42 (Ab)
   - Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
+  - CODE DES COMMUNES. - art. R361-42 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-503 1997-05-21 art. 1 IV
+
+_Modifié par_:
+
+  - Décret n°97-503 du 21 mai 1997 - art. 1 (V)
 
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-15 (V)
-
-_Modifié par_:
-
-  - Décret n°87-28 1987-01-14 art. 26 JORF 18 janvier 1987
 
 
 ###### Article R363-17
@@ -41309,13 +41314,17 @@ _Modifié par_:
 
 ###### Article R363-28
 
-Les cerceuils hermétiques sont d'un modèle agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
-publique de France.
+Les cercueils hermétiques doivent e^tre en matériau biodégradable et répondre à des caractéristiques de composition, de
+résistance et d'étanchéité fixées par arrêté du ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
+publique de France et du conseil national des opérations funéraires.
 
 Ils doivent ne céder aucun liquide au milieu extérieur, contenir une matière absorbante et être munis d'un dispositif
-épurateur de gaz agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène publique de France et par
-le ministre chargé de l'aviation civile. Lorsque le défunt était atteint d'une maladie contagieuse, le corps est enveloppé
-dans un linceul imbibé d'une solution antiseptique.
+épurateur de gaz répondant à des caractéristiques de composition de débit et de filtration fixées par arrêté du ministre
+chargé de la santé après avis du Conseil national d'hygiène publique de France et du conseil national des opérations
+funéraires.
+
+Lorsque le défunt était atteint d'une maladie contagieuse, le corps est enveloppé dans un linceul imbibé d'une solution
+antiseptique.
 
 **Liens relatifs à cet article**
 
@@ -41327,6 +41336,18 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-503 1997-05-21 art. 1 IV
+
+_Modifié par_:
+
+  - Décret n°97-503 du 21 mai 1997 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 _Cité par_:
 
   - CODE DES COMMUNES. - art. R363-27 (Ab)
@@ -41334,10 +41355,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-27 (V)
-
-_Modifié par_:
-
-  - Décret n°87-28 1987-01-14 art. 31 JORF 18 janvier 1987
 
 
 ##### SECTION 4 : Dépôts temporaires.<a id=357></a>
