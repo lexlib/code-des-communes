@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-03-13
+Version Consolidée au 1985-06-02
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -983,62 +983,59 @@ Version Consolidée au 1985-03-13
           - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#980)
         - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#981)
         - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#982)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#983)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#983)
             - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#984)
-            - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#985)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#986)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#987)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#988)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#989)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#990)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#991)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#992)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#993)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#994)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#995)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#996)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#997)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#998)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#999)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1000)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1001)
-    - [Personnel communal (art. R411-39 à R*444-168)](#1002)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-39 à R*415-15)](#1003)
-        - [Dispositions générales et organiques (art. R411-39 à R411-54)](#1004)
-          - [Commission paritaire communale . (art. R411-39)](#1005)
-          - [Commission paritaire intercommunale . (art. R411-40)](#1006)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1007)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1008)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1009)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1010)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1011)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1012)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1013)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1014)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1015)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1016)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1017)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1018)
-          - [La disponibilité . (art. R*415-15)](#1019)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1020)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1021)
-          - [Dispositions générales . (art. R*422-2)](#1022)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1023)
-          - [Congé parental . (art. R422-42 à R422-49)](#1024)
-      - [Dispositions particulières (art. R*444-26 à R*444-168)](#1025)
-        - [Dispositions applicables à la ville de Paris (art. R*444-26 à R*444-168)](#1026)
-          - [Dispositions générales et organiques (art. R*444-26)](#1027)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1028)
-          - [Recrutement . (art. R*444-29)](#1029)
-          - [Positions (art. R*444-110 à R*444-168)](#1030)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#1031)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1032)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1033)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1034)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1035)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1036)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1037)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1038)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#985)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#986)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#987)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#988)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#989)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#990)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#991)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#992)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#993)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#994)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#995)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#996)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#997)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#998)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#999)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1000)
+    - [Personnel communal (art. R411-39 à R*444-168)](#1001)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-39 à R*415-15)](#1002)
+        - [Dispositions générales et organiques (art. R411-39 à R411-54)](#1003)
+          - [Commission paritaire communale . (art. R411-39)](#1004)
+          - [Commission paritaire intercommunale . (art. R411-40)](#1005)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1006)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1007)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1008)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1009)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1010)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1011)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1012)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1013)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1014)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1015)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1016)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1017)
+          - [La disponibilité . (art. R*415-15)](#1018)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1019)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1020)
+          - [Dispositions générales . (art. R*422-2)](#1021)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1022)
+          - [Congé parental . (art. R422-42 à R422-49)](#1023)
+      - [Dispositions particulières (art. R*444-29 à R*444-168)](#1024)
+        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-168)](#1025)
+          - [Recrutement . (art. R*444-29)](#1026)
+          - [Positions (art. R*444-110 à R*444-168)](#1027)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#1028)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1029)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1030)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1031)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1032)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1033)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1034)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1035)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -95491,122 +95488,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Les commissions et comités paritaires.<a id=985></a>
-
-###### Article R*444-24
-
-Des commissions administratives paritaires et des comités techniques paritaires sont institués pour les fonctionnaires de la
-commune de Paris.
-
-**Nota:**
-
-Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 22
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Decret 85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-_Cite_:
-
-  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
-
-
-###### Article R*444-25
-
-Les commissions administratives paritaires sont compétentes, dans les limites fixées par le présent statut et par les arrêtés
-d'application, en matière de recrutement, de notation, d'avancement, d'affectation, de discipline et, plus généralement, pour
-toutes questions concernant le personnel.
-
-Ces commissions comprennent : [*composition*]
-
-D'une part, le maire de Paris [*attributions*] ou son représentant, président, et des délégués choisis par lui parmi les
-chefs de service de la commune ;
-
-D'autre part, en nombre égal, des représentants du personnel élus au bulletin secret à la proportionnelle par les
-fonctionnaires en activité ou détachés auprès de la commune.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 23
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-_Abrogé par_:
-
-  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-_Cite_:
-
-  - Code des communes R444-1 A R444-186
-
-
-###### Article R*444-27
-
-Le conseil de Paris fixe par délibération [*attributions*] les modalités d'organisation et de fonctionnement des commissions
-administratives paritaires et des comités techniques paritaires.
-
-**Nota:**
-
-Les dispositions contraires au décret 85-565 du 30 mai 1985 sont abrogées (décret 85-565 du 30 mai 1985 art. 34).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 25
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
-
-_Abrogé par_:
-
-  - Décret n°85-565 1985-05-30 art. 34 jorf 2 juin 1985
-
-_Cite_:
-
-  - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
-
-
-##### SECTION 2 : Recrutement.<a id=986></a>
+##### SECTION 2 : Recrutement.<a id=985></a>
 
 ###### Article R*444-28
 
@@ -95827,7 +95709,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=987></a>
+##### SECTION 3 : Rémunération.<a id=986></a>
 
 ###### Article R*444-37
 
@@ -95949,9 +95831,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=988></a>
+##### SECTION 4 : Notation et avancement<a id=987></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=989></a>
+##### SOUS-SECTION 1 : Notation.<a id=988></a>
 
 ###### Article R*444-42
 
@@ -96118,7 +96000,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=990></a>
+##### SOUS-SECTION 2 : Avancement.<a id=989></a>
 
 ###### Article R*444-49
 
@@ -96517,7 +96399,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=991></a>
+##### SECTION 5 : Discipline.<a id=990></a>
 
 ###### Article R*444-65
 
@@ -97225,7 +97107,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=992></a>
+##### SECTION 6 : Positions.<a id=991></a>
 
 ###### Article R*444-88
 
@@ -97258,7 +97140,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=993></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=992></a>
 
 ###### Article R*444-89
 
@@ -97280,7 +97162,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=994></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=993></a>
 
 ###### Article R444-90
 
@@ -97355,7 +97237,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=995></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=994></a>
 
 ###### Article R*444-102
 
@@ -97517,7 +97399,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=996></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=995></a>
 
 ###### Article R*444-109
 
@@ -97560,7 +97442,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=997></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=996></a>
 
 ###### Article R*444-120
 
@@ -97586,7 +97468,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=998></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=997></a>
 
 ###### Article R*444-122
 
@@ -97609,7 +97491,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=999></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=998></a>
 
 ###### Article R*444-123
 
@@ -97650,7 +97532,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=1000></a>
+##### SOUS-SECTION 8 : Mutations.<a id=999></a>
 
 ###### Article R*444-169
 
@@ -97714,7 +97596,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=1001></a>
+##### SECTION 7 : Cessation de fonctions.<a id=1000></a>
 
 ###### Article R*444-172
 
@@ -98060,13 +97942,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=1002></a>
+## Personnel communal<a id=1001></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=1003></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=1002></a>
 
-#### Dispositions générales et organiques<a id=1004></a>
+#### Dispositions générales et organiques<a id=1003></a>
 
-##### Commission paritaire communale .<a id=1005></a>
+##### Commission paritaire communale .<a id=1004></a>
 
 ###### Article R411-39
 
@@ -98106,7 +97988,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### Commission paritaire intercommunale .<a id=1006></a>
+##### Commission paritaire intercommunale .<a id=1005></a>
 
 ###### Article R411-40
 
@@ -98140,7 +98022,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### La médaille d'honneur départementale et communal .<a id=1007></a>
+##### La médaille d'honneur départementale et communal .<a id=1006></a>
 
 ###### Article R411-41
 
@@ -98477,9 +98359,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=1008></a>
+#### Recrutement, formation et promotion sociale<a id=1007></a>
 
-##### Formation professionnelle continue .<a id=1009></a>
+##### Formation professionnelle continue .<a id=1008></a>
 
 ###### Article R*412-99
 
@@ -98523,7 +98405,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1010></a>
+##### Actions de formation .<a id=1009></a>
 
 ###### Article R*412-100
 
@@ -98673,7 +98555,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1011></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1010></a>
 
 ###### Article R*412-105
 
@@ -98846,7 +98728,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1012></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1011></a>
 
 ###### Article R*412-111
 
@@ -98948,7 +98830,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1013></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1012></a>
 
 ###### Article R*412-114
 
@@ -99010,7 +98892,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=1014></a>
+#### Rémunération et effectifs<a id=1013></a>
 
 ###### Article R413-3
 
@@ -99115,9 +98997,9 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### POSITIONS<a id=1015></a>
+#### POSITIONS<a id=1014></a>
 
-##### Le congé postnatal .<a id=1016></a>
+##### Le congé postnatal .<a id=1015></a>
 
 ###### Article R*415-6-1
 
@@ -99309,7 +99191,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1017></a>
+##### Le détachement .<a id=1016></a>
 
 ###### Article R*415-7
 
@@ -99471,7 +99353,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1018></a>
+##### Position hors cadre .<a id=1017></a>
 
 ###### Article R*415-12
 
@@ -99568,7 +99450,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1019></a>
+##### La disponibilité .<a id=1018></a>
 
 ###### Article R*415-15
 
@@ -99611,11 +99493,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=1020></a>
+### Personnels divers<a id=1019></a>
 
-#### Agents non titulaires<a id=1021></a>
+#### Agents non titulaires<a id=1020></a>
 
-##### Dispositions générales .<a id=1022></a>
+##### Dispositions générales .<a id=1021></a>
 
 ###### Article R*422-2
 
@@ -99650,7 +99532,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1023></a>
+##### Cessation de fonctions .<a id=1022></a>
 
 ###### Article R*422-37
 
@@ -99781,7 +99663,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1024></a>
+##### Congé parental .<a id=1023></a>
 
 ###### Article R422-42
 
@@ -99956,65 +99838,11 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1025></a>
+### Dispositions particulières<a id=1024></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1026></a>
+#### Dispositions applicables à la ville de Paris<a id=1025></a>
 
-##### Dispositions générales et organiques<a id=1027></a>
-
-##### Les commissions et comités paritaires .<a id=1028></a>
-
-###### Article R*444-26
-
-Les comités techniques paritaires sont compétents pour connaître des questions relatives :
-
-1° A l'organisation des établissements et services de la commune de Paris ;
-
-2° Au fonctionnement des établissements et services ;
-
-3° Aux programmes de modernisation des méthodes et techniques de travail et à leurs incidences sur la situation des
-personnels ;
-
-4° A l'élaboration et à la modification des règles statutaires [*particulières, fixées par le conseil de Paris, pour les
-personnels soumis au présent statut*] ;
-
-5° A l'examen des grandes orientations à définir pour l'accomplissement des tâches incombant aux services et établissements
-de la commune ;
-
-6° Aux problèmes d'hygiène et de sécurité.
-
-La consultation des comités techniques paritaires est obligatoire dans les cas prévus aux 3°, 4°, 5° et 6° ci-dessus.
-
-Les comités techniques paritaires comprennent : [*composition*]        D'une part, le maire de Paris [*attributions*] ou son
-représentant, président, et des délégués choisis par lui parmi les chefs de service de la commune ;
-
-D'autre part, en nombre égal, des représentants du personnel désignés par les organisations syndicales les plus
-représentatives.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 24
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-565 1985-05-30 art. 34 JORF 2 Juin 1985
-
-_Cite_:
-
-  - Code des communes R444-3
-
-
-##### Recrutement .<a id=1029></a>
+##### Recrutement .<a id=1026></a>
 
 ###### Article R*444-29
 
@@ -100050,11 +99878,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1030></a>
+##### Positions<a id=1027></a>
 
-##### Activité, congés<a id=1031></a>
+##### Activité, congés<a id=1028></a>
 
-##### Congés de maladie .<a id=1032></a>
+##### Congés de maladie .<a id=1029></a>
 
 ###### Article R*444-110
 
@@ -100423,7 +100251,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1033></a>
+##### Détachement .<a id=1030></a>
 
 ###### Article R*444-125
 
@@ -100956,7 +100784,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1034></a>
+##### POSITION HORS CADRE .<a id=1031></a>
 
 ###### Article R*444-143
 
@@ -101161,7 +100989,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1035></a>
+##### Disponibilité.<a id=1032></a>
 
 ###### Article R*444-150
 
@@ -101511,7 +101339,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1036></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1033></a>
 
 ###### Article R*444-162
 
@@ -101560,7 +101388,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1037></a>
+##### Position "sous les drapeaux" .<a id=1034></a>
 
 ###### Article R*444-164
 
@@ -101642,7 +101470,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1038></a>
+##### CONGE POSTNATAL .<a id=1035></a>
 
 ###### Article R*444-167
 
