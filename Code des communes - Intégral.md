@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1995-04-13
+Version Consolidée au 1995-05-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -238,7 +238,7 @@ Version Consolidée au 1995-04-13
       - [TITRE 1 : Administration de la commune (art. L311-1 à L318-3)](#235)
         - [CHAPITRE 1 : Biens communaux. (art. L311-1 à L311-33)](#236)
           - [SECTION 1 : Acquisition, location et affectation de biens. (art. L311-2 à L311-7)](#237)
-          - [SECTION 2 : Aliénation de biens. (art. L311-10 à L311-12)](#238)
+          - [SECTION 2 : Aliénation de biens. (art. L*311-8 à L311-12)](#238)
           - [SECTION 3 : Régime de certains biens immobiliers soumis à un droit de jouissance exclusif. (art. L311-13 à L311-33)](#239)
         - [CHAPITRE 2 : Dons et legs (art. L312-1 à L312-7)](#240)
           - [SECTION 1 : Dispositions générales. (art. L312-1 à L312-7)](#241)
@@ -16473,52 +16473,51 @@ Les budgets de la commune restent déposés à la mairie et, le cas échéant, �
 disposition du public dans les quinze jours qui suivent leur adoption ou éventuellement leur notification après règlement par
 le représentant de l'Etat dans le département.
 
-" Le public est avisé de la mise à disposition de ces documents par tout moyen de publicité au choix du maire.
+Le public est avisé de la mise à disposition de ces documents par tout moyen de publicité au choix du maire.
 
 Dans les communes de 3 500 habitants et plus, les documents budgétaires, sans préjudice des dispositions de l'article L.
 241-6, sont assortis en annexe :
 
-" 1° De données synthétiques sur la situation financière de la commune ;
+1° De données synthétiques sur la situation financière de la commune ;
 
-" 2° De la liste des concours attribués par la commune aux associations sous forme de prestations en nature et de
-subventions ;
+2° De la liste des concours attribués par la commune aux associations sous forme de prestations en nature et de subventions ;
 
-" 3° De la présentation consolidée des résultats afférents au dernier exercice connu du budget principal et des budgets
-annexes de la commune. Cette mesure prend effet à compter de la production du compte administratif afférent à l'année 1992 ;
+3° De la présentation consolidée des résultats afférents au dernier exercice connu du budget principal et des budgets annexes
+de la commune. Cette mesure prend effet à compter de la production du compte administratif afférent à l'année 1992 ;
 
-" 4° Des tableaux de synthèse des comptes administratifs afférents au dernier exercice connu des organismes de coopération
+4° Des tableaux de synthèse des comptes administratifs afférents au dernier exercice connu des organismes de coopération
 intercommunale dont est membre la commune ;
 
-" 5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital
-ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 500 000 F ou représentant plus
-de 50 p. 100 du budget de l'organisme ;
+5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital
+ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 500000 F ou représentant plus de
+50 p. 100 du budget de l'organisme ;
 
-" 6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leur amortissement.
+6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leur amortissement.
 
-" Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1° font l'objet d'une insertion dans une
+Dans ces mêmes communes de 3500 habitants et plus, les documents visés au 1° font l'objet d'une insertion dans une
 publication locale diffusée dans la commune.
 
-" Un décret en Conseil d'Etat fixe les conditions d'application du présent article. "
+7° Des comptes et des annexes produits par les délégataires de service public ;
+
+8° Du tableau des acquisitions et cessions immobilières mentionné au (c) du II de l'article 5 de la loi n° 83-597 du 7
+juillet 1993 relative aux sociétés d'économie mixte locales.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Anciens textes_:
 
-  - SPEC_APPLI: *Dispositions non applicables aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 15
-  - SPEC_APPLI: Code des communes L261-1 :
-
-_Cite_:
-
-  - CODE DES COMMUNES annexe, L241-6
+  - Code de l'administration communale 184 remplacé
 
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 13 ()
+  - Loi n°83-597 1993-07-07 art. 5
+  - CODE DES COMMUNES. - art. L241-6 (Ab)
 
 _Cité par_:
 
@@ -16532,9 +16531,14 @@ _Cité par_:
   - Décret n°80-918 du 13 novembre 1980 - art. 17–1 (V)
   - Loi n°1871-08-10. du 10 août 1871 - art. 67 (Ab)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'administration communale 184 remplacé
+  - Loi n°95-127 du 8 février 1995 - art. 11 (V) JORF 9 février 1995 en vigueur le 9 mai 1995
+  - Loi n°95-127 du 8 février 1995 - art. 3 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Nouveaux textes_:
 
@@ -26842,37 +26846,46 @@ _Nouveaux textes_:
 
 ###### Article L311-1
 
-Le conseil municipal [**]attributions[**] délibère sur la gestion des biens et les opérations immobilières effectuées par la
-commune, sous réserve, s'il s'agit de biens appartenant à une section de commune, des dispositions des articles L. 151-1 à L.
-151-14 [*intervention de la commission syndicale de la section*].
+Le conseil municipal délibère sur la gestion des biens et les opérations immobilières effectuées par la commune, sous
+réserve, s'il s'agit de biens appartenant à une section de commune, des dispositions des articles L. 151-1 à L. 151-14.
+
+Le bilan des acquisitions et cessions opérées sur le territoire d'une commune de plus de 2 000 habitants par celle-ci, ou par
+une personne publique ou privée agissant dans le cadre d'une convention avec cette commune, donne lieu chaque année à une
+délibération du conseil municipal. Ce bilan est annexé au compte administratif de la commune.
+
+Le bilan des acquisitions et cessions opérées par les établissements publics de coopération intercommunale, les syndicats
+mixtes et les établissements publics visés à l'article L. 324-1 du code de l'urbanisme est également soumis chaque année à
+délibération de l'organe délibérant. Ce bilan est annexé au compte administratif de l'établissement concerné.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes L391-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 291
 
 _Codifié par_:
 
   - Décret n°77-240 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 Mars 1977
 
 _Cité par_:
 
   - Loi n°77-744 du 8 juillet 1977 - art. 12 (Ab)
   - CODE DES COMMUNES. - art. R*311-17 (Ab)
 
+_Modifié par_:
+
+  - Loi n°95-127 du 8 février 1995 - art. 11 (V) JORF 9 février 1995 en vigueur le 9 mai 1995
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
 _Cite_:
 
   - Code des communes L151-1 à L151-14
+  - Code de l'urbanisme - art. L324-1 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2241-1 (M)
+  - Code général des collectivités territoriales - art. L5211-10 (T)
+  - Code général des collectivités territoriales - art. L5722-3 (M)
 
 
 ##### SECTION 1 : Acquisition, location et affectation de biens.<a id=237></a>
@@ -27083,6 +27096,58 @@ _Nouveaux textes_:
 
 
 ##### SECTION 2 : Aliénation de biens.<a id=238></a>
+
+###### Article L*311-8
+
+I. - Toute cession d'immeubles ou de droits réels immobiliers par une commune de plus de 2 000 habitants donne lieu à
+délibération motivée du conseil municipal portant sur les conditions de la vente et ses caractéristiques essentielles. Le
+conseil municipal délibère au vu de l'avis du service des domaines. Cet avis est réputé donné à l'issue d'un délai d'un mois
+à compter de la saisine de ce service.
+
+Toute opération de même nature envisagée par un établissement public de coopération intercommunale, un syndicat mixte ou l'un
+des établissements publics visés à l'article L. 324-1 du code de l'urbanisme est également motivée dans les mêmes conditions
+par l'organe délibérant de l'établissement public concerné. Lorsque cette opération est envisagée dans le cadre d'une
+convention avec une commune, copie de cette délibération est transmise à la commune concernée dans les deux mois suivant son
+adoption.
+
+II. - Toute cession d'immeubles ou de droits réels immobiliers intervenue sur le territoire d'une commune de plus de 3 500
+habitants est inscrite sur un tableau récapitulatif annexé au compte administratif de la commune concernée, lorsque
+l'opération a été conclue par la commune elle-même ou par une personne publique ou privée agissant dans le cadre d'une
+convention avec cette commune. Cette inscription précise la nature du bien, sa localisation, l'origine de propriété,
+l'identité du cédant et du cessionnaire ainsi que les conditions de la cession.
+
+Les cessions d'immeubles ou de droits réels immobiliers des établissements publics de coopération intercommunale, des
+syndicats mixtes ou de l'un des établissements publics visés à l'article L. 324-1 du code de l'urbanisme font l'objet d'une
+inscription comportant les mêmes éléments que ci-dessus sur un tableau récapitulatif annexé au compte administratif de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-240 1977-03-07
+
+_Créé par_:
+
+  - Loi n°95-127 du 8 février 1995 - art. 11 (V) JORF 9 février 1995 en vigueur le 9 mai 1995
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2241-1 (M)
+  - Code général des collectivités territoriales - art. L2241-2 (MMN)
+  - Code général des collectivités territoriales - art. L5211-10 (T)
+  - Code général des collectivités territoriales - art. L5211-11 (T)
+  - Code général des collectivités territoriales - art. L5722-3 (M)
+  - Code général des collectivités territoriales - art. L5722-4 (MMN)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L324-1 (M)
+
 
 ###### Article L311-10
 
