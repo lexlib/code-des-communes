@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-04-02
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1155,7 +1155,7 @@ Version Consolidée au 1982-03-03
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1152)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1153)
     - [Personnel communal (art. R*411-4 à R*444-178)](#1154)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R415-17)](#1155)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R*415-15)](#1155)
         - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1156)
           - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1157)
           - [Commission paritaire communale . (art. R411-39)](#1158)
@@ -1172,35 +1172,34 @@ Version Consolidée au 1982-03-03
         - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1169)
           - [Discipline (art. R*414-17 à R*414-20)](#1170)
             - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1171)
-        - [POSITIONS (art. R*415-6-1 à R415-17)](#1172)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1172)
           - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1173)
           - [Le détachement . (art. R*415-7 à R*415-11)](#1174)
           - [Position hors cadre . (art. R*415-12 à R*415-14)](#1175)
           - [La disponibilité . (art. R*415-15)](#1176)
-          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1177)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1178)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1179)
-          - [Dispositions générales . (art. R*422-2)](#1180)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1181)
-          - [Congé parental . (art. R422-42 à R422-49)](#1182)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1183)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1184)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1185)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1186)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1187)
-          - [Recrutement . (art. R*444-29)](#1188)
-          - [Positions (art. R*444-90 à R*444-168)](#1189)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1190)
-              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1191)
-              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1192)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1193)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1194)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1195)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1196)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1197)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1198)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1199)
-          - [Cessation de fonctions . (art. R*444-178)](#1200)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1177)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1178)
+          - [Dispositions générales . (art. R*422-2)](#1179)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1180)
+          - [Congé parental . (art. R422-42 à R422-49)](#1181)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1182)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1183)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1184)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1185)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1186)
+          - [Recrutement . (art. R*444-29)](#1187)
+          - [Positions (art. R*444-90 à R*444-168)](#1188)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1189)
+              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1190)
+              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1191)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1192)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1193)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1194)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1195)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1196)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1197)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1198)
+          - [Cessation de fonctions . (art. R*444-178)](#1199)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -109430,83 +109429,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-##### SERVICE A MI-TEMPS .<a id=1177></a>
+### Personnels divers<a id=1177></a>
 
-###### Article R415-16
+#### Agents non titulaires<a id=1178></a>
 
-Les agents titulaires, en activité ou en service détaché, qui occupent un emploi conduisant à pension du régime de retraite
-des agents des collectivités locales, peuvent, sur leur demande et dans les cas et conditions déterminés par arrêté du
-ministre de l'intérieur, être autorisés, compte tenu des nécessités du fonctionnement du service, à accomplir un service à
-mi-temps.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1976-03-18
-  - TXT_ASSOCIE: Circulaire 363 1977-08-16 intérieur
-
-_Anciens textes_:
-
-  - Décret n°73-300 1973-03-13 ART. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
-
-_Cité par_:
-
-  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
-  - Arrêté du 23 juin 1976 - art. 17 (V)
-  - CODE DES COMMUNES. - art. R415-17 (Ab)
-
-
-###### Article R415-17
-
-La date et les modalités d'application des dispositions de l'article précédent aux agents mentionnés à cet article, en
-fonctions hors du territoire métropolitain, sont fixées par arrêté interministériel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-300 1973-03-13 ART. 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Abrogé par_:
-
-  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab) JORF 19 AOUT 1982 date d'entrée en vigueur 2 AVRIL 1982
-
-_Cité par_:
-
-  - Décret n°82-722 du 16 août 1982 - art. 4 (Ab)
-  - Arrêté du 23 juin 1976 - art. 17 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R415-16 (Ab)
-
-
-### Personnels divers<a id=1178></a>
-
-#### Agents non titulaires<a id=1179></a>
-
-##### Dispositions générales .<a id=1180></a>
+##### Dispositions générales .<a id=1179></a>
 
 ###### Article R*422-2
 
@@ -109541,7 +109468,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1181></a>
+##### Cessation de fonctions .<a id=1180></a>
 
 ###### Article R*422-37
 
@@ -109672,7 +109599,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1182></a>
+##### Congé parental .<a id=1181></a>
 
 ###### Article R422-42
 
@@ -109847,13 +109774,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1183></a>
+### Dispositions particulières<a id=1182></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1184></a>
+#### Dispositions applicables à la ville de Paris<a id=1183></a>
 
-##### Dispositions générales et organiques<a id=1185></a>
+##### Dispositions générales et organiques<a id=1184></a>
 
-##### Le conseil administratif supérieur .<a id=1186></a>
+##### Le conseil administratif supérieur .<a id=1185></a>
 
 ###### Article R*444-21
 
@@ -109953,7 +109880,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1187></a>
+##### Les commissions et comités paritaires .<a id=1186></a>
 
 ###### Article R*444-26
 
@@ -110005,7 +109932,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1188></a>
+##### Recrutement .<a id=1187></a>
 
 ###### Article R*444-29
 
@@ -110041,11 +109968,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1189></a>
+##### Positions<a id=1188></a>
 
-##### Activité, congés<a id=1190></a>
+##### Activité, congés<a id=1189></a>
 
-##### Service à temps partiel .<a id=1191></a>
+##### Service à temps partiel .<a id=1190></a>
 
 ###### Article R*444-90
 
@@ -110158,7 +110085,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### Service à mi-temps.<a id=1192></a>
+##### Service à mi-temps.<a id=1191></a>
 
 ###### Article R*444-94
 
@@ -110351,7 +110278,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1193></a>
+##### Congés de maladie .<a id=1192></a>
 
 ###### Article R*444-110
 
@@ -110720,7 +110647,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1194></a>
+##### Détachement .<a id=1193></a>
 
 ###### Article R*444-125
 
@@ -111253,7 +111180,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1195></a>
+##### POSITION HORS CADRE .<a id=1194></a>
 
 ###### Article R*444-143
 
@@ -111458,7 +111385,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1196></a>
+##### Disponibilité.<a id=1195></a>
 
 ###### Article R*444-150
 
@@ -111808,7 +111735,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1197></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1196></a>
 
 ###### Article R*444-162
 
@@ -111857,7 +111784,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1198></a>
+##### Position "sous les drapeaux" .<a id=1197></a>
 
 ###### Article R*444-164
 
@@ -111939,7 +111866,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1199></a>
+##### CONGE POSTNATAL .<a id=1198></a>
 
 ###### Article R*444-167
 
@@ -111989,7 +111916,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1200></a>
+##### Cessation de fonctions .<a id=1199></a>
 
 ###### Article R*444-178
 
