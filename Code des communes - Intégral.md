@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-03-20
+Version Consolidée au 1977-03-25
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -699,7 +699,7 @@ Version Consolidée au 1977-03-20
             - [Administration du patrimoine possédé indivisément par plusieurs communes (art. R*181-6 à R*181-7)](#696)
             - [Syndicats de communes (art. R*181-8 à R*181-9)](#697)
         - [Dispositions applicables aux communes des départements des Hauts de Seine, du Val de Marne et de la Seine Saint Denis. (art. R*183-1)](#698)
-    - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-1)](#699)
+    - [LIVRE 2 : Finances communales (art. R*211-1 à R*264-7)](#699)
       - [TITRE 1 : Budget (art. R*211-1 à R*212-6)](#700)
         - [CHAPITRE 1 : Dispositions générales. (art. R*211-1)](#701)
         - [CHAPITRE 2 : Vote et règlement. (art. R*212-1 à R*212-6)](#702)
@@ -768,7 +768,7 @@ Version Consolidée au 1977-03-20
           - [SECTION 2 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R255-2 à R255-7)](#765)
           - [SECTION 3 : Allocation versée aux communes situées dans la zone d'agglomération nouvelle. (art. R*255-8 à R*255-17)](#766)
         - [CHAPITRE 6 : Dispositions applicables à l'ensemble urbain. (art. R*256-2 à R256-1)](#767)
-      - [TITRE 6 : Dispositions particulières (art. R*261-1 à R*264-1)](#768)
+      - [TITRE 6 : Dispositions particulières (art. R*261-1 à R*264-7)](#768)
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. R*261-1 à R261-2)](#769)
           - [SECTION 1 : Dispositions générales. (art. R*261-1)](#770)
           - [SECTION 5 : Comptabilité. (art. R261-2)](#771)
@@ -785,73 +785,73 @@ Version Consolidée au 1977-03-20
             - [SOUS-SECTION 2 : Organisation. (art. R*263-25 à R*263-35)](#782)
             - [SOUS-SECTION 3 : Dispositions relatives au versement représentatif de la taxe sur les salaires. (art. R*263-36 à R*263-37)](#783)
           - [SECTION 3 : Répartition d'une part des amendes relatives à la circulation routière. (art. R*263-38 à R*263-39)](#784)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*264-1)](#785)
-    - [FINANCES COMMUNALES (art. R*212-2 à R*264-2)](#786)
-      - [BUDGET (art. R*212-2)](#787)
-        - [VOTE ET REGLEMENT . (art. R*212-2)](#788)
-      - [Dépenses . (art. R221-7)](#789)
-      - [RECETTES (art. R*232-1 à R*234-28)](#790)
-        - [CONTRIBUTIONS ET TAXES DONT LA PERCEPTION EST AUTORISEE PAR LE CODE GENERAL DES IMPOTS . (art. R*232-1 à R*232-2)](#791)
-        - [Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R233-1 à R*233-107)](#792)
-          - [Taxe sur l'électricité (art. R233-1 à R233-5)](#793)
-            - [Dispositions générales . (art. R233-1 à R233-4)](#794)
-            - [Dispositions applicables à l'électricité livrée en basse tension par des distributeurs . (art. R233-5)](#795)
-          - [TAXE DE VISITE ET DE POINCONNAGE DES VIANDES . (art. R233-12 à R233-18)](#796)
-          - [TAXE SUR LA  PUBLICITE (art. R233-21 à R233-37)](#797)
-            - [ASSIETTE DE LA TAXE ET EXONERATIONS . (art. R233-21)](#798)
-            - [PAIEMENT ET RECOUVREMENT DE LA TAXE . (art. R233-29 à R233-33)](#799)
-            - [SANCTIONS APPLICABLES . (art. R233-37)](#800)
-          - [Taxes particulières aux stations (art. R*233-39 à R233-69)](#801)
-            - [Taxe de séjour (art. R*233-39 à R233-59)](#802)
-              - [Dispositions générales . (art. R*233-39 à R233-41)](#803)
-              - [Tarifs de la taxe de séjour et exonérations . (art. R*233-43 à R233-45)](#804)
-              - [Recouvrement de la taxe de séjour et pénalités . (art. R*233-53 à R233-59)](#805)
-            - [Taxe sur les entreprises spécialement intéressées à la prospérité des stations . (art. R233-61 à R233-69)](#806)
-          - [Taxes particulières aux stations *classées* (art. R*233-42 à R233-60)](#807)
-            - [Taxe de séjour (art. R*233-42 à R233-60)](#808)
-              - [Dispositions générales. (art. R*233-42)](#809)
-              - [Tarifs de la taxe de séjour. (art. R*233-44 à R*233-48)](#810)
-              - [DISPOSITIONS PARTICULIERES AUX STATIONS DE SPORTS D'HIVER ET D'ALPINISME . (art. R233-60)](#811)
-          - [Taxes destinées au financement des transports en commun (art. R233-90 à R233-99)](#812)
-            - [Versement destiné aux transports en commun (art. R233-90 à R233-99)](#813)
-              - [Dispositions particulières aux employeurs relevant de régimes autres que le régime des assurances agricoles. (art. R233-90)](#814)
-              - [DISPOSITIONS PARTICULIERES AUX  EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES . (art. R233-99)](#815)
-          - [DROITS DE PORT . (art. R*233-102)](#816)
-          - [REDEVANCES D'OCCUPATION DU DOMAINE PUBLIC (art. R233-103 à R233-106)](#817)
-            - [REDEVANCES DES DISTRIBUTIONS D'ELECTRICITE ET DE GAZ . (art. R233-103 à R233-105)](#818)
-            - [REDEVANCES DES GAZODUCS ET OLEODUCS (art. R233-106)](#819)
-          - [AUTRES REDEVANCES POUR SERVICES RENDUS (art. R*233-107)](#820)
-            - [REDEVANCES D'ASSAINISSEMENT . (art. R*233-107)](#821)
-        - [Versement représentatif de la taxe sur les salaires *V.R.T.S.* (art. R*234-1 à R234-6)](#822)
-          - [Allocations compensatrices (art. R234-4 à R234-6)](#823)
-        - [AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE (art. R234-7 à R*234-28)](#824)
-          - [ORGANISATION DU FONDS . (art. R234-7 à R234-12)](#825)
-          - [Allocations versées aux communes touristiques et thermales (art. R*234-13 à R*234-18)](#826)
-          - [ALLOCATIONS VERSEES AUX COMMUNES TOURISTIQUES OU THERMALES (art. R*234-19 à R*234-28)](#827)
-            - [DISPOSITIONS PARTICULIERES AUX COMMUNES . (art. R*234-19 à R*234-23)](#828)
-            - [DISPOSITIONS PARTICULIERES AUX GROUPEMENTS DE COMMUNES . (art. R*234-24 à R*234-25)](#829)
-            - [DISPOSITIONS PARTICULIERES AUX NOUVELLES STATIONS CLASSEES . (art. R*234-26 à R*234-28)](#830)
-      - [COMPTABILITE (art. R*241-4 à R*241-5)](#831)
-        - [COMPTABILITES DU MAIRE ET DU COMPTABLE . (art. R*241-4 à R241-3)](#832)
-        - [Dispositions générales. (art. R*241-5)](#833)
-      - [Dispositions applicables à certains établissements communaux (art. R*253-2 à R253-7)](#834)
-        - [Communauté urbaine (art. R*253-2 à R*253-5)](#835)
-          - [Versement représentatif de la taxe sur les salaires *V.R.T.S.* (art. R*253-2 à R*253-5)](#836)
-        - [Dispositions applicables à la communauté urbaine (art. R*253-6 à R253-7)](#837)
-          - [Dispositions relatives à la dotation globale de fonctionnement *DGF*. (art. R*253-6)](#838)
-          - [Majorations de subvention d'équipement . (art. R253-7)](#839)
-      - [DISPOSITIONS PARTICULIERES (art. R262-2 à R*264-2)](#840)
-        - [DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.) (art. R262-2 à R262-11)](#841)
-          - [COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION . (art. R262-2 à R262-11)](#842)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6)](#843)
-          - [Versement destiné aux transports en commun (art. R263-6)](#844)
-            - [Dispositions communes . (art. R263-6)](#845)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne* (art. R263-8 à R263-22)](#846)
-          - [Versement destiné aux transports en commun (art. R263-8 à R263-22)](#847)
-            - [Employeurs relevant de régimes autres que le régime des assurances sociales agricoles (art. R263-9 à R263-11)](#848)
-            - [EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES . (art. R263-20 à R263-22)](#849)
-        - [Dispositions applicables à la ville de Paris (art. R*264-2)](#850)
-          - [Dispositions *applicables* au budget communal et au budget spécial de la préfecture de police (art. R*264-2)](#851)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*264-1 à R*264-7)](#785)
+          - [SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police. (art. R*264-2 à R*264-6)](#786)
+          - [SECTION 4 : Dispositions relatives aux recettes. (art. R*264-7)](#787)
+    - [FINANCES COMMUNALES (art. R*212-2 à R263-22)](#788)
+      - [BUDGET (art. R*212-2)](#789)
+        - [VOTE ET REGLEMENT . (art. R*212-2)](#790)
+      - [Dépenses . (art. R221-7)](#791)
+      - [RECETTES (art. R*232-1 à R*234-28)](#792)
+        - [CONTRIBUTIONS ET TAXES DONT LA PERCEPTION EST AUTORISEE PAR LE CODE GENERAL DES IMPOTS . (art. R*232-1 à R*232-2)](#793)
+        - [Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts (art. R233-1 à R*233-107)](#794)
+          - [Taxe sur l'électricité (art. R233-1 à R233-5)](#795)
+            - [Dispositions générales . (art. R233-1 à R233-4)](#796)
+            - [Dispositions applicables à l'électricité livrée en basse tension par des distributeurs . (art. R233-5)](#797)
+          - [TAXE DE VISITE ET DE POINCONNAGE DES VIANDES . (art. R233-12 à R233-18)](#798)
+          - [TAXE SUR LA  PUBLICITE (art. R233-21 à R233-37)](#799)
+            - [ASSIETTE DE LA TAXE ET EXONERATIONS . (art. R233-21)](#800)
+            - [PAIEMENT ET RECOUVREMENT DE LA TAXE . (art. R233-29 à R233-33)](#801)
+            - [SANCTIONS APPLICABLES . (art. R233-37)](#802)
+          - [Taxes particulières aux stations (art. R*233-39 à R233-69)](#803)
+            - [Taxe de séjour (art. R*233-39 à R233-59)](#804)
+              - [Dispositions générales . (art. R*233-39 à R233-41)](#805)
+              - [Tarifs de la taxe de séjour et exonérations . (art. R*233-43 à R233-45)](#806)
+              - [Recouvrement de la taxe de séjour et pénalités . (art. R*233-53 à R233-59)](#807)
+            - [Taxe sur les entreprises spécialement intéressées à la prospérité des stations . (art. R233-61 à R233-69)](#808)
+          - [Taxes particulières aux stations *classées* (art. R*233-42 à R233-60)](#809)
+            - [Taxe de séjour (art. R*233-42 à R233-60)](#810)
+              - [Dispositions générales. (art. R*233-42)](#811)
+              - [Tarifs de la taxe de séjour. (art. R*233-44 à R*233-48)](#812)
+              - [DISPOSITIONS PARTICULIERES AUX STATIONS DE SPORTS D'HIVER ET D'ALPINISME . (art. R233-60)](#813)
+          - [Taxes destinées au financement des transports en commun (art. R233-90 à R233-99)](#814)
+            - [Versement destiné aux transports en commun (art. R233-90 à R233-99)](#815)
+              - [Dispositions particulières aux employeurs relevant de régimes autres que le régime des assurances agricoles. (art. R233-90)](#816)
+              - [DISPOSITIONS PARTICULIERES AUX  EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES . (art. R233-99)](#817)
+          - [DROITS DE PORT . (art. R*233-102)](#818)
+          - [REDEVANCES D'OCCUPATION DU DOMAINE PUBLIC (art. R233-103 à R233-106)](#819)
+            - [REDEVANCES DES DISTRIBUTIONS D'ELECTRICITE ET DE GAZ . (art. R233-103 à R233-105)](#820)
+            - [REDEVANCES DES GAZODUCS ET OLEODUCS (art. R233-106)](#821)
+          - [AUTRES REDEVANCES POUR SERVICES RENDUS (art. R*233-107)](#822)
+            - [REDEVANCES D'ASSAINISSEMENT . (art. R*233-107)](#823)
+        - [Versement représentatif de la taxe sur les salaires *V.R.T.S.* (art. R*234-1 à R234-6)](#824)
+          - [Allocations compensatrices (art. R234-4 à R234-6)](#825)
+        - [AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE (art. R234-7 à R*234-28)](#826)
+          - [ORGANISATION DU FONDS . (art. R234-7 à R234-12)](#827)
+          - [Allocations versées aux communes touristiques et thermales (art. R*234-13 à R*234-18)](#828)
+          - [ALLOCATIONS VERSEES AUX COMMUNES TOURISTIQUES OU THERMALES (art. R*234-19 à R*234-28)](#829)
+            - [DISPOSITIONS PARTICULIERES AUX COMMUNES . (art. R*234-19 à R*234-23)](#830)
+            - [DISPOSITIONS PARTICULIERES AUX GROUPEMENTS DE COMMUNES . (art. R*234-24 à R*234-25)](#831)
+            - [DISPOSITIONS PARTICULIERES AUX NOUVELLES STATIONS CLASSEES . (art. R*234-26 à R*234-28)](#832)
+      - [COMPTABILITE (art. R*241-4 à R*241-5)](#833)
+        - [COMPTABILITES DU MAIRE ET DU COMPTABLE . (art. R*241-4 à R241-3)](#834)
+        - [Dispositions générales. (art. R*241-5)](#835)
+      - [Dispositions applicables à certains établissements communaux (art. R*253-2 à R253-7)](#836)
+        - [Communauté urbaine (art. R*253-2 à R*253-5)](#837)
+          - [Versement représentatif de la taxe sur les salaires *V.R.T.S.* (art. R*253-2 à R*253-5)](#838)
+        - [Dispositions applicables à la communauté urbaine (art. R*253-6 à R253-7)](#839)
+          - [Dispositions relatives à la dotation globale de fonctionnement *DGF*. (art. R*253-6)](#840)
+          - [Majorations de subvention d'équipement . (art. R253-7)](#841)
+      - [DISPOSITIONS PARTICULIERES (art. R262-2 à R263-22)](#842)
+        - [DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.) (art. R262-2 à R262-11)](#843)
+          - [COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION . (art. R262-2 à R262-11)](#844)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6)](#845)
+          - [Versement destiné aux transports en commun (art. R263-6)](#846)
+            - [Dispositions communes . (art. R263-6)](#847)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne* (art. R263-8 à R263-22)](#848)
+          - [Versement destiné aux transports en commun (art. R263-8 à R263-22)](#849)
+            - [Employeurs relevant de régimes autres que le régime des assurances sociales agricoles (art. R263-9 à R263-11)](#850)
+            - [EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES . (art. R263-20 à R263-22)](#851)
     - [LIVRE 3 : Administration et services communaux (art. R*311-1 à R395-2)](#852)
       - [TITRE 1 : Administration de la commune (art. R*311-1 à R318-1)](#853)
         - [CHAPITRE 1 : Biens communaux (art. R*311-1 à R*311-20)](#854)
@@ -60391,11 +60391,160 @@ _Cite_:
   - Code des communes R264-2 à R264-7
 
 
-## FINANCES COMMUNALES<a id=786></a>
+##### SECTION 3 : Dispositions communes au budget communal et au budget spécial de la préfecture de police.<a id=786></a>
 
-### BUDGET<a id=787></a>
+###### Article R*264-2
 
-#### VOTE ET REGLEMENT .<a id=788></a>
+Lorsqu'elles ne sont pas réglées par virement de compte, les dépenses de la commune de Paris et de ses établissements publics
+sont obligatoirement réglées par chèque sur le Trésor [*forme du paiement*].
+
+Les chèques sont barrés lorsqu'ils excèdent un montant fixé par le ministre de l'économie et des finances [*compétence*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-278 1977-03-24
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*264-3
+
+Le ou les contrôleurs financiers chargés par application de l'article L. 264-16 du code des communes d'assurer le contrôle
+des budgets d'investissement de Paris sont nommés auprès du maire de Paris et du préfet de police[*affectation*].
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+
+_Codifié par_:
+
+  - Décret n°77-278 1977-03-24
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L264-16 (Ab)
+
+
+###### Article R*264-4
+
+Pour répondre aux prescriptions de l'article 5 de la loi du 10 août 1922, tous arrêtés, contrats, mesures, décisions ou
+approbations de l'un des ordonnateurs de la commune de Paris ayant pour effet d'engager une dépense sur le budget
+d'investissement sont soumis au visa préalable du contrôleur financier.
+
+Le contrôleur les examine au point de vue de l'imputation de la dépense, de la disponibilité des crédits, de l'exactitude de
+l'évaluation, de l'application des dispositions d'ordre financier, des lois et règlements, de la régularité de l'exécution du
+budget et des conséquences que les mesures proposées peuvent entraîner pour les finances de la collectivité. A cet effet, il
+reçoit communication de toutes les pièces [*documents*] justificatives des engagements de dépenses d'investissement.
+
+Si les mesures proposées lui paraissent entachées d'irrégularité le contrôleur refuse son visa. En cas de désaccord
+persistant il en réfère au ministre de l'économie et des finances qui en avise le ministre de l'intérieur[*procédure,
+compétence*].
+
+L'ordonnateur ne peut passer outre au refus de visa du contrôleur que sur avis conforme du ministre de l'économie et des
+finances[*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+  - TXT_ASSOCIE: Loi n°1922-08-10 art. 5
+
+_Codifié par_:
+
+  - Décret n°77-278 1977-03-24
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*264-5
+
+Les règles prévues à l'article 6 de la loi susvisée du 10 août 1922 et relatives au visa du contrôleur financier s'appliquent
+aux mandats de paiement en matière d'investissement [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-278 1977-03-24
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°1922-08-10 art. 6
+  - TXT_ASSOCIE: Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)
+
+
+###### Article R*264-6
+
+Les rapports établis par les contrôleurs financiers conformément à l'article 7 de la loi du 10 août 1922 sont transmis, selon
+le cas, au maire de Paris, au préfet de police et au préfet de Paris[*communication*].
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°75-1331 1975-12-31
+  - TXT_ASSOCIE: Loi n°1922-08-10 art. 7
+
+_Codifié par_:
+
+  - Décret n°77-278 1977-03-24
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+##### SECTION 4 : Dispositions relatives aux recettes.<a id=787></a>
+
+###### Article R*264-7
+
+L'autorisation de majorer, par application des dispositions de l'article L. 233-7, le taux limite de la taxe sur
+l'électricité et des surtaxes ou majorations de tarifs fixé à l'article L. 233-5 fait l'objet d'un arrêté concerté du
+ministre de l'économie et des finances, du ministre de l'intérieur et du ministre chargé de l'électricité[*compétence -
+conditions de forme*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°70-957 1970-10-21 art. 4 phr. 2
+  - Code des communes R264-2
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code des communes L233-5 et L233-7
+
+
+## FINANCES COMMUNALES<a id=788></a>
+
+### BUDGET<a id=789></a>
+
+#### VOTE ET REGLEMENT .<a id=790></a>
 
 ###### Article R*212-2
 
@@ -60435,7 +60584,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L212-5 (Ab)
 
 
-### Dépenses .<a id=789></a>
+### Dépenses .<a id=791></a>
 
 ###### Article R221-7
 
@@ -60481,9 +60630,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2321-14 (V)
 
 
-### RECETTES<a id=790></a>
+### RECETTES<a id=792></a>
 
-#### CONTRIBUTIONS ET TAXES DONT LA PERCEPTION EST AUTORISEE PAR LE CODE GENERAL DES IMPOTS .<a id=791></a>
+#### CONTRIBUTIONS ET TAXES DONT LA PERCEPTION EST AUTORISEE PAR LE CODE GENERAL DES IMPOTS .<a id=793></a>
 
 ###### Article R*232-1
 
@@ -60535,11 +60684,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L232-5 (M)
 
 
-#### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=792></a>
+#### Taxes, redevances ou versements autres que ceux prévus par le code général des Impôts<a id=794></a>
 
-##### Taxe sur l'électricité<a id=793></a>
+##### Taxe sur l'électricité<a id=795></a>
 
-##### Dispositions générales .<a id=794></a>
+##### Dispositions générales .<a id=796></a>
 
 ###### Article R233-1
 
@@ -60644,7 +60793,7 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .<a id=795></a>
+##### Dispositions applicables à l'électricité livrée en basse tension par des distributeurs .<a id=797></a>
 
 ###### Article R233-5
 
@@ -60676,7 +60825,7 @@ _Cite_:
   - Code des communes L233-1 et L233-2
 
 
-##### TAXE DE VISITE ET DE POINCONNAGE DES VIANDES .<a id=796></a>
+##### TAXE DE VISITE ET DE POINCONNAGE DES VIANDES .<a id=798></a>
 
 ###### Article R233-12
 
@@ -60880,9 +61029,9 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-##### TAXE SUR LA  PUBLICITE<a id=797></a>
+##### TAXE SUR LA  PUBLICITE<a id=799></a>
 
-##### ASSIETTE DE LA TAXE ET EXONERATIONS .<a id=798></a>
+##### ASSIETTE DE LA TAXE ET EXONERATIONS .<a id=800></a>
 
 ###### Article R233-21
 
@@ -60926,7 +61075,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-12 (V)
 
 
-##### PAIEMENT ET RECOUVREMENT DE LA TAXE .<a id=799></a>
+##### PAIEMENT ET RECOUVREMENT DE LA TAXE .<a id=801></a>
 
 ###### Article R233-29
 
@@ -61048,7 +61197,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-24 (VT)
 
 
-##### SANCTIONS APPLICABLES .<a id=800></a>
+##### SANCTIONS APPLICABLES .<a id=802></a>
 
 ###### Article R233-37
 
@@ -61080,11 +61229,11 @@ _Cite_:
   - Code des communes L233-15, L233-17, L233-19, L233-21 à L233-23
 
 
-##### Taxes particulières aux stations<a id=801></a>
+##### Taxes particulières aux stations<a id=803></a>
 
-##### Taxe de séjour<a id=802></a>
+##### Taxe de séjour<a id=804></a>
 
-##### Dispositions générales .<a id=803></a>
+##### Dispositions générales .<a id=805></a>
 
 ###### Article R*233-39
 
@@ -61150,7 +61299,7 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-##### Tarifs de la taxe de séjour et exonérations .<a id=804></a>
+##### Tarifs de la taxe de séjour et exonérations .<a id=806></a>
 
 ###### Article R*233-43
 
@@ -61258,7 +61407,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-46 (M)
 
 
-##### Recouvrement de la taxe de séjour et pénalités .<a id=805></a>
+##### Recouvrement de la taxe de séjour et pénalités .<a id=807></a>
 
 ###### Article R*233-53
 
@@ -61603,7 +61752,7 @@ _Anciens textes_:
   - Décret n°1920-05-04 art. 16 al. 1 et 3
 
 
-##### Taxe sur les entreprises spécialement intéressées à la prospérité des stations .<a id=806></a>
+##### Taxe sur les entreprises spécialement intéressées à la prospérité des stations .<a id=808></a>
 
 ###### Article R233-61
 
@@ -61857,11 +62006,11 @@ _Abrogé par_:
   - Décret n°87-45 du 29 janvier 1987 - art. 8 (Ab)
 
 
-##### Taxes particulières aux stations *classées*<a id=807></a>
+##### Taxes particulières aux stations *classées*<a id=809></a>
 
-##### Taxe de séjour<a id=808></a>
+##### Taxe de séjour<a id=810></a>
 
-##### Dispositions générales.<a id=809></a>
+##### Dispositions générales.<a id=811></a>
 
 ###### Article R*233-42
 
@@ -61883,7 +62032,7 @@ _Cite_:
   - Code des communes L233-32 al. 2
 
 
-##### Tarifs de la taxe de séjour.<a id=810></a>
+##### Tarifs de la taxe de séjour.<a id=812></a>
 
 ###### Article R*233-44
 
@@ -61950,7 +62099,7 @@ _Cite_:
   - Loi n°1940-12-24
 
 
-##### DISPOSITIONS PARTICULIERES AUX STATIONS DE SPORTS D'HIVER ET D'ALPINISME .<a id=811></a>
+##### DISPOSITIONS PARTICULIERES AUX STATIONS DE SPORTS D'HIVER ET D'ALPINISME .<a id=813></a>
 
 ###### Article R233-60
 
@@ -61986,11 +62135,11 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-60 (Ab)
 
 
-##### Taxes destinées au financement des transports en commun<a id=812></a>
+##### Taxes destinées au financement des transports en commun<a id=814></a>
 
-##### Versement destiné aux transports en commun<a id=813></a>
+##### Versement destiné aux transports en commun<a id=815></a>
 
-##### Dispositions particulières aux employeurs relevant de régimes autres que le régime des assurances agricoles.<a id=814></a>
+##### Dispositions particulières aux employeurs relevant de régimes autres que le régime des assurances agricoles.<a id=816></a>
 
 ###### Article R233-90
 
@@ -62037,7 +62186,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2333-93 (Ab)
 
 
-##### DISPOSITIONS PARTICULIERES AUX  EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .<a id=815></a>
+##### DISPOSITIONS PARTICULIERES AUX  EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .<a id=817></a>
 
 ###### Article R233-99
 
@@ -62066,7 +62215,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2333-102 (V)
 
 
-##### DROITS DE PORT .<a id=816></a>
+##### DROITS DE PORT .<a id=818></a>
 
 ###### Article R*233-102
 
@@ -62103,9 +62252,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2331-4 (V)
 
 
-##### REDEVANCES D'OCCUPATION DU DOMAINE PUBLIC<a id=817></a>
+##### REDEVANCES D'OCCUPATION DU DOMAINE PUBLIC<a id=819></a>
 
-##### REDEVANCES DES DISTRIBUTIONS D'ELECTRICITE ET DE GAZ .<a id=818></a>
+##### REDEVANCES DES DISTRIBUTIONS D'ELECTRICITE ET DE GAZ .<a id=820></a>
 
 ###### Article R233-103
 
@@ -62207,7 +62356,7 @@ _Nouveaux textes_:
   - Code des communes R233-106 (2ème version)
 
 
-##### REDEVANCES DES GAZODUCS ET OLEODUCS<a id=819></a>
+##### REDEVANCES DES GAZODUCS ET OLEODUCS<a id=821></a>
 
 ###### Article R233-106
 
@@ -62247,9 +62396,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2331-1 (V)
 
 
-##### AUTRES REDEVANCES POUR SERVICES RENDUS<a id=820></a>
+##### AUTRES REDEVANCES POUR SERVICES RENDUS<a id=822></a>
 
-##### REDEVANCES D'ASSAINISSEMENT .<a id=821></a>
+##### REDEVANCES D'ASSAINISSEMENT .<a id=823></a>
 
 ###### Article R*233-107
 
@@ -62281,7 +62430,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-120 (V)
 
 
-#### Versement représentatif de la taxe sur les salaires *V.R.T.S.*<a id=822></a>
+#### Versement représentatif de la taxe sur les salaires *V.R.T.S.*<a id=824></a>
 
 ###### Article R*234-1
 
@@ -62355,7 +62504,7 @@ _Cite_:
   - Code des communes L234-6 à L234-16
 
 
-##### Allocations compensatrices<a id=823></a>
+##### Allocations compensatrices<a id=825></a>
 
 ###### Article R234-4
 
@@ -62537,9 +62686,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R5211-12 (T)
 
 
-#### AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE<a id=824></a>
+#### AUTRES RECETTES REPARTIES PAR LE FONDS D'ACTION LOCALE<a id=826></a>
 
-##### ORGANISATION DU FONDS .<a id=825></a>
+##### ORGANISATION DU FONDS .<a id=827></a>
 
 ###### Article R234-7
 
@@ -62730,7 +62879,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2334-5 (V)
 
 
-##### Allocations versées aux communes touristiques et thermales<a id=826></a>
+##### Allocations versées aux communes touristiques et thermales<a id=828></a>
 
 ###### Article R*234-13
 
@@ -62953,9 +63102,9 @@ _Cite_:
   - Code des communes R234-17 et R234-25
 
 
-##### ALLOCATIONS VERSEES AUX COMMUNES TOURISTIQUES OU THERMALES<a id=827></a>
+##### ALLOCATIONS VERSEES AUX COMMUNES TOURISTIQUES OU THERMALES<a id=829></a>
 
-##### DISPOSITIONS PARTICULIERES AUX COMMUNES .<a id=828></a>
+##### DISPOSITIONS PARTICULIERES AUX COMMUNES .<a id=830></a>
 
 ###### Article R*234-19
 
@@ -63163,7 +63312,7 @@ _Cite_:
   - Code des communes R234-19 à R234-21
 
 
-##### DISPOSITIONS PARTICULIERES AUX GROUPEMENTS DE COMMUNES .<a id=829></a>
+##### DISPOSITIONS PARTICULIERES AUX GROUPEMENTS DE COMMUNES .<a id=831></a>
 
 ###### Article R*234-24
 
@@ -63238,7 +63387,7 @@ _Cite_:
   - Code des communes R234-20 et R234-26
 
 
-##### DISPOSITIONS PARTICULIERES AUX NOUVELLES STATIONS CLASSEES .<a id=830></a>
+##### DISPOSITIONS PARTICULIERES AUX NOUVELLES STATIONS CLASSEES .<a id=832></a>
 
 ###### Article R*234-26
 
@@ -63376,9 +63525,9 @@ _Cite_:
   - Code des communes R234-26 et R234-27 3° et 4°
 
 
-### COMPTABILITE<a id=831></a>
+### COMPTABILITE<a id=833></a>
 
-#### COMPTABILITES DU MAIRE ET DU COMPTABLE .<a id=832></a>
+#### COMPTABILITES DU MAIRE ET DU COMPTABLE .<a id=834></a>
 
 ###### Article R*241-4
 
@@ -63448,7 +63597,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2342-3 (V)
 
 
-#### Dispositions générales.<a id=833></a>
+#### Dispositions générales.<a id=835></a>
 
 ###### Article R*241-5
 
@@ -63483,11 +63632,11 @@ _Cite_:
   - Code des communes R241-4
 
 
-### Dispositions applicables à certains établissements communaux<a id=834></a>
+### Dispositions applicables à certains établissements communaux<a id=836></a>
 
-#### Communauté urbaine<a id=835></a>
+#### Communauté urbaine<a id=837></a>
 
-##### Versement représentatif de la taxe sur les salaires *V.R.T.S.*<a id=836></a>
+##### Versement représentatif de la taxe sur les salaires *V.R.T.S.*<a id=838></a>
 
 ###### Article R*253-2
 
@@ -63616,9 +63765,9 @@ _Cite_:
   - Code des communes R253-2
 
 
-#### Dispositions applicables à la communauté urbaine<a id=837></a>
+#### Dispositions applicables à la communauté urbaine<a id=839></a>
 
-##### Dispositions relatives à la dotation globale de fonctionnement *DGF*.<a id=838></a>
+##### Dispositions relatives à la dotation globale de fonctionnement *DGF*.<a id=840></a>
 
 ###### Article R*253-6
 
@@ -63650,7 +63799,7 @@ _Abrogé par_:
   - Décret n°79-597 1979-07-12 art. 3 JORF 14 juillet 1979
 
 
-##### Majorations de subvention d'équipement .<a id=839></a>
+##### Majorations de subvention d'équipement .<a id=841></a>
 
 ###### Article R253-7
 
@@ -63682,11 +63831,11 @@ _Créé par_:
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
 
 
-### DISPOSITIONS PARTICULIERES<a id=840></a>
+### DISPOSITIONS PARTICULIERES<a id=842></a>
 
-#### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.)<a id=841></a>
+#### DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.)<a id=843></a>
 
-##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .<a id=842></a>
+##### COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION .<a id=844></a>
 
 ###### Article R262-2
 
@@ -64033,11 +64182,11 @@ _Cite_:
   - Code des communes R235-2
 
 
-#### Dispositions applicables aux communes de la région d'Ile-de-France<a id=843></a>
+#### Dispositions applicables aux communes de la région d'Ile-de-France<a id=845></a>
 
-##### Versement destiné aux transports en commun<a id=844></a>
+##### Versement destiné aux transports en commun<a id=846></a>
 
-##### Dispositions communes .<a id=845></a>
+##### Dispositions communes .<a id=847></a>
 
 ###### Article R263-6
 
@@ -64065,9 +64214,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L263-5 (Ab)
 
 
-#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*<a id=846></a>
+#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*<a id=848></a>
 
-##### Versement destiné aux transports en commun<a id=847></a>
+##### Versement destiné aux transports en commun<a id=849></a>
 
 ###### Article R263-8
 
@@ -64097,7 +64246,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2531-6 (Ab)
 
 
-##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles<a id=848></a>
+##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles<a id=850></a>
 
 ###### Article R263-9
 
@@ -64210,7 +64359,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2531-9 (V)
 
 
-##### EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .<a id=849></a>
+##### EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES .<a id=851></a>
 
 ###### Article R263-20
 
@@ -64278,40 +64427,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2531-20 (V)
-
-
-#### Dispositions applicables à la ville de Paris<a id=850></a>
-
-##### Dispositions *applicables* au budget communal et au budget spécial de la préfecture de police<a id=851></a>
-
-###### Article R*264-2
-
-L'autorisation de majorer, par application des dispositions de l'article L. 233-7 [*relatives à l'électricité livrée en basse
-tension par des distributeurs*], le taux limite de la taxe sur l'électricité et des surtaxes ou majorations de tarifs fixé à
-l'article L. 233-5 fait l'objet d'un arrêté concerté du ministre de l'économie et des finances, du ministre de l'intérieur et
-du ministre chargé de l'électricité [*compétence - conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-957 1970-10-21 art. 4 phr. 2
-
-_Codifié par_:
-
-  - Décret n°77-91 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur 20 mars 1977
-
-_Cite_:
-
-  - Code des communes L233-5 et L233-7
-
-_Nouveaux textes_:
-
-  - Code des communes R264-7
 
 
 ## LIVRE 3 : Administration et services communaux<a id=852></a>
