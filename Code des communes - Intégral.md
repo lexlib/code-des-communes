@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1988-02-16
+Version Consolidée au 1988-04-02
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -894,10 +894,10 @@ Version Consolidée au 1988-02-16
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#891)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#892)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#893)
-    - [Personnel communal (art. R411-44 à R*412-115)](#894)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-44 à R*412-115)](#895)
-        - [Dispositions générales et organiques (art. R411-44 à R411-46)](#896)
-          - [La médaille d'honneur départementale et communal . (art. R411-44 à R411-46)](#897)
+    - [Personnel communal (art. R411-46 à R*412-115)](#894)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-46 à R*412-115)](#895)
+        - [Dispositions générales et organiques (art. R411-46)](#896)
+          - [La médaille d'honneur départementale et communal . (art. R411-46)](#897)
         - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#898)
           - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#899)
             - [Actions de formation . (art. R*412-100)](#900)
@@ -85586,6 +85586,26 @@ _Modifié par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
+###### Article R411-44
+
+La médaille d'honneur régionale, départementale et communale ne peut être attribuée aux membres des assemblées
+parlementaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°88-309 1988-03-28 art. 1 JORF 2 avril 1988
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R411-46 (M)
+
+
 ###### Article R411-45
 
 La médaille d'honneur régionale, départementale et communale comporte trois échelons :
@@ -94302,28 +94322,6 @@ _Codifié par_:
 #### Dispositions générales et organiques<a id=896></a>
 
 ##### La médaille d'honneur départementale et communal .<a id=897></a>
-
-###### Article R411-44
-
-" La médaille d'honneur régionale, départementale et communale ne peut être attribuée aux membres des assemblées
-parlementaires.
-
-" Elle ne peut également être attribuée aux membres de la Légion d'honneur ou de l'ordre national du Mérite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Modifié par_:
-
-  - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R411-46 (M)
-
 
 ###### Article R411-46
 
