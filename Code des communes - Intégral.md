@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-04-04
+Version Consolidée au 1978-04-22
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1322,38 +1322,37 @@ Version Consolidée au 1978-04-04
         - [DISCIPLINE . (art. R*414-29)](#1319)
         - [POSITIONS (art. R415-6-A à R415-17)](#1320)
           - [CONGE POSTNATAL . (art. R415-6-A à R415-6-G)](#1321)
-          - [Le détachement . (art. R*415-8 à R*415-11)](#1322)
-          - [DETACHEMENT . (art. R*415-7)](#1323)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1324)
-          - [La disponibilité . (art. R*415-15)](#1325)
-          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1326)
-        - [ALLOCATION TEMPORAIRE D'INVALIDITE . (art. R417-8 à R417-21)](#1327)
-      - [Personnels divers (art. R*422-2 à R*422-40)](#1328)
-        - [Agents non titulaires (art. R*422-2 à R*422-40)](#1329)
-          - [Dispositions générales . (art. R*422-2)](#1330)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1331)
-      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1332)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1333)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1334)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1335)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1336)
-          - [Recrutement . (art. R*444-29 à R*444-32)](#1337)
-          - [REMUNERATION . (art. R*444-40)](#1338)
-          - [AVANCEMENT . (art. R*444-50)](#1339)
-          - [Positions (art. R*444-90 à R*444-168)](#1340)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1341)
-              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1342)
-              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1343)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1344)
-            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1345)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1346)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1347)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1348)
-            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1349)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1350)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1351)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1352)
-          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1353)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1322)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1323)
+          - [La disponibilité . (art. R*415-15)](#1324)
+          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1325)
+        - [ALLOCATION TEMPORAIRE D'INVALIDITE . (art. R417-8 à R417-21)](#1326)
+      - [Personnels divers (art. R*422-2 à R*422-40)](#1327)
+        - [Agents non titulaires (art. R*422-2 à R*422-40)](#1328)
+          - [Dispositions générales . (art. R*422-2)](#1329)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1330)
+      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1331)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1332)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1333)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1334)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1335)
+          - [Recrutement . (art. R*444-29 à R*444-32)](#1336)
+          - [REMUNERATION . (art. R*444-40)](#1337)
+          - [AVANCEMENT . (art. R*444-50)](#1338)
+          - [Positions (art. R*444-90 à R*444-168)](#1339)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1340)
+              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1341)
+              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1342)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1343)
+            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1344)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1345)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1346)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1347)
+            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1348)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1349)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1350)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1351)
+          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1352)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -112723,6 +112722,49 @@ _Cite_:
 
 ##### Le détachement .<a id=1322></a>
 
+###### Article R*415-7
+
+L'agent soumis au présent titre peut obtenir, sur sa demande, son détachement :
+
+1. Auprès d'une administration publique ou d'une collectivité décentralisée de la République ;
+
+2. Auprès d'un organisme d'intérêt communal ou intercommunal ou auprès d'une entreprise titulaire d'un traité de concession,
+d'affermage, de gérance ou de régie intéressée d'un service public communal ou intercommunal, à condition que ce service,
+antérieurement au traité, ait été assuré en régie directe et que l'agent, au moment de la conclusion du traité, lui ait été
+affecté.
+
+3. Auprès du ministre des affaires étrangères ou du ministre chargé de la coopération pour être mis à la disposition d'un
+état membre de la communauté, d'un état étranger ou d'une organisation internationale ;
+
+4. Auprès d'une entreprise privée, pour y effectuer des travaux nécessités par l'exécution du programme des recherches
+d'intérêt national défini par le conseil supérieur de la recherche scientifique ;
+
+5. Pour remplir une fonction publique élective ou un mandat syndical ;
+
+6. Pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi permanent de
+l'Etat, d'une collectivité territoriale ou d'un établissement public à caractère administratif dépendant de l'Etat ou d'une
+telle collectivité ou pour suivre un cycle de préparation à un concours donnant accès à l'un de ces emplois.
+
+Dans les cas prévus aux 5. et 6., le détachement est accordé de plein droit.
+
+L'agent titulaire placé en position de détachement pour la durée du stage, dans les conditions prévues à l'article L. 412-12,
+ne peut être remplacé dans son emploi que s'il est titularisé dans son nouveau cadre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L412-12 (Ab)
+
+
 ###### Article R*415-8
 
 Dans le cas prévu au 4° de l'article précédent, il peut être mis fin au détachement sur la demande du ministre chargé de la
@@ -112840,51 +112882,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### DETACHEMENT .<a id=1323></a>
-
-###### Article R*415-7
-
-L'agent soumis au présent titre peut obtenir, sur sa demande, son détachement :
-
-1° Auprès d'une administration publique ou d'une collectivité décentralisée de la République ;
-
-2° Auprès d'un organisme d'intérêt communal ou intercommunal ;
-
-3° Auprès du ministre des affaires étrangères ou du ministre chargé de la coopération pour être mis à la disposition d'un
-Etat membre de la Communauté, d'un Etat étranger ou d'une organisation internationale ;
-
-4° Auprès d'une entreprise privée, pour y effectuer des travaux nécessités par l'exécution du programme des recherches
-d'intérêt national défini par le conseil supérieur de la recherche scientifique ;
-
-5° Pour remplir une fonction publique élective ou un mandat syndical ;
-
-6° Pour la durée du stage, dans les conditions prévues à l'article L. 412-12.
-
-Dans ces deux derniers cas, le détachement est accordé de plein droit.
-
-L'agent titulaire placé en position de détachement pour la durée du stage ne peut être remplacé dans son emploi que s'il est
-titularisé dans son nouveau cadre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-544 1962-05-05 ART. 10
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-12 (Ab)
-
-
-##### Position hors cadre .<a id=1324></a>
+##### Position hors cadre .<a id=1323></a>
 
 ###### Article R*415-12
 
@@ -112981,7 +112979,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1325></a>
+##### La disponibilité .<a id=1324></a>
 
 ###### Article R*415-15
 
@@ -113024,7 +113022,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-##### SERVICE A MI-TEMPS .<a id=1326></a>
+##### SERVICE A MI-TEMPS .<a id=1325></a>
 
 ###### Article R415-16
 
@@ -113096,7 +113094,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R415-16 (Ab)
 
 
-#### ALLOCATION TEMPORAIRE D'INVALIDITE .<a id=1327></a>
+#### ALLOCATION TEMPORAIRE D'INVALIDITE .<a id=1326></a>
 
 ###### Article R417-8
 
@@ -113440,11 +113438,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. R417-5 (Ab)
 
 
-### Personnels divers<a id=1328></a>
+### Personnels divers<a id=1327></a>
 
-#### Agents non titulaires<a id=1329></a>
+#### Agents non titulaires<a id=1328></a>
 
-##### Dispositions générales .<a id=1330></a>
+##### Dispositions générales .<a id=1329></a>
 
 ###### Article R*422-2
 
@@ -113479,7 +113477,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1331></a>
+##### Cessation de fonctions .<a id=1330></a>
 
 ###### Article R*422-37
 
@@ -113610,13 +113608,13 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-### Dispositions particulières<a id=1332></a>
+### Dispositions particulières<a id=1331></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1333></a>
+#### Dispositions applicables à la ville de Paris<a id=1332></a>
 
-##### Dispositions générales et organiques<a id=1334></a>
+##### Dispositions générales et organiques<a id=1333></a>
 
-##### Le conseil administratif supérieur .<a id=1335></a>
+##### Le conseil administratif supérieur .<a id=1334></a>
 
 ###### Article R*444-21
 
@@ -113716,7 +113714,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1336></a>
+##### Les commissions et comités paritaires .<a id=1335></a>
 
 ###### Article R*444-26
 
@@ -113768,7 +113766,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1337></a>
+##### Recrutement .<a id=1336></a>
 
 ###### Article R*444-29
 
@@ -113866,7 +113864,7 @@ _Cite_:
   - Code des communes R444-1
 
 
-##### REMUNERATION .<a id=1338></a>
+##### REMUNERATION .<a id=1337></a>
 
 ###### Article R*444-40
 
@@ -113891,7 +113889,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### AVANCEMENT .<a id=1339></a>
+##### AVANCEMENT .<a id=1338></a>
 
 ###### Article R*444-50
 
@@ -113924,11 +113922,11 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### Positions<a id=1340></a>
+##### Positions<a id=1339></a>
 
-##### Activité, congés<a id=1341></a>
+##### Activité, congés<a id=1340></a>
 
-##### Service à temps partiel .<a id=1342></a>
+##### Service à temps partiel .<a id=1341></a>
 
 ###### Article R*444-90
 
@@ -114002,7 +114000,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### Service à mi-temps.<a id=1343></a>
+##### Service à mi-temps.<a id=1342></a>
 
 ###### Article R*444-95
 
@@ -114164,7 +114162,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1344></a>
+##### Congés de maladie .<a id=1343></a>
 
 ###### Article R*444-110
 
@@ -114533,7 +114531,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### ACTIVITES, CONGES .<a id=1345></a>
+##### ACTIVITES, CONGES .<a id=1344></a>
 
 ###### Article R*444-93
 
@@ -114623,7 +114621,7 @@ _Cite_:
   - Code des communes R444-101 AL. 3
 
 
-##### Détachement .<a id=1346></a>
+##### Détachement .<a id=1345></a>
 
 ###### Article R*444-125
 
@@ -115163,7 +115161,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1347></a>
+##### POSITION HORS CADRE .<a id=1346></a>
 
 ###### Article R*444-143
 
@@ -115378,7 +115376,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1348></a>
+##### Disponibilité.<a id=1347></a>
 
 ###### Article R*444-150
 
@@ -115734,7 +115732,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1349></a>
+##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1348></a>
 
 ###### Article R*444-162
 
@@ -115763,7 +115761,7 @@ _Cite_:
   - Code des communes R444-154 5° et 6°
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1350></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1349></a>
 
 ###### Article R*444-163
 
@@ -115789,7 +115787,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1351></a>
+##### Position "sous les drapeaux" .<a id=1350></a>
 
 ###### Article R*444-164
 
@@ -115871,7 +115869,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1352></a>
+##### CONGE POSTNATAL .<a id=1351></a>
 
 ###### Article R*444-167
 
@@ -115912,7 +115910,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### Cessation de fonctions .<a id=1353></a>
+##### Cessation de fonctions .<a id=1352></a>
 
 ###### Article R*444-178
 
