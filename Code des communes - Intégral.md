@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1981-06-13
+Version Consolidée au 1981-10-27
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1167,169 +1167,168 @@ Version Consolidée au 1981-06-13
             - [Mise en bière et fermeture du cercueil . (art. R363-16)](#1164)
             - [Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres (art. R363-23)](#1165)
             - [Conditions de transport . (art. R363-26 à R363-33)](#1166)
-      - [Dispositions particulières à certains services industriels et commerciaux (art. R*371-8 à R*373-2)](#1167)
+      - [Dispositions particulières à certains services industriels et commerciaux (art. R*371-8)](#1167)
         - [Eau (art. R*371-8)](#1168)
           - [Fonds national pour le développement des adductions d'eau . (art. R*371-8)](#1169)
-        - [ORDURES MENAGERES  ET AUTRES DECHETS . (art. R*373-2)](#1170)
-      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. R381-2)](#1171)
-        - [Dispositions générales . (art. R381-2)](#1172)
-    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#1173)
-      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#1174)
-        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#1175)
-        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#1176)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#1177)
-        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#1178)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#1179)
-        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#1180)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#1181)
-        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#1182)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#1183)
-        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#1184)
-          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65)](#1185)
-          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#1186)
-        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#1187)
-          - [SECTION 2 : Notation et avancement. (art. R354-16)](#1188)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#1189)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#1190)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#1191)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#1192)
-          - [SECTION 2 : Syndicat de communes pour le personnel communal (art. R*411-13 à R411-37)](#1193)
-            - [SOUS-SECTION 1 : Constitution du syndicat. (art. R*411-13 à R411-18)](#1194)
-            - [SOUS-SECTION 2 : Formation du comité du syndicat. (art. R411-19 à R411-26)](#1195)
-            - [SOUS-SECTION 3 : Fonctionnement du comité du syndicat. (art. R411-27 à R411-34)](#1196)
-            - [SOUS-SECTION 4 : Dispositions diverses. (art. R411-35 à R411-37)](#1197)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#1198)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#1199)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#1200)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#1201)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#1202)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#1203)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#1204)
-            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#1205)
-          - [SECTION 2 : Centre de formation des personnels communaux (art. R412-44 à R412-93)](#1206)
-            - [SOUS-SECTION 1 : Rôle. (art. R412-44 à R412-54)](#1207)
-            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. R412-55 à R412-73)](#1208)
-            - [SOUS-SECTION 3 : Le budget. (art. R*412-74 à R412-87)](#1209)
-            - [SOUS-SECTION 4 : Le personnel. (art. R412-88 à R412-91)](#1210)
-            - [SOUS-SECTION 5 : Organisation des études. (art. R412-92 à R412-93)](#1211)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#1212)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#1213)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#1214)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#1215)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#1216)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#1217)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#1218)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#1219)
-          - [SECTION 1 : Notation. (art. R414-1)](#1220)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#1221)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#1222)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-16)](#1223)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#1224)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#1225)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#1226)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#1227)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#1228)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#1229)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-4)](#1230)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#1231)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#1232)
-          - [SECTION 2 : Nomination dans une autre commune. (art. R*416-4)](#1233)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#1234)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#1235)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#1236)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#1237)
-      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#1238)
-        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#1239)
-          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#1240)
-          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#1241)
-          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#1242)
-          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#1243)
-          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#1244)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#1245)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#1246)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#1247)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#1248)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#1249)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#1250)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#1251)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#1252)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#1253)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#1254)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#1255)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#1256)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#1257)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#1258)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#1259)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#1260)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#1261)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#1262)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#1263)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#1264)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#1265)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#1266)
-            - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#1267)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#1268)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#1269)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#1270)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#1271)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#1272)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#1273)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#1274)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#1275)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1276)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1277)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1278)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1279)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1280)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1281)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1282)
-    - [Personnel communal (art. R*411-4 à R*444-178)](#1283)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R415-17)](#1284)
-        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1285)
-          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1286)
-          - [Commission paritaire communale . (art. R411-39)](#1287)
-          - [Commission paritaire intercommunale . (art. R411-40)](#1288)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1289)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1290)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1291)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1292)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1293)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1294)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1295)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1296)
-        - [AVANCEMENT . (art. R*414-8 à R*414-9)](#1297)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1298)
-          - [Discipline (art. R*414-17 à R*414-20)](#1299)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1300)
-        - [POSITIONS (art. R*415-6-1 à R415-17)](#1301)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1302)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1303)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1304)
-          - [La disponibilité . (art. R*415-15)](#1305)
-          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1306)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1307)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1308)
-          - [Dispositions générales . (art. R*422-2)](#1309)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1310)
-          - [Congé parental . (art. R422-42 à R422-49)](#1311)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1312)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1313)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1314)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1315)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1316)
-          - [Recrutement . (art. R*444-29)](#1317)
-          - [Positions (art. R*444-90 à R*444-168)](#1318)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1319)
-              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1320)
-              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1321)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1322)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1323)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1324)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1325)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1326)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1327)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1328)
-          - [Cessation de fonctions . (art. R*444-178)](#1329)
+      - [PARTICIPATION A DES  ENTREPRISES PRIVEES . (art. R381-2)](#1170)
+        - [Dispositions générales . (art. R381-2)](#1171)
+    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#1172)
+      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#1173)
+        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#1174)
+        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#1175)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#1176)
+        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#1177)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#1178)
+        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#1179)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#1180)
+        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#1181)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#1182)
+        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#1183)
+          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65)](#1184)
+          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#1185)
+        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#1186)
+          - [SECTION 2 : Notation et avancement. (art. R354-16)](#1187)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#1188)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#1189)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#1190)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#1191)
+          - [SECTION 2 : Syndicat de communes pour le personnel communal (art. R*411-13 à R411-37)](#1192)
+            - [SOUS-SECTION 1 : Constitution du syndicat. (art. R*411-13 à R411-18)](#1193)
+            - [SOUS-SECTION 2 : Formation du comité du syndicat. (art. R411-19 à R411-26)](#1194)
+            - [SOUS-SECTION 3 : Fonctionnement du comité du syndicat. (art. R411-27 à R411-34)](#1195)
+            - [SOUS-SECTION 4 : Dispositions diverses. (art. R411-35 à R411-37)](#1196)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#1197)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#1198)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#1199)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#1200)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#1201)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#1202)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#1203)
+            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#1204)
+          - [SECTION 2 : Centre de formation des personnels communaux (art. R412-44 à R412-93)](#1205)
+            - [SOUS-SECTION 1 : Rôle. (art. R412-44 à R412-54)](#1206)
+            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. R412-55 à R412-73)](#1207)
+            - [SOUS-SECTION 3 : Le budget. (art. R*412-74 à R412-87)](#1208)
+            - [SOUS-SECTION 4 : Le personnel. (art. R412-88 à R412-91)](#1209)
+            - [SOUS-SECTION 5 : Organisation des études. (art. R412-92 à R412-93)](#1210)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#1211)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#1212)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#1213)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#1214)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#1215)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#1216)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#1217)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#1218)
+          - [SECTION 1 : Notation. (art. R414-1)](#1219)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#1220)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#1221)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-16)](#1222)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#1223)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#1224)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#1225)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#1226)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#1227)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#1228)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-4)](#1229)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#1230)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#1231)
+          - [SECTION 2 : Nomination dans une autre commune. (art. R*416-4)](#1232)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#1233)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#1234)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#1235)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#1236)
+      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#1237)
+        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#1238)
+          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#1239)
+          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#1240)
+          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#1241)
+          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#1242)
+          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#1243)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#1244)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#1245)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#1246)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#1247)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#1248)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#1249)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#1250)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#1251)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#1252)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#1253)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#1254)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#1255)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#1256)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#1257)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#1258)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#1259)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#1260)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#1261)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France. (art. R443-1 à R443-3)](#1262)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#1263)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-27)](#1264)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#1265)
+            - [SOUS-SECTION 3 : Les commissions et comités paritaires. (art. R*444-24 à R*444-27)](#1266)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#1267)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#1268)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#1269)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#1270)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#1271)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#1272)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#1273)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#1274)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#1275)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#1276)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#1277)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#1278)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1279)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1280)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1281)
+    - [Personnel communal (art. R*411-4 à R*444-178)](#1282)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R*411-4 à R415-17)](#1283)
+        - [Dispositions générales et organiques (art. R*411-4 à R411-54)](#1284)
+          - [Commission nationale paritaire du personnel communal . (art. R*411-4 à R411-6)](#1285)
+          - [Commission paritaire communale . (art. R411-39)](#1286)
+          - [Commission paritaire intercommunale . (art. R411-40)](#1287)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1288)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#1289)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1290)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1291)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1292)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1293)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1294)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1295)
+        - [AVANCEMENT . (art. R*414-8 à R*414-9)](#1296)
+        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1297)
+          - [Discipline (art. R*414-17 à R*414-20)](#1298)
+            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1299)
+        - [POSITIONS (art. R*415-6-1 à R415-17)](#1300)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1301)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1302)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1303)
+          - [La disponibilité . (art. R*415-15)](#1304)
+          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1305)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1306)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1307)
+          - [Dispositions générales . (art. R*422-2)](#1308)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1309)
+          - [Congé parental . (art. R422-42 à R422-49)](#1310)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1311)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1312)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1313)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1314)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1315)
+          - [Recrutement . (art. R*444-29)](#1316)
+          - [Positions (art. R*444-90 à R*444-168)](#1317)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1318)
+              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1319)
+              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1320)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1321)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1322)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1323)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1324)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1325)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1326)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1327)
+          - [Cessation de fonctions . (art. R*444-178)](#1328)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -98163,31 +98162,9 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-#### ORDURES MENAGERES  ET AUTRES DECHETS .<a id=1170></a>
+### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=1170></a>
 
-###### Article R*373-2
-
-L'entreprise de la collecte et de l'évacuation des ordures ménagères dans les villes de plus de dix mille habitants
-[*nombre*] peut être soumise aux dispositions du cahier des charges type annexé au décret n° 59-1081 du 31 août 1959.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°59-1081 1959-08-31 ANNEXE (CAHIER DES CHARGES TYPE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 MARS 1977
-
-
-### PARTICIPATION A DES  ENTREPRISES PRIVEES .<a id=1171></a>
-
-#### Dispositions générales .<a id=1172></a>
+#### Dispositions générales .<a id=1171></a>
 
 ###### Article R381-2
 
@@ -98223,11 +98200,11 @@ _Codifié par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R381-1 (Ab)
 
 
-## LIVRE 16 : Administration et services communaux<a id=1173></a>
+## LIVRE 16 : Administration et services communaux<a id=1172></a>
 
-### TITRE 2 : Protection contre l'incendie<a id=1174></a>
+### TITRE 2 : Protection contre l'incendie<a id=1173></a>
 
-#### CHAPITRE 1 : Dispositions générales.<a id=1175></a>
+#### CHAPITRE 1 : Dispositions générales.<a id=1174></a>
 
 ###### Article R*351-2
 
@@ -98335,9 +98312,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=1176></a>
+#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=1175></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=1177></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=1176></a>
 
 ###### Article R352-1
 
@@ -98526,9 +98503,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=1178></a>
+#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=1177></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=1179></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=1178></a>
 
 ###### Article R352-12
 
@@ -98555,9 +98532,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=1180></a>
+#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=1179></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=1181></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=1180></a>
 
 ###### Article R352-24
 
@@ -98589,9 +98566,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=1182></a>
+#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=1181></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=1183></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=1182></a>
 
 ###### Article R352-26
 
@@ -98622,9 +98599,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L131-13 (M)
 
 
-#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=1184></a>
+#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=1183></a>
 
-##### SECTION 2 : Service de santé et de secours médical.<a id=1185></a>
+##### SECTION 2 : Service de santé et de secours médical.<a id=1184></a>
 
 ###### Article R352-65
 
@@ -98658,7 +98635,7 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=1186></a>
+##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=1185></a>
 
 ###### Article R352-68
 
@@ -98762,9 +98739,9 @@ _Cite_:
   - Loi   1901-07-01
 
 
-#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=1187></a>
+#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=1186></a>
 
-##### SECTION 2 : Notation et avancement.<a id=1188></a>
+##### SECTION 2 : Notation et avancement.<a id=1187></a>
 
 ###### Article R354-16
 
@@ -98790,13 +98767,13 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-## LIVRE 4 : Personnel communal<a id=1189></a>
+## LIVRE 4 : Personnel communal<a id=1188></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=1190></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=1189></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=1191></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=1190></a>
 
-##### SECTION 1 : Dispositions générales.<a id=1192></a>
+##### SECTION 1 : Dispositions générales.<a id=1191></a>
 
 ###### Article R*411-1
 
@@ -98877,9 +98854,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 2 : Syndicat de communes pour le personnel communal<a id=1193></a>
+##### SECTION 2 : Syndicat de communes pour le personnel communal<a id=1192></a>
 
-##### SOUS-SECTION 1 : Constitution du syndicat.<a id=1194></a>
+##### SOUS-SECTION 1 : Constitution du syndicat.<a id=1193></a>
 
 ###### Article R*411-13
 
@@ -99182,7 +99159,7 @@ _Cite_:
   - Code des communes R411-13 et R411-14
 
 
-##### SOUS-SECTION 2 : Formation du comité du syndicat.<a id=1195></a>
+##### SOUS-SECTION 2 : Formation du comité du syndicat.<a id=1194></a>
 
 ###### Article R411-19
 
@@ -99466,7 +99443,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-##### SOUS-SECTION 3 : Fonctionnement du comité du syndicat.<a id=1196></a>
+##### SOUS-SECTION 3 : Fonctionnement du comité du syndicat.<a id=1195></a>
 
 ###### Article R411-27
 
@@ -99718,7 +99695,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-##### SOUS-SECTION 4 : Dispositions diverses.<a id=1197></a>
+##### SOUS-SECTION 4 : Dispositions diverses.<a id=1196></a>
 
 ###### Article R411-35
 
@@ -99820,7 +99797,7 @@ _Cite_:
   - Code des communes L163-1 à L163-18
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=1198></a>
+##### SECTION 4 : Commission paritaire communale.<a id=1197></a>
 
 ###### Article R*411-38
 
@@ -99846,7 +99823,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 7 : Honorariat.<a id=1199></a>
+##### SECTION 7 : Honorariat.<a id=1198></a>
 
 ###### Article R411-55
 
@@ -99868,11 +99845,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=1200></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=1199></a>
 
-##### SECTION 1 : Recrutement<a id=1201></a>
+##### SECTION 1 : Recrutement<a id=1200></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=1202></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=1201></a>
 
 ###### Article R*412-1
 
@@ -100065,7 +100042,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=1203></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=1202></a>
 
 ###### Article R412-9
 
@@ -100272,7 +100249,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=1204></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=1203></a>
 
 ###### Article R*412-32
 
@@ -100812,7 +100789,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=1205></a>
+##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=1204></a>
 
 ###### Article R412-35
 
@@ -101129,9 +101106,9 @@ _Créé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 2 : Centre de formation des personnels communaux<a id=1206></a>
+##### SECTION 2 : Centre de formation des personnels communaux<a id=1205></a>
 
-##### SOUS-SECTION 1 : Rôle.<a id=1207></a>
+##### SOUS-SECTION 1 : Rôle.<a id=1206></a>
 
 ###### Article R412-44
 
@@ -101559,7 +101536,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-31 (Ab)
 
 
-##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=1208></a>
+##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=1207></a>
 
 ###### Article R412-55
 
@@ -102258,7 +102235,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SOUS-SECTION 3 : Le budget.<a id=1209></a>
+##### SOUS-SECTION 3 : Le budget.<a id=1208></a>
 
 ###### Article R*412-74
 
@@ -102776,7 +102753,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SOUS-SECTION 4 : Le personnel.<a id=1210></a>
+##### SOUS-SECTION 4 : Le personnel.<a id=1209></a>
 
 ###### Article R412-88
 
@@ -102939,7 +102916,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-36 (Ab)
 
 
-##### SOUS-SECTION 5 : Organisation des études.<a id=1211></a>
+##### SOUS-SECTION 5 : Organisation des études.<a id=1210></a>
 
 ###### Article R412-92
 
@@ -103009,7 +102986,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 3 : Promotion sociale.<a id=1212></a>
+##### SECTION 3 : Promotion sociale.<a id=1211></a>
 
 ###### Article R412-94
 
@@ -103140,9 +103117,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=1213></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=1212></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=1214></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=1213></a>
 
 ###### Article R*412-116
 
@@ -103274,7 +103251,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=1215></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=1214></a>
 
 ###### Article R412-120
 
@@ -103384,7 +103361,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=1216></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=1215></a>
 
 ###### Article R*412-123
 
@@ -103473,7 +103450,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1217></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1216></a>
 
 ###### Article R*412-127
 
@@ -103493,7 +103470,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=1218></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=1217></a>
 
 ###### Article R*413-1
 
@@ -103542,9 +103519,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=1219></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=1218></a>
 
-##### SECTION 1 : Notation.<a id=1220></a>
+##### SECTION 1 : Notation.<a id=1219></a>
 
 ###### Article R414-1
 
@@ -103571,7 +103548,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=1221></a>
+##### SECTION 2 : Avancement.<a id=1220></a>
 
 ###### Article R*414-2
 
@@ -103944,9 +103921,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=1222></a>
+##### SECTION 3 : Discipline<a id=1221></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=1223></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=1222></a>
 
 ###### Article R*414-15
 
@@ -104007,7 +103984,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=1224></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=1223></a>
 
 ###### Article R*414-22
 
@@ -104202,7 +104179,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1225></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=1224></a>
 
 ###### Article R*414-29
 
@@ -104216,11 +104193,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=1226></a>
+#### CHAPITRE 5 : Positions<a id=1225></a>
 
-##### SECTION 1 : Activités, congés<a id=1227></a>
+##### SECTION 1 : Activités, congés<a id=1226></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=1228></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=1227></a>
 
 ###### Article R*415-2
 
@@ -104387,7 +104364,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=1229></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=1228></a>
 
 ###### Article R*415-6
 
@@ -104414,7 +104391,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=1230></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=1229></a>
 
 ###### Article R*416-1
 
@@ -104446,7 +104423,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=1231></a>
+##### SECTION 1 : L'admission à la retraite.<a id=1230></a>
 
 ###### Article R*416-2
 
@@ -104469,7 +104446,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=1232></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=1231></a>
 
 ###### Article R*416-3
 
@@ -104491,7 +104468,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Nomination dans une autre commune.<a id=1233></a>
+##### SECTION 2 : Nomination dans une autre commune.<a id=1232></a>
 
 ###### Article R*416-4
 
@@ -104521,9 +104498,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-643 du 26 juin 1985 - art. 118 (M)
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=1234></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=1233></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=1235></a>
+##### SECTION 1 : Sécurité sociale.<a id=1234></a>
 
 ###### Article R417-1
 
@@ -104548,7 +104525,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=1236></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=1235></a>
 
 ###### Article R417-5
 
@@ -105141,7 +105118,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=1237></a>
+##### SECTION 4 : Pensions.<a id=1236></a>
 
 ###### Article R417-22
 
@@ -105187,11 +105164,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=1238></a>
+### TITRE 2 : Personnels divers<a id=1237></a>
 
-#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=1239></a>
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=1238></a>
 
-##### SECTION 1 : Dispositions générales.<a id=1240></a>
+##### SECTION 1 : Dispositions générales.<a id=1239></a>
 
 ###### Article R*421-7
 
@@ -105417,7 +105394,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-13 (M)
 
 
-##### SECTION 2 : Représentation aux commissions paritaires.<a id=1241></a>
+##### SECTION 2 : Représentation aux commissions paritaires.<a id=1240></a>
 
 ###### Article R421-8
 
@@ -105579,7 +105556,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 3 : Garanties disciplinaires.<a id=1242></a>
+##### SECTION 3 : Garanties disciplinaires.<a id=1241></a>
 
 ###### Article R421-14
 
@@ -105870,7 +105847,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 4 : Congés.<a id=1243></a>
+##### SECTION 4 : Congés.<a id=1242></a>
 
 ###### Article R421-24
 
@@ -105958,7 +105935,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-29 (Ab)
 
 
-##### SECTION 5 : Régime particulier de retraite.<a id=1244></a>
+##### SECTION 5 : Régime particulier de retraite.<a id=1243></a>
 
 ###### Article R421-27
 
@@ -105987,9 +105964,9 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-#### CHAPITRE 2 : Agents non titulaires<a id=1245></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=1244></a>
 
-##### SECTION 1 : Dispositions générales.<a id=1246></a>
+##### SECTION 1 : Dispositions générales.<a id=1245></a>
 
 ###### Article R*422-1
 
@@ -106010,7 +105987,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=1247></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=1246></a>
 
 ###### Article R*422-3
 
@@ -106072,7 +106049,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=1248></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=1247></a>
 
 ###### Article R*422-5
 
@@ -106189,7 +106166,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=1249></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=1248></a>
 
 ###### Article R*422-9
 
@@ -106332,7 +106309,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=1250></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=1249></a>
 
 ###### Article R*422-15
 
@@ -106775,7 +106752,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=1251></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=1250></a>
 
 ###### Article R*422-33
 
@@ -106887,7 +106864,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=1252></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=1251></a>
 
 ###### Article R422-41
 
@@ -106923,7 +106900,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=1253></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=1252></a>
 
 ###### Article R*423-1
 
@@ -107015,11 +106992,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=1254></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=1253></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=1255></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=1254></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=1256></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=1255></a>
 
 ###### Article R*432-1
 
@@ -107112,7 +107089,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=1257></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=1256></a>
 
 ###### Article R*432-4
 
@@ -107316,9 +107293,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=1258></a>
+### TITRE 4 : Dispositions particulières<a id=1257></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=1259></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=1258></a>
 
 ###### Article R441-1
 
@@ -107348,9 +107325,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=1260></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=1259></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=1261></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=1260></a>
 
 ###### Article R442-1
 
@@ -107392,7 +107369,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=1262></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=1261></a>
 
 ###### Article R*442-2
 
@@ -107414,7 +107391,7 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.<a id=1263></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements de la région d'Ile-de-France.<a id=1262></a>
 
 ###### Article R443-1
 
@@ -107518,11 +107495,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. R411-11 (Ab)
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=1264></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=1263></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=1265></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=1264></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=1266></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=1265></a>
 
 ###### Article R*444-1
 
@@ -108030,7 +108007,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Les commissions et comités paritaires.<a id=1267></a>
+##### SOUS-SECTION 3 : Les commissions et comités paritaires.<a id=1266></a>
 
 ###### Article R*444-24
 
@@ -108145,7 +108122,7 @@ _Cite_:
   - Décret n°85-565 du 30 mai 1985 - art. 34 (M)
 
 
-##### SECTION 2 : Recrutement.<a id=1268></a>
+##### SECTION 2 : Recrutement.<a id=1267></a>
 
 ###### Article R*444-28
 
@@ -108366,7 +108343,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=1269></a>
+##### SECTION 3 : Rémunération.<a id=1268></a>
 
 ###### Article R*444-37
 
@@ -108488,9 +108465,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=1270></a>
+##### SECTION 4 : Notation et avancement<a id=1269></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=1271></a>
+##### SOUS-SECTION 1 : Notation.<a id=1270></a>
 
 ###### Article R*444-42
 
@@ -108657,7 +108634,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=1272></a>
+##### SOUS-SECTION 2 : Avancement.<a id=1271></a>
 
 ###### Article R*444-49
 
@@ -109056,7 +109033,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=1273></a>
+##### SECTION 5 : Discipline.<a id=1272></a>
 
 ###### Article R*444-65
 
@@ -109764,7 +109741,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=1274></a>
+##### SECTION 6 : Positions.<a id=1273></a>
 
 ###### Article R*444-88
 
@@ -109797,7 +109774,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=1275></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=1274></a>
 
 ###### Article R*444-89
 
@@ -109819,7 +109796,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=1276></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=1275></a>
 
 ###### Article R*444-102
 
@@ -109981,7 +109958,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1277></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=1276></a>
 
 ###### Article R*444-109
 
@@ -110024,7 +110001,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=1278></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=1277></a>
 
 ###### Article R*444-120
 
@@ -110050,7 +110027,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=1279></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=1278></a>
 
 ###### Article R*444-122
 
@@ -110073,7 +110050,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=1280></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=1279></a>
 
 ###### Article R*444-123
 
@@ -110114,7 +110091,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=1281></a>
+##### SOUS-SECTION 8 : Mutations.<a id=1280></a>
 
 ###### Article R*444-169
 
@@ -110178,7 +110155,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=1282></a>
+##### SECTION 7 : Cessation de fonctions.<a id=1281></a>
 
 ###### Article R*444-172
 
@@ -110524,13 +110501,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=1283></a>
+## Personnel communal<a id=1282></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=1284></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=1283></a>
 
-#### Dispositions générales et organiques<a id=1285></a>
+#### Dispositions générales et organiques<a id=1284></a>
 
-##### Commission nationale paritaire du personnel communal .<a id=1286></a>
+##### Commission nationale paritaire du personnel communal .<a id=1285></a>
 
 ###### Article R*411-4
 
@@ -110762,7 +110739,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L411-25 (Ab)
 
 
-##### Commission paritaire communale .<a id=1287></a>
+##### Commission paritaire communale .<a id=1286></a>
 
 ###### Article R411-39
 
@@ -110802,7 +110779,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### Commission paritaire intercommunale .<a id=1288></a>
+##### Commission paritaire intercommunale .<a id=1287></a>
 
 ###### Article R411-40
 
@@ -110836,7 +110813,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-10 (Ab)
 
 
-##### La médaille d'honneur départementale et communal .<a id=1289></a>
+##### La médaille d'honneur départementale et communal .<a id=1288></a>
 
 ###### Article R411-41
 
@@ -111173,9 +111150,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=1290></a>
+#### Recrutement, formation et promotion sociale<a id=1289></a>
 
-##### Formation professionnelle continue .<a id=1291></a>
+##### Formation professionnelle continue .<a id=1290></a>
 
 ###### Article R*412-99
 
@@ -111219,7 +111196,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1292></a>
+##### Actions de formation .<a id=1291></a>
 
 ###### Article R*412-100
 
@@ -111369,7 +111346,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1293></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1292></a>
 
 ###### Article R*412-105
 
@@ -111542,7 +111519,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1294></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1293></a>
 
 ###### Article R*412-111
 
@@ -111644,7 +111621,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1295></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1294></a>
 
 ###### Article R*412-114
 
@@ -111706,7 +111683,7 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=1296></a>
+#### Rémunération et effectifs<a id=1295></a>
 
 ###### Article R413-3
 
@@ -111811,7 +111788,7 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### AVANCEMENT .<a id=1297></a>
+#### AVANCEMENT .<a id=1296></a>
 
 ###### Article R*414-8
 
@@ -111863,11 +111840,11 @@ _Cite_:
   - Code des communes R414-5
 
 
-#### Notation, avancement et discipline<a id=1298></a>
+#### Notation, avancement et discipline<a id=1297></a>
 
-##### Discipline<a id=1299></a>
+##### Discipline<a id=1298></a>
 
-##### Le conseil de discipline .<a id=1300></a>
+##### Le conseil de discipline .<a id=1299></a>
 
 ###### Article R*414-17
 
@@ -112006,9 +111983,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-#### POSITIONS<a id=1301></a>
+#### POSITIONS<a id=1300></a>
 
-##### Le congé postnatal .<a id=1302></a>
+##### Le congé postnatal .<a id=1301></a>
 
 ###### Article R*415-6-1
 
@@ -112200,7 +112177,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1303></a>
+##### Le détachement .<a id=1302></a>
 
 ###### Article R*415-7
 
@@ -112362,7 +112339,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1304></a>
+##### Position hors cadre .<a id=1303></a>
 
 ###### Article R*415-12
 
@@ -112459,7 +112436,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1305></a>
+##### La disponibilité .<a id=1304></a>
 
 ###### Article R*415-15
 
@@ -112502,7 +112479,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-##### SERVICE A MI-TEMPS .<a id=1306></a>
+##### SERVICE A MI-TEMPS .<a id=1305></a>
 
 ###### Article R415-16
 
@@ -112574,11 +112551,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. R415-16 (Ab)
 
 
-### Personnels divers<a id=1307></a>
+### Personnels divers<a id=1306></a>
 
-#### Agents non titulaires<a id=1308></a>
+#### Agents non titulaires<a id=1307></a>
 
-##### Dispositions générales .<a id=1309></a>
+##### Dispositions générales .<a id=1308></a>
 
 ###### Article R*422-2
 
@@ -112613,7 +112590,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1310></a>
+##### Cessation de fonctions .<a id=1309></a>
 
 ###### Article R*422-37
 
@@ -112744,7 +112721,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1311></a>
+##### Congé parental .<a id=1310></a>
 
 ###### Article R422-42
 
@@ -112919,13 +112896,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1312></a>
+### Dispositions particulières<a id=1311></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1313></a>
+#### Dispositions applicables à la ville de Paris<a id=1312></a>
 
-##### Dispositions générales et organiques<a id=1314></a>
+##### Dispositions générales et organiques<a id=1313></a>
 
-##### Le conseil administratif supérieur .<a id=1315></a>
+##### Le conseil administratif supérieur .<a id=1314></a>
 
 ###### Article R*444-21
 
@@ -113025,7 +113002,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1316></a>
+##### Les commissions et comités paritaires .<a id=1315></a>
 
 ###### Article R*444-26
 
@@ -113077,7 +113054,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1317></a>
+##### Recrutement .<a id=1316></a>
 
 ###### Article R*444-29
 
@@ -113113,11 +113090,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1318></a>
+##### Positions<a id=1317></a>
 
-##### Activité, congés<a id=1319></a>
+##### Activité, congés<a id=1318></a>
 
-##### Service à temps partiel .<a id=1320></a>
+##### Service à temps partiel .<a id=1319></a>
 
 ###### Article R*444-90
 
@@ -113230,7 +113207,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### Service à mi-temps.<a id=1321></a>
+##### Service à mi-temps.<a id=1320></a>
 
 ###### Article R*444-94
 
@@ -113423,7 +113400,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1322></a>
+##### Congés de maladie .<a id=1321></a>
 
 ###### Article R*444-110
 
@@ -113792,7 +113769,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1323></a>
+##### Détachement .<a id=1322></a>
 
 ###### Article R*444-125
 
@@ -114325,7 +114302,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1324></a>
+##### POSITION HORS CADRE .<a id=1323></a>
 
 ###### Article R*444-143
 
@@ -114530,7 +114507,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1325></a>
+##### Disponibilité.<a id=1324></a>
 
 ###### Article R*444-150
 
@@ -114880,7 +114857,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1326></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1325></a>
 
 ###### Article R*444-162
 
@@ -114929,7 +114906,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1327></a>
+##### Position "sous les drapeaux" .<a id=1326></a>
 
 ###### Article R*444-164
 
@@ -115011,7 +114988,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1328></a>
+##### CONGE POSTNATAL .<a id=1327></a>
 
 ###### Article R*444-167
 
@@ -115061,7 +115038,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1329></a>
+##### Cessation de fonctions .<a id=1328></a>
 
 ###### Article R*444-178
 
