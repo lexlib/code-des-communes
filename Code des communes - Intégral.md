@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-09-26
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -629,173 +629,166 @@ Version Consolidée au 1990-01-25
           - [SECTION 5 : Honneurs et récompenses. (art. R*352-48 à R352-57)](#626)
           - [SECTION 6 : Honorariat. (art. R352-58 à R352-63)](#627)
           - [SECTION 7 : Service de santé et de secours médical. (art. R352-64 à R352-66)](#628)
-        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-21 à R*352-51)](#629)
-          - [SECTION 3 : Règlement de service - commandement. (art. R352-21 à R352-23)](#630)
-          - [SECTION 5 : Honneurs et récompenses. (art. R*352-50 à R*352-51)](#631)
-        - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-1 à R353-120)](#632)
-          - [SECTION 1 : Généralités. (art. R353-1 à R353-12)](#633)
-          - [SECTION 2 : Durée du service. (art. R353-14)](#634)
-          - [SECTION 3 : Recrutement. (art. R353-15 à R353-22)](#635)
-          - [SECTION 4 : Rémunération - Avantages en nature. (art. R353-27 à R353-30)](#636)
-          - [SECTION 5 : Notation et avancement. (art. R353-35 à R353-59)](#637)
-          - [SECTION 8 : Cessation de fonctions. (art. R353-114 à R353-118)](#638)
-          - [SECTION 9 : Pensions et sécurité sociale. (art. R353-119 à R353-120)](#639)
-        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-2 à R354-78)](#640)
-          - [SECTION 1 : Recrutement. (art. R354-2 à R354-14)](#641)
-          - [SECTION 2 : Notation et avancement. (art. R354-15 à R354-21)](#642)
-          - [SECTION 3 : Discipline. (art. R354-22 à R354-25)](#643)
-          - [SECTION 4 : Cessation de fonctions. (art. R354-26 à R354-35)](#644)
-          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-36 à R354-78)](#645)
-            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-36 à R*354-61)](#646)
-              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-36 à R354-44)](#647)
-              - [PARAGRAPHE 2 : Affiliation aux assurances sociales. (art. R*354-51 à R*354-61)](#648)
-            - [SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire. (art. R*354-62 à R*354-68)](#649)
-            - [SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques. (art. R*354-69 à R*354-71)](#650)
-            - [SOUS-SECTION 4 : Frais funéraires. (art. R*354-72 à R*354-73)](#651)
-            - [SOUS-SECTION 5 : Caisse communale de secours et de retraite. (art. R*354-77 à R354-78)](#652)
-        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires (art. R*354-50)](#653)
-          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-50)](#654)
-            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-50)](#655)
-              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-50)](#656)
-      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-16)](#657)
-        - [CHAPITRE 1 : Sépultures (art. R*361-1 à R361-47)](#658)
-          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-17)](#659)
-            - [SOUS-SECTION 1 : Cimetières. (art. R*361-1 à R361-5)](#660)
-            - [SOUS-SECTION 2 : Inhumations. (art. R361-10 à R361-14)](#661)
-            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-17)](#662)
-          - [SECTION 2 : Concessions funéraires. (art. R*361-18 à R361-34)](#663)
-          - [SECTION 3 : Chambres funéraires. (art. R361-35 à R361-40)](#664)
-          - [SECTION 4 : Crémations. (art. R361-41 à R361-45-1)](#665)
-          - [SECTION 5 : Dispositions diverses. (art. R361-46 à R361-47)](#666)
-        - [CHAPITRE 2 : Pompes funèbres (art. R*362-4)](#667)
-          - [SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres. (art. R*362-4)](#668)
-        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-1 à R363-36)](#669)
-          - [SECTION 1 : Soins de conservation. (art. R363-1 à R363-3)](#670)
-          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-4 à R363-15)](#671)
-            - [SOUS-SECTION 1 : Transport de corps à résidence. (art. R363-4 à R363-9)](#672)
-            - [SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche. (art. R363-10 à R363-11)](#673)
-            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-12 à R363-15)](#674)
-          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-28)](#675)
-            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-16 à R363-21)](#676)
-            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25-1)](#677)
-            - [SOUS-SECTION 3 : Conditions de transport. (art. R363-26 à R363-28)](#678)
-          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#679)
-        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-16)](#680)
-          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#681)
-          - [SECTION 3 : Moulages. (art. R364-17)](#682)
-          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-16)](#683)
-      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#684)
-        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#685)
-          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#686)
-          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-8 à R*371-14)](#687)
-          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#688)
-        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#689)
-          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#690)
-          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#691)
-        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#692)
-        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#693)
-        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#694)
-        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#695)
-        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#696)
-        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#697)
-      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#698)
-        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#699)
-        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#700)
-        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#701)
-        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#702)
-        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#703)
-        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#704)
-      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#705)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#706)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#707)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#708)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#709)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#710)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#711)
-          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#712)
-          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#713)
-        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#714)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#715)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#716)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#717)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#718)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#719)
-          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#720)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#721)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#722)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#723)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#724)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#725)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#726)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#727)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#728)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#729)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#730)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#731)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#732)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#733)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#734)
-          - [SECTION 1 : Notation. (art. R414-1)](#735)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#736)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#737)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#738)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#739)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#740)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#741)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#742)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#743)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#744)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#745)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#746)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#747)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#748)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#749)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#750)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#751)
-      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#752)
-        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#753)
-          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#754)
-          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#755)
-          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#756)
-          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#757)
-          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#758)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#759)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#760)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#761)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#762)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#763)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#764)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#765)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#766)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#767)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#768)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#769)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#770)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#771)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#772)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#773)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#774)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#775)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#776)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#777)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#778)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#779)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#780)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#781)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#782)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#783)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#784)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#785)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#786)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#787)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#788)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#789)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#790)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#791)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#792)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#793)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#794)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#795)
+        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R*352-50 à R*352-51)](#629)
+          - [SECTION 5 : Honneurs et récompenses. (art. R*352-50 à R*352-51)](#630)
+        - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-28)](#631)
+          - [SECTION 4 : Rémunération - Avantages en nature. (art. R353-28)](#632)
+        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-2 à R354-78)](#633)
+          - [SECTION 1 : Recrutement. (art. R354-2 à R354-14)](#634)
+          - [SECTION 2 : Notation et avancement. (art. R354-15 à R354-21)](#635)
+          - [SECTION 3 : Discipline. (art. R354-22 à R354-25)](#636)
+          - [SECTION 4 : Cessation de fonctions. (art. R354-26 à R354-35)](#637)
+          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-36 à R354-78)](#638)
+            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-36 à R*354-61)](#639)
+              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-36 à R354-44)](#640)
+              - [PARAGRAPHE 2 : Affiliation aux assurances sociales. (art. R*354-51 à R*354-61)](#641)
+            - [SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire. (art. R*354-62 à R*354-68)](#642)
+            - [SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques. (art. R*354-69 à R*354-71)](#643)
+            - [SOUS-SECTION 4 : Frais funéraires. (art. R*354-72 à R*354-73)](#644)
+            - [SOUS-SECTION 5 : Caisse communale de secours et de retraite. (art. R*354-77 à R354-78)](#645)
+        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires (art. R*354-50)](#646)
+          - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-50)](#647)
+            - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-50)](#648)
+              - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-50)](#649)
+      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-16)](#650)
+        - [CHAPITRE 1 : Sépultures (art. R*361-1 à R361-47)](#651)
+          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-17)](#652)
+            - [SOUS-SECTION 1 : Cimetières. (art. R*361-1 à R361-5)](#653)
+            - [SOUS-SECTION 2 : Inhumations. (art. R361-10 à R361-14)](#654)
+            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-17)](#655)
+          - [SECTION 2 : Concessions funéraires. (art. R*361-18 à R361-34)](#656)
+          - [SECTION 3 : Chambres funéraires. (art. R361-35 à R361-40)](#657)
+          - [SECTION 4 : Crémations. (art. R361-41 à R361-45-1)](#658)
+          - [SECTION 5 : Dispositions diverses. (art. R361-46 à R361-47)](#659)
+        - [CHAPITRE 2 : Pompes funèbres (art. R*362-4)](#660)
+          - [SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres. (art. R*362-4)](#661)
+        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-1 à R363-36)](#662)
+          - [SECTION 1 : Soins de conservation. (art. R363-1 à R363-3)](#663)
+          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-4 à R363-15)](#664)
+            - [SOUS-SECTION 1 : Transport de corps à résidence. (art. R363-4 à R363-9)](#665)
+            - [SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche. (art. R363-10 à R363-11)](#666)
+            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-12 à R363-15)](#667)
+          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-28)](#668)
+            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-16 à R363-21)](#669)
+            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25-1)](#670)
+            - [SOUS-SECTION 3 : Conditions de transport. (art. R363-26 à R363-28)](#671)
+          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#672)
+        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-16)](#673)
+          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#674)
+          - [SECTION 3 : Moulages. (art. R364-17)](#675)
+          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-16)](#676)
+      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#677)
+        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#678)
+          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#679)
+          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-8 à R*371-14)](#680)
+          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#681)
+        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#682)
+          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#683)
+          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#684)
+        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#685)
+        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#686)
+        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#687)
+        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#688)
+        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#689)
+        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#690)
+      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#691)
+        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#692)
+        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#693)
+        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#694)
+        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#695)
+        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#696)
+        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#697)
+      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#698)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#699)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#700)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#701)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#702)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#703)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#704)
+          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#705)
+          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#706)
+        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#707)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#708)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#709)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#710)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#711)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#712)
+          - [SECTION 6 : La médaille d'honneur régionale, départementale et communale. (art. R411-41 à R411-53)](#713)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#714)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#715)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-34)](#716)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#717)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#718)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#719)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#720)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#721)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#722)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#723)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#724)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#725)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#726)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#727)
+          - [SECTION 1 : Notation. (art. R414-1)](#728)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#729)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#730)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#731)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#732)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#733)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#734)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#735)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#736)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#737)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#738)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#739)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#740)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#741)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#742)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#743)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#744)
+      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#745)
+        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#746)
+          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#747)
+          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#748)
+          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#749)
+          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#750)
+          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#751)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#752)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#753)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#754)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#755)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#756)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#757)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#758)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#759)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#760)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#761)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#762)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#763)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#764)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#765)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#766)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#767)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#768)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#769)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#770)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#771)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#772)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#773)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#774)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#775)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#776)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#777)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#778)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#779)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#780)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#781)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#782)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#783)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#784)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#785)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#786)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#787)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#788)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -69062,65 +69055,7 @@ _Abrogé par_:
 
 #### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=629></a>
 
-##### SECTION 3 : Règlement de service - commandement.<a id=630></a>
-
-###### Article R352-21
-
-Les sapeurs-pompiers de tous grades, lorsqu'ils sont en service, doivent le salut à leurs supérieurs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 36
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-
-###### Article R352-23
-
-Les chefs de corps peuvent, en se conformant aux dispositions du règlement, prendre toutes les mesures et donner tous les
-ordres relatifs au service ordinaire, aux revues, aux manoeuvres et exercices. Ils en avisent, au préalable, l'autorité
-municipale [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 32
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-
-##### SECTION 5 : Honneurs et récompenses.<a id=631></a>
+##### SECTION 5 : Honneurs et récompenses.<a id=630></a>
 
 ###### Article R*352-50
 
@@ -69177,798 +69112,9 @@ _Cite_:
   - Code des communes R352-50
 
 
-#### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=632></a>
+#### CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=631></a>
 
-##### SECTION 1 : Généralités.<a id=633></a>
-
-###### Article R353-1
-
-Les sapeurs-pompiers professionnels       sont des fonctionnaires communaux qui ont pour mission exclusive d'assurer le
-fonctionnement des services d'incendie et de secours dans le cadre des missions prévues à l'article R. 352-1.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 86 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R352-1 (Ab)
-
-
-###### Article R353-3
-
-Le droit syndical est reconnu aux sapeurs-pompiers professionnels.
-
-L'appartenance ou la non-appartenance à un syndicat ne doit entraîner aucune conséquence en ce qui concerne le recrutement,
-l'avancement, l'affectation et, d'une manière générale, la situation des agents soumis au présent statut.
-
-L'exercice du droit syndical ne doit pas avoir pour conséquence des actes contraires aux lois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 87 AL. 1 PHR. 1 et AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-4
-
-Les syndicats professionnels régis par le livre IV du code du travail [*les groupements professionnels, les représentations,
-la participation et l'intéressement des salariés*] peuvent ester en justice devant toute juridiction.
-
-Ils peuvent, notamment, devant les juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires
-concernant le statut du personnel et contre les décisions individuelles portant atteinte aux intérêts collectifs des agents
-[**]recours[**].
-
-Toute organisation syndicale de sapeurs-pompiers professionnels est tenue d'effectuer, dans les deux mois de sa création
-[*délai*], le dépôt de ses statuts et de la liste de ses administrateurs auprès des maires dont relèvent les membres du
-syndicat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 87 AL. 1 PHR. 2 et 3, et AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cite_:
-
-  - Code du travail R411-1 à R465-1
-
-
-###### Article R353-5
-
-Il est interdit à tout sapeur-pompier professionnel d'avoir sous quelque dénomination que ce soit, par lui-même ou par
-personne interposée, des intérêts dans une entreprise soumise au contrôle de son service ou en relation avec son service
-[*incompatibilités*].
-
-Le délai pendant lequel, à la suite de la cessation de ses fonctions, le sapeur-pompier demeure soumis à cette interdiction
-est celui prévu par le décret pour l'application de l'article L. 411-5 [*relatif au personnel communal nommé dans des emplois
-permanents à temps complet*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'administration communale 483 DEVENU L411-5
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 88
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-6
-
-Il est interdit à tout sapeur-pompier d'exercer, à titre professionnel, une activité privée lucrative de quelque nature que
-ce soit [*incompatibilités*].
-
-Il ne peut être exceptionnellement dérogé à cette interdiction que dans les conditions prévues par le décret du 29 octobre
-1936 relatif aux cumuls de retraites, de rémunérations et de fonctions et les textes subséquents.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1936-10-29 MODIFIE
-  - Décret n°55-937 1955-07-11
-  - Loi n°41-2330 1941-06-03
-  - Loi n°58-346 1958-04-03
-  - Loi n°63-156 du 23 février 1963 - art. 51, v. init.
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 89
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-7
-
-Lorsque le conjoint d'un sapeur-pompier exerce à titre professionnel une activité privée lucrative, la déclaration en est
-faite au maire [*incompatibilités*].
-
-Le maire prend, s'il y a lieu, les mesures propres à sauvegarder les intérêts du service, après avis du conseil
-d'administration [*du corps - conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 90
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Cité par_:
-
-  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-8
-
-Indépendamment des dispositions de l'article 378 du code pénal [*cas où la loi oblige ou autorise à se porter dénonciateur*],
-tout sapeur-pompier est lié par l'obligation de discrétion professionnelle pour tout ce qui concerne les faits et
-informations dont il a connaissance dans l'exercice ou à l'occasion de l'exercice de ses fonctions.
-
-Tout détournement, toute communication contraire aux règlements de pièces ou documents de service à des tiers sont
-formellement interdits.
-
-En dehors des cas expressément prévus par la réglementation en vigueur, le sapeur-pompier ne peut être délié de cette
-obligation de discrétion ou relevé de l'interdiction édictée par l'alinéa précédent qu'avec l'autorisation du maire
-[*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 91
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cite_:
-
-  - Code pénal 378
-
-
-###### Article R353-9
-
-Les sapeurs-pompiers de service ne doivent quitter en aucun cas le poste d'incendie sans autorisation de leur supérieur
-[*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 92
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-10
-
-Toute faute commise dans l'exercice de ses fonctions expose son auteur à une sanction disciplinaire, sans préjudice, le cas
-échéant, des peines prévues par la loi pénale [*responsabilité*].
-
-Dans le cas où un sapeur-pompier a été poursuivi par un tiers pour faute de service et où le conflit d'attribution n'a pas
-été élevé, la collectivité locale couvre le sapeur-pompier des condamnations civiles prononcées contre lui [*dépenses des
-communes*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 93
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-11
-
-Les sapeurs-pompiers ont droit, conformément aux règles fixées par le code pénal et les lois spéciales, à une protection
-contre les menaces, outrages, injures ou diffamations dont ils peuvent être l'objet.
-
-Le maire [*obligation*] et, pour les officiers, le préfet sont tenus de protéger les sapeurs-pompiers contre les menaces,
-attaques, de quelque nature que ce soit, dont ils peuvent être l'objet à l'occasion de leurs fonctions.
-
-La commune répare, le cas échéant, le préjudice qui en est résulté dans tous les cas non couverts par la réglementation des
-pensions [*dépenses des communes*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 94
-
-_Cite_:
-
-  - Décret n°65-773 1965-09-09 MODIFIE
-  - Code pénal
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-12
-
-Il est tenu pour chaque sapeur-pompier un dossier individuel contenant toutes les pièces [*documents*] qui intéressent sa
-situation administrative. Ces pièces sont enregistrées, numérotées et classées sans discontinuité.
-
-Aucune mention des opinions politiques, philosophiques ou religieuses ne peut figurer au dossier [*contenu*].
-
-Le dossier suit l'intéressé lorsque celui-ci prend un emploi dans une autre commune.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 95
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-##### SECTION 2 : Durée du service.<a id=634></a>
-
-###### Article R353-14
-
-Les sapeurs-pompiers professionnels jouissent du repos dominical dans les conditions qui sont déterminées, pour chaque grade
-et chaque fonction, par le règlement du corps, compte tenu du service à assurer [*congés et repos*].
-
-Il en est de même pour les fêtes légales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 132
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-##### SECTION 3 : Recrutement.<a id=635></a>
-
-###### Article R353-15
-
-Le maire [*attributions*] nomme les sous-officiers, caporaux et sapeurs.
-
-Il peut les suspendre et les révoquer dans les conditions fixées au présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 96
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 JORF 26 septembre 1990
-
-_Cite_:
-
-  - Code des communes R353-60 à R353-120
-
-
-###### Article R353-16
-
-Nul ne peut être nommé sapeur-pompier communal [*conditions*] :
-
-1° S'il ne possède la nationalité française, ne jouit de ses droits civiques et n'est de bonne moralité ;
-
-2° S'il ne se trouve en position régulière au regard des dispositions du code du service national ;
-
-3° S'il ne remplit les conditions d'aptitude physique déterminées par un arrêté du ministre de l'intérieur ;
-
-4° Si, conformément aux dispositions du décret n° 59-310 du 14 février 1959 relatif aux conditions d'aptitude physique pour
-l'admission aux emplois publics, il n'est reconnu, soit indemne, soit définitivement guéri de toute maladie ou infirmité
-incompatible avec l'exercice de l'emploi postulé ;
-
-5° S'il ne produit un certificat attestant qu'il a été vacciné contre le tétanos depuis moins de cinq ans [*délai*]. Il subit
-par la suite les vaccinations de rappel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 97 REMPLACE ET MODIFIE
-
-_Cite_:
-
-  - Décret n°59-310 1959-02-14
-  - Code du service national
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-17
-
-Pour être nommé sapeur-pompier non officier, il faut être âgé de dix-huit ans au moins et de vingt-cinq ans au plus
-[*conditions d'âge*].
-
-Pour être nommé officier de sapeurs-pompiers, il faut être âgé de vingt-cinq ans au moins et de trente ans au plus [*limites
-d'âge supérieures*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 98 AL. 1 REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-18 (Ab)
-
-
-###### Article R353-18
-
-Les limites d'âge supérieures [*pour être nommé sapeur-pompier non officier et sapeur-pompier officier*] prévues à l'article
-précédent sont reculées :
-
-1° De cinq ans au plus, par application des dispositions qui permettent de reculer les limites d'âge des fonctionnaires de
-l'Etat ;
-
-2° Dans la limite de cinq ans au plus, de la durée des services accomplis à partir de l'âge de dix-huit ans en qualité, soit
-de sapeur-pompier volontaire, soit d'agent titulaire ou auxiliaire de l'état ou d'une collectivité publique ;
-
-3° Dans la limite de dix ans au plus, par application des dispositions de l'article 64 du code du service national.
-
-Les dispositions du 1° et du 2° ci-dessus ne peuvent se combiner que dans la limite de cinq ans au plus. La combinaison des
-dispositions du 3° avec celles du 1° ou du 2° ou à la fois avec celles du 1° et du 2° ne peut se faire que dans la limite de
-dix ans au plus.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1979-08-10
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 98 AL. 2 ET SUIVANTS REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-17 (Ab)
-  - Code du service national 64
-
-
-###### Article R353-19
-
-Un arrêté du ministre de l'intérieur, pris après avis du conseil supérieur de la protection civile, détermine les
-qualifications professionnelles des sapeurs-pompiers (1).
-
-Nul ne peut être recruté dans un emploi de sapeur-pompier professionnel s'il n'a satisfait aux épreuves d'un examen
-d'aptitude dont les conditions sont fixées par un arrêté du ministre de l'intérieur pris après avis de la commission
-nationale paritaire des sapeurs-pompiers professionnels. Nul ne peut être titularisé dans un emploi de sapeur-pompier
-professionnel s'il n'a accompli un stage d'un an à l'issue duquel il devra être titulaire du brevet national de secourisme
-avec la mention spécialiste en réanimation (2).
-
-Le stage ne peut être renouvelé que pour une seule année ; une décision est prise à son terme.
-
-Peut être dispensé de l'examen d'aptitude mentionné ci-dessus, le candidat qui justifie avoir exercé pendant deux ans au
-moins un emploi équivalent dans un autre corps de sapeurs-pompiers où les conditions de recrutement sont identiques ou plus
-sévères.
-
-(1) Arrêtés ministériels des 20 octobre 1969 relatif aux qualifications professionnelles des sapeurs-pompiers (J.O. 4
-novembre 1969), 22 octobre 1974 (J.O. 1er novembre), 10 août 1979 (J.O. 1er septembre).
-
-(2) Arrêté ministériel du 20 octobre 1971 relatif aux conditions de recrutement et d'avancement des sapeurs-pompiers
-professionnels non officiers, modifié par l'arrêté ministériel du 19 mai 1976 (J.O. 10 novembre 1971 et 5 juin 1976).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Cité par_:
-
-  - Arrêté du 10 août 1979 - art. 1 (V)
-  - Arrêté du 20 octobre 1971 - art. 1 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-20
-
-Le conseil d'administration [*du corps de sapeurs-pompiers*] donne un avis sur la proposition de titularisation d'un sapeur-
-pompier professionnel non officier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 99 COMPLETE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Cité par_:
-
-  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-21
-
-La nomination a un caractère conditionnel. Elle peut être annulée au cours de la période de stage à l'issue de laquelle est
-prononcée la titularisation. En cas d'insuffisance professionnelle, les sapeurs-pompiers peuvent être licenciés au cours du
-stage   . 
-
-Sont licenciés les sapeurs-pompiers qui, à l'issue du stage, n'ont pas été titularisés. 
-
-Le congé de maladie n'est pas compté dans la durée du stage. 
-
-La période de stage entre en ligne de compte pour l'avancement et pour la retraite après validation conformément au règlement
-de la caisse nationale de retraites des agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°47-1846 1947-09-19 MODIFIE
-  - Décret n°65-773 1965-09-09 MODIFIE
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 100 MODIFIE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-22
-
-La nomination au grade de sous-lieutenant professionnel est prononcée par arrêté du préfet sur proposition du maire
-[*conditions de forme - compétence*].
-
-Les candidats sont choisis sur une liste d'aptitude établie dans les conditions suivantes (1) :
-
-1. Après un concours sur titres ouvert aux candidats titulaires du diplôme universitaire de technologie (option hygiène et
-sécurité) ou d'un diplôme équivalent et qui comporte, en outre, une épreuve sportive d'aptitude physique et une épreuve
-consistant en une conversation avec les membres d'une commission ;
-
-2. Après des concours sur épreuves ouverts, l'un, après trois ans de services aux sapeurs-pompiers professionnels et à ceux
-des sapeurs-pompiers volontaires qui justifient de certaines qualifications, l'autre, aux bacheliers de l'enseignement
-secondaire, aux personnels de l'Etat et des collectivités locales du niveau correspondant à la catégorie B qui justifient de
-quatre années de services effectifs en cette qualité, aux officiers et aux aspirants des armées de terre, de mer et de l'air,
-ainsi qu'à ceux des sous-officiers de ces armées qui justifient d'une formation spéciale pour la lutte contre l'incendie et
-d'une durée de service suffisante ;
-
-3. Au titre de la promotion sociale, dans la proportion d'une inscription pour cinq candidats inscrits en application des
-dispositions des deux alinéas précédents après examen professionnel réservé aux sous-officiers professionnels âgés de plus de
-quarante ans et justifiant de dix années de services effectifs dans les corps de sapeurs-pompiers.
-
-(1) Voir l'arrêté du ministre de l'Intérieur, en date du 18 janvier 1977, fixant les conditions de nomination des sous-
-lieutenants professionnels de sapeurs-pompiers communaux (J.O. 30 janvier 1977).
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1979-08-10
-  - TXT_SOURCE: Arrêté du 18 janvier 1977
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 18 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 20 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 23 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 24 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 25 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 26 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 27 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE I (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE II (V)
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 101 REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-_Cité par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-
-##### SECTION 4 : Rémunération - Avantages en nature.<a id=636></a>
-
-###### Article R353-27
-
-La rémunération des sapeurs-pompiers professionnels communaux comprend le traitement, l'indemnité de résidence, ainsi que, le
-cas échéant, le supplément familial de traitement, les prestations familiales obligatoires et les autres indemnités
-instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement.
-
-Les dispositions relatives au montant du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de
-l'indemnité de résidence des prestations familiales, du supplément familial de traitement ainsi que des autres indemnités
-instituées par un texte législatif ou réglementaire et ayant le caractère de complément de traitement sont applicables de
-plein droit aux sapeurs-pompiers professionnels communaux.
-
-Tout titulaire d'un emploi de sapeur-pompier communal bénéficie de l'échelle indiciaire afférente à cet emploi et fixée par
-un arrêté du ministre de l'intérieur, après avis du ministre de l'économie et des finances, ainsi que du conseil supérieur de
-la protection civile (1).
-
-(1) Arrêté ministériel du 3 décembre 1970 :
-
-- instituant différentes échelles de rémunération pour les sapeurs-pompiers professionnels communaux (J.O. 9 décembre 1970)
-(1) ;
-
-- relatif à l'organisation de la carrière des sapeurs-pompiers professionnels communaux (J.O. 9 décembre 1970) ;
-
-Arrêté interministériel, en date du 18 janvier 1977, relatif au classement indiciaire des officiers et adjudants-chefs de
-sapeurs-pompiers communaux (J.O. 30 janvier 1977).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté  1970-12-03
-  - Arrêté  1977-01-18
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 102 REMPLACE ET MODIFIE
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 14 octobre 1968
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 bis (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 quater (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 quinquies (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 septies (M)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 sexies (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 3 ter (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 14 octobre 1968 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1971
-  - TXT_SOURCE: Arrêté du 30 novembre 1971 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1971 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1971 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1971 - art. 4 (V)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Arrêté du 2 juin 1980 - art. 1 (V)
-  - Décret n°90-851 du 25 septembre 1990 - art. 26 (VT)
-  - CODE DES COMMUNES. - art. R352-68 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
+##### SECTION 4 : Rémunération - Avantages en nature.<a id=632></a>
 
 ###### Article R353-28
 
@@ -70028,1333 +69174,9 @@ _Abrogé par_:
   - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
 
 
-###### Article R353-29
+#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=633></a>
 
-Les sapeurs-pompiers communaux professionnels ont droit au logement en caserne dans la limite des locaux disponibles.
-
-Dans ce cas, le chauffage et l'éclairage leur sont fournis à titre obligatoire et gratuit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 104
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-
-###### Article R353-30
-
-les gradés et sapeurs ont droit à l'habillement qui comporte :
-
-- une tenue de feu ;
-
-- une tenue d'exercice ;
-
-- éventuellement une tenue de ville.
-
-Les conditions d'attribution et de renouvellement des tenues sont fixées par le règlement de service qui peut admettre
-l'ensemble du personnel du corps au régime de la masse individuelle d'habillement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 105
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
-
-
-##### SECTION 5 : Notation et avancement.<a id=637></a>
-
-###### Article R353-35
-
-L'avancement des sapeurs-pompiers   comprend l'avancement d'échelon et l'avancement de grade. 
-
-Il a lieu d'échelon à échelon et de grade à grade.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 108
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-36
-
-L'avancement d'échelon comporte une augmentation de traitement.
-
-Il est fonction à la fois de l'ancienneté et des notes de l'agent.
-
-Le maximum et le minimum du temps susceptible d'être passé dans chaque échelon sont fixés, pour chaque catégorie d'emploi,
-par un arrêté du ministre de l'intérieur et du ministre chargé des départements d'outre-mer, après avis du conseil supérieur
-de la protection civile (commission supérieure de la protection contre l'incendie) (1).
-
-(1) Arrêté interministériel du 18 novembre 1968, modifié par arrêtés des 19 juillet 1973, 7 août 1974, 5 juillet 1976 et 18
-janvier 1977, relatif à la durée de carrière des sapeurs-pompiers professionnels communaux (J.O. 29 novembre 1968, 28 août
-1973, 26 août 1974, 23 juillet 1976 et 30 janvier 1977).
-
-Arrêté du 7 août 1974 relatif à la durée de carrière des sapeurs-pompiers professionnels communaux (J.O. 24 août 1974).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté  1968-11-18 MODIFIE (durée de carrière)
-  - Arrêté  1973-07-19
-  - Arrêté  1974-08-07
-  - Arrêté  1976-07-05
-  - Arrêté  1977-01-18
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 109 REMPLACE AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-37
-
-L'avancement d'échelon à l'ancienneté maximum est accordé de plein droit.
-
-L'avancement d'échelon à l'ancienneté minimum peut être accordé par le maire, après avis du conseil d'administration du
-corps, aux sapeurs-pompiers professionnels auxquels a été attribuée une note supérieure à la note moyenne obtenue par les
-agents du même grade à la suite de la péréquation générale [*des notes*] prévue à l'article R. 353-33 ; lorsque l'agent est
-seul de son grade dans le département, l'avancement d'échelon à l'ancienneté minimum peut être accordé par le maire, au vu de
-la note attribuée et après avis du conseil d'administration.
-
-Lorsque l'agent est chef de corps, l'avancement d'échelon à l'ancienneté minimum peut être accordé par le maire, au seul vu
-de la note attribuée. Dans ce cas, il n'y a pas lieu à la consultation du conseil d'administration [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 109 REMPLACE AL. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Cité par_:
-
-  - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-33 (Ab)
-
-
-###### Article R353-38
-
-Les sapeurs-pompiers peuvent être promus à la 1re classe, après trois ans de services [*ancienneté*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 110 REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-39
-
-Sont nommés caporaux les sapeurs-pompiers qui comptent une ancienneté de trois ans et sont titulaires du brevet national de
-secouriste avec la mention "spécialiste en ranimation" et soit d'un certificat d'aptitude professionnelle, soit d'un des
-diplômes et certificats de qualification professionnelle des sapeurs-pompiers définis par arrêté du ministre de l'intérieur.
-
-Les caporaux parvenus au 6è échelon de leur grade sont nommés au grade de caporal-chef.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 1 et ART. 112 REMPLACE AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-40
-
-Les sergents sont nommés parmi les caporaux et caporaux-chefs titulaires du brevet national de secouriste avec la mention
-Spécialiste en réanimation et qui ont au moins trois ans d'ancienneté depuis leur nomination dans le grade de caporal. Ils
-doivent en outre avoir préalablement suivi un cours d'instruction et réussi à un examen dont les modalités sont définies par
-un arrêté du ministre de l'intérieur.
-
-Pour l'attribution des notes à l'examen de fin du cours, les candidats bénéficient d'une majoration d'un point par année de
-service dans le grade.
-
-Les membres des jurys d'examen sont désignés par les préfets.
-
-Les sergents parvenus au 6° échelon de leur grade sont nommés au grade de sergent-chef.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - Arrêté du 20 octobre 1971 - art. 17 (Ab)
-  - Arrêté du 20 octobre 1971 - art. 9 (Ab)
-
-
-###### Article R353-41
-
-Les adjudants sont nommés parmi les sergents et sergents-chefs qui comptent trois ans de fonctions dans leur grade
-[*ancienneté*].
-
-Les adjudants-chefs sont choisis parmi les adjudants, après trois ans de fonctions dans le grade, dans la limite des postes
-disponibles.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 111 REMPLACE AL. 4 et ART. 112 REMPLACE AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-42
-
-Les sous-lieutenants titulaires du brevet national de moniteur de secourisme peuvent être nommés lieutenants à l'issue d'un
-stage d'un an [*durée*] au cours duquel ils peuvent être astreints à suivre des sessions de formation professionnelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 115 REMPLACE AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-
-###### Article R353-43
-
-Les lieutenants chefs de section principaux sont choisis parmi les lieutenants et lieutenants chefs de section inscrits sur
-une liste d'aptitude annuelle dont les modalités sont définies par arrêté ministériel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 115 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 6 mai 1983
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
-
-_Cité par_:
-
-  - Arrêté du 6 mai 1983 - art. 1 (Ab)
-
-
-###### Article R353-44
-
-Peuvent être inscrits sur la liste d'aptitude en vue d'une nomination à l'emploi de lieutenant-chef de section les
-lieutenants classés au moins au 9° échelon de leur grade.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 6 mai 1983
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 10 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 11 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 12 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 13 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 14 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 15 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE I (Ab)
-  - TXT_SOURCE: Arrêté du 6 mai 1983 - art. ANNEXE II (Ab)
-
-_Cité par_:
-
-  - Arrêté du 6 mai 1983 - art. 1 (Ab)
-
-
-###### Article R353-45
-
-La nomination au grade de capitaine professionnel est prononcée par le préfet sur proposition du maire.
-
-Les candidats sont choisis sur une liste d'aptitude établie selon les modalités suivantes (1) :
-
-1. Après un concours sur titres ouvert aux candidats titulaires d'un diplôme d'ingénieur, d'une maîtrise de science ou de
-technique ou d'un diplôme équivalent, ce concours sur titres étant accompagné d'une épreuve sportive d'aptitude physique et
-d'une épreuve consistant en une conversation avec les membres d'une commission ;
-
-2. Après des concours sur épreuves ouverts, l'un, aux candidats titulaires d'un diplôme universitaire de technologie, d'un
-brevet de technicien supérieur, d'une licence universitaire ou d'un titre équivalent et aux sapeurs-pompiers professionnels
-qui justifient de trois années de services effectifs en cette qualité en même temps que de certaines qualifications, l'autre,
-pour une fraction des emplois à pourvoir, aux lieutenants âgés de quarante et un ans et qui justifient de quatre années
-d'ancienneté dans leur grade ;
-
-3. Au titre de la promotion sociale, dans la proportion d'une inscription pour cinq candidats inscrits, en application des
-deux alinéas précédents, soit après examen professionnel réservé aux lieutenants professionnels, lieutenants chefs de section
-et lieutenants chefs de section principaux ayant quarante-cinq ans au plus et justifiant de dix années de services effectifs
-dans l'un ou l'autre de ces emplois, soit après épreuves professionnelles réservées aux lieutenants chefs de section
-principaux âgés de quarante-cinq ans au moins et de cinquante-cinq ans au plus et justifiant de huit années de services
-effectifs en qualité de lieutenant chef de section ou de lieutenant chef de section principal.
-
-Tout candidat qui refuse trois nominations est rayé de la liste d'aptitude.
-
-L'inscription et la nomination peuvent être annulées soit à l'issue d'une période de stage d'un an qui peut comprendre des
-sessions de formation professionnelle, si l'agent n'a pas obtenu le brevet de prévention contre l'incendie, soit en cours de
-stage pour insuffisance professionnelle.
-
-(1) Voir l'arrêté du ministre de l'Intérieur en date du 18 janvier 1977 fixant les conditions de nomination des capitaines
-professionnels de sapeurs-pompiers communaux (J.O. 30 janvier 1977) modifié par les arrêtés ministériels du 15 juin 1981
-(J.O. 23 juin) et 14 décembre 1981 (J.O. 30 décembre).
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1977-01-18
-  - TXT_SOURCE: Arrêté du 18 janvier 1977
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 10-1 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 10-2 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 14 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 15 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 16 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 18 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 20 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE I (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE II (Ab)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE III (V)
-  - TXT_SOURCE: Arrêté du 18 janvier 1977 - art. ANNEXE IV (V)
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 116 REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R354-17 (Ab)
-
-
-###### Article R353-46
-
-Les capitaines inscrits sur une liste d'aptitude nationale annuelle, et qui justifient de cinq années d'ancienneté dans leur
-grade, peuvent être nommés chefs de bataillon après avis de la commission prévue à l'article suivant (1).
-
-Peuvent être inscrits sur cette liste les capitaines qui sont :
-
-- soit chef d'un corps dont l'effectif réel est égal ou supérieur à 80 sapeurs-pompiers professionnels ou qui justifient
-d'une ancienneté de quinze ans dans le grade ;
-
-- soit affectés à un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels.
-
-Dans les corps mixtes, les conditions prévues ci-dessus sont considérées comme remplies lorsque le nombre des sapeurs-
-pompiers professionnels est au moins égal aux deux tiers des effectifs ci-dessus mentionnés.
-
-(1) En vertu de l'article 4 du décret n° 77-29 du 13 janvier 1977, par dérogation aux dispositions de l'article R. 353-46 et
-jusqu'au 1er janvier 1980, les capitaines peuvent être inscrits sur la liste d'aptitude au grade de chef de bataillon s'ils
-justifient d'une ancienneté de quatre années dans leur grade.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-47 (Ab)
-
-
-###### Article R353-47
-
-Une commission composée en nombre égal d'officiers de sapeurs-pompiers d'un grade au moins égal à celui de chef de bataillon
-et de représentants de l'administration centrale et des collectivités locales donne son avis sur toute nomination au grade de
-chef de bataillon (1).
-
-(1) Arrêté ministériel du 19 juillet 1973 fixant, la composition de la commission chargée d'émettre un avis pour
-l'établissement de la liste d'aptitude aux fonctions de chef de bataillon professionnel de sapeurs-pompiers (J.O. 2 août
-1973).
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1973-07-19
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 117 REMPLACE AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-46 (Ab)
-
-
-###### Article R353-48
-
-Les lieutenants-colonels sont nommés parmi les chefs de bataillon qui justifient d'une ancienneté de cinq ans dans le grade
-et qui sont en outre :
-
-Soit chef d'un corps dont l'effectif réel est d'au moins 160 sapeurs-pompiers professionnels ;
-
-Soit affectés à un corps dont l'effectif réel est supérieur à 320 sapeurs-pompiers professionnels dans la limite des postes
-disponibles.
-
-Les colonels sont nommés parmi les lieutenants-colonels qui justifient d'une ancienneté de trois ans dans ce grade et qui
-sont en outre :
-
-Soit chef d'un corps dont l'effectif réel est d'au moins 400 sapeurs-pompiers professionnels ;
-
-Soit affectés à un corps dont l'effectif réel est supérieur à 1300 sapeurs-pompiers professionnels dans la limite des postes
-disponibles.
-
-Dans les corps mixtes, les conditions prévues sont considérées comme remplies lorsque le nombre des sapeurs-pompiers
-professionnels est au moins égal aux deux tiers des effectifs ci-dessus mentionnés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-
-###### Article R353-50
-
-Le sapeur-pompier qui bénéficie d'un avancement de grade dans sa commune ou après sa nomination dans une autre commune est
-classé dans son nouveau grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont il
-bénéficiait dans son ancien grade.
-
-Dans la limite de l'ancienneté maximum exigée  pour une promotion à l'échelon supérieur, il conserve l'ancienneté d'échelon
-acquise dans le précédent grade lorsque sa nomination ne comporte pas une augmentation de traitement au moins égale à celle
-qui aurait résulté d'un avancement d'échelon dans le précédent emploi.
-
-Lorsqu'il avait atteint l'échelon le plus élevé de son ancien grade, il conserve son ancienneté d'échelon dans les mêmes
-conditions et dans les mêmes limites si sa nomination ne comporte pas un avantage pécuniaire au moins égal à celui que lui
-avait procuré son accession à cet échelon.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 I REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°80-988 du 8 décembre 1980 - art. 8 (Ab)
-  - CODE DES COMMUNES. - art. R353-54 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-
-###### Article R353-50-1
-
-Lorsque les lieutenants des sapeurs-pompiers professionnels et les fonctionnaires territoriaux titulaires d'emplois situés au
-niveau de la catégorie B, dont la liste est fixée par arrêté du ministre de l'intérieur, sont nommés, selon les règles
-statutaires normales, en qualité de capitaine de sapeurs-pompiers professionnels, ils sont classés dans le grade de début de
-leur nouvel emploi sur la base de la durée maximum de service exigée pour chaque avancement d'échelon en prenant en compte
-une fraction de leur ancienneté dans leur emploi d'origine.
-
-L'ancienneté dans l'emploi d'origine correspond à la durée de carrière nécessaire pour accéder, sur la base de la durée
-maximum de service exigée pour chaque avancement d'échelon, au grade et à l'échelon que les agents concernés ont atteint à la
-date de leur nomination en qualité de capitaine de sapeurs-pompiers professionnels, augmentée, le cas échéant, de
-l'ancienneté acquise dans le dernier échelon occupé dans l'emploi d'origine.
-
-Cette ancienneté est augmentée, lorsqu'il y a lieu, de la durée de carrière qu'il est nécessaire d'acquérir au minimum dans
-le ou les grades inférieurs dans l'emploi de catégorie B pour accéder au grade d'origine en tenant compte pour les
-avancements d'échelon de la durée statutaire maximum.
-
-L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années ; elle est prise en compte à
-raison de la moitié pour la fraction comprise entre cinq et douze ans et des trois quarts pour l'ancienneté excédant douze
-ans.
-
-L'application des dispositions qui précèdent ne peut pas avoir pour effet de placer un agent dans une situation plus
-favorable que celle qui aurait été la sienne si, préalablement à sa nomination en qualité de capitaine de sapeurs-pompiers
-professionnels, il avait été promu au grade supérieur de son emploi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-50-2 (Ab)
-  - CODE DES COMMUNES. - art. R353-50-3 (Ab)
-
-
-###### Article R353-50-2
-
-Lorsque les sapeurs-pompiers non officiers et les fonctionnaires territoriaux titulaires d'emplois situés au niveau des
-catégories C et D sont nommés, selon les règles statutaires normales, en qualité de capitaine de sapeurs-pompiers
-professionnels, ils sont classés à un échelon déterminé par application, à la date de leur nomination, des dispositions
-énoncées à l'article R. 353-50-1 ci-dessus pour la fraction de l'ancienneté qui aurait été prise en compte pour leur
-classement dans l'emploi de sous-lieutenant de sapeurs-pompiers professionnels.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-50-1 (Ab)
-
-
-###### Article R353-50-3
-
-Lorsque les agents non titulaires des collectivités territoriales sont nommés, selon les règles statutaires normales, en
-qualité de capitaine de sapeurs-pompiers professionnels, ils sont classés dans le grade de début de leur nouvel emploi à un
-échelon déterminé en prenant en compte, sur la base des durées maxima d'avancement d'échelon, une fraction de l'ancienneté
-acquise à la date de leur nomination, dans les conditions suivantes :
-
-Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à
-douze ans et des trois quarts au-delà de douze ans.
-
-Les services accomplis dans un emploi du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières
-années ; ils sont pris en compte à raison de six seizièmes pour la fraction comprise entre sept et seize ans et de neuf
-seizièmes pour l'ancienneté excédant seize ans.
-
-Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée
-excédant dix ans.
-
-Les agents non titulaires des collectivités territoriales qui ont occupé antérieurement des emplois d'un niveau inférieur à
-celui qu'ils occupent au moment de leur nomination peuvent demander que la totalité de leur ancienneté de service soit prise
-en compte dans les conditions fixées ci-dessus pour les emplois de niveau inférieur.
-
-Dans tous les cas, les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les
-services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent
-ou inférieure à un an dans le cas contraire.
-
-De plus, l'accomplissement des obligations du service national ou l'utilisation d'un congé parental ne sont pas considérés
-comme une interruption de la continuité des services pour l'application du précédent alinéa.
-
-Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les agents concernés dans une situation plus
-favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement
-supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions fixées à
-l'article R. 353-50-1 ci-dessus. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-853 du 25 septembre 1990 - art. 30 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-50-1 (Ab)
-
-
-###### Article R353-51
-
-Lorsque les sapeurs-pompiers professionnels du niveau de la catégorie C sont nommés selon les règles statutaires normales au
-grade de sous-lieutenant, ils sont classés dans leur nouvel emploi sur la base de la durée maximum de service exigée pour
-chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur emploi d'origine.
-
-L'ancienneté dans l'emploi d'origine correspond, dans la limite maximale [*d'âge*] de vingt-neuf ans pour un emploi situé au
-niveau de la catégorie D et de trente-deux ans pour un emploi situé au niveau de la catégorie C, au temps nécessaire pour
-parvenir sur la base des durées maximums de service à l'échelon occupé par l'intéressé augmenté de l'ancienneté acquise dans
-cet échelon.
-
-Cette ancienneté est retenue à raison des :
-
-- trois douzièmes [*proportion*], lorsqu'il s'agit d'un emploi du niveau de la catégorie D ;
-
-- huit douzièmes pour les douze premières années et sept douzièmes pour le surplus, lorsqu'il s'agit d'un emploi du niveau de
-la catégorie C.
-
-Pour les agents classés dans le groupe immédiatement supérieur à celui où se trouve classé leur grade antérieur, il est tenu
-compte, dans les conditions et limites déterminées ci-dessus, de leur ancienneté dans le groupe de classement de leur emploi.
-
-Lorsque l'application des dispositions qui précèdent aboutit à classer les agents intéressés à un échelon doté d'un indice
-inférieur à celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de
-leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouvel emploi d'un indice au moins égal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 II A REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-52 (Ab)
-
-
-###### Article R353-52
-
-Les adjudants-chefs professionnels, les fonctionnaires de l'Etat et les agents titulaires des collectivités locales nommés,
-selon les règles statutaires normales, au grade de sous-lieutenant des sapeurs-pompiers, sont classés à l'échelon de leur
-nouvel emploi qui comporte un traitement égal ou à défaut immédiatement supérieur au traitement perçu en dernier lieu dans
-leur emploi. 
-
-Dans la limite de l'ancienneté maximum de service exigée pour une promotion à l'échelon supérieur, ils conservent
-l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi lorsque l'augmentation de traitement consécutive à
-leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation. 
-
-Les agents nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent emploi conservent leur ancienneté
-d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est
-inférieure à celle que leur avait procurée leur nomination à cet échelon. 
-
-Les intéressés peuvent opter pour le régime institué par l'article précédent en faveur des agents du niveau de la catégorie
-C. Dans ce cas, les durées maxima du temps passé dans chaque échelon de leur précédent emploi sont celles prévues pour cet
-emploi   .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 II B REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-51 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-53 (Ab)
-
-
-###### Article R353-53
-
-Les officiers de réserve en situation d'activité à la brigade des sapeurs-pompiers de Paris ou au bataillon des marins-
-pompiers de Marseille ou dans une unité d'instruction de la sécurité civile, recrutés en qualité de sapeur-pompier
-professionnel du niveau de la catégorie B à la suite d'un concours sur titres ou sur épreuves, les agents non titulaires de
-l'Etat et des collectivités locales nommés dans un grade de sapeur-pompier professionnel de même niveau à la suite d'un
-concours sur épreuves sont reclassés dans le grade de début de leur nouvel emploi à un échelon déterminé en prenant en compte
-les services accomplis dans un emploi du niveau de la catégorie B, à raison des trois quarts de leur durée, et ceux accomplis
-dans un emploi de niveau inférieur, à raison de la moitié de leur durée.
-
-Ce reclassement ne doit, en aucun cas, aboutir à des situations plus favorables que celles qui résultent d'un reclassement à
-un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec
-conservation de l'ancienneté d'échelon dans les conditions définies à l'article précédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 III REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-852 du 25 septembre 1990 - art. 32 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-52 (Ab)
-
-
-###### Article R353-54
-
-Par dérogation aux dispositions de l'article R. 353-50, le sapeur-pompier promu ou recruté dans sa commune ou une autre
-collectivité, dans un des emplois d'exécution dont la liste est fixée par arrêté du ministre de l'intérieur, est maintenu
-dans son nouveau grade à l'échelon auquel il était parvenu dans son précédent grade (1).
-
-(1) Arrêté ministériel du 24 mars 1971 relatif aux conditions de classement des sapeurs-pompiers communaux professionnels
-(J.O. 15 juin 1971).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-50 (Ab)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-55 (Ab)
-
-
-###### Article R353-55
-
-Lorsque la nomination ou la promotion à l'échelon déterminé par application de l'article précédent a pour résultat d'accorder
-aux intéressés un gain qui excède soixante points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin,
-tel que ce gain n'excède pas le chiffre précité.
-
-Toutefois, en cas de nomination ou de promotion à certains emplois déterminés par l'arrêté prévu à l'article précédent, ce
-gain indiciaire maximum est porté à soixante-quinze points bruts.
-
-Lorsque la nomination prononcée dans les conditions prévues à l'article précédent a pour effet d'attribuer à l'intéressé un
-traitement inférieur à celui dont il bénéficiait dans son ancien grade, elle est prononcée à l'échelon comportant un
-traitement égal ou immédiatement supérieur.
-
-L'intéressé conserve, dans la limite de l'ancienneté maximum de service exigée pour l'accès à l'échelon supérieur de son
-nouvel emploi, l'ancienneté d'échelon qu'il avait acquise dans l'emploi antérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 BIS AL. 2 à 4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-54 (M)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-56 (Ab)
-
-
-###### Article R353-56
-
-Dans le cas où l'application des dispositions de l'article précédent aboutit à classer dans un même échelon des agents qui
-appartiennent à deux ou plusieurs échelons successifs d'un même grade, ces agents sont rangés dans cet échelon d'après les
-modalités suivantes :
-
-1° Lorsque les intéressés appartiennent à deux échelons successifs, seuls les agents issus du plus élevé de ces échelons
-conservent, dans la limite prévue au quatrième alinéa de l'article précédent, l'ancienneté d'échelon qu'ils avaient acquise
-dans leur grade antérieur ;
-
-2° Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les agents issus des deux échelons les plus
-élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-
-dessous :
-
-===============================================================
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ : ECHELON DANS  :                                             : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : LE GRADE      : ANCIENNETE D'ECHELON DANS LE NOUVEAU GRADE. : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : ANTERIEUR.    :                                             : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :---------------:---------------------------------------------: ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Agent issu de : Ancienneté d'échelon acquise dans le grade  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : l'échelon le  :   antérieur, majorée de la moitié de la     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : plus élevé.   :   durée maximum de service exigée pour      : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :               :   l'accès à l'échelon supérieur du nouveau  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :               :   grade, l'ancienneté totale ne pouvant     : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :               :   excéder cette durée maximum.              : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : Agent issu de : Ancienneté d'échelon acquise dans le grade  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : l'échelon     :   antérieur dans la limite de la moitié de  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : immédiatement :   la durée maximum de service exigée pour   : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ : inférieur.    :   l'accès à l'échelon supérieur du nouveau  : ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ :               :   grade.                                    : ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-===============================================================
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 BIS AL. 5
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Decret 90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R353-55 (Ab)
-
-
-###### Article R353-57
-
-Lorsque le recrutement à l'un des grades ou emplois mentionnés à l'article R. 353-54, effectué selon les règles statutaires
-normales, concerne des agents communaux non titulaires, ceux-ci sont classés sur la base de la durée maximum de service
-exigée pour chaque avancement d'échelon en prenant en compte, à raison des trois quarts [*proportion*] de leur durée, les
-services civils à temps complet qu'ils ont accomplis.
-
-Ce classement ne doit, en aucun cas, aboutir à des situations plus favorables que celles qui résultent d'un reclassement à un
-échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec
-conservation de l'ancienneté d'échelon dans les conditions définies à l'article R. 353-55.
-
-Le présent article ne peut toutefois avoir pour conséquence de placer les intéressés dans une situation moins favorable que
-celle qui résulte de l'application des dispositions statutaires normales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 119 BIS AL. 6 ET 7
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990) A(Decret 90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cite_:
-
-  - Code des communes R353-54 et R353-55
-
-
-###### Article R353-58
-
-La durée des périodes d'instruction militaire et des congés de maladie est comptée pour l'avancement d'échelon et de grade.
-
-La durée des services militaires est également comptée conformément aux règles applicables pour les fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 120
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-851 1990-09-25 art. 26 jorf 26 septembre 1990) A(Decret 90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-
-###### Article R353-59
-
-Lorsqu'un sapeur-pompier est nommé [*mutation*] sans avancement de grade d'une collectivité dans une autre, il est classé à
-un échelon comportant un traitement égal ou immédiatement supérieur.
-
-Lorsqu'un sapeur-pompier est muté dans la même collectivité, sans avancement de grade, d'un service à un autre dans lequel
-son grade n'est pas prévu, il conserve, à titre personnel, le bénéfice de la rémunération attribuée à son grade et à son
-échelon.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 121
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Decret 90-851 1990-09-25 art. 26 jorf 26 septembre 1990
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R353-83 (Ab)
-
-
-##### SECTION 8 : Cessation de fonctions.<a id=638></a>
-
-###### Article R353-114
-
-Sous réserve de l'application de l'article R. 353-83 [*invalidité partielle permanente à la suite d'un accident survenu dans
-l'exercice des fonctions*], les dispositions de l'article précédent [*relatives à la mise à la retraite ou au licenciement
-pour cause d'insuffisance professionnelle*] sont valables en cas d'aptitude physique insuffisante constatée par le médecin du
-corps.
-
-Le sapeur-pompier ou l'officier intéressé peut, après consultation du médecin traitant, demander l'avis du médecin-chef du
-service départemental d'incendie.
-
-En cas de désaccord entre ces deux praticiens, ceux-ci désignent un médecin arbitre [*recours*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 173 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-_Cite_:
-
-  - Code des communes R353-83 et R353-113
-
-
-###### Article R353-115
-
-Le sapeur-pompier licencié pour insuffisance professionnelle ou inaptitude physique peut recevoir une indemnité de
-licenciement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 173 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-116
-
-Tout sapeur-pompier peut soit sur sa demande, soit d'office, être admis à faire valoir ses droits à la retraite à l'âge de
-cinquante-cinq ans (1).
-
-(1) Arrêté ministériel du 12 décembre 1969 classant les sapeurs-pompiers professionnels en catégorie B (active) (J.O. du 7
-décembre 1969).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté  1969-11-12
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 174 REMPLACE AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-117
-
-Les dispositions législatives ou réglementaires relatives à la fixation des limites d'âge des fonctionnaires de l'Etat sont
-applicables aux sapeurs-pompiers professionnels.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 174 REMPLACE AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-118
-
-Lorsqu'un sapeur-pompier professionnel est décédé en service, ses ayants cause ont droit, dans les mêmes conditions que pour
-les fonctionnaires de l'Etat, au paiement du reliquat de la rémunération du mois en cours et du capital décès prévu par le
-régime de sécurité sociale applicable à ces derniers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 174 REMPLACE AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-##### SECTION 9 : Pensions et sécurité sociale.<a id=639></a>
-
-###### Article R353-119
-
-Les sapeurs-pompiers professionnels sont obligatoirement affiliés à la caisse nationale de retraites des agents des
-collectivités locales, à l'exception de ceux qui bénéficiaient, à la date du 12 mars 1953, d'un régime de retraite plus
-avantageux dont ils conservent le bénéfice.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°47-1846 1947-09-19 MODIFIE
-  - Décret n°65-773 1965-09-09 MODIFIE
-
-_Anciens textes_:
-
-  - Décret n°53-170 du 7 mars 1953 - art. 175 (V)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-###### Article R353-120
-
-Les sapeurs-pompiers professionnels bénéficient du régime de sécurité sociale accordé par le conseil municipal à l'ensemble
-du personnel titulaire de la commune, par application du décret n° 60-58 du 11 janvier 1960 relatif au régime de sécurité
-sociale des agents permanents des départements des communes et de leurs établissements publics n'ayant pas le caractère
-industriel ou commercial.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: Code des communes R392-2 :
-
-_Anciens textes_:
-
-  - Décret n°53-170 1953-03-07 ART. 176
-
-_Cite_:
-
-  - Décret n°60-58 1960-01-11
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 jorf 18 mars 1977
-
-_Cité par_:
-
-  - Décret n°78-1173 du 22 novembre 1978 - art. 4 (V)
-  - CODE DES COMMUNES. - art. R353-76 (Ab)
-  - CODE DES COMMUNES. - art. R392-2 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°90-850 1990-09-25 art. 25 jorf 26 septembre 1990
-
-
-#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=640></a>
-
-##### SECTION 1 : Recrutement.<a id=641></a>
+##### SECTION 1 : Recrutement.<a id=634></a>
 
 ###### Article R354-2
 
@@ -71721,7 +69543,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R354-2 (M)
 
 
-##### SECTION 2 : Notation et avancement.<a id=642></a>
+##### SECTION 2 : Notation et avancement.<a id=635></a>
 
 ###### Article R354-15
 
@@ -71921,7 +69743,7 @@ _Cite_:
   - Code des communes R354-18 et R354-19
 
 
-##### SECTION 3 : Discipline.<a id=643></a>
+##### SECTION 3 : Discipline.<a id=636></a>
 
 ###### Article R354-22
 
@@ -72059,7 +69881,7 @@ _Cité par_:
   - TXT_ASSOCIE: CODE DES COMMUNES. - art. R354-24 (Ab)
 
 
-##### SECTION 4 : Cessation de fonctions.<a id=644></a>
+##### SECTION 4 : Cessation de fonctions.<a id=637></a>
 
 ###### Article R354-26
 
@@ -72369,11 +70191,11 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R354-34 (Ab)
 
 
-##### SECTION 5 : Allocations, rentes et autres prestations<a id=645></a>
+##### SECTION 5 : Allocations, rentes et autres prestations<a id=638></a>
 
-##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=646></a>
+##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=639></a>
 
-##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=647></a>
+##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=640></a>
 
 ###### Article R*354-36
 
@@ -72920,7 +70742,7 @@ _Abrogé par_:
   - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
 
 
-##### PARAGRAPHE 2 : Affiliation aux assurances sociales.<a id=648></a>
+##### PARAGRAPHE 2 : Affiliation aux assurances sociales.<a id=641></a>
 
 ###### Article R*354-51
 
@@ -73244,7 +71066,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L354-12 (Ab)
 
 
-##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.<a id=649></a>
+##### SOUS-SECTION 2 : Indemnités allouées en cas d'incapacité temporaire.<a id=642></a>
 
 ###### Article R*354-62
 
@@ -73444,7 +71266,7 @@ _Abrogé par_:
   - Décret n°92-620 du 7 juillet 1992 - art. 19 (V)
 
 
-##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.<a id=650></a>
+##### SOUS-SECTION 3 : Frais médicaux chirurgicaux et pharmaceutiques.<a id=643></a>
 
 ###### Article R*354-69
 
@@ -73552,7 +71374,7 @@ _Anciens textes_:
   - Loi n°44-210 1944-05-22 ART. 4 (PARTIE)
 
 
-##### SOUS-SECTION 4 : Frais funéraires.<a id=651></a>
+##### SOUS-SECTION 4 : Frais funéraires.<a id=644></a>
 
 ###### Article R*354-72
 
@@ -73617,7 +71439,7 @@ _Anciens textes_:
   - Décret  1929-02-16 ART. 17 (PARTIE)
 
 
-##### SOUS-SECTION 5 : Caisse communale de secours et de retraite.<a id=652></a>
+##### SOUS-SECTION 5 : Caisse communale de secours et de retraite.<a id=645></a>
 
 ###### Article R*354-77
 
@@ -73806,13 +71628,13 @@ _Cite_:
   - Code de la mutualité
 
 
-#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires<a id=653></a>
+#### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux volontaires<a id=646></a>
 
-##### SECTION 5 : Allocations, rentes et autres prestations<a id=654></a>
+##### SECTION 5 : Allocations, rentes et autres prestations<a id=647></a>
 
-##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=655></a>
+##### SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente<a id=648></a>
 
-##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=656></a>
+##### PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités.<a id=649></a>
 
 ###### Article R*354-50
 
@@ -73854,13 +71676,13 @@ _Cite_:
   - CODE DES COMMUNES. - art. L354-1 (Ab)
 
 
-### TITRE 6 : Pompes funèbres et cimetières<a id=657></a>
+### TITRE 6 : Pompes funèbres et cimetières<a id=650></a>
 
-#### CHAPITRE 1 : Sépultures<a id=658></a>
+#### CHAPITRE 1 : Sépultures<a id=651></a>
 
-##### SECTION 1 : Lieux de sépultures : inhumations et exhumations<a id=659></a>
+##### SECTION 1 : Lieux de sépultures : inhumations et exhumations<a id=652></a>
 
-##### SOUS-SECTION 1 : Cimetières.<a id=660></a>
+##### SOUS-SECTION 1 : Cimetières.<a id=653></a>
 
 ###### Article R*361-1
 
@@ -74109,7 +71931,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-7 (V)
 
 
-##### SOUS-SECTION 2 : Inhumations.<a id=661></a>
+##### SOUS-SECTION 2 : Inhumations.<a id=654></a>
 
 ###### Article R361-10
 
@@ -74315,7 +72137,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-39 (V)
 
 
-##### SOUS-SECTION 3 : Exhumations.<a id=662></a>
+##### SOUS-SECTION 3 : Exhumations.<a id=655></a>
 
 ###### Article R361-15
 
@@ -74433,7 +72255,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-42 (M)
 
 
-##### SECTION 2 : Concessions funéraires.<a id=663></a>
+##### SECTION 2 : Concessions funéraires.<a id=656></a>
 
 ###### Article R*361-18
 
@@ -75024,7 +72846,7 @@ _Anciens textes_:
   - Décret  1924-04-25 ART. 12
 
 
-##### SECTION 3 : Chambres funéraires.<a id=664></a>
+##### SECTION 3 : Chambres funéraires.<a id=657></a>
 
 ###### Article R361-35
 
@@ -75265,7 +73087,7 @@ _Modifié par_:
   - Décret n°87-28 1987-01-14 art. 9 JORF 18 janvier 1987
 
 
-##### SECTION 4 : Crémations.<a id=665></a>
+##### SECTION 4 : Crémations.<a id=658></a>
 
 ###### Article R361-41
 
@@ -75463,7 +73285,7 @@ _Créé par_:
   - Décret n°87-28 1987-01-14 art. 12 JORF 18 janvier 1987
 
 
-##### SECTION 5 : Dispositions diverses.<a id=666></a>
+##### SECTION 5 : Dispositions diverses.<a id=659></a>
 
 ###### Article R361-46
 
@@ -75526,9 +73348,9 @@ _Cite_:
   - Code des communes R361-10 à R361-17 et R361-35 à R361-45
 
 
-#### CHAPITRE 2 : Pompes funèbres<a id=667></a>
+#### CHAPITRE 2 : Pompes funèbres<a id=660></a>
 
-##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.<a id=668></a>
+##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.<a id=661></a>
 
 ###### Article R*362-4
 
@@ -75558,9 +73380,9 @@ _Modifié par_:
   - Décret n°87-28 1977-01-14 art. 15 JORF 18 janvier 1987
 
 
-#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=669></a>
+#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=662></a>
 
-##### SECTION 1 : Soins de conservation.<a id=670></a>
+##### SECTION 1 : Soins de conservation.<a id=663></a>
 
 ###### Article R363-1
 
@@ -75685,9 +73507,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-4 (V)
 
 
-##### SECTION 2 : Transport de corps avant mise en bière<a id=671></a>
+##### SECTION 2 : Transport de corps avant mise en bière<a id=664></a>
 
-##### SOUS-SECTION 1 : Transport de corps à résidence.<a id=672></a>
+##### SOUS-SECTION 1 : Transport de corps à résidence.<a id=665></a>
 
 ###### Article R363-4
 
@@ -75927,7 +73749,7 @@ _Modifié par_:
   - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
 
 
-##### SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche.<a id=673></a>
+##### SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche.<a id=666></a>
 
 ###### Article R363-10
 
@@ -76008,7 +73830,7 @@ _Modifié par_:
   - Décret n°87-28 1987-01-14 art. 23 JORF 18 janvier 1987
 
 
-##### SOUS-SECTION 3 : Conditions du transport.<a id=674></a>
+##### SOUS-SECTION 3 : Conditions du transport.<a id=667></a>
 
 ###### Article R363-12
 
@@ -76158,9 +73980,9 @@ _Cite_:
   - Code des communes R363-12 à R363-14
 
 
-##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=675></a>
+##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=668></a>
 
-##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=676></a>
+##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=669></a>
 
 ###### Article R363-16
 
@@ -76352,7 +74174,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-20 (V)
 
 
-##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=677></a>
+##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=670></a>
 
 ###### Article R363-22
 
@@ -76528,7 +74350,7 @@ _Cité par_:
   - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
 
 
-##### SOUS-SECTION 3 : Conditions de transport.<a id=678></a>
+##### SOUS-SECTION 3 : Conditions de transport.<a id=671></a>
 
 ###### Article R363-26
 
@@ -76665,7 +74487,7 @@ _Modifié par_:
   - Décret n°87-28 1987-01-14 art. 31 JORF 18 janvier 1987
 
 
-##### SECTION 4 : Dépôts temporaires.<a id=679></a>
+##### SECTION 4 : Dépôts temporaires.<a id=672></a>
 
 ###### Article R363-34
 
@@ -76777,9 +74599,9 @@ _Cite_:
   - Code des communes R363-1 à R363-35
 
 
-#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=680></a>
+#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=673></a>
 
-##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=681></a>
+##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=674></a>
 
 ###### Article R364-1
 
@@ -77366,7 +75188,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 4
 
 
-##### SECTION 3 : Moulages.<a id=682></a>
+##### SECTION 3 : Moulages.<a id=675></a>
 
 ###### Article R364-17
 
@@ -77409,7 +75231,7 @@ _Anciens textes_:
   - Décret  1941-12-31 ART. 27 COMPLETE AL. 3 et 4 MODIFIES
 
 
-##### SECTION 3 : Moulages et autopsies.<a id=683></a>
+##### SECTION 3 : Moulages et autopsies.<a id=676></a>
 
 ###### Article R364-14
 
@@ -77510,11 +75332,11 @@ _Abrogé par_:
   - Décret n°96-141 du 21 février 1996 - art. 11 () JORF 23 février 1996
 
 
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=684></a>
+### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=677></a>
 
-#### CHAPITRE 1 : Eau<a id=685></a>
+#### CHAPITRE 1 : Eau<a id=678></a>
 
-##### SECTION 1 : Dispositions générales.<a id=686></a>
+##### SECTION 1 : Dispositions générales.<a id=679></a>
 
 ###### Article R*371-5
 
@@ -77675,7 +75497,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=687></a>
+##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=680></a>
 
 ###### Article R*371-8
 
@@ -77919,7 +75741,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L371-10 (Ab)
 
 
-##### SECTION 3 : Contrôle des distributions d'eau.<a id=688></a>
+##### SECTION 3 : Contrôle des distributions d'eau.<a id=681></a>
 
 ###### Article R*371-15
 
@@ -78238,9 +76060,9 @@ _Cite_:
   - Code des communes R371-15 à R371-23
 
 
-#### CHAPITRE 2 : Assainissement et eaux usées<a id=689></a>
+#### CHAPITRE 2 : Assainissement et eaux usées<a id=682></a>
 
-##### SECTION 1 : Dispositions générales.<a id=690></a>
+##### SECTION 1 : Dispositions générales.<a id=683></a>
 
 ###### Article R*372-1
 
@@ -78392,7 +76214,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=691></a>
+##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=684></a>
 
 ###### Article R*372-6
 
@@ -78721,7 +76543,7 @@ _Cite_:
   - Code de la santé publique - art. L35-5 (M)
 
 
-#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=692></a>
+#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=685></a>
 
 ###### Article R*373-1
 
@@ -78795,7 +76617,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 4 : Gaz.<a id=693></a>
+#### CHAPITRE 4 : Gaz.<a id=686></a>
 
 ###### Article R*374-4
 
@@ -78928,7 +76750,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-114 (V)
 
 
-#### CHAPITRE 5 : Electricité.<a id=694></a>
+#### CHAPITRE 5 : Electricité.<a id=687></a>
 
 ###### Article R*375-17
 
@@ -79509,7 +77331,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-112 (T)
 
 
-#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=695></a>
+#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=688></a>
 
 ###### Article R*376-1
 
@@ -79674,7 +77496,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 7 : Transports publics.<a id=696></a>
+#### CHAPITRE 7 : Transports publics.<a id=689></a>
 
 ###### Article R*377-1
 
@@ -79884,7 +77706,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=697></a>
+#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=690></a>
 
 ###### Article R*378-1
 
@@ -80068,9 +77890,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 8 : Participation à des entreprises privées<a id=698></a>
+### TITRE 8 : Participation à des entreprises privées<a id=691></a>
 
-#### SECTION 1 : Dispositions générales.<a id=699></a>
+#### SECTION 1 : Dispositions générales.<a id=692></a>
 
 ###### Article R381-1
 
@@ -80234,7 +78056,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 2 : Régime des titres.<a id=700></a>
+#### SECTION 2 : Régime des titres.<a id=693></a>
 
 ###### Article R381-6
 
@@ -80300,7 +78122,7 @@ _Cite_:
   - Code des communes R381-1 et R381-2
 
 
-#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=701></a>
+#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=694></a>
 
 ###### Article R381-8
 
@@ -80847,7 +78669,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 4 : Communes obligataires.<a id=702></a>
+#### SECTION 4 : Communes obligataires.<a id=695></a>
 
 ###### Article R381-26
 
@@ -80911,7 +78733,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 5 : Commissaires du gouvernement.<a id=703></a>
+#### SECTION 5 : Commissaires du gouvernement.<a id=696></a>
 
 ###### Article R*381-28
 
@@ -81034,7 +78856,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 6 : Dispositions diverses.<a id=704></a>
+#### SECTION 6 : Dispositions diverses.<a id=697></a>
 
 ###### Article R*381-33
 
@@ -81091,9 +78913,9 @@ _Cite_:
   - Code des communes R381-3 à R381-27
 
 
-### TITRE 9 : Dispositions particulières<a id=705></a>
+### TITRE 9 : Dispositions particulières<a id=698></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=706></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=699></a>
 
 ###### Article R*391-1
 
@@ -81182,9 +79004,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2543-1 (V)
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=707></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=700></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=708></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=701></a>
 
 ###### Article R*392-1
 
@@ -81214,7 +79036,7 @@ _Cite_:
   - Code des communes R311-1 à R312-1, R312-19 à R374-1, R374-3 à R375-1, R375-7 à R375-17, R376-3, R376-4, R377-1, R377-2, R378-1 à R381-33
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=709></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=702></a>
 
 ###### Article R392-2
 
@@ -81247,7 +79069,7 @@ _Cite_:
   - Code des communes R311-8
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=710></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=703></a>
 
 ###### Article R*393-1
 
@@ -81367,7 +79189,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 1 (PARTIE) MODIFIE
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=711></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=704></a>
 
 ###### Article R*394-1
 
@@ -81396,7 +79218,7 @@ _Cite_:
   - Code des communes R351-1 à R351-4
 
 
-##### SECTION 2 : Protection contre l'incendie.<a id=712></a>
+##### SECTION 2 : Protection contre l'incendie.<a id=705></a>
 
 ###### Article R*394-2
 
@@ -81443,7 +79265,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Pompes funèbres et cimetières.<a id=713></a>
+##### SECTION 3 : Pompes funèbres et cimetières.<a id=706></a>
 
 ###### Article R394-3
 
@@ -81729,7 +79551,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2512-37 (V)
 
 
-#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=714></a>
+#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=707></a>
 
 ###### Article R395-1
 
@@ -81792,13 +79614,13 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2513-5 (T)
 
 
-## LIVRE 4 : Personnel communal<a id=715></a>
+## LIVRE 4 : Personnel communal<a id=708></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=716></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=709></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=717></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=710></a>
 
-##### SECTION 1 : Dispositions générales.<a id=718></a>
+##### SECTION 1 : Dispositions générales.<a id=711></a>
 
 ###### Article R*411-1
 
@@ -81879,7 +79701,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=719></a>
+##### SECTION 4 : Commission paritaire communale.<a id=712></a>
 
 ###### Article R*411-38
 
@@ -81905,7 +79727,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=720></a>
+##### SECTION 6 : La médaille d'honneur régionale, départementale et communale.<a id=713></a>
 
 ###### Article R411-41
 
@@ -82211,7 +80033,7 @@ _Modifié par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-##### SECTION 7 : Honorariat.<a id=721></a>
+##### SECTION 7 : Honorariat.<a id=714></a>
 
 ###### Article R411-55
 
@@ -82233,11 +80055,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=722></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=715></a>
 
-##### SECTION 1 : Recrutement<a id=723></a>
+##### SECTION 1 : Recrutement<a id=716></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=724></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=717></a>
 
 ###### Article R*412-1
 
@@ -82430,7 +80252,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=725></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=718></a>
 
 ###### Article R412-9
 
@@ -82637,7 +80459,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=726></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=719></a>
 
 ###### Article R*412-32
 
@@ -83177,7 +80999,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Promotion sociale.<a id=727></a>
+##### SECTION 3 : Promotion sociale.<a id=720></a>
 
 ###### Article R412-94
 
@@ -83308,9 +81130,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=728></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=721></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=729></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=722></a>
 
 ###### Article R*412-116
 
@@ -83442,7 +81264,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=730></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=723></a>
 
 ###### Article R412-120
 
@@ -83552,7 +81374,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=731></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=724></a>
 
 ###### Article R*412-123
 
@@ -83641,7 +81463,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=732></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=725></a>
 
 ###### Article R*412-127
 
@@ -83661,7 +81483,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=733></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=726></a>
 
 ###### Article R*413-1
 
@@ -83710,9 +81532,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=734></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=727></a>
 
-##### SECTION 1 : Notation.<a id=735></a>
+##### SECTION 1 : Notation.<a id=728></a>
 
 ###### Article R414-1
 
@@ -83739,7 +81561,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=736></a>
+##### SECTION 2 : Avancement.<a id=729></a>
 
 ###### Article R*414-2
 
@@ -84270,9 +82092,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=737></a>
+##### SECTION 3 : Discipline<a id=730></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=738></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=731></a>
 
 ###### Article R*414-15
 
@@ -84370,7 +82192,7 @@ _Modifié par_:
   - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=739></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=732></a>
 
 ###### Article R*414-22
 
@@ -84565,7 +82387,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=740></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=733></a>
 
 ###### Article R*414-29
 
@@ -84579,11 +82401,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=741></a>
+#### CHAPITRE 5 : Positions<a id=734></a>
 
-##### SECTION 1 : Activités, congés<a id=742></a>
+##### SECTION 1 : Activités, congés<a id=735></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=743></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=736></a>
 
 ###### Article R*415-2
 
@@ -84750,7 +82572,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=744></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=737></a>
 
 ###### Article R*415-6
 
@@ -84777,7 +82599,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=745></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=738></a>
 
 ###### Article R*416-1
 
@@ -84809,7 +82631,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=746></a>
+##### SECTION 1 : L'admission à la retraite.<a id=739></a>
 
 ###### Article R*416-2
 
@@ -84832,7 +82654,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=747></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=740></a>
 
 ###### Article R*416-3
 
@@ -84854,9 +82676,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=748></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=741></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=749></a>
+##### SECTION 1 : Sécurité sociale.<a id=742></a>
 
 ###### Article R417-1
 
@@ -84881,7 +82703,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=750></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=743></a>
 
 ###### Article R417-5
 
@@ -85474,7 +83296,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=751></a>
+##### SECTION 4 : Pensions.<a id=744></a>
 
 ###### Article R417-22
 
@@ -85520,11 +83342,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=752></a>
+### TITRE 2 : Personnels divers<a id=745></a>
 
-#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=753></a>
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=746></a>
 
-##### SECTION 1 : Dispositions générales.<a id=754></a>
+##### SECTION 1 : Dispositions générales.<a id=747></a>
 
 ###### Article R*421-7
 
@@ -85750,7 +83572,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-13 (M)
 
 
-##### SECTION 2 : Représentation aux commissions paritaires.<a id=755></a>
+##### SECTION 2 : Représentation aux commissions paritaires.<a id=748></a>
 
 ###### Article R421-8
 
@@ -85912,7 +83734,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 3 : Garanties disciplinaires.<a id=756></a>
+##### SECTION 3 : Garanties disciplinaires.<a id=749></a>
 
 ###### Article R421-14
 
@@ -86203,7 +84025,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 4 : Congés.<a id=757></a>
+##### SECTION 4 : Congés.<a id=750></a>
 
 ###### Article R421-24
 
@@ -86291,7 +84113,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-29 (Ab)
 
 
-##### SECTION 5 : Régime particulier de retraite.<a id=758></a>
+##### SECTION 5 : Régime particulier de retraite.<a id=751></a>
 
 ###### Article R421-27
 
@@ -86320,9 +84142,9 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-#### CHAPITRE 2 : Agents non titulaires<a id=759></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=752></a>
 
-##### SECTION 1 : Dispositions générales.<a id=760></a>
+##### SECTION 1 : Dispositions générales.<a id=753></a>
 
 ###### Article R*422-1
 
@@ -86343,7 +84165,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=761></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=754></a>
 
 ###### Article R*422-3
 
@@ -86405,7 +84227,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=762></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=755></a>
 
 ###### Article R*422-5
 
@@ -86522,7 +84344,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=763></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=756></a>
 
 ###### Article R*422-9
 
@@ -86665,7 +84487,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=764></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=757></a>
 
 ###### Article R*422-15
 
@@ -87108,7 +84930,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=765></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=758></a>
 
 ###### Article R*422-33
 
@@ -87220,7 +85042,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=766></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=759></a>
 
 ###### Article R422-41
 
@@ -87256,7 +85078,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=767></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=760></a>
 
 ###### Article R*423-1
 
@@ -87348,11 +85170,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=768></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=761></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=769></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=762></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=770></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=763></a>
 
 ###### Article R*432-1
 
@@ -87445,7 +85267,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=771></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=764></a>
 
 ###### Article R*432-4
 
@@ -87649,9 +85471,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=772></a>
+### TITRE 4 : Dispositions particulières<a id=765></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=773></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=766></a>
 
 ###### Article R441-1
 
@@ -87681,9 +85503,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=774></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=767></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=775></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=768></a>
 
 ###### Article R442-1
 
@@ -87725,7 +85547,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=776></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=769></a>
 
 ###### Article R*442-2
 
@@ -87747,11 +85569,11 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=777></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=770></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=778></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=771></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=779></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=772></a>
 
 ###### Article R*444-1
 
@@ -88259,7 +86081,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Recrutement.<a id=780></a>
+##### SECTION 2 : Recrutement.<a id=773></a>
 
 ###### Article R*444-28
 
@@ -88480,7 +86302,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=781></a>
+##### SECTION 3 : Rémunération.<a id=774></a>
 
 ###### Article R*444-37
 
@@ -88602,9 +86424,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=782></a>
+##### SECTION 4 : Notation et avancement<a id=775></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=783></a>
+##### SOUS-SECTION 1 : Notation.<a id=776></a>
 
 ###### Article R*444-42
 
@@ -88771,7 +86593,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=784></a>
+##### SOUS-SECTION 2 : Avancement.<a id=777></a>
 
 ###### Article R*444-49
 
@@ -89170,7 +86992,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=785></a>
+##### SECTION 5 : Discipline.<a id=778></a>
 
 ###### Article R*444-65
 
@@ -89878,7 +87700,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=786></a>
+##### SECTION 6 : Positions.<a id=779></a>
 
 ###### Article R*444-88
 
@@ -89911,7 +87733,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=787></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=780></a>
 
 ###### Article R*444-89
 
@@ -89933,7 +87755,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=788></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=781></a>
 
 ###### Article R444-90
 
@@ -90008,7 +87830,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=789></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=782></a>
 
 ###### Article R*444-102
 
@@ -90170,7 +87992,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=790></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=783></a>
 
 ###### Article R*444-109
 
@@ -90213,7 +88035,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=791></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=784></a>
 
 ###### Article R*444-120
 
@@ -90239,7 +88061,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=792></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=785></a>
 
 ###### Article R*444-122
 
@@ -90262,7 +88084,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=793></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=786></a>
 
 ###### Article R*444-123
 
@@ -90303,7 +88125,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=794></a>
+##### SOUS-SECTION 8 : Mutations.<a id=787></a>
 
 ###### Article R*444-169
 
@@ -90367,7 +88189,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=795></a>
+##### SECTION 7 : Cessation de fonctions.<a id=788></a>
 
 ###### Article R*444-172
 
