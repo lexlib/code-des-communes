@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2000-03-07
+Version Consolidée au 2000-03-14
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -43780,8 +43780,20 @@ _Cite_:
 
 ###### Article R*372-7
 
-Le conseil municipal ou l'assemblée délibérante de l'établissement public qui exploite ou concède le service d'assainissement
-[*compétence*] institue la redevance d'assainissement et en fixe le tarif.
+Le conseil municipal ou l'organe délibérant de l'établissement public compétent pour tout ou partie du service public
+d'assainissement collectif ou non collectif institue une redevance d'assainissement pour la part du service qu'il assure et
+en fixe le tarif.
+
+Lorsque le service d'assainissement concerne à la fois l'assainissement collectif et l'assainissement non collectif, deux
+redevances distinctes sont instituées. Le budget annexe du service d'assainissement, ou le budget commun d'eau et
+d'assainissement établi dans les conditions fixées par l'article L. 2224-6 du code général des collectivités territoriales,
+ou l'état sommaire mentionné à l'article L. 2221-11 du même code, doivent faire apparaître dans un état complémentaire la
+répartition entre les opérations relatives respectivement à l'assainissement collectif et à l'assainissement non collectif.
+Le compte administratif doit faire apparaître de la même manière cette répartition.
+
+En cas de délégation du service d'assainissement, le tarif de la redevance peut comprendre, outre une part, fixée par la
+convention de délégation, revenant au délégataire au titre des charges du service qu'il assure, une part revenant à
+l'autorité délégante destinée à couvrir les dépenses qui demeurent à sa charge.
 
 **Liens relatifs à cet article**
 
@@ -43793,17 +43805,29 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 2 ()
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2221-11 (M)
+  - Code général des collectivités territoriales - art. L2224-6 (M)
 
 
 ###### Article R*372-8
 
-La redevance d'assainissement est assise sur le volume d'eau prélevé par l'usager du service d'assainissement sur le réseau
-public de distribution ou sur toute autre source.
+La redevance d'assainissement collectif comprend une partie variable et, le cas échéant, une partie fixe.
 
-Ce volume est calculé dans les conditions définies aux articles R. 372-9 à R. 372-12.
+La partie variable est déterminée en fonction du volume d'eau prélevé par l'usager sur le réseau public de distribution ou
+sur toute autre source, dont l'usage génère le rejet d'une eau usée collectée par le service d'assainissement. Ce volume est
+calculé dans les conditions définies aux articles R. 372-9 et R. 372-10.
+
+La partie fixe est calculée pour couvrir tout ou partie des charges fixes du service d'assainissement.
+
+Les volumes d'eau utilisés pour l'irrigation et l'arrosage des jardins ou pour tout autre usage ne générant pas une eau usée
+pouvant être rejetée dans le système d'assainissement, dès lors qu'ils proviennent de branchements spécifiques, n'entrent pas
+en compte dans le calcul de la redevance d'assainissement.
 
 **Liens relatifs à cet article**
 
@@ -43815,19 +43839,19 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 3 ()
 
 _Cite_:
 
-  - Code des communes R372-9 à R372-12
+  - CODE DES COMMUNES R372-9, R372-10
 
 
 ###### Article R*372-9
 
-Lorsque l'usager est alimenté par un service public de distribution, la redevance correspondante est assise sur le nombre de
-mètres cubes d'eau [*volume*] réellement prélevé ou, le cas échéant, sur le forfait facturé.
+Lorsque la consommation d'eau est calculée de façon forfaitaire, en application du deuxième alinéa du II de l'article 13 de
+la loi n° 92-3 du 3 janvier 1992 sur l'eau, la redevance d'assainissement peut être également calculée forfaitairement.
 
 **Liens relatifs à cet article**
 
@@ -43839,22 +43863,31 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Loi n°92-3 1992-01-03 art. 13
+
+_Modifié par_:
+
+  - Décret n°2000-237 du 13 mars 2000 - art. 4 ()
 
 
 ###### Article R*372-10
 
 Toute personne tenue de se raccorder au réseau d'assainissement et qui s'alimente en eau, totalement ou partiellement, à une
-source autre qu'un service public doit en faire la déclaration à la mairie [*formalités*].
+source qui ne relève pas d'un service public doit en faire la déclaration à la mairie.
 
-Dans ce cas, le nombre de mètres cubes d'eau qui sert de base à la redevance correspondante est déterminé en fonction des
-caractéristiques des installations de captage ou des autorisations de prélèvement, selon les barèmes établis par arrêté du
-préfet [*compétence*].
+Dans le cas où l'usage de cette eau générerait le rejet d'eaux usées collectées par le service d'assainissement, la redevance
+d'assainissement collectif est calculée :
 
-Toutefois, l'usager peut demander une mesure directe du volume prélevé par des dispositifs de comptage qui sont posés et
-entretenus à ses frais.
+- soit par mesure directe au moyen de dispositifs de comptage posés et entretenus aux frais de l'usager et dont les relevés
+sont transmis au service d'assainissement dans les conditions fixées par l'autorité mentionnée au premier alinéa de l'article
+R. 372-7 ;
+
+- soit à défaut de dispositifs de comptage ou de justification de la conformité des dispositifs de comptage par rapport à la
+réglementation, ou en l'absence de transmission des relevés, sur la base de critères permettant d'évaluer le volume d'eau
+prélevé, définis par la même autorité et prenant en compte notamment la surface de l'habitation et du terrain, le nombre
+d'habitants, la durée du séjour.
 
 **Liens relatifs à cet article**
 
@@ -43866,9 +43899,13 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 5 ()
+
+_Cite_:
+
+  - CODE DES COMMUNES R372-7
 
 
 ###### Article R*372-11
@@ -43905,15 +43942,16 @@ _Abrogé par_:
 
 ###### Article R*372-12
 
-Lorsqu'une entreprise industrielle, commerciale ou artisanale prélève annuellement une quantité d'eau [*consommation*]
-supérieure à un nombre de mètres cubes d'eau fixé par arrêté interministériel, le nombre de mètres cubes prélevés [*volume*]
-qui sert de base à la redevance d'assainissement est corrigé en hausse ou en baisse pour tenir compte des charges
-particulières imposées au service de l'assainissement, notamment par le degré ou la forme de la pollution créée par cette
-entreprise.
+La redevance d'assainissement non collectif comprend une part destinée à couvrir les charges de contrôle de la conception, de
+l'implantation et de la bonne exécution et du bon fonctionnement des installations et, le cas échéant, une part destinée à
+couvrir les charges d'entretien de celles-ci.
 
-Le coefficient de correction est fixé pour chaque redevable par arrêté préfectoral[*compétence*], à partir notamment des
-éléments objectifs résultant des constatations faites lors de la procédure d'autorisation de déversement, conformément à
-l'article L. 35-8 du code de la santé publique.
+La part représentative des opérations de contrôle est calculée en fonction de critères définis par l'autorité mentionnée au
+premier alinéa de l'article R. 372-7 et tenant compte notamment de la situation, de la nature et de l'importance des
+installations. Ces opérations peuvent donner lieu à une tarification forfaitaire.
+
+La part représentative des prestations d'entretien n'est due qu'en cas de recours au service d'entretien par l'usager. Les
+modalités de tarification doivent tenir compte de la nature des prestations assurées.
 
 **Liens relatifs à cet article**
 
@@ -43925,19 +43963,29 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 6 ()
 
 _Cite_:
 
-  - Code de la santé publique - art. L35-8 (Ab)
+  - CODE DES COMMUNES R372-7
 
 
 ###### Article R*372-13
 
-Pour les usagers [*alimentés par un service public de distribution*] mentionnés à l'article R. 372-9, le recouvrement des
-redevances pour consommation d'eau et des redevances d'assainissement peut être confié au même organisme.
+Indépendamment de la participation aux dépenses de premier établissement prévues par l'article L. 35-8 du code de la santé
+publique, tout déversement d'eaux usées d'entretien et d'exploitation, autres que domestiques, dans le réseau public
+d'assainissement donne lieu au paiement, par l'auteur du déversement, d'une redevance d'assainissement assise :
+
+- soit sur une évaluation spécifique déterminée à partir de critères définis par l'autorité mentionnée au premier alinéa de
+l'article R. 372-7 et prenant en compte notamment l'importance, la nature et les caractéristiques du déversement, ainsi que,
+s'il y a lieu, la quantité d'eau prélevée ;
+
+- soit selon les modalités prévues aux articles R. 372-8 à R. 372-10. Dans ce cas, la partie variable peut être corrigée pour
+tenir compte du degré de pollution et de la nature du déversement ainsi que de l'impact réel de ce dernier sur le service
+d'assainissement. Les coefficients de correction sont fixés par l'autorité mentionnée au premier alinéa de l'article R.
+372-7.
 
 **Liens relatifs à cet article**
 
@@ -43949,19 +43997,25 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 7 ()
 
 _Cite_:
 
-  - Code des communes R372-9
+  - CODE DES COMMUNES R372-7, R372-8 à R372-10
+  - Code de la santé publique - art. L35-8 (Ab)
 
 
 ###### Article R*372-14
 
-La facturation des sommes dues par les usagers est faite au nom du titulaire de l'abonnement à l'eau, à défaut au nom du
-propriétaire du fonds de commerce, à défaut au nom du propriétaire de l'immeuble.
+Le recouvrement, à l'exclusion des procédures contentieuses, des redevances pour consommation d'eau et des redevances
+d'assainissement collectif et non collectif peut être confié à un même organisme qui en fait apparaître le détail sur une
+même facture.
+
+En cas de recouvrement séparé de ces redevances, l'exploitant du réseau public de distribution d'eau est tenu de communiquer
+aux services d'assainissement, dans un délai d'un mois à compter de sa propre facturation, les éléments nécessaires au calcul
+des redevances dues par leurs usagers.
 
 **Liens relatifs à cet article**
 
@@ -43973,16 +44027,18 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 8 ()
 
 
 ###### Article R*372-15
 
-A défaut de paiement dans un délai de trois mois à compter de la présentation de la quittance et dans les quinze jours d'une
-mise en demeure par lettre recommandée avec demande d'avis de réception [*conditions de forme*], la redevance est majorée de
-25 p. 100 [*pourcentage - sanctions*].
+La facturation des sommes dues par les usagers est faite au nom du titulaire de l'abonnement à l'eau, à défaut au nom du
+propriétaire du fonds de commerce, à défaut au nom du propriétaire de l'immeuble.
+
+Toutefois, la part de la redevance d'assainissement non collectif qui porte sur le contrôle de la conception, de
+l'implantation et de la bonne exécution des installations est facturée au propriétaire de l'immeuble.
 
 **Liens relatifs à cet article**
 
@@ -43994,15 +44050,15 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 9 ()
 
 
 ###### Article R*372-16
 
-Conformément à l'article L. 322-5, le budget du service chargé de l'assainissement doit s'équilibrer en recettes et en
-dépenses.
+A défaut de paiement dans un délai de trois mois à compter de la présentation de la quittance et dans les quinze jours d'une
+mise en demeure par lettre recommandée avec demande d'avis de réception, la redevance est majorée de 25 %.
 
 **Liens relatifs à cet article**
 
@@ -44014,20 +44070,16 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L322-5 (M)
+  - Décret n°2000-237 du 13 mars 2000 - art. 10 ()
 
 
 ###### Article R*372-17
 
-Le produit des redevances d'assainissement est affecté au financement des charges du service d'assainissement [*recettes*].
+Le produit des redevances d'assainissement est affecté au financement des charges du service d'assainissement.
 
-Ces charges comprennent notamment :[*définition*]
+Ces charges comprennent notamment :
 
 - les dépenses de fonctionnement du service, y compris les dépenses de personnel ;
 
@@ -44035,8 +44087,7 @@ Ces charges comprennent notamment :[*définition*]
 
 - les charges d'intérêt de la dette contractée pour l'établissement et l'entretien des installations ;
 
-- les charges d'amortissement des installations dans les conditions qui sont fixées par une instruction conjointe du ministre
-de l'intérieur et du ministre de l'économie et des finances.
+- les charges d'amortissement des immobilisations.
 
 **Liens relatifs à cet article**
 
@@ -44048,15 +44099,17 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°2000-237 du 13 mars 2000 - art. 11 ()
 
 
 ###### Article R*372-18
 
-Le produit des sommes exigibles pour défaut de branchement à l'égout, au titre de l'article L. 35-5 du code de la santé
-publique, est affecté au financement des charges du service de l'assainissement.
+Le produit des sommes exigibles au titre des articles L. 33, alinéa 3, L. 34, L. 35, L. 35-3, L. 35-4, L. 35-5 et L. 35-8 du
+code de la santé publique s'ajoute au produit des redevances ainsi qu'aux autres recettes du service d'assainissement,
+notamment celles correspondant aux aides et primes d'épuration versées par les agences de l'eau, pour être affecté au
+financement des charges de ce service.
 
 **Liens relatifs à cet article**
 
@@ -44068,13 +44121,9 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code de la santé publique - art. L35-5 (M)
+  - Décret n°2000-237 du 13 mars 2000 - art. 12 ()
 
 
 #### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=362></a>
