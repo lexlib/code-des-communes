@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-01-05
+Version Consolidée au 1986-01-08
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -77,7 +77,7 @@ Version Consolidée au 1986-01-05
             - [SOUS-SECTION 3 : Fonctionnement du conseil de communauté. (art. L165-33 à L165-35)](#74)
             - [SOUS-SECTION 4 : Organismes consultatifs placés auprès du conseil de communauté. (art. L165-36 à L165-37)](#75)
           - [SECTION 6 : Durée de la communauté urbaine. (art. L165-38)](#76)
-        - [CHAPITRE 6 : Syndicats mixtes. (art. L166-2 à L166-5)](#77)
+        - [CHAPITRE 6 : Syndicats mixtes. (art. L166-1 à L166-5)](#77)
       - [TITRE 7 : Agglomérations nouvelles (art. L171-1 à L174-1)](#78)
         - [CHAPITRE 1 : Création d'agglomérations nouvelles. (art. L171-1 à L171-9)](#79)
         - [CHAPITRE 2 : Dispositions applicables au syndicat communautaire d'aménagement (art. L172-1 à L172-8)](#80)
@@ -143,7 +143,7 @@ Version Consolidée au 1986-01-05
         - [COMMUNAUTES URBAINES (art. L165-24)](#140)
           - [Le conseil de communauté (art. L165-24)](#141)
             - [Dispositions générales (art. L165-24)](#142)
-        - [Syndicats mixtes . (art. L166-1 à L166-4)](#143)
+        - [Syndicats mixtes . (art. L166-4)](#143)
       - [Dispositions particulières (art. L181-46 à L184-12)](#144)
         - [Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. L181-46)](#145)
           - [La police municipale . (art. L181-46)](#146)
@@ -10659,6 +10659,55 @@ _Nouveaux textes_:
 
 #### CHAPITRE 6 : Syndicats mixtes.<a id=77></a>
 
+###### Article L166-1
+
+Des syndicats mixtes peuvent être constitués [**]définition[**] par accord entre des institutions d'utilité commune
+interrégionales, des régions, des ententes ou des institutions interdépartementales, des départements, des communautés
+urbaines, des districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie, d'agriculture, de
+métiers et autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces
+personnes morales.
+
+Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Circulaire 1974-10-02
+  - SPEC_APPLI: Loi n°86-16 du 6 janvier 1986 - art. 32 (V)
+
+_Anciens textes_:
+
+  - Code de l'administration communale 152 remplacé
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Cité par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
+  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
+  - Loi n°92-3 du 3 janvier 1992 - art. 13 (Ab)
+  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
+  - Loi n°92-1341 du 23 décembre 1992 - art. 10 (M)
+  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
+  - Code forestier - art. L148-10 (VT)
+  - Code rural - art. L151-36 (M)
+  - Code rural - art. L151-38 (M)
+  - Code rural - art. L151-4 (M)
+  - Code rural - art. L244-2 (Ab)
+  - Code rural ancien - art. 175 (Ab)
+
+_Modifié par_:
+
+  - Loi n°86-16 du 6 janvier 1986 - art. 27 () JORF 8 janvier 1986
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L5721-2 (V)
+
+
 ###### Article L166-2
 
 Le syndicat mixte [*définition*] est un établissement public. Sa création est autorisée par l'autorité qualifiée.
@@ -15448,54 +15497,6 @@ _Cite_:
 
 
 #### Syndicats mixtes .<a id=143></a>
-
-###### Article L166-1
-
-Des syndicats mixtes peuvent être constitués [**]définition[**]
-
-par accord entre des ententes ou des institutions interdépartementales, des départements, des communautés urbaines, des
-districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie, d'agriculture, de métiers et
-autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces personnes morales. 
-
-Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Circulaire 1974-10-02
-
-_Anciens textes_:
-
-  - Code de l'administration communale 152 remplacé
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-90 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
-_Cité par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
-  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
-  - Loi n°92-3 du 3 janvier 1992 - art. 13 (Ab)
-  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
-  - Loi n°92-1341 du 23 décembre 1992 - art. 10 (M)
-  - Loi n°96-609 du 5 juillet 1996 - art. 25 (M)
-  - Code forestier - art. L148-10 (VT)
-  - Code rural - art. L151-36 (M)
-  - Code rural - art. L151-38 (M)
-  - Code rural - art. L151-4 (M)
-  - Code rural - art. L244-2 (Ab)
-  - Code rural ancien - art. 175 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. L5721-2 (V)
-
 
 ###### Article L166-4
 
