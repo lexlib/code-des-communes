@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-04-02
+Version Consolidée au 1982-05-08
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -432,9 +432,9 @@ Version Consolidée au 1982-04-02
         - [Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne (art. L393-2)](#429)
         - [Dispositions applicables à la ville de Paris (art. L394-5)](#430)
           - [Protection contre l'incendie. (art. L394-5)](#431)
-    - [Personnel communal (art. L411-14 à L444-4)](#432)
-      - [Agents nommés dans des emplois permanents à temps complet (art. L411-14 à L417-27)](#433)
-        - [Dispositions générales et organiques (art. L411-14 à L411-46)](#434)
+    - [Personnel communal (art. L411-1 à L444-4)](#432)
+      - [Agents nommés dans des emplois permanents à temps complet (art. L411-1 à L417-27)](#433)
+        - [Dispositions générales et organiques (art. L411-1 à L411-46)](#434)
           - [Dispositions générales . (art. L411-1 à L411-23)](#435)
           - [Commission nationale paritaire du personnel communal . (art. L411-24 à L411-25)](#436)
           - [Syndicat de communes pour le personnel communal . (art. L411-27 à L411-30)](#437)
@@ -36136,42 +36136,6 @@ _Nouveaux textes_:
 
 #### Dispositions générales et organiques<a id=434></a>
 
-###### Article L411-14
-
-Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
-
-Cependant, lorsque la nature des fonctions ou les conditions de leur exercice le justifient, il peut être prévu, pour
-certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la commission
-nationale paritaire du personnel communal [*conditions de forme*], un recrutement exclusif d'hommes ou de femmes, ou à titre
-exceptionnel, selon les modalités prévues dans le même décret, des recrutements et conditions d'accès distincts pour les
-hommes et les femmes.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet et aux agents non titulaires*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cité par_:
-
-  - CODE PENAL - art. 416 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 481
-  - Loi n°75-599 1975-07-10 art. 3 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-
 ##### Dispositions générales .<a id=435></a>
 
 ###### Article L411-1
@@ -36646,6 +36610,43 @@ _Anciens textes_:
 _Cite_:
 
   - Décret n°1936-10-29 modifié
+
+
+###### Article L411-14
+
+Aucune distinction n'est faite, pour l'application du présent titre entre les hommes et les femmes.
+
+Cependant, pour certaines catégories de personnels dont la liste est établie par décret en Conseil d'Etat, après avis de la
+commission nationale paritaire du personnel communal, des recrutements distincts pour les hommes ou les femmes pourront être
+organisés si l'appartenance à l'un ou l'autre sexe constitue une condition déterminante pour l'exercice des fonctions
+considérées. Les modalités de ces recrutements seront fixées après avis des commissions paritaires communales ou
+intercommunales, selon le cas.
+
+Suivant la même procédure, lorsque des épreuves physiques sont prévues pour l'accès à un emploi des communes ou de leurs
+établissements publics, des épreuves ou des cotations distinctes en fonction du sexe des candidats pourront être prévues.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°75-599 1975-07-10 ART. 3 (partie)
+  - Code de l'administration communale 481
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Modifié par_:
+
+  - Loi n°82-380 du 7 mai 1982 - art. 4 () JORF 8 MAI 1982
+
+_Abrogé par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
+
+_Cité par_:
+
+  - CODE PENAL - art. 416 (Ab)
 
 
 ###### Article L411-15
