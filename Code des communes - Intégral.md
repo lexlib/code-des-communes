@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-05-20
+Version Consolidée au 1980-06-14
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -606,7 +606,7 @@ Version Consolidée au 1980-05-20
             - [Médecine professionnelle . (art. L417-27)](#603)
       - [Personnels divers (art. L421-1 à L423-1)](#604)
         - [Agents nommés dans des emplois permanents à temps non complet (art. L421-1 à L421-16)](#605)
-        - [Agents non titulaires . (art. L422-1 à L422-5)](#606)
+        - [Agents non titulaires . (art. L422-1 à L422-9)](#606)
         - [Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat (art. L423-1)](#607)
       - [AGENTS NOMMES DANS DES EMPLOIS PERMANENTS A TEMPS NON COMPLET . (art. L421-4 à L421-10)](#608)
       - [AGENTS NON TITULAIRES. (art. L422-3)](#609)
@@ -46869,6 +46869,22 @@ _Cité par_:
 _Cite_:
 
   - Code du travail L351-18 al. 3
+
+
+###### Article L422-9
+
+Un décret fixe les conditions dans lesquelles les dispositions relatives au congé parental d'éducation s'appliquent aux
+agents non titulaires des communes et de leurs établissements publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-372 1977-03-28
+
+_Abrogé par_:
+
+  - Loi n°84-53 1984-01-26 ART. 119 JORF 27 JANVIER 1984
 
 
 #### Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat<a id=607></a>
