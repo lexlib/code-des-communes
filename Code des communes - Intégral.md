@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1983-04-23
+Version Consolidée au 1983-07-01
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -187,8 +187,8 @@ Version Consolidée au 1983-04-23
           - [SECTION 5 : Taxe de trottoirs et de pavage (art. L233-52 à L233-57)](#184)
             - [SOUS-SECTION 1 : Taxe de trottoirs. (art. L233-52 à L233-55)](#185)
             - [SOUS-SECTION 2 : Taxe de pavage. (art. L233-56 à L233-57)](#186)
-          - [SECTION 6 : Taxes destinées au financement des transports en commun (art. L233-59 à L233-70)](#187)
-            - [SOUS-SECTION 1 : Versement destiné aux transports en commun. (art. L233-59 à L233-69)](#188)
+          - [SECTION 6 : Taxes destinées au financement des transports en commun (art. L233-58 à L233-70)](#187)
+            - [SOUS-SECTION 1 : Versement destiné aux transports en commun. (art. L233-58 à L233-69)](#188)
             - [SOUS-SECTION 2 : Surtaxes locales temporaires. (art. L233-70)](#189)
           - [SECTION 7 : Droits de port. (art. L233-71)](#190)
           - [SECTION 8 : Redevances d'occupation du domaine public (art. L233-72 à L233-75)](#191)
@@ -258,8 +258,8 @@ Version Consolidée au 1983-04-23
               - [Recouvrement de la taxe de séjour et pénalités . (art. L233-42 à L233-44)](#255)
               - [Dispositions particulières aux communes groupées en syndicats . (art. L233-45)](#256)
             - [Prélèvement progressif sur le produit des jeux dans les casinos . (art. L233-48)](#257)
-          - [Taxes destinées au financement des transports en commun (art. L233-58 à L233-64)](#258)
-            - [Versement destiné aux transports en commun . (art. L233-58 à L233-64)](#259)
+          - [Taxes destinées au financement des transports en commun (art. L233-61 à L233-64)](#258)
+            - [Versement destiné aux transports en commun . (art. L233-61 à L233-64)](#259)
           - [Taxe communale sur les emplacements publicitaires fixes . (art. L233-81 à L233-84)](#260)
         - [Dotation globale de fonctionnement et autres recettes réparties par le comité des finances locales (art. L234-1 à L234-14)](#261)
           - [Dotation globale de fonctionnement (art. L234-1 à L234-21)](#262)
@@ -17223,6 +17223,47 @@ _Abrogé par_:
 
 ##### SOUS-SECTION 1 : Versement destiné aux transports en commun.<a id=188></a>
 
+###### Article L233-58
+
+En dehors de la région d'Ile-de-France [*région parisienne*], les personnes physiques ou morales, publiques ou privées, à
+l'exception des fondations et associations reconnues d'utilité publique à but non lucratif dont l'activité est de caractère
+social, peuvent être assujetties à un versement destiné au financement des transports en commun lorsqu'elles emploient plus
+de neuf salariés [*nombre*]:
+
+- dans une commune ou une communauté urbaine dont la population est supérieure à 30.000 habitants ;
+
+- ou dans le ressort d'un district ou d'un syndicat de communes compétent pour l'organisation des transports urbains, lorsque
+la population de l'ensemble des communes faisant partie de ces établissements publics atteint le seuil indiqué.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°73-640 du 11 juillet 1973 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°77-90 1977-01-27
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L233-59 (M)
+  - CODE DES COMMUNES. - art. L259-2 (Ab)
+  - CODE DES COMMUNES. - art. R233-80 (Ab)
+  - CODE DES COMMUNES. - art. R233-86 (Ab)
+  - CODE DES COMMUNES. - art. R233-87 (Ab)
+  - CODE DES COMMUNES. - art. R262-2 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
+  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-86 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. L2333-64 (V)
+
+
 ###### Article L233-59
 
 L'assiette du versement est constituée par les salaires payés aux salariés mentionnés à l'article précédent dans la limite du
@@ -23336,52 +23377,6 @@ _Cite_:
 
 ##### Versement destiné aux transports en commun .<a id=259></a>
 
-###### Article L233-58
-
-En dehors de la région d'Ile-de-France [*région parisienne*], les personnes physiques ou morales, publiques ou privées, à
-l'exception des fondations et associations reconnues d'utilité publique à but non lucratif dont l'activité est de caractère
-social, peuvent être assujetties à un versement destiné au financement des transports en commun lorsqu'elles emploient plus
-de neuf salariés [*nombre*]:
-
-- dans une commune ou une communauté urbaine dont la population est supérieure à 300.000 habitants. Ce seuil peut être
-abaissé par décret ;
-
-- ou dans le ressort d'un district ou d'un syndicat de communes compétent pour l'organisation des transports urbains, lorsque
-la population de l'ensemble des communes faisant partie de ces établissements publics atteint le seuil indiqué.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-640 du 11 juillet 1973 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L233-59 (M)
-  - CODE DES COMMUNES. - art. L259-2 (Ab)
-  - CODE DES COMMUNES. - art. R233-80 (Ab)
-  - CODE DES COMMUNES. - art. R233-86 (Ab)
-  - CODE DES COMMUNES. - art. R233-87 (Ab)
-  - CODE DES COMMUNES. - art. R262-2 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. L233-69 (Ab)
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R233-86 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. L2333-64 (V)
-
-
 ###### Article L233-61
 
 Le taux du versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
@@ -23390,6 +23385,10 @@ public [*communauté urbaine, district ou syndicat de communes*] dans la limite 
 
 Cette limite peut être portée à 1,50 p. 100 si la commune ou l'établissement public a décidé de réaliser une infrastructure
 de transport collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+
+Toutefois, pour les communes dont la population est comprise entre 30.000 et 100.000 habitants et pour les établissements
+publics, lorsque la population de l'ensemble des communes en faisant partie est comprise dans les mêmes limites, le taux du
+versement-transport ne peut dépasser 0,5 p. 100 des salaires définis à l'article L. 233-59.
 
 **Liens relatifs à cet article**
 
@@ -23400,10 +23399,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°77-90 1977-01-27
-
-_Créé par_:
-
-  - Décret n°77-90 1977-01-27 JORF ET JONC 3 FEVRIER 1977 date d'entrée en vigueur 20 MARS 1977
 
 _Cite_:
 
