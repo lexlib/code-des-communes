@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-08-01
+Version Consolidée au 1992-08-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -53949,14 +53949,16 @@ _Abrogé par_:
 
 ###### Article R235-1
 
-Les communes qui éprouvent du fait des exonérations dont bénéficient les constructions nouvelles au titre de la taxe foncière
-sur les propriétés bâties et, si le conseil municipal avait décidé de percevoir cette taxe avant le 29 mars 1957 [*date*], de
-la taxe sur le revenu net des propriétés bâties, une perte de recettes supérieure à 10 p. 100 [*pourcentage*] du produit des
-centimes portant sur la taxe foncière sur les propriétés bâties, reçoivent une allocation de l'Etat égale à la différence
-entre ladite perte de recettes et une somme égale à 10 p. 100 du produit des centimes portant sur la taxe foncière précitée
-[*compensation*].
+Lorsque les exonérations de taxe foncière sur les propriétés bâties prévues aux articles 1384 et 1384 A du code général des
+impôts et aux I et II bis de l'article 1385 du même code entraînent pour les communes une perte de recettes supérieure à 10
+p. 100 du produit communal total de la taxe foncière sur les propriétés bâties, ces collectivités reçoivent une allocation de
+l'Etat égale à la différence entre ladite perte de recettes et une somme égale à 10 p. 100 du produit de la taxe précitée.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1384, 1384 A, 1385
 
 _Anciens textes_:
 
@@ -53966,13 +53968,17 @@ _Codifié par_:
 
   - Décret n°77-91 1977-01-27
 
-_Créé par_:
-
-  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
-
 _Cité par_:
 
   - Décret n°78-1174 du 22 novembre 1978 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°92-745 du 29 juillet 1992 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Nouveaux textes_:
 
