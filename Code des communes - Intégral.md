@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1986-08-22
+Version Consolidée au 1986-12-01
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -882,100 +882,94 @@ Version Consolidée au 1986-08-22
             - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#879)
             - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#880)
             - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#881)
-          - [SECTION 2 : Centre de formation des personnels communaux (art. R412-44 à R412-93)](#882)
-            - [SOUS-SECTION 1 : Rôle. (art. R412-44 à R412-54)](#883)
-            - [SOUS-SECTION 2 : Le Conseil d'Administration. (art. R412-55 à R412-73)](#884)
-            - [SOUS-SECTION 3 : Le budget. (art. R*412-74 à R412-87)](#885)
-            - [SOUS-SECTION 4 : Le personnel. (art. R412-88 à R412-91)](#886)
-            - [SOUS-SECTION 5 : Organisation des études. (art. R412-92 à R412-93)](#887)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#888)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#889)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#890)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#891)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#892)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#893)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#894)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#895)
-          - [SECTION 1 : Notation. (art. R414-1)](#896)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#897)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#898)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#899)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#900)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#901)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#902)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#903)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#904)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#905)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#906)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#907)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#908)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#909)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#910)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#911)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#912)
-      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#913)
-        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#914)
-          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#915)
-          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#916)
-          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#917)
-          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#918)
-          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#919)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#920)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#921)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#922)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#923)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#924)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#925)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#926)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#927)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#928)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#929)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#930)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#931)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#932)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#933)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#934)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#935)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#936)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#937)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#938)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#939)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#940)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#941)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#942)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#943)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#944)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#945)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#946)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#947)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#948)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#949)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#950)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#951)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#952)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#953)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#954)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#955)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#956)
-    - [Personnel communal (art. R411-41 à R*444-121)](#957)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-41 à R*412-115)](#958)
-        - [Dispositions générales et organiques (art. R411-41 à R411-54)](#959)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#960)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#961)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#962)
-            - [Actions de formation . (art. R*412-100)](#963)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#964)
-      - [Personnels divers (art. R*422-2 à R422-49)](#965)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#966)
-          - [Dispositions générales . (art. R*422-2)](#967)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#968)
-          - [Congé parental . (art. R422-42 à R422-49)](#969)
-      - [Dispositions particulières (art. R*444-29 à R*444-121)](#970)
-        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-121)](#971)
-          - [Recrutement . (art. R*444-29)](#972)
-          - [Positions (art. R*444-110 à R*444-121)](#973)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#974)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#975)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#882)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#883)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#884)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#885)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#886)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#887)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#888)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#889)
+          - [SECTION 1 : Notation. (art. R414-1)](#890)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#891)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#892)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#893)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#894)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#895)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#896)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#897)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#898)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#899)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#900)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#901)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#902)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#903)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#904)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#905)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#906)
+      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#907)
+        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#908)
+          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#909)
+          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#910)
+          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#911)
+          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#912)
+          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#913)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#914)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#915)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#916)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#917)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#918)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#919)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#920)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#921)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#922)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#923)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#924)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#925)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#926)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#927)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#928)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#929)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#930)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#931)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#932)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#933)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#934)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#935)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#936)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#937)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#938)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#939)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#940)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#941)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#942)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#943)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#944)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#945)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#946)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#947)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#948)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#949)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#950)
+    - [Personnel communal (art. R411-41 à R*444-121)](#951)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-41 à R*412-115)](#952)
+        - [Dispositions générales et organiques (art. R411-41 à R411-54)](#953)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#954)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#955)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#956)
+            - [Actions de formation . (art. R*412-100)](#957)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#958)
+      - [Personnels divers (art. R*422-2 à R422-49)](#959)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#960)
+          - [Dispositions générales . (art. R*422-2)](#961)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#962)
+          - [Congé parental . (art. R422-42 à R422-49)](#963)
+      - [Dispositions particulières (art. R*444-29 à R*444-121)](#964)
+        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-121)](#965)
+          - [Recrutement . (art. R*444-29)](#966)
+          - [Positions (art. R*444-110 à R*444-121)](#967)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#968)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#969)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -86890,1887 +86884,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 2 : Centre de formation des personnels communaux<a id=882></a>
-
-##### SOUS-SECTION 1 : Rôle.<a id=883></a>
-
-###### Article R412-44
-
-Le siège du centre de formation des personnels communaux est fixé par arrêté du ministre de l'intérieur après consultation du
-conseil d'administration.
-
-(1) Arrêté ministériel du 17 août 1973 portant fixation du siège du centre de formation des personnels communaux (J.O. 4
-septembre 1973).
-
-**Nota:**
-
-Cet article est abrogé à compter de la date d'installation du premier conseil d'administration du centre national de la
-fonction publique territoriale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-45
-
-Afin de permettre l'organisation [*par le centre de formation des personnels communaux*] des concours sur épreuves et sur
-titres [* qui peuvent être organisés, à la demande d'un maire ou du président d'un établissement public communal ou
-intercommunal, au niveau de la commune ou de l'établissement public*] prévus aux articles L. 412-29 et L. 412-30 les maires
-ou les présidents des établissements publics communaux et intercommunaux informent le délégué du centre de formation des
-personnels communaux des vacances d'emploi existantes ou à pourvoir en cours d'année.
-
-Ils lui précisent en même temps celui de ces articles en application duquel le concours doit être organisé.
-
-La déclaration est faite par le président du syndicat de communes pour le personnel communal pour toutes les collectivités
-qui y sont affiliées.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 1 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R412-46 (Ab)
-  - CODE DES COMMUNES. - art. R412-47 (Ab)
-
-_Cite_:
-
-  - Code des communes L412-29 et L412-30
-
-
-###### Article R412-46
-
-Si une vacance concerne un emploi qui est pourvu selon la procédure prévue par la législation sur les emplois réservés aux
-victimes de guerre et aux handicapés physiques, la déclaration prévue à l'article précédent n'est adressée que si le poste
-n'a pu être pourvu après application de cette procédure.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 1 AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R412-45 (Ab)
-
-
-###### Article R412-47
-
-La déclaration [*de vacance d'emploi faite par les maires, présidents d'établissements publics, présidents de syndicats de
-communes*] prévue à l'article R. 412-45 est faite aux dates fixées par le centre de formation des personnels communaux.
-
-Toutefois, elle est faite immédiatement [**]délai[**] lorsque la collectivité intéressée décide d'organiser son propre
-concours ou de demander l'organisation d'un concours sur le plan local en application des articles L. 412-30 et L. 412-31.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R412-45 (Ab)
-  - Code des communes L412-30 et L412-31
-
-
-###### Article R412-48
-
-Lorsque le centre de formation organise un concours en application de l'article L. 412-29, il ne doit ouvrir ce concours que
-pour un nombre de postes résultant de la différence, majorée de 20 p. 100 [*pourcentage*], entre le nombre des vacances
-signalées et celui des candidats qui demeurent inscrits sur les listes d'aptitude des circonscriptions intéressées.
-
-Ces derniers renseignements lui sont fournis, sur sa demande, par le président de la commission [*départementale ou
-interdépartementale chargée d'arrêter les listes d'aptitude*] compétente prévue à l'article L. 412-23.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-23 (Ab)
-  - CODE DES COMMUNES. - art. L412-29 (Ab)
-
-
-###### Article R412-49
-
-L'autorité, qui organise les concours [*d'accès aux emplois communaux*], leur assure la plus large publicité en demandant
-notamment, aux préfets des départements intéressés, l'insertion des avis de concours au recueil des actes administratifs de
-leur département, deux mois au moins et trois mois au plus avant la date limite du dépôt des candidatures.
-
-Un délai d'un mois doit séparer cette date de celle à laquelle a lieu le concours.
-
-Pour certains emplois déterminés par arrêté du ministre de l'intérieur, une publicité est également opérée par insertion au
-Journal officiel.
-
-En outre, les maires et les présidents des établissements publics sont tenus de porter les avis de concours à la connaissance
-de leur personnel dans les huit jours qui suivent la publication au recueil des actes administratifs du département.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - décret 85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-50
-
-Les jurys [*concours d'accès aux emplois communaux*] comportent au moins six membres [*nombre*].
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 5
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-51
-
-Le nombre des candidats admis au concours [*d'accès aux emplois communaux*], en application des articles L. 412-30 et L.
-412-31, ne peut dépasser de plus de 20 p. 100 [*pourcentage*] celui des emplois vacants.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - Code des communes L412-30 et L412-31
-
-
-###### Article R412-52
-
-Les frais d'organisation des concours [*d'accès aux emplois communaux*] ouverts en vertu des articles L. 412-29 et L. 412-30
-sont pris en charge par le centre de formation des personnels communaux.
-
-Ceux des concours organisés en application de l'article L. 412-31 sont pris en charge par les collectivités intéressées.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 7
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - Code des communes L412-29 A L412-31
-
-
-###### Article R412-53
-
-Pour l'application de l'article L. 412-31, les listes des membres des jurys, établies par le tribunal administratif, doivent
-être adaptées à la nature des emplois à pourvoir.
-
-Elles sont fournies au maire ou au président de l'établissement public et au délégué du centre sur leur demande.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 8
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-31 (Ab)
-
-
-###### Article R412-54
-
-Le ou les représentants du personnel au sein du jury prévu à l'article L. 412-31 sont désignés par le président du jury parmi
-les représentants de la catégorie de personnel intéressée à la commission paritaire communale ou intercommunale ou, à défaut,
-parmi les représentants d'une catégorie équivalente ou supérieure.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-291 1973-03-13 ART. 9
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-31 (Ab)
-
-
-##### SOUS-SECTION 2 : Le Conseil d'Administration.<a id=884></a>
-
-###### Article R412-55
-
-Les représentants élus membres du conseil d'administration du centre de formation des personnels communaux sont au nombre de
-dix pour les communes et les établissements publics intéressés et de dix pour les personnels intéressés.
-
-Le conseil d'administration comprend en outre : [*composition*]        Deux représentants du ministre de l'intérieur ;
-
-Un représentant du ministre chargé de l'éducation.
-
-Il s'adjoint deux autres membres choisis en raison de leur expérience en matière d'administration locale.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-6 AL. 1 (PARTIE) et 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R412-66 (Ab)
-
-
-###### Article R412-56
-
-L'élection des représentants des communes et des établissements publics communaux et intercommunaux ne présentant pas un
-caractère industriel ou commercial, ainsi que celle des représentants des personnels, au conseil d'administration a lieu au
-scrutin de liste à la représentation proportionnelle suivant le système du plus fort reste.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 2 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-57
-
-Les maires des communes et les présidents d'établissements publics qui emploient du personnel administratif à temps complet
-sont répartis en deux collèges élisant chacun cinq maires au conseil d'administration.
-
-Le premier collège comprend les maires des communes dont la population totale est inférieure à 5.000 habitants [*nombre*] et
-les présidents des établissements publics qui occupent moins de dix agents titulaires.
-
-Le deuxième collège comprend les maires des autres communes et les présidents des autres établissements publics communaux et
-intercommunaux n'ayant pas un caractère industriel ou commercial.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 2 AL. 2 à 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-58
-
-Les représentants des personnels sont élus par les représentants titulaires des personnels aux commissions paritaires
-communales, intercommunales ou d'établissement.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 2 AL. 5
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-59
-
-Les modalités d'application des articles précédents sont fixées par arrêté du ministre de l'intérieur (1).
-
-(1) Arrêté ministériel du 9 mars 1973 relatif aux modalités de désignation des membres élus du conseil d'administration du
-centre de formation des personnels communaux (J.O. 17 mars 1973).
-
-**Nota:**
-
-Cet article est abrogé à compter de la date d'installation du premier conseil d'administration du centre national de la
-fonction publique territoriale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 2 AL. 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - Code des communes R412-55 à R412-58
-
-
-###### Article R412-60
-
-Les frais relatifs aux élections au conseil d'administration sont à la charge du centre de formation des personnels
-communaux.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-61
-
-A l'issue de chaque renouvellement et sous la présidence de leur doyen d'âge, les membres composant le conseil
-d'administration élisent à la majorité relative et au scrutin secret les deux membres choisis en raison de leur expérience en
-matière d'administration locale.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-62
-
-La durée du mandat des membres du conseil d'administration élus ou choisis par le conseil est de six ans.
-
-Ce mandat est continué jusqu'à la désignation des membres du nouveau conseil.
-
-Le conseil d'administration est renouvelé dans les six mois [*délai*] qui suivent le renouvellement général des conseils
-municipaux.
-
-Le mandat des membres sortants peut être renouvelé.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 5 AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-63
-
-Cessent de plein droit de faire partie du conseil d'administration les membres qui n'exercent plus les fonctions ou qui ont
-perdu les mandats qui avaient motivé leur élection.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 5 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-64
-
-Chacun des vingt membres élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans les mêmes
-conditions.
-
-Un membre élu du conseil d'administration empêché d'assister à une séance peut donner à un suppléant pouvoir écrit de voter
-lors de cette séance en son nom. Un même suppléant ne peut être porteur que d'un seul mandat. Le mandat est toujours
-révocable.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-65
-
-Les membres élus qui, sans excuse valable, n'auraient pas personnellement assisté à trois réunions consécutives peuvent être
-déclarés démissionnaires d'office par une décision du conseil d'administration [*sanctions*].
-
-En cas de vacance par décès, démission ou pour toute autre cause, les membres élus sont remplacés par les membres suppléants
-pour la durée du mandat restant à accomplir.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 5 AL. 5 et 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-66
-
-Les membres du conseil d'administration désignés par un ministre en vertu de l'article R. 412-55 peuvent se faire
-représenter.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 5 AL. 7
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R412-55 (Ab)
-
-
-###### Article R412-67
-
-Le conseil d'administration se réunit au moins deux fois par an, sur convocation du président [**]fréquence[**].
-
-Il est, en outre, convoqué toutes les fois qu'il est nécessaire par son président, soit sur l'initiative de ce dernier, soit
-sur la demande de l'un des ministres représentés au conseil, soit sur la proposition du quart au moins [**]proportion[**] de
-ses membres.
-
-Dans ces deux derniers cas, la convocation est faite dans le mois de la demande [*délai*].
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-68
-
-Le conseil d'administration ne peut délibérer que si la moitié au moins des membres en exercice assiste à la séance.
-
-Dans le cas où le quorum n'est pas obtenu, il est procédé dans un délai de quinze jours à une nouvelle convocation par lettre
-recommandée avec demande d'avis de réception [*conditions de forme*].
-
-Le conseil d'administration peut alors délibérer quel que soit le nombre des membres présents.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 7 AL. 1 et 2
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-69
-
-Les décisions du conseil d'administration sont prises à la majorité des membres présents.
-
-En cas de partage, la voix du président de séance est prépondérante.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 7 AL. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-70
-
-Le secrétariat de séance est assuré par un agent du centre de formation des personnels communaux.
-
-Il est dressé procès-verbal de chaque séance du conseil d'administration.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 7 AL. 5 et 6
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-71
-
-Le conseil d'administration [**]attributions[**] délibère sur toutes les questions d'ordre général concernant l'organisation
-intérieure et l'administration du centre de formation des personnels communaux, notamment sur :
-
-1° Le règlement intérieur ;
-
-2° Les principes de la mise en oeuvre des missions du centre, telles qu'elles sont fixées par la loi ;
-
-3° L'adoption du budget ;
-
-4° La fixation du pourcentage à appliquer à la masse salariale pour déterminer la cotisation des communes et des
-établissements publics communaux et intercommunaux ;
-
-5° Les conditions des emprunts ;
-
-6° L'achat et la vente, ou l'échange, de tous biens mobiliers ou immobiliers ;
-
-7° L'acceptation des dons et legs ;
-
-8° La gestion du patrimoine ;
-
-9° L'exercice de toute action en justice, tant en demande qu'en défense ;
-
-10° Les effectifs et les échelles de rémunération des agents du centre, dans les conditions et selon les règles prévues par
-le présent code ;
-
-11° L'approbation des comptes administratifs et de gestion.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 8 MODIFIE
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-72
-
-Le président du conseil d'administration [**]attributions[**] assume la direction générale du centre de formation des
-personnels communaux.
-
-Il représente le centre en justice et dans tous les actes de la vie civile.
-
-Il peut déléguer certains de ses pouvoirs au directeur du centre.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 9 AL. 1 à 3
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-73
-
-Le président du conseil d'administration est ordonnateur des recettes et des dépenses et passe les marchés [*attributions*].
-
-Il peut confier une partie de ses pouvoirs au directeur du centre, aux délégués interdépartementaux et aux délégués des
-départements d'outre-mer, qui agissent alors en son nom et par délégation.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 9 COMPLETE AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-##### SOUS-SECTION 3 : Le budget.<a id=885></a>
-
-###### Article R*412-74
-
-L'approbation, prévue au deuxième alinéa de l'article L. 412-38, de la délibération du conseil d'administration du centre de
-formation des personnels communaux est donnée par le ministre de l'intérieur.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-7 AL. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-38 (M)
-
-
-###### Article R412-75
-
-Le président du conseil d'administration soumet le budget du centre de formation des personnels communaux au vote du conseil
-d'administration au cours du mois de septembre de l'année qui précède celle à laquelle le budget s'applique [*date*].
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 12 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-76
-
-L'approbation, prévue à l'article L. 412-39, du budget du centre est donnée par le ministre de l'intérieur auquel le
-président de son conseil d'administration transmet le budget dans un délai de quinze jours à compter de la date de son
-adoption par ce conseil.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-8 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-39 (Ab)
-
-
-###### Article R412-77
-
-Le budget du centre de formation des personnels communaux est exécutoire de plein droit lorsque aucune décision n'est
-intervenue à son égard dans un délai de deux mois à compter de la date de sa réception par le ministre de l'intérieur.
-
-le ministre de l'intérieur notifie sa décision au président du conseil d'administration.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 12 AL. 3 et 4 PHR. 1
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-78
-
-Le refus d'approbation [*du budget*] du ministre de l'intérieur est dûment motivé et accompagné de propositions de
-redressement que le président du conseil d'administration soumet, dans un délai de vingt jours, à ce conseil.
-
-Si le conseil d'administration vote les mesures de redressement proposées, le budget est exécutoire de plein droit à
-l'expiration d'un délai de quinze jours à compter de la date de réception de la délibération par le ministre de l'intérieur.
-
-Si le conseil n'adopte pas les mesures de redressement proposées et ne vote pas au cours de sa seconde délibération un budget
-en équilibre réel, le ministre de l'intérieur [*pouvoirs de substitutions*] règle le budget et fixe le pourcentage [*des
-cotisations*] prévu à l'article L. 412-38.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 12 AL. 4 PHR. 2, AL. 5 et 6 MODIFIE
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R412-79 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-38 (M)
-
-
-###### Article R412-79
-
-La cotisation obligatoire prévue à l'article L. 412-37 est calculée [*périodicité*] chaque année sur la masse des
-rémunérations du personnel permanent telles qu'elles apparaissent à la ligne 610 des comptes administratifs de l'avant-
-dernier exercice.
-
-Le recouvrement de cette cotisation est opéré par le centre de formation des personnels communaux auprès des communes non
-affiliées aux syndicats de communes pour le personnel communal et, pour les autres communes, auprès de ces syndicats.
-
-Le syndicat poursuit auprès des communes affiliées le recouvrement des sommes qu'il a versées.
-
-Les titres de recouvrement sont rendus exécutoires par le président du conseil d'administration du centre de formation des
-personnels communaux.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 13 MODIFIE
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R412-78 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-37 (Ab)
-
-
-###### Article R412-80
-
-Un compte administratif est dressé à la fin de chaque année [*fréquence*].
-
-Il est transmis au ministre de l'intérieur avec un rapport sur le fonctionnement administratif, pédagogique et financier du
-centre de formation des personnels communaux.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 14
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-81
-
-Les dépenses du centre de formation des personnels communaux comprennent les frais de fonctionnement et d'équipement et,
-d'une manière générale, toutes celles qui sont nécessaires à l'activité de l'établissement.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 15
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-82
-
-Les fonctions de membres du conseil d'administration sont gratuites [*rémunération, non*].
-
-Elles peuvent donner lieu au remboursement des frais de déplacement ou, pour le président, des frais de représentation.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 16
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-83
-
-Les règles relatives au fonctionnement administratif et financier des communes sont applicables au centre de formation des
-personnels communaux sous réserve des dispositions de la présente section.
-
-Sous la même réserve, les pouvoirs de contrôle administratif incombant aux préfets à l'égard des communes sont exercés par le
-préfet du département où se trouve situé le siège du centre [*compétence*].
-
-Le centre de formation des personnels communaux est soumis aux règles de la comptabilité communale.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 17
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-84
-
-Les marchés sont passés dans les formes et les conditions prescrites pour les marchés des communes d'une population
-supérieure à 40.000 habitants [*nombre*].
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 18
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-85
-
-L'agent comptable du centre de formation des personnels communaux est nommé par arrêté du ministre de l'intérieur et du
-ministre de l'économie et des finances après avis du conseil d'administration [**]conditions de forme[**] : il est recruté
-parmi les fonctionnaires appartenant à la catégorie A.
-
-Il est mis fin à ses fonctions dans les mêmes formes.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 19
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-86
-
-Le compte de gestion du centre de formation des personnels communaux est établi par l'agent comptable à la clôture de
-l'exercice.
-
-Il est visé par le président du conseil d'administration qui certifie que le montant des titres à recouvrer et des mandats
-est conforme aux écritures.
-
-Il est présenté par le président au conseil d'administration.
-
-Le compte de gestion est apuré et réglé définitivement dans les formes applicables aux comptes des communes.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 20 MODIFIE
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-87
-
-Des régies des recettes et des dépenses peuvent être créées.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 21
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-##### SOUS-SECTION 4 : Le personnel.<a id=886></a>
-
-###### Article R412-88
-
-L'agrément, prévu à l'article L. 412-40, à la nomination du directeur et du directeur adjoint du centre de formation des
-personnels communaux est donné par le ministre de l'intérieur.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 508-9 (partie)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-40 (M)
-
-
-###### Article R412-89
-
-Le directeur du centre de formation des personnels communaux [**]attributions[**] assure sous la responsabilité du président
-du conseil d'administration le fonctionnement du centre, en exécution des délibérations du conseil d'administration.
-
-Il prépare le règlement intérieur, le budget et les délibérations du conseil d'administration.
-
-Il assiste au conseil d'administration avec voix consultative.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 10 AL. 1, 2 et 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-90
-
-Le personnel du centre de formation des personnels communaux, à l'exception du directeur et du directeur adjoint, est soumis
-au statut du personnel des communes de plus de 40.000 habitants [*nombre*].
-
-Les attributions dévolues par ce statut au conseil municipal et au maire sont exercées pour le personnel de l'établissement
-par le conseil d'administration et le président.
-
-Les délibérations soumises par ce statut au visa ou à l'approbation de l'autorité supérieure sont transmises au préfet du
-département où est situé le siège du centre.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 11
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-91
-
-Le personnel enseignant du centre de formation des personnels communaux comprend :
-
-- Des membres de l'enseignement public ;
-
-- D'autres fonctionnaires de l'Etat ou des agents des collectivités locales ;
-
-- Des personnes choisies en raison de leur compétence.
-
-Les membres du personnel enseignant sont désignés, dans les conditions fixées par le règlement intérieur, par le directeur du
-centre de formation des personnels communaux ou par les délégués départementaux ou interdépartementaux [*choisis par le
-conseil d'administration parmi les présidents des syndicats de communes pour le personnel communal, les maires des communes
-non affiliées à ces syndicats ou parmi les personnalités ayant exercé l'une ou l'autre de ces fonctions*] prévus à l'article
-L. 412-36 [*recrutement*].
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 22
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L412-36 (Ab)
-
-
-##### SOUS-SECTION 5 : Organisation des études.<a id=887></a>
-
-###### Article R412-92
-
-Le directeur du centre de formation des personnels communaux consulte sur l'organisation générale des études et des stages un
-comité des études qui comprend notamment un représentant du ministre chargé de l'éducation et un représentant du ministre de
-l'intérieur.
-
-La composition et le rôle du comité des études sont définis par le règlement intérieur.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 23
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-###### Article R412-93
-
-Le règlement intérieur du centre de formation des personnels communaux fixe les modalités de l'organisation de la scolarité.
-
-**Nota:**
-
-[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
-fonction publique territoriale. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 24
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Abrogé par_:
-
-  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
-
-
-##### SECTION 3 : Promotion sociale.<a id=888></a>
+##### SECTION 3 : Promotion sociale.<a id=882></a>
 
 ###### Article R412-94
 
@@ -88901,9 +87015,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=889></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=883></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=890></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=884></a>
 
 ###### Article R*412-116
 
@@ -89035,7 +87149,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=891></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=885></a>
 
 ###### Article R412-120
 
@@ -89145,7 +87259,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=892></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=886></a>
 
 ###### Article R*412-123
 
@@ -89234,7 +87348,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=893></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=887></a>
 
 ###### Article R*412-127
 
@@ -89254,7 +87368,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=894></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=888></a>
 
 ###### Article R*413-1
 
@@ -89303,9 +87417,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=895></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=889></a>
 
-##### SECTION 1 : Notation.<a id=896></a>
+##### SECTION 1 : Notation.<a id=890></a>
 
 ###### Article R414-1
 
@@ -89332,7 +87446,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=897></a>
+##### SECTION 2 : Avancement.<a id=891></a>
 
 ###### Article R*414-2
 
@@ -89863,9 +87977,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=898></a>
+##### SECTION 3 : Discipline<a id=892></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=899></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=893></a>
 
 ###### Article R*414-15
 
@@ -89963,7 +88077,7 @@ _Modifié par_:
   - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=900></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=894></a>
 
 ###### Article R*414-22
 
@@ -90158,7 +88272,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=901></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=895></a>
 
 ###### Article R*414-29
 
@@ -90172,11 +88286,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=902></a>
+#### CHAPITRE 5 : Positions<a id=896></a>
 
-##### SECTION 1 : Activités, congés<a id=903></a>
+##### SECTION 1 : Activités, congés<a id=897></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=904></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=898></a>
 
 ###### Article R*415-2
 
@@ -90343,7 +88457,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=905></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=899></a>
 
 ###### Article R*415-6
 
@@ -90370,7 +88484,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=906></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=900></a>
 
 ###### Article R*416-1
 
@@ -90402,7 +88516,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=907></a>
+##### SECTION 1 : L'admission à la retraite.<a id=901></a>
 
 ###### Article R*416-2
 
@@ -90425,7 +88539,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=908></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=902></a>
 
 ###### Article R*416-3
 
@@ -90447,9 +88561,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=909></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=903></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=910></a>
+##### SECTION 1 : Sécurité sociale.<a id=904></a>
 
 ###### Article R417-1
 
@@ -90474,7 +88588,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=911></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=905></a>
 
 ###### Article R417-5
 
@@ -91067,7 +89181,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=912></a>
+##### SECTION 4 : Pensions.<a id=906></a>
 
 ###### Article R417-22
 
@@ -91113,11 +89227,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=913></a>
+### TITRE 2 : Personnels divers<a id=907></a>
 
-#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=914></a>
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=908></a>
 
-##### SECTION 1 : Dispositions générales.<a id=915></a>
+##### SECTION 1 : Dispositions générales.<a id=909></a>
 
 ###### Article R*421-7
 
@@ -91343,7 +89457,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-13 (M)
 
 
-##### SECTION 2 : Représentation aux commissions paritaires.<a id=916></a>
+##### SECTION 2 : Représentation aux commissions paritaires.<a id=910></a>
 
 ###### Article R421-8
 
@@ -91505,7 +89619,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 3 : Garanties disciplinaires.<a id=917></a>
+##### SECTION 3 : Garanties disciplinaires.<a id=911></a>
 
 ###### Article R421-14
 
@@ -91796,7 +89910,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 4 : Congés.<a id=918></a>
+##### SECTION 4 : Congés.<a id=912></a>
 
 ###### Article R421-24
 
@@ -91884,7 +89998,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-29 (Ab)
 
 
-##### SECTION 5 : Régime particulier de retraite.<a id=919></a>
+##### SECTION 5 : Régime particulier de retraite.<a id=913></a>
 
 ###### Article R421-27
 
@@ -91913,9 +90027,9 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-#### CHAPITRE 2 : Agents non titulaires<a id=920></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=914></a>
 
-##### SECTION 1 : Dispositions générales.<a id=921></a>
+##### SECTION 1 : Dispositions générales.<a id=915></a>
 
 ###### Article R*422-1
 
@@ -91936,7 +90050,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=922></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=916></a>
 
 ###### Article R*422-3
 
@@ -91998,7 +90112,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=923></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=917></a>
 
 ###### Article R*422-5
 
@@ -92115,7 +90229,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=924></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=918></a>
 
 ###### Article R*422-9
 
@@ -92258,7 +90372,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=925></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=919></a>
 
 ###### Article R*422-15
 
@@ -92701,7 +90815,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=926></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=920></a>
 
 ###### Article R*422-33
 
@@ -92813,7 +90927,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=927></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=921></a>
 
 ###### Article R422-41
 
@@ -92849,7 +90963,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=928></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=922></a>
 
 ###### Article R*423-1
 
@@ -92941,11 +91055,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=929></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=923></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=930></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=924></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=931></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=925></a>
 
 ###### Article R*432-1
 
@@ -93038,7 +91152,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=932></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=926></a>
 
 ###### Article R*432-4
 
@@ -93242,9 +91356,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=933></a>
+### TITRE 4 : Dispositions particulières<a id=927></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=934></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=928></a>
 
 ###### Article R441-1
 
@@ -93274,9 +91388,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=935></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=929></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=936></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=930></a>
 
 ###### Article R442-1
 
@@ -93318,7 +91432,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=937></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=931></a>
 
 ###### Article R*442-2
 
@@ -93340,11 +91454,11 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=938></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=932></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=939></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=933></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=940></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=934></a>
 
 ###### Article R*444-1
 
@@ -93852,7 +91966,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Recrutement.<a id=941></a>
+##### SECTION 2 : Recrutement.<a id=935></a>
 
 ###### Article R*444-28
 
@@ -94073,7 +92187,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=942></a>
+##### SECTION 3 : Rémunération.<a id=936></a>
 
 ###### Article R*444-37
 
@@ -94195,9 +92309,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=943></a>
+##### SECTION 4 : Notation et avancement<a id=937></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=944></a>
+##### SOUS-SECTION 1 : Notation.<a id=938></a>
 
 ###### Article R*444-42
 
@@ -94364,7 +92478,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=945></a>
+##### SOUS-SECTION 2 : Avancement.<a id=939></a>
 
 ###### Article R*444-49
 
@@ -94763,7 +92877,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=946></a>
+##### SECTION 5 : Discipline.<a id=940></a>
 
 ###### Article R*444-65
 
@@ -95471,7 +93585,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=947></a>
+##### SECTION 6 : Positions.<a id=941></a>
 
 ###### Article R*444-88
 
@@ -95504,7 +93618,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=948></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=942></a>
 
 ###### Article R*444-89
 
@@ -95526,7 +93640,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=949></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=943></a>
 
 ###### Article R444-90
 
@@ -95601,7 +93715,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=950></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=944></a>
 
 ###### Article R*444-102
 
@@ -95763,7 +93877,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=951></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=945></a>
 
 ###### Article R*444-109
 
@@ -95806,7 +93920,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=952></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=946></a>
 
 ###### Article R*444-120
 
@@ -95832,7 +93946,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=953></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=947></a>
 
 ###### Article R*444-122
 
@@ -95855,7 +93969,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=954></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=948></a>
 
 ###### Article R*444-123
 
@@ -95896,7 +94010,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=955></a>
+##### SOUS-SECTION 8 : Mutations.<a id=949></a>
 
 ###### Article R*444-169
 
@@ -95960,7 +94074,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=956></a>
+##### SECTION 7 : Cessation de fonctions.<a id=950></a>
 
 ###### Article R*444-172
 
@@ -96306,13 +94420,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=957></a>
+## Personnel communal<a id=951></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=958></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=952></a>
 
-#### Dispositions générales et organiques<a id=959></a>
+#### Dispositions générales et organiques<a id=953></a>
 
-##### La médaille d'honneur départementale et communal .<a id=960></a>
+##### La médaille d'honneur départementale et communal .<a id=954></a>
 
 ###### Article R411-41
 
@@ -96649,9 +94763,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=961></a>
+#### Recrutement, formation et promotion sociale<a id=955></a>
 
-##### Formation professionnelle continue .<a id=962></a>
+##### Formation professionnelle continue .<a id=956></a>
 
 ###### Article R*412-99
 
@@ -96695,7 +94809,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=963></a>
+##### Actions de formation .<a id=957></a>
 
 ###### Article R*412-100
 
@@ -96733,7 +94847,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-11 (Ab)
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=964></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=958></a>
 
 ###### Article R*412-114
 
@@ -96795,11 +94909,11 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-### Personnels divers<a id=965></a>
+### Personnels divers<a id=959></a>
 
-#### Agents non titulaires<a id=966></a>
+#### Agents non titulaires<a id=960></a>
 
-##### Dispositions générales .<a id=967></a>
+##### Dispositions générales .<a id=961></a>
 
 ###### Article R*422-2
 
@@ -96834,7 +94948,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=968></a>
+##### Cessation de fonctions .<a id=962></a>
 
 ###### Article R*422-37
 
@@ -96965,7 +95079,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=969></a>
+##### Congé parental .<a id=963></a>
 
 ###### Article R422-42
 
@@ -97140,11 +95254,11 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=970></a>
+### Dispositions particulières<a id=964></a>
 
-#### Dispositions applicables à la ville de Paris<a id=971></a>
+#### Dispositions applicables à la ville de Paris<a id=965></a>
 
-##### Recrutement .<a id=972></a>
+##### Recrutement .<a id=966></a>
 
 ###### Article R*444-29
 
@@ -97180,11 +95294,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=973></a>
+##### Positions<a id=967></a>
 
-##### Activité, congés<a id=974></a>
+##### Activité, congés<a id=968></a>
 
-##### Congés de maladie .<a id=975></a>
+##### Congés de maladie .<a id=969></a>
 
 ###### Article R*444-110
 
