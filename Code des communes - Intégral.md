@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-02-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -633,10 +633,10 @@ Version Consolidée au 1993-01-30
       - [TITRE 4 : Bibliothèques et musées (art. R*341-15 à R342-2)](#630)
         - [CHAPITRE 1 : Bibliothèques. (art. R*341-15 à R341-16)](#631)
         - [CHAPITRE 2 : Musées. (art. R342-1 à R342-2)](#632)
-      - [TITRE 5 : Protection contre l'incendie (art. R352-7 à R354-78)](#633)
-        - [CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux (art. R352-7 à R352-66)](#634)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-7 à R352-8)](#635)
-          - [SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers. (art. R352-14 à R352-19)](#636)
+      - [TITRE 5 : Protection contre l'incendie (art. R352-2 à R354-78)](#633)
+        - [CHAPITRE 2 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux (art. R352-2 à R352-66)](#634)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-2 à R352-8)](#635)
+          - [SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers. (art. R352-13 à R352-19)](#636)
           - [SECTION 3 : Règlement de service - commandement. (art. R352-20)](#637)
           - [SECTION 4 : Discipline des sapeurs-pompiers communaux. (art. R352-27 à R352-47)](#638)
           - [SECTION 5 : Honneurs et récompenses. (art. R*352-48 à R352-57)](#639)
@@ -646,8 +646,8 @@ Version Consolidée au 1993-01-30
           - [SECTION 5 : Honneurs et récompenses. (art. R*352-50 à R*352-51)](#643)
         - [CHAPITRE 3 : Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-28)](#644)
           - [SECTION 4 : Rémunération - Avantages en nature. (art. R353-28)](#645)
-        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-2 à R354-78)](#646)
-          - [SECTION 1 : Recrutement. (art. R354-2 à R354-14)](#647)
+        - [CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-1 à R354-78)](#646)
+          - [SECTION 1 : Recrutement. (art. R354-1 à R354-14)](#647)
           - [SECTION 2 : Notation et avancement. (art. R354-15 à R354-21)](#648)
           - [SECTION 3 : Discipline. (art. R354-22 à R354-25)](#649)
           - [SECTION 4 : Cessation de fonctions. (art. R354-26 à R354-35)](#650)
@@ -71106,6 +71106,49 @@ _Abrogé par_:
 
 ##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=635></a>
 
+###### Article R352-2
+
+Une commission nationale paritaire des sapeurs-pompiers professionnels et une commission nationale paritaire des sapeurs-
+pompiers non professionnels exercent, en ce qui concerne ces agents, les attributions dévolues à la commission nationale
+paritaire du personnel communal à l'article L. 411-24.
+
+Ces commissions comprennent, sous la présidence d'un conseiller d'Etat, des représentants en nombre égal des collectivités
+locales et des personnels.
+
+**Nota:**
+
+Décret 93-135 1993-02-03 art. 26 : Dans tous les textes réglementaires, les termes "sapeurs-pompiers non professionnels" sont
+remplaçés par les termes "sapeurs-pompiers volontaires"
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+  - Décret n°93-135 du 2 février 1993 - art. 26 (V)
+
+_Cité par_:
+
+  - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
+  - Décret n°90-850 du 25 septembre 1990 - art. 25 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°90-850 1990-09-25 art. 25
+
+_Abrogé par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L411-24 (Ab)
+
+
 ###### Article R352-7
 
 La hiérarchie des sapeurs-pompiers communaux comprend :
@@ -71167,6 +71210,54 @@ _Abrogé par_:
 
 
 ##### SECTION 2 : Conseil d'administration des corps de sapeurs-pompiers.<a id=636></a>
+
+###### Article R352-13
+
+Chaque corps comprend un conseil d'administration composé, d'une part, du chef de corps, président, et, d'autre part, de
+représentants des sapeurs-pompiers désignés dans les conditions fixées à l'article suivant.
+
+Le conseil d'administration est [*autorité*] compétent pour toute question relative au règlement de service du corps en ce
+qui concerne les sapeurs-pompiers non professionneles.
+
+**Nota:**
+
+Décret 93-135 1993-02-03 art. 26 : Dans tous les textes réglementaires, les termes "sapeurs-pompiers non professionnels" sont
+remplaçés par les termes "sapeurs-pompiers volontaires"
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-170 1953-03-07 ART. 12
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+_Modifié par_:
+
+  - Décret n°89-231 1989-04-17 art. 3 JORF 18 avril 1989
+  - Décret n°93-135 du 2 février 1993 - art. 26 (V)
+
+_Cité par_:
+
+  - Arrêté du 30 juillet 1992 - art. 5 (M)
+  - Décret n°97-1225 du 26 décembre 1997 - art. 33 (Ab)
+  - Décret n°97-1225 du 26 décembre 1997 - art. 53 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R352-14 (M)
+  - Code des communes R353-1 à R353-120
+
 
 ###### Article R352-14
 
@@ -71230,6 +71321,46 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+_Abrogé par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+
+###### Article R352-16
+
+Les sapeurs-pompiers non professionnels sont désignés pour une durée égale à celle du temps qui reste à courir jusqu'à
+l'expiration de leur engagement. 
+
+La durée des pouvoirs des officiers et des sapeurs-pompiers professionnels est fixée par le règlement de service du corps
+sans pouvoir excéder cinq ans.
+
+**Nota:**
+
+Décret 93-135 1993-02-03 art. 26 : Dans tous les textes réglementaires, les termes "sapeurs-pompiers non professionnels" sont
+remplaçés par les termes "sapeurs-pompiers volontaires"
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-170 1953-03-07 ART. 15
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Créé par_:
+
+  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-229 du 17 avril 1989 - art. 47 (V)
+
+_Modifié par_:
+
+  - Décret n°93-135 du 2 février 1993 - art. 26 (V)
 
 _Abrogé par_:
 
@@ -72653,6 +72784,63 @@ _Abrogé par_:
 #### CHAPITRE 4 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=646></a>
 
 ##### SECTION 1 : Recrutement.<a id=647></a>
+
+###### Article R354-1
+
+Les officiers volontaires de sapeurs-pompiers non professionnels sont nommés par arrêté du préfet [*compétence*] parmi les
+candidats qui ont fait la preuve de leur aptitude à l'exercice d'un commandement dans un corps de sapeurs-pompiers, selon les
+modalités fixées par un arrêté du ministre de l'intérieur après avis du conseil supérieur de la protection civile
+[*conditions de forme*]. 
+
+Les titulaires d'un des diplômes [*diplôme d'ingénieur, maîtrise de science ou de technique, ou diplôme équivalent*]
+
+prévus au 1° de l'article R. 353-45 peuvent être nommés capitaines volontaires à l'issue d'un stage d'un an [*durée*].
+
+**Nota:**
+
+Décret 93-135 1993-02-03 art. 26 : Dans tous les textes réglementaires, les termes "sapeurs-pompiers non professionnels" sont
+remplaçés par les termes "sapeurs-pompiers volontaires"
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-170 1953-03-07 ART. 54 COMPLETE
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Créé par_:
+
+  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+
+_Modifié par_:
+
+  - Décret n°93-135 du 2 février 1993 - art. 26 (V)
+
+_Abrogé par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 72 ()
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 17 juillet 1953
+  - TXT_SOURCE: Arrêté du 17 juillet 1953 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 17 juillet 1953 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 17 juillet 1953 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 17 juillet 1953 - art. 4 (Ab)
+  - TXT_SOURCE: Arrêté du 17 juillet 1953 - art. 5 (Ab)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R354-17 (Ab)
+  - CODE DES COMMUNES. - art. R354-4 (Ab)
+
+_Cite_:
+
+  - Code des communes R353-45 1°
+
 
 ###### Article R354-2
 
