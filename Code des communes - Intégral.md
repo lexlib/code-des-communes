@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-02-27
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -29710,37 +29710,6 @@ _Cité par_:
 
   - CODE DES COMMUNES. - art. L316-7 (Ab)
   - CODE DES COMMUNES. - art. R*316-1 (Ab)
-
-
-###### Article L316-7
-
-Le pourvoi devant le Conseil d'Etat est introduit et jugé selon la forme administrative [*procédure*].
-
-La commune est mise en cause et la décision a effet à son égard.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 333 AL. 5 phr. 1 et AL. 8
-
-_Codifié par_:
-
-  - Décret n°77-240 1977-03-07
-
-_Abrogé par_:
-
-  - Décret n°92-180 du 26 février 1992 - art. 1 (V) JORF 27 février 1992
-
-_Cité par_:
-
-  - Décret n°92-180 du 26 février 1992 - art. 1 (V)
-  - Décret n°92-180 du 26 février 1992 - art. 5 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L316-5 (Ab)
-  - CODE DES COMMUNES. - art. L316-6 (Ab)
 
 
 ###### Article L316-8
@@ -65320,11 +65289,11 @@ _Abrogé par_:
 ###### Article R*316-3
 
 Le pourvoi devant le Conseil d'Etat est, à peine de déchéance, formé dans le mois qui suit, soit l'expiration du délai
-imparti au tribunal administratif pour statuer, soit la notification de l'arrêté portant refus [*de l'autorisation d'exercer
+imparti au tribunal administratif pour statuer, soit la notification de l'arrêté portant refus[*de l'autorisation d'exercer
 l'action*].
 
-Il est statué sur le pourvoi dans un délai de deux mois à compter de son enregistrement au secrétariat général du Conseil
-d'Etat.
+Il est statué sur le pourvoi dans un délai de trois mois à compter de son enregistrement au secrétariat du contentieux du
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -65337,9 +65306,13 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°92-180 du 26 février 1992 - art. 2 () JORF 27 février 1992
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*316-4
