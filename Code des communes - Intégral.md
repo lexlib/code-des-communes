@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-12-17
+Version Consolidée au 1996-12-24
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -6457,11 +6457,25 @@ _Créé par_:
   - Décret n°93-222 1993-02-19 ART. 1 JORF 19 FEVRIER 1993
 
 
-###### Article R*125-2
+###### Article R*125-1-1
 
-Le dossier d'information mis à la disposition du public contient notamment la délibération qui a décidé la consultation, à
-laquelle sont annexées, le cas échéant, les observations formulées par les conseillers municipaux à l'occasion de cette
-délibération.
+La demande d'organisation d'une consultation présentée par les électeurs dans les conditions prévues par les articles L.
+2142-3 et L. 5211-20 du code général des collectivités territoriales concerne les opérations d'aménagement au sens du premier
+alinéa de l'article L. 300-1 du code de l'urbanisme. Elle est exprimée soit par une lettre collective, soit par des lettres
+individuelles ou collectives mentionnant l'opération concernée. La demande est acheminée par lettre recommandée ou remise à
+son destinataire contre récépissé.
+
+Chaque lettre doit être datée et mentionner le nom, le prénom, l'adresse et la signature de chaque demandeur.
+
+La demande est adressée :
+
+soit au maire de la commune dans le cas prévu à l'article L. 2142-3 du code général des collectivités territoriales ;
+
+soit au président de l'assemblée délibérante de l'établissement public de coopération intercommunale dans le cas prévu à
+l'article L. 5211-20 du même code.
+
+La demande résultant de plusieurs lettres est réputée avoir été présentée à la date de réception par son destinataire de la
+lettre qui permet d'atteindre la proportion du cinquième des électeurs définie aux deux articles précités.
 
 **Liens relatifs à cet article**
 
@@ -6471,7 +6485,108 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°93-222 1993-02-19 ART. 1 JORF 19 FEVRIER 1993
+  - Décret n°96-1128 du 17 décembre 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2142-3 (M)
+  - Code général des collectivités territoriales - art. L5211-20 (M)
+  - Code de l'urbanisme - art. L300-1 (M)
+
+
+###### Article R*125-1-2
+
+La demande n'est pas recevable s'il s'est écoulé plus de quatre mois, décomptés de jour à jour, entre la réception, par son
+destinataire, de la première des lettres qui lui sont destinées et la réception de celle des lettres qui permet d'atteindre
+la proportion mentionnée ci-dessus.
+
+Le maire, ou le président de l'établissement public de coopération intercommunale, tient à jour la liste des signataires dont
+la demande est recevable, et, le cas échéant, un état des demandes rejetées mentionnant le motif du rejet. Toute personne
+peut prendre communication et copie de ces documents.
+
+Dès que la demande d'organisation d'une consultation est recevable, le maire ou le président de l'établissement public de
+coopération intercommunale l'inscrit à l'ordre du jour de la plus proche séance du conseil municipal ou de l'assemblée
+délibérante suivant sa réception, sans préjudice de l'application des dispositions de l'article L. 2121-9 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°96-1128 du 17 décembre 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2121-9 (V)
+
+
+###### Article R*125-1-3
+
+Lorsque l'ensemble des maires des communes membres d'un établissement public de coopération intercommunale ou la moitié des
+membres de l'assemblée délibérante de cet établissement présentent, dans le cas prévu à l'article L. 5211-20 du code général
+des collectivités territoriales, une demande de consultation des électeurs sur une opération d'aménagement de la compétence
+de l'établissement public de coopération intercommunale, le président est tenu de l'inscrire à l'ordre du jour de la plus
+proche séance de l'assemblée délibérante, sans préjudice de l'application des dispositions de l'article L. 2121-9 du même
+code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°96-1128 du 17 décembre 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2121-9 (V)
+  - Code général des collectivités territoriales - art. L5211-20 (M)
+
+
+###### Article R*125-2
+
+Le dossier d'information mis à la disposition du public dans les conditions prévues aux articles L. 2142-4 et L. 5211-21 du
+code général des collectivités territoriales contient notamment la délibération qui a décidé la consultation, à laquelle sont
+annexées, le cas échéant, les observations formulées par les conseillers municipaux ou les membres de l'assemblée délibérante
+de l'établissement public de coopération intercommunale, à l'occasion de cette délibération.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CODE DES COMMUNES annexe
+  - Code général des collectivités territoriales - art. L2142-4 (M)
+  - Code général des collectivités territoriales - art. L5211-21 (M)
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°96-1128 du 17 décembre 1996 - art. 2 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ###### Article R*125-3
@@ -6504,6 +6619,31 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*125-3-1
+
+Lorsque la consultation des électeurs est décidée par un établissement public de coopération intercommunale sur une opération
+d'aménagement visée à l'article R. 125-1-1, la convocation des électeurs signée du président est transmise aux maires des
+communes membres de l'établissement pour affichage et publication trois semaines au moins avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°96-1128 du 17 décembre 1996 - art. 3 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES R125-1-1
 
 
 ###### Article R*125-4
@@ -6673,10 +6813,16 @@ _Créé par_:
   - Décret n°93-222 1993-02-19 ART. 1 JORF 19 FEVRIER 1993
 
 
-###### Article R*125-9
+###### Article R*125-8-1
 
-Les dépenses résultant de l'organisation de la consultation sont imputées sur les crédits ouverts à la section de
-fonctionnement du budget de la commune. "
+Les articles R. 125-3 (1er et 2e alinéas) et R. 125-4 à R. 125-7 sont applicables aux établissements publics de coopération
+intercommunale. L'organisation matérielle de la consultation est assurée par les communes membres de l'établissement
+concerné.
+
+Les résultats de la consultation organisée par un établissement public sont consignés dans un procès-verbal et communiqués
+par le président de l'établissement aux membres de l'assemblée délibérante aux fins de délibération à la plus proche séance
+de celle-ci, dans les conditions prévues à l'article L. 5211-1 du code général des collectivités territoriales. Ils sont
+affichés au siège de l'établissement et transmis pour affichage aux maires des communes membres.
 
 **Liens relatifs à cet article**
 
@@ -6686,7 +6832,39 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°93-222 1993-02-19 ART. 1 JORF 19 FEVRIER 1993
+  - Décret n°96-1128 du 17 décembre 1996 - art. 4 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES R125-3, R125-4 à R125-7
+  - Code général des collectivités territoriales - art. L5211-1 (M)
+
+
+###### Article R*125-9
+
+Les dépenses résultant de l'organisation de la consultation par le conseil municipal sont imputées sur les crédits ouverts à
+la section de fonctionnement du budget de la commune.
+
+Les dépenses résultant de l'organisation de la consultation par un établissement public de coopération intercommunale sont
+imputées sur les crédits ouverts à la section de fonctionnement du budget de l'établissement public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Modifié par_:
+
+  - Décret n°96-1128 du 17 décembre 1996 - art. 2 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 ### TITRE 3 : Police<a id=71></a>
