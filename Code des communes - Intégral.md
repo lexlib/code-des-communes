@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1980-04-23
+Version Consolidée au 1980-05-20
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1318,8 +1318,8 @@ Version Consolidée au 1980-04-23
           - [Discipline (art. R*414-17 à R*414-20)](#1315)
             - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1316)
         - [DISCIPLINE . (art. R*414-29)](#1317)
-        - [POSITIONS (art. R415-6-A à R415-17)](#1318)
-          - [CONGE POSTNATAL . (art. R415-6-A à R415-6-G)](#1319)
+        - [POSITIONS (art. R*415-6-1 à R415-17)](#1318)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1319)
           - [Le détachement . (art. R*415-7 à R*415-11)](#1320)
           - [Position hors cadre . (art. R*415-12 à R*415-14)](#1321)
           - [La disponibilité . (art. R*415-15)](#1322)
@@ -112053,157 +112053,196 @@ _Créé par_:
 
 #### POSITIONS<a id=1318></a>
 
-##### CONGE POSTNATAL .<a id=1319></a>
+##### Le congé postnatal .<a id=1319></a>
 
-###### Article R415-6-A
+###### Article R*415-6-1
 
-L'agent féminin est placé, sur sa demande, dans la position de congé postnatal prévue par l'article L. 415-30 du code des
+L'agent féminin est placé sur sa demande dans la position de congé postnatal prévue par l'article L. 415-30 du code des
 communes.
 
-Ce congé [*date - calcul*] est accordé de droit par le maire ou le président du syndicat de communes ou de l'établissement
-public dont relève l'intéressée à compter du jour qui suit l'expiration du congé pour couches et allaitement prévu à
-l'article L. 415-26 du code des communes.
+Ce congé est accordé de droit par le maire ou le président de l'établissement public communal ou intercommunal dont relève
+l'intéressé :
+
+En cas de maternité pour compter du jour qui suit l'expiration du congé pour couches et allaitement prévu à l'article L.
+415-26 du code des communes ;
+
+En cas d'adoption d'un enfant âgé de moins de trois ans au premier jour du congé pour adoption prévu à l'article L. 415-26 du
+code des communes, pour compter du jour qui suit l'expiration du congé pour adoption.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+_Cité par_:
+
+  - Décret n°86-68 du 13 janvier 1986 - art. 35 (V)
 
 _Cite_:
 
   - CODE DES COMMUNES. - art. L415-26 (Ab)
   - CODE DES COMMUNES. - art. L415-30 (M)
 
-**Liens**:
 
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17)
+###### Article R*415-6-2
 
-
-###### Article R415-6-B
-
-En cas d'adoption d'un enfant âgé de moins de trois ans au premier jour du congé pour adoption prévu à l'article L. 415-26 du
-code des communes, l'agent féminin est placé, sur sa demande, en congé postnatal. Ce congé est accordé de droit par le maire
-ou le président du syndicat de communes ou de l'établissement public dont relève l'intéressée à compter du jour qui suit
-l'expiration du congé pour adoption.
+Le père agent communal est placé sur sa demande dans la position de congé postnatal prévue à l'article L. 415-32-1 du code
+des communes, si la mère n'a droit au bénéfice ni du congé postnatal prévu à l'article L. 415-30 du code des communes, ni du
+congé parental prévu à l'article L. 122-28-1 du code du travail, ni du congé parental des agents non titulaires des communes,
+ou si elle y renonce. Le congé postnatal du père prend effet pour compter du jour qui suit l'expiration du congé pour couches
+et allaitement ou du congé d'adoption dont bénéficie la mère [*délai*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-91 1977-01-27
+
+_Abrogé par_:
+
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L415-26 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17)
+  - CODE DES COMMUNES. - art. L415-30 (M)
+  - CODE DES COMMUNES. - art. L415-32-1 (Ab)
+  - Code du travail - art. L122-28-1 (M)
 
 
-###### Article R415-6-C
+###### Article R*415-6-3
 
-La demande de congé postnatal doit être présentée [*délai*] un mois au moins avant l'expiration du congé pour couches et
-allaitement ou du congé pour adoption.
+La demande de congé postnatal en faveur de la mère ou du père doit être présentée un mois au moins avant l'expiration du
+congé pour couches et allaitement ou du congé pour adoption dont bénéficie la mère [*délai*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-373 1977-03-28
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17)
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-###### Article R415-6-D
+###### Article R*415-6-4
 
-Sous réserve des dispositions du dernier alinéa du présent article et de l'article R. 415-6 F, le congé postnatal est accordé
-pour une durée maximale de deux ans. Le congé ne peut être demandé et obtenu que pour une période minimale de six mois
-renouvelable pour une période minimale de même durée, dans la limite de deux ans. La demande de renouvellement doit être
-présentée [*délai*] un mois au moins avant l'expiration de la période en cours.
+Sous réserve de l'application des articles R. 415-6-5 et R. 415-6-6, le congé postnatal ne peut être demandé et obtenu que
+pour des périodes [*durée*] égales à six mois, dans la limite de deux ans. La demande de prolongation du congé doit être
+présentée deux mois au moins avant l'expiration de la période en cours, sous peine de cessation de plein droit du bénéfice du
+congé postnatal.
 
-L'agent féminin qui a repris son activité ne peut prétendre à une nouvelle période de congé postnatal du chef du même enfant.
+L'agent qui a repris son activité ne peut prétendre à une nouvelle période de congé postnatal du chef du même enfant.
 
-Le congé postnatal cesse de plein droit en cas de retrait de l'enfant en vue de son adoption.
+A l'expiration de l'une des périodes de six mois visées au premier alinéa, l'agent peut renoncer au bénéfice du congé
+postnatal au profit du père ou de la mère, selon le cas, pour la ou les périodes de six mois restant à courir jusqu'à la
+limite maximale de deux ans à compter de la naissance de l'enfant ayant ouvert le droit à congé. La demande de congé
+postnatal dans le cas d'un parent agent communal doit être présentée dans le délai de deux mois avant l'expiration de la
+période de six mois en cours.
+
+Au cas où le père ou la mère en congé parental au titre de l'article L. 122-28-1 du code du travail ou des dispositions
+relatives aux agents non titulaires des communes renonce à demeurer dans cette position, la mère ou le père, selon le cas,
+s'il est agent communal, peut demander à être placé en position de congé postnatal, nonobstant les dispositions des articles
+R. 415-6-1 et R. 415-6-2 du présent décret, à compter du jour de la reprise d'activité du bénéficiaire du congé parental,
+sous réserve d'en formuler la demande [*délai*] deux mois au moins à l'avance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. R415-6-F (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17
+  - Code des communes R415-6-6
 
 
-###### Article R415-6-E
+###### Article R*415-6-5
 
-L'agent féminin en congé postnatal cesse de bénéficier de ses droits à rémunération et à la retraite. Toutefois, elle
-conserve ses droits à l'avancement d'échelon réduits de moitié.
+Si une nouvelle maternité ou adoption intervient alors que la femme agent communal se trouve déjà placée en position de congé
+postnatal, celle-ci a droit, du chef de son nouvel enfant à compter de la naissance de celui-ci ou de l'arrivée au foyer de
+l'enfant adoptif, à un nouveau congé postnatal. La demande doit en être formulée un mois avant la date présumée de la
+naissance ou de l'arrivée de l'enfant.
 
-Elle perçoit la totalité des allocations prévues par les articles L. 510 et suivants du code de la Sécurité sociale
-[*allocation logement*].
+Dans cette même hypothèse, si la femme agent communal ne sollicite pas un nouveau congé postnatal, le père, s'il est agent
+communal, est placé dans les conditions prévues à l'alinéa suivant, sur sa demande, en position de congé postnatal. La femme
+agent communal est alors réintégrée de plein droit à l'expiration de la période de congé postnatal en cours accordé au titre
+du précédent enfant.
+
+Nonobstant les dispositions des articles R. 415-6-2 et R. 415-6-3 ci-dessus, le père est placé en position de congé postnatal
+à compter du jour de la réintégration de la mère ; sa demande doit être formulée un mois au moins avant cette date
+[*délai*] ;
+
+Le congé postnatal du père peut être renouvelé dans la limite d'une durée totale de deux ans calculée à partir de la
+naissance ou de l'arrivée au foyer de l'enfant adoptif qui ouvre droit à congé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-373 1977-03-28
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17)
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 _Cite_:
 
-  - Code de la sécurité sociale L510
+  - Code des communes L415-6-2, L415-6-3
 
 
-###### Article R415-6-F
+###### Article R*415-6-6
 
-L'autorité compétente peut, à tout moment, et doit, au moins deux fois par an [*fréquence*], faire procéder aux enquêtes
-nécessaires en vue de s'assurer que l'activité de l'agent féminin placé en position de congé postnatal est réellement
-consacrée à élever son enfant. Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut être mis fin audit
-congé après que l'intéressée ait été invitée à présenter ses observations.
+Si une nouvelle maternité ou adoption survient alors que le père se trouve placé en position de congé postnatal, la mère, si
+elle est agent communal, a droit sur sa demande à être placée en position de congé postnatal du chef du nouvel enfant, à
+compter du jour qui suit l'expiration de son congé pour couches et allaitement ou de son congé pour adoption. Dans ce cas, le
+père est réintégré de plein droit pour compter du jour qui suit l'expiration du congé pour couches et allaitement ou du congé
+d'adoption dont bénéficie la mère. Il peut cependant être réintégré, s'il en formule la demande au moins deux mois à
+l'avance, à une date comprise entre la naissance du nouvel enfant et l'expiration du congé pour couches et allaitement ou du
+congé d'adoption de la mère.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-894 1977-08-02
-
-_Cité par_:
-
-  - CODE DES COAbMUNES. - art. R415-6-D (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des communes L415-30 à L415-33 (congé postnatal, dispositions de nature législative, modifiées par la LOI 78-753 1978-07-17
-
-
-###### Article R415-6-G
-
-L'agent féminin qui, placé en position de congé postnatal, sollicite par application de l'article L. 415-32 sa réintégration
-dans son administration d'origine doit en formuler la demande [*délai*] deux mois au moins avant l'expiration de la dernière
-période de congé postnatal.
+Dans cette même hypothèse, si la mère ne sollicite pas le bénéfice d'un congé postnatal ou parental, un nouveau congé
+postnatal, qui succède au précédent, est accordé au père sur sa demande à compter de la naissance ou de l'arrivée au foyer du
+nouvel enfant adoptif. La demande doit en être formulée un mois avant la date présumée de la naissance ou de l'arrivée de
+l'enfant adoptif.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-894 1977-08-02
+  - Décret n°77-373 1977-03-28
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DES COMMUNES. - art. L415-32 (M)
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
+
+
+###### Article R*415-6-7
+
+Le maire ou le président d'établissement public communal ou intercommunal peut à tout moment et doit au moins deux fois par
+an [*fréquence*] faire procéder aux enquêtes nécessaires en vue de s'assurer que l'activité de l'agent communal placé en
+position de congé postnatal est réellement consacrée à élever son enfant. Si le contrôle révèle que le congé n'est pas
+utilisé à cette fin, il peut être mis fin audit congé après que l'intéressé a été invité à présenter ses observations. Le
+congé postnatal cesse de plein droit en cas de retrait de l'enfant placé en vue de son adoption.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
 ##### Le détachement .<a id=1320></a>
