@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-05-15
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -38536,8 +38536,8 @@ _Nouveaux textes_:
 
 ###### Article R361-15
 
-Toute demande d'exhumation est faite par le plus proche parent de la personne défunte [*qualité pour agir*]. Celui-ci
-justifie de son état civil, de son domicile et de la qualité en vertu de laquelle il formule sa demande.
+Toute demande d'exhumation est faite par le plus proche parent de la personne défunte[*qualité pour agir*]. Celui-ci justifie
+de son état civil, de son domicile et de la qualité en vertu de laquelle il formule sa demande.
 
 L'autorisation d'exhumer un corps est délivrée par le maire de la commune où doit avoir lieu l'exhumation [*par le préfet de
 police en ce qui concerne la ville de Paris - compétence*].
@@ -38545,8 +38545,8 @@ police en ce qui concerne la ville de Paris - compétence*].
 L'exhumation est faite en présence d'un parent ou d'un mandataire de la famille.
 
 Si le parent ou le mandataire dûment avisé n'est pas présent à l'heure indiquée, l'opération n'a pas lieu, mais les vacations
-dues aux fonctionnaires [*commissaire de police ou garde champêtre*] désignés par l'article L. 364-5 leur sont versées comme
-si l'opération avait été exécutée.
+prévues par l'article L. 2213-14 du code général des collectivités territoriales sont versées comme si l'opération avait été
+exécutée.
 
 **Liens relatifs à cet article**
 
@@ -38558,13 +38558,13 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°96-400 du 13 mai 1996 - art. 1 ()
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DES COMMUNES. - art. L364-5 (M)
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cité par_:
 
@@ -38573,6 +38573,10 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-40 (M)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2213-14 (V)
 
 
 ###### Article R361-16
@@ -41358,8 +41362,8 @@ _Nouveaux textes_:
 
 ###### Article R364-9
 
-L'assistance à chacune des opérations prévues ci-après ouvre droit pour les fonctionnaires désignés par l'article L. 364-5
-aux vacations déterminées par le présent article :
+L'intervention des fonctionnaires mentionnés à l'article L. 2213-14 du code général des collectivités territoriales donne
+lieu, pour chacune des opérations prévues ci-après, au versement des vacations déterminées par le présent article :
 
 1° Une vacation par [*durée*] deux heures ou fraction de deux heures pour :
 
@@ -41407,37 +41411,42 @@ corps d'un même caveau ou d'une même fosse suivie d'un transport et d'une réi
   - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
   - SPEC_APPLI: Code des communes R391-1 :
 
+_Anciens textes_:
+
+  - Décret  1905-04-12 ART. 2 REMPLACE
+
 _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
 _Modifié par_:
 
-  - Décret n°96-141 du 21 février 1996 - art. 7 ()
+  - Décret n°96-400 du 13 mai 1996 - art. 2 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L364-5 (M)
   - CODE DES COMMUNES. - art. R364-2 (Ab)
+  - Code général des collectivités territoriales - art. L2213-14 (V)
 
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-53 (V)
 
-_Anciens textes_:
-
-  - Décret  1905-04-12 ART. 2 REMPLACE
-
 
 ###### Article R364-10
 
-Le minimum de la vacation [*funéraire*] à allouer aux commissaires de police est fixé :
+Le minimum de la vacation, lorsqu'il s'agit d'un fonctionnaire de la police nationale, est fixé :
 
 1° A 0,60 F dans les villes dont la population est égale ou supérieure à 100.000 habitants.
 
 2° A 0,48 F dans les villes dont la population est inférieure à 100.000 habitants.
 
-Le minimum de la vacation à allouer aux gardes champêtres est fixé 0,32 F.
+Le minimum de la vacation à allouer aux gardes champêtres ou, lorsqu'ils sont délégués par le maire, aux agents de police
+municipale est fixé 0,32 F.
 
 **Liens relatifs à cet article**
 
@@ -41452,9 +41461,13 @@ _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°96-400 du 13 mai 1996 - art. 3 ()
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Cité par_:
 
@@ -41467,7 +41480,7 @@ _Nouveaux textes_:
 
 _Anciens textes_:
 
-  - Décret  1905-04-12 ART. 1 (PARTIE) MODIFIE
+  - Décret n°1905-04-12 ART. 1 (PARTIE) MODIFIE
 
 
 ###### Article R364-11
@@ -41562,43 +41575,48 @@ _Anciens textes_:
 
 ###### Article R364-13
 
-A la fin de chaque mois [*fréquence*], le maire [*attributions*] dresse, s'il y a lieu, un relevé des vacations
-[*funéraires*] versées par les familles pendant le mois, avec indication des restitutions qui ont été ordonnées ou la
-désignation des agents [*commissaires de police ou gardes champêtres*] auxquels les vacations reviennent conformément à
-l'article L. 364-5.
+A la fin de chaque mois, le maire dresse, s'il y a lieu, un relevé des vacations versées par les familles pendant le mois,
+avec indication des restitutions qui ont été ordonnées ou la désignation des fonctionnaires ayant participé aux opérations
+prévues à l'article L. 2213-14 du code général des collectivités territoriales.
 
-Cet état est adressé au receveur particulier des finances pour être remis au receveur municipal qui paye, contre émargement,
-le montant des vacations aux agents intéressés.
+Lorsque les opérations de surveillance sont effectuées par un fonctionnaire de la police nationale, le produit des vacations
+est assimilé à un fonds de concours pour dépense d'intérêt public et rattaché au budget du ministère de l'intérieur dans la
+limite et selon des modalités fixées par arrêté conjoint du ministre chargé du budget et du ministre de l'intérieur.
+
+Lorsqu'il s'agit d'un garde champêtre ou, lorsqu'il est délégué par le maire, d'un agent de police municipale, cet état est
+adressé au receveur municipal qui paie, après émargement, le montant des vacations aux fonctionnaires intéressés.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - TXT_SOURCE: Arrêté du 13 mai 1996
-  - TXT_SOURCE: Arrêté du 13 mai 1996 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 13 mai 1996 - art. 2 (V)
-  - SPEC_APPLI: Code des communes R391-1 :
 
 _Codifié par_:
 
   - Décret n°77-241 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
+  - Décret n°96-400 du 13 mai 1996 - art. 4 ()
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 13 mai 1996
+  - TXT_SOURCE: Arrêté du 13 mai 1996 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 13 mai 1996 - art. 2 (V)
 
 _Cité par_:
 
   - Arrêté du 13 mai 1996 - art. 1 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DES COMMUNES. - art. L364-5 (M)
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-57 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2213-14 (V)
 
 _Anciens textes_:
 
