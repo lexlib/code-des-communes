@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1992-11-17
+Version Consolidée au 1992-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -31687,10 +31687,7 @@ _Nouveaux textes_:
 
 ###### Article L361-21
 
-Un règlement d'administration publique détermine les conditions applicables aux divers modes de sépulture. Toute infraction
-aux dispositions de ce règlement est punie, en cas de récidive, des peines [*sanctions*] prévues à l'article 200 du code
-pénal [*emprisonnement de deux à cinq ans pour la première récidive, détention criminelle de dix à vingt ans pour la
-seconde*].
+Un règlement d'administration publique détermine les conditions applicables aux divers modes de sépulture.
 
 **Liens relatifs à cet article**
 
@@ -31698,9 +31695,13 @@ _Codifié par_:
 
   - Décret n°77-240 1977-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-240 1977-03-07 JORF et JONC 18 mars 1977
+  - Loi n°92-1336 du 16 décembre 1992 - art. 147 () JORF 23 décembre 1992
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cité par_:
 
@@ -31710,10 +31711,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2223-46 (V)
-
-_Cite_:
-
-  - Code pénal 200
 
 
 #### CHAPITRE 2 : Pompes funèbres<a id=281></a>
