@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1997-02-27
+Version Consolidée au 1997-05-22
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -41211,8 +41211,8 @@ accessoires posés à l'intérieur ou à l'extérieur des cerceuils destinés à
 matériaux combustibles ou sublimables et il ne peut y être fait usage d'un mélange désinfectant comportant de la poudre de
 tan ou du charbon pulvérisé.
 
-Les cercueils peuvent également être fabriqués dans un matériau ayant fait l'objet d'un agrément renouvelable tous les cinq
-ans [*périodicité*] par le ministre chargé de la santé, aprés avis du Conseil supérieur d'hygiène publique de France.
+Les cercueils peuvent également être fabriqués dans un matériau ayant fait l'objet d'un agrément par le ministre chargé de la
+santé, aprés avis du Conseil supérieur d'hygiène publique de France.
 
 **Liens relatifs à cet article**
 
@@ -41243,6 +41243,10 @@ _Cité par_:
   - Arrêté du 21 mars 1991 - art. 2 (V)
   - Arrêté du 4 juin 1996 - art. 2 (V)
 
+_Modifié par_:
+
+  - Décret n°97-503 du 21 mai 1997 - art. 1 (V)
+
 _Cite_:
 
   - CODE DES COMMUNES. - art. R363-27 (M)
@@ -41250,10 +41254,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-25 (V)
-
-_Modifié par_:
-
-  - Décret n°87-28 1987-01-14 art. 29 JORF 18 janvier 1987
 
 
 ###### Article R363-27
