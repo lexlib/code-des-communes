@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-01-26
+Version Consolidée au 1985-02-09
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -426,7 +426,7 @@ Version Consolidée au 1985-01-26
         - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L441-1 à L441-4)](#423)
         - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. L444-3 à L444-5)](#424)
     - [LIVRE 5 : Dispositions finales. (art. L501-1 à L501-3)](#425)
-  - [Partie réglementaire (art. R*111-1 à R*444-178)](#426)
+  - [Partie réglementaire (art. R*111-1 à R*444-168)](#426)
     - [LIVRE 1 : Organisation communale (art. R*111-1 à R185-6)](#427)
       - [TITRE 1 : Nom, limites territoriales et population des communes (art. R*111-1 à R114-7)](#428)
         - [CHAPITRE 1 : Nom des communes. (art. R*111-1)](#429)
@@ -1006,7 +1006,7 @@ Version Consolidée au 1985-01-26
               - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#1003)
             - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#1004)
           - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#1005)
-    - [Personnel communal (art. R411-39 à R*444-178)](#1006)
+    - [Personnel communal (art. R411-39 à R*444-168)](#1006)
       - [Agents nommés dans des emplois permanents à temps complet (art. R411-39 à R*415-15)](#1007)
         - [Dispositions générales et organiques (art. R411-39 à R411-54)](#1008)
           - [Commission paritaire communale . (art. R411-39)](#1009)
@@ -1029,8 +1029,8 @@ Version Consolidée au 1985-01-26
           - [Dispositions générales . (art. R*422-2)](#1026)
           - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1027)
           - [Congé parental . (art. R422-42 à R422-49)](#1028)
-      - [Dispositions particulières (art. R*444-26 à R*444-178)](#1029)
-        - [Dispositions applicables à la ville de Paris (art. R*444-26 à R*444-178)](#1030)
+      - [Dispositions particulières (art. R*444-26 à R*444-168)](#1029)
+        - [Dispositions applicables à la ville de Paris (art. R*444-26 à R*444-168)](#1030)
           - [Dispositions générales et organiques (art. R*444-26)](#1031)
             - [Les commissions et comités paritaires . (art. R*444-26)](#1032)
           - [Recrutement . (art. R*444-29)](#1033)
@@ -1043,7 +1043,6 @@ Version Consolidée au 1985-01-26
             - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1040)
             - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1041)
             - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1042)
-          - [Cessation de fonctions . (art. R*444-178)](#1043)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -101564,34 +101563,5 @@ _Abrogé par_:
 _Cite_:
 
   - Code du travail L122-8-1
-
-
-##### Cessation de fonctions .<a id=1043></a>
-
-###### Article R*444-178
-
-Le fonctionnaire qui fait preuve d'insuffisance professionnelle est, s'il ne peut être reclassé dans un autre service, soit
-admis à faire valoir ses droits à la retraite, soit licencié.
-
-Dans ce dernier cas, il peut recevoir une indemnité, suivant des modalités qui seront déterminées par délibérations du
-conseil de Paris.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 146
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des communes R444-179
 
 
