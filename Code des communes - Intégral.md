@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-25
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -6872,26 +6872,28 @@ _Nouveaux textes_:
 
 ###### Article L151-3
 
-La commission syndicale [*composition*] comprend des membres élus dont le nombre, qui s'élève à 4, 6, 8 ou 10, est fixé par
-l'arrêté du représentant de l'Etat dans le département convoquant les électeurs.
+La commission syndicale comprend des membres élus dont le nombre, qui s'élève à 4, 6, 8 ou 10, est fixé par l'arrêté du
+représentant de l'Etat dans le département convoquant les électeurs.
 
 Les membres de la commission syndicale, choisis parmi les personnes éligibles au conseil municipal de la commune de
-rattachement, sont élus selon les mêmes règles que les conseillers municipaux des communes de moins de 3500 habitants, sous
+rattachement, sont élus selon les mêmes règles que les conseillers municipaux des communes de moins de 2500 habitants, sous
 réserve de l'application des dispositions du quatrième alinéa du présent article et de celles du premier alinéa de l'article
-L. 151-5 du présent code. Après chaque renouvellement général des conseils municipaux, le représentant de l'Etat dans le
-département convoque les électeurs de chaque section dans les six mois suivant l'installation du conseil municipal.
-Toutefois, à la demande du maire de la commune de rattachement, les convocations se succèdent sur une période qui expire, au
-plus tard, dix-huit mois après l'installation du conseil municipal.
+L. 151-5 du présent code. Après chaque renouvellement général des conseils municipaux, lorsque les deux tiers des électeurs
+de la section ou le conseil municipal lui adressent à cette fin une demande dans les six mois suivant l'installation du
+conseil municipal, le représentant de l'Etat dans le département convoque les électeurs de la section dans les trois mois
+suivant la réception de la demande.
 
-Les membres de la commission syndicale sont élus pour une durée égale à celle du conseil municipal [*durée mandat*].
-Toutefois, le mandat de la commission syndicale expire lors de l'installation de la commission syndicale suivant le
-renouvellement général des conseils municipaux. Si, à la suite de ce renouvellement général, la commission syndicale n'est
-pas constituée en application de l'article L. 151-5, le mandat expire à la date fixée par le représentant de l'Etat dans
-l'acte par lequel il constate que les conditions de sa constitution ne sont pas réunies.
+Pour la première application des dispositions de l'alinéa précédent, le délai prévu pour adresser la demande des électeurs de
+la section est fixé à six mois à compter de la publication de la loi n° 90-85 du 23 janvier 1990.
 
-Sont électeurs [*conditions*], lorsqu'ils sont inscrits sur les listes électorales de la commune, les habitants ayant un
-domicile réel et fixe sur le territoire de la section et les propriétaires de biens fonciers sis sur le territoire de la
-section.
+Les membres de la commission syndicale sont élus pour une durée égale à celle du conseil municipal. Toutefois, le mandat de
+la commission syndicale expire lors de l'installation de la commission syndicale suivant le renouvellement général des
+conseils municipaux. Si, à la suite de ce renouvellement général, la commission syndicale n'est pas constituée en application
+de l'article L. 151-5, le mandat expire à la date fixée par le représentant de l'Etat dans l'acte par lequel il constate que
+les conditions de sa constitution ne sont pas réunies.
+
+Sont électeurs, lorsqu'ils sont inscrits sur les listes électorales de la commune, les habitants ayant un domicile réel et
+fixe sur le territoire de la section et les propriétaires de biens fonciers sis sur le territoire de la section.
 
 Les maires des communes sur le territoire desquelles la section possède des biens peuvent assister aux séances de la
 commission syndicale. Ils sont informés par le président de la commission syndicale des dates et de l'objet des séances de la
@@ -6907,9 +6909,18 @@ _Codifié par_:
 
   - Décret n°77-90 1977-01-27
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 - art. 65 () JORF 10 janvier 1985
+  - Loi n°90-85 1990-01-23
+  - CODE DES COMMUNES. - art. L151-5 (M)
+
+_Modifié par_:
+
+  - Loi n°90-85 du 23 janvier 1990 - art. 54 () JORF 25 janvier 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Cité par_:
 
@@ -6917,13 +6928,10 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*151-3 (Ab)
   - CODE DES COMMUNES. - art. R*151-4 (Ab)
 
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L151-5 (M)
-
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. L2411-3 (V)
+  - Code général des collectivités territoriales - art. L2411-3 (M)
 
 
 ###### Article L151-4
@@ -6985,9 +6993,8 @@ _Nouveaux textes_:
 La commission syndicale n'est pas constituée et ses prérogatives sont exercées par le conseil municipal, sous réserve des
 dispositions des articles L. 151-8 et L. 151-16, lorsque le nombre des électeurs appelés à désigner ses membres est inférieur
 à dix ou lorsque la moitié au moins des électeurs n'a pas répondu à deux convocations successives du représentant de l'Etat
-dans le département faites à une intervalle de deux mois. Il en est de même, avec l'accord du conseil municipal, lorsque les
-revenus ou produits des biens de la section sont inférieurs à un montant minimal annuel moyen fixé dans les conditions
-prévues par un décret en Conseil d'Etat.
+dans le département faites à un intervalle de deux mois. Il en est de même, lorsque les revenus ou produits des biens de la
+section sont inférieurs à un montant minimal annuel moyen fixé dans les conditions prévues par un décret en Conseil d'Etat.
 
 Dans le cas où une commune est devenue, à la suite de sa réunion à une autre commune, une section de la commune, le conseil
 consultatif ou la commission consultative, visés au I et II de l'article 66 de la loi n° 82-1169 du 31 décembre 1982 relative
@@ -7002,7 +7009,6 @@ _Cité par_:
   - Loi n°85-30 du 9 janvier 1985 - art. 66 (Ab)
   - CODE DES COMMUNES. - art. L112-15 (Ab)
   - CODE DES COMMUNES. - art. L151-12 (Ab)
-  - CODE DES COMMUNES. - art. L151-16 (Ab)
   - CODE DES COMMUNES. - art. L151-3 (Ab)
   - CODE DES COMMUNES. - art. L151-9 (Ab)
   - CODE DES COMMUNES. - art. R*151-1 (Ab)
@@ -7013,12 +7019,17 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°82-1169 1982-12-31 art. 66 I, II
+  - Loi n°82-1169 1982-12-31 art. 66
+  - CODE DES COMMUNES. - art. L151-16 (Ab)
   - CODE DES COMMUNES. - art. L151-8 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-30 du 9 janvier 1985 - art. 65 () JORF 10 janvier 1985
+  - Loi n°90-85 du 23 janvier 1990 - art. 53 () JORF 25 janvier 1990
+
+_Abrogé par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
 
 _Nouveaux textes_:
 
