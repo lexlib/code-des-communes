@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1977-09-30
+Version Consolidée au 1977-10-29
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -66411,6 +66411,44 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*236-50
+
+Conformément aux articles 5 et 13 du décret 66-157 du 19 mars 1966 modifié, les communes peuvent accorder leur garantie aux
+prêts consentis aux organismes d'habitations à loyer modéré, aux sociétes sous leur égide et aux sociétes d'économie mixte de
+construction.
+
+La garantie est accordée dans les conditions déterminées par le décret du 1er mars 1939 relatif à la garantie des
+collectivités locales aux emprunts contractés par les organismes d'habitation à bon marché.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
+  - SPEC_APPLI: Code des communes R262-1, R262-12 :
+
+_Cite_:
+
+  - Décret n°1939-03-01
+  - Décret n°61-549 1961-05-23 art. 6
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires
+
+_Modifié par_:
+
+  - Décret n°77-1204 1977-10-26 art. 4 jorf 29 octobre 1977
 
 _Abrogé par_:
 
