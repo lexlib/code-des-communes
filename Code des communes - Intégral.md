@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1979-08-19
+Version Consolidée au 1979-11-04
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1306,55 +1306,53 @@ Version Consolidée au 1979-08-19
           - [Commission paritaire intercommunale . (art. R411-40)](#1303)
           - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#1304)
           - [MEDAILLE  D'HONNEUR DEPARTEMENTALE ET COMMUNALE . (art. R411-44)](#1305)
-        - [CENTRE DE FORMATION DES PERSONNELS COMMUNAUX (art. R412-64)](#1306)
-          - [LE  CONSEIL D'ADMINISTRATION . (art. R412-64)](#1307)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-127)](#1308)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1309)
-            - [Actions de formation . (art. R*412-100 à R*412-104)](#1310)
-            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1311)
-            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1312)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1313)
-          - [Dispositions applicables à certains personnels (art. R*412-127)](#1314)
-            - [Dispositions applicables aux personnels divers. (art. R*412-127)](#1315)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1316)
-        - [AVANCEMENT . (art. R*414-8 à R*414-9)](#1317)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1318)
-          - [Discipline (art. R*414-17 à R*414-20)](#1319)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1320)
-        - [DISCIPLINE . (art. R*414-29)](#1321)
-        - [POSITIONS (art. R415-6-A à R415-17)](#1322)
-          - [CONGE POSTNATAL . (art. R415-6-A à R415-6-G)](#1323)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1324)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1325)
-          - [La disponibilité . (art. R*415-15)](#1326)
-          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1327)
-        - [ALLOCATION TEMPORAIRE D'INVALIDITE . (art. R417-8 à R417-21)](#1328)
-      - [Personnels divers (art. R*422-2 à R*422-40)](#1329)
-        - [Agents non titulaires (art. R*422-2 à R*422-40)](#1330)
-          - [Dispositions générales . (art. R*422-2)](#1331)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1332)
-      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1333)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1334)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1335)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1336)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1337)
-          - [Recrutement . (art. R*444-29 à R*444-32)](#1338)
-          - [REMUNERATION . (art. R*444-40)](#1339)
-          - [AVANCEMENT . (art. R*444-50)](#1340)
-          - [Positions (art. R*444-90 à R*444-168)](#1341)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1342)
-              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1343)
-              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1344)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1345)
-            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1346)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1347)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1348)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1349)
-            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1350)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1351)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1352)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1353)
-          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1354)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-127)](#1306)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#1307)
+            - [Actions de formation . (art. R*412-100 à R*412-104)](#1308)
+            - [Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois . (art. R*412-105 à R*412-110)](#1309)
+            - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1310)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1311)
+          - [Dispositions applicables à certains personnels (art. R*412-127)](#1312)
+            - [Dispositions applicables aux personnels divers. (art. R*412-127)](#1313)
+        - [Rémunération et effectifs (art. R413-3 à R413-5)](#1314)
+        - [AVANCEMENT . (art. R*414-8 à R*414-9)](#1315)
+        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1316)
+          - [Discipline (art. R*414-17 à R*414-20)](#1317)
+            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1318)
+        - [DISCIPLINE . (art. R*414-29)](#1319)
+        - [POSITIONS (art. R415-6-A à R415-17)](#1320)
+          - [CONGE POSTNATAL . (art. R415-6-A à R415-6-G)](#1321)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1322)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1323)
+          - [La disponibilité . (art. R*415-15)](#1324)
+          - [SERVICE A MI-TEMPS . (art. R415-16 à R415-17)](#1325)
+        - [ALLOCATION TEMPORAIRE D'INVALIDITE . (art. R417-8 à R417-21)](#1326)
+      - [Personnels divers (art. R*422-2 à R*422-40)](#1327)
+        - [Agents non titulaires (art. R*422-2 à R*422-40)](#1328)
+          - [Dispositions générales . (art. R*422-2)](#1329)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1330)
+      - [Dispositions particulières (art. R*444-21 à R*444-186)](#1331)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-186)](#1332)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1333)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1334)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1335)
+          - [Recrutement . (art. R*444-29 à R*444-32)](#1336)
+          - [REMUNERATION . (art. R*444-40)](#1337)
+          - [AVANCEMENT . (art. R*444-50)](#1338)
+          - [Positions (art. R*444-90 à R*444-168)](#1339)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1340)
+              - [Service à temps partiel . (art. R*444-90 à R*444-92)](#1341)
+              - [Service à mi-temps. (art. R*444-95 à R*444-101)](#1342)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1343)
+            - [ACTIVITES, CONGES . (art. R*444-93 à R*444-94)](#1344)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1345)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1346)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1347)
+            - [Dispositions *applicables* au détachement et à la disponibilité. (art. R*444-162)](#1348)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-163)](#1349)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1350)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1351)
+          - [Cessation de fonctions . (art. R*444-178 à R*444-186)](#1352)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -102042,6 +102040,35 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
+###### Article R412-64
+
+Chacun des vingt membres élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans les mêmes
+conditions.
+
+Un membre élu du conseil d'administration empêché d'assister à une séance peut donner à un suppléant pouvoir écrit de voter
+lors de cette séance en son nom. Un même suppléant ne peut être porteur que d'un seul mandat. Le mandat est toujours
+révocable.
+
+**Nota:**
+
+[*Cet article est abrogé à compter de la date d'installation du premie conseil d'administration du centre national de la
+fonction publique territoriale. *]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Abrogé par_:
+
+  - Décret n°85-915 1985-08-27 art. 16 jorf 30 août 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
+
+
 ###### Article R412-65
 
 Les membres élus qui, sans excuse valable, n'auraient pas personnellement assisté à trois réunions consécutives peuvent être
@@ -110802,33 +110829,9 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-46 (M)
 
 
-#### CENTRE DE FORMATION DES PERSONNELS COMMUNAUX<a id=1306></a>
+#### Recrutement, formation et promotion sociale<a id=1306></a>
 
-##### LE  CONSEIL D'ADMINISTRATION .<a id=1307></a>
-
-###### Article R412-64
-
-Chacun des vingt membres [*nombre*] élus du conseil d'administration est remplacé, le cas échéant, par un suppléant élu dans
-les même conditions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-290 1973-03-09 ART. 5 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
-
-
-#### Recrutement, formation et promotion sociale<a id=1308></a>
-
-##### Formation professionnelle continue .<a id=1309></a>
+##### Formation professionnelle continue .<a id=1307></a>
 
 ###### Article R*412-99
 
@@ -110872,7 +110875,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=1310></a>
+##### Actions de formation .<a id=1308></a>
 
 ###### Article R*412-100
 
@@ -111022,7 +111025,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 Octobre 1985
 
 
-##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1311></a>
+##### Cycles de formation, stages ou autres actions pour la préparation de l'accès aux emplois .<a id=1309></a>
 
 ###### Article R*412-105
 
@@ -111195,7 +111198,7 @@ _Abrogé par_:
   - Décret n°85-1076 du 9 octobre 1985 - art. 18 (V) JORF 11 octobre 1985
 
 
-##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1312></a>
+##### Actions de formation choisies par les agents en vue de leur formation personnelle .<a id=1310></a>
 
 ###### Article R*412-111
 
@@ -111297,7 +111300,7 @@ _Cite_:
   - Code des communes R412-99 à R412-115
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=1313></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=1311></a>
 
 ###### Article R*412-114
 
@@ -111359,9 +111362,9 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-##### Dispositions applicables à certains personnels<a id=1314></a>
+##### Dispositions applicables à certains personnels<a id=1312></a>
 
-##### Dispositions applicables aux personnels divers.<a id=1315></a>
+##### Dispositions applicables aux personnels divers.<a id=1313></a>
 
 ###### Article R*412-127
 
@@ -111389,7 +111392,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-#### Rémunération et effectifs<a id=1316></a>
+#### Rémunération et effectifs<a id=1314></a>
 
 ###### Article R413-3
 
@@ -111494,7 +111497,7 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### AVANCEMENT .<a id=1317></a>
+#### AVANCEMENT .<a id=1315></a>
 
 ###### Article R*414-8
 
@@ -111546,11 +111549,11 @@ _Cite_:
   - Code des communes R414-5
 
 
-#### Notation, avancement et discipline<a id=1318></a>
+#### Notation, avancement et discipline<a id=1316></a>
 
-##### Discipline<a id=1319></a>
+##### Discipline<a id=1317></a>
 
-##### Le conseil de discipline .<a id=1320></a>
+##### Le conseil de discipline .<a id=1318></a>
 
 ###### Article R*414-17
 
@@ -111689,7 +111692,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-#### DISCIPLINE .<a id=1321></a>
+#### DISCIPLINE .<a id=1319></a>
 
 ###### Article R*414-29
 
@@ -111711,9 +111714,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-#### POSITIONS<a id=1322></a>
+#### POSITIONS<a id=1320></a>
 
-##### CONGE POSTNATAL .<a id=1323></a>
+##### CONGE POSTNATAL .<a id=1321></a>
 
 ###### Article R415-6-A
 
@@ -111866,7 +111869,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-32 (M)
 
 
-##### Le détachement .<a id=1324></a>
+##### Le détachement .<a id=1322></a>
 
 ###### Article R*415-7
 
@@ -112028,7 +112031,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1325></a>
+##### Position hors cadre .<a id=1323></a>
 
 ###### Article R*415-12
 
@@ -112125,7 +112128,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1326></a>
+##### La disponibilité .<a id=1324></a>
 
 ###### Article R*415-15
 
@@ -112168,7 +112171,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-##### SERVICE A MI-TEMPS .<a id=1327></a>
+##### SERVICE A MI-TEMPS .<a id=1325></a>
 
 ###### Article R415-16
 
@@ -112240,7 +112243,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. R415-16 (Ab)
 
 
-#### ALLOCATION TEMPORAIRE D'INVALIDITE .<a id=1328></a>
+#### ALLOCATION TEMPORAIRE D'INVALIDITE .<a id=1326></a>
 
 ###### Article R417-8
 
@@ -112584,11 +112587,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. R417-5 (Ab)
 
 
-### Personnels divers<a id=1329></a>
+### Personnels divers<a id=1327></a>
 
-#### Agents non titulaires<a id=1330></a>
+#### Agents non titulaires<a id=1328></a>
 
-##### Dispositions générales .<a id=1331></a>
+##### Dispositions générales .<a id=1329></a>
 
 ###### Article R*422-2
 
@@ -112623,7 +112626,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1332></a>
+##### Cessation de fonctions .<a id=1330></a>
 
 ###### Article R*422-37
 
@@ -112754,13 +112757,13 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-### Dispositions particulières<a id=1333></a>
+### Dispositions particulières<a id=1331></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1334></a>
+#### Dispositions applicables à la ville de Paris<a id=1332></a>
 
-##### Dispositions générales et organiques<a id=1335></a>
+##### Dispositions générales et organiques<a id=1333></a>
 
-##### Le conseil administratif supérieur .<a id=1336></a>
+##### Le conseil administratif supérieur .<a id=1334></a>
 
 ###### Article R*444-21
 
@@ -112860,7 +112863,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1337></a>
+##### Les commissions et comités paritaires .<a id=1335></a>
 
 ###### Article R*444-26
 
@@ -112912,7 +112915,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1338></a>
+##### Recrutement .<a id=1336></a>
 
 ###### Article R*444-29
 
@@ -113010,7 +113013,7 @@ _Cite_:
   - Code des communes R444-1
 
 
-##### REMUNERATION .<a id=1339></a>
+##### REMUNERATION .<a id=1337></a>
 
 ###### Article R*444-40
 
@@ -113035,7 +113038,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### AVANCEMENT .<a id=1340></a>
+##### AVANCEMENT .<a id=1338></a>
 
 ###### Article R*444-50
 
@@ -113068,11 +113071,11 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### Positions<a id=1341></a>
+##### Positions<a id=1339></a>
 
-##### Activité, congés<a id=1342></a>
+##### Activité, congés<a id=1340></a>
 
-##### Service à temps partiel .<a id=1343></a>
+##### Service à temps partiel .<a id=1341></a>
 
 ###### Article R*444-90
 
@@ -113146,7 +113149,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### Service à mi-temps.<a id=1344></a>
+##### Service à mi-temps.<a id=1342></a>
 
 ###### Article R*444-95
 
@@ -113308,7 +113311,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1345></a>
+##### Congés de maladie .<a id=1343></a>
 
 ###### Article R*444-110
 
@@ -113677,7 +113680,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### ACTIVITES, CONGES .<a id=1346></a>
+##### ACTIVITES, CONGES .<a id=1344></a>
 
 ###### Article R*444-93
 
@@ -113767,7 +113770,7 @@ _Cite_:
   - Code des communes R444-101 AL. 3
 
 
-##### Détachement .<a id=1347></a>
+##### Détachement .<a id=1345></a>
 
 ###### Article R*444-125
 
@@ -114307,7 +114310,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1348></a>
+##### POSITION HORS CADRE .<a id=1346></a>
 
 ###### Article R*444-143
 
@@ -114522,7 +114525,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1349></a>
+##### Disponibilité.<a id=1347></a>
 
 ###### Article R*444-150
 
@@ -114878,7 +114881,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1350></a>
+##### Dispositions *applicables* au détachement et à la disponibilité.<a id=1348></a>
 
 ###### Article R*444-162
 
@@ -114907,7 +114910,7 @@ _Cite_:
   - Code des communes R444-154 5° et 6°
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1351></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1349></a>
 
 ###### Article R*444-163
 
@@ -114933,7 +114936,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1352></a>
+##### Position "sous les drapeaux" .<a id=1350></a>
 
 ###### Article R*444-164
 
@@ -115015,7 +115018,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1353></a>
+##### CONGE POSTNATAL .<a id=1351></a>
 
 ###### Article R*444-167
 
@@ -115056,7 +115059,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### Cessation de fonctions .<a id=1354></a>
+##### Cessation de fonctions .<a id=1352></a>
 
 ###### Article R*444-178
 
