@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1993-09-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L501-3)](#1)
     - [LIVRE 1 : Organisation communale (art. L111-1 à L184-25)](#2)
@@ -590,7 +590,7 @@ Version Consolidée au 1993-09-01
           - [SECTION 2 : Réduction des charges des libéralités. (art. R312-12 à R312-18)](#587)
           - [SECTION 3 : Modification des conditions d'exécution des charges assortissant les libéralités. (art. R312-19 à R312-28)](#588)
         - [CHAPITRE 3 : Adjudications publiques en matière de biens communaux. (art. R*313-1)](#589)
-        - [CHAPITRE 4 : Marchés. (art. R*314-1 à R*314-2)](#590)
+        - [CHAPITRE 4 : Marchés. (art. R*314-1 à R*314-4)](#590)
         - [CHAPITRE 5 : Travaux communaux (art. R315-1 à R315-16)](#591)
           - [SECTION 1 : Dispositions générales. (art. R315-1 à R315-3)](#592)
           - [SECTION 2 : Travaux de défense contre les eaux ; travaux d'équipement rural. (art. R*315-4 à R315-16)](#593)
@@ -66186,15 +66186,57 @@ _Abrogé par_:
 
 ###### Article R*314-2
 
-L'approbation, prévue au premier alinéa de l'article L. 314-1, des procès-verbaux d'adjudications et des marchés passés par
-écrit est donnée par le sous-préfet ou par le préfet dans l'arrondissement chef-lieu, dans un délai de quarante jours à
-compter du dépôt de ces procès-verbaux ou marchés à la sous-préfecture ou à la préfecture.
+La transmission au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement des marchés des communes
+et de leurs établissements publics autres que les établissements publics de santé comporte les pièces suivantes :
+
+1. La copie des pièces constitutives du marché, à l'exception des plans ;
+
+2. La délibération autorisant le représentant légal de la commune ou de l'établissement à passer le marché ;
+
+3. La copie de l'avis d'appel public à la concurrence ainsi que, s'il y a lieu, de la lettre de consultation ;
+
+4. Le règlement de la consultation, lorsque l'établissement d'un tel document est obligatoire ;
+
+5. Les procès-verbaux et rapports de la commission d'adjudication ou d'appel d'offres et les avis du jury de concours, avec
+les noms et qualités des personnes qui y ont siégé, ainsi que le rapport du représentant légal de la commune ou de
+l'établissement public prévu par l'article 312 ter du code des marchés publics ;
+
+6. Les renseignements, attestations et déclarations fournis en vertu de l'article 50 du code des marchés publics.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de l'administration communale 312 AL. 1 (partie) et AL. 2 (partie)
+  - Code des marchés publics 312 ter, 50
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°93-1080 1993-09-16 art. 1 JORF 16 septembre 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°93-1080 1993-09-16 art. 3
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*314-3
+
+Les avenants aux marchés et les décisions de poursuivre prévus par l'article 255 bis du code des marchés publics sont
+transmis au représentant de l'Etat ou à son délégué dans l'arrondissement accompagnés des délibérations qui les autorisent et
+du rapport prévu par l'article 312 ter du même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des marchés publics 255 bis, 312 ter
 
 _Codifié par_:
 
@@ -66202,11 +66244,39 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 mars 1977
+  - Décret n°93-1080 1993-09-16 art. 2 JORF 16 septembre 1993
 
-_Cite_:
+**Liens**:
 
-  - Code des communes L314-1 AL. 1
+  - SPEC_APPLI: Décret n°93-1080 1993-09-16 art. 3
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+
+###### Article R*314-4
+
+Le représentant de l'Etat ou son délégué dans l'arrondissement peut demander, pour exercer le contrôle de légalité, que des
+pièces complémentaires lui soient fournies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Créé par_:
+
+  - Décret n°93-1080 1993-09-16 art. 2 JORF 16 septembre 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°93-1080 1993-09-16 art. 3
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
 #### CHAPITRE 5 : Travaux communaux<a id=591></a>
