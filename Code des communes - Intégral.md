@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1982-06-12
+Version Consolidée au 1982-07-01
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -1168,38 +1168,37 @@ Version Consolidée au 1982-06-12
             - [Actions de formation choisies par les agents en vue de leur formation personnelle . (art. R*412-111 à R*412-113)](#1165)
             - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#1166)
         - [Rémunération et effectifs (art. R413-3 à R413-5)](#1167)
-        - [AVANCEMENT . (art. R*414-8 à R*414-9)](#1168)
-        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1169)
-          - [Discipline (art. R*414-17 à R*414-20)](#1170)
-            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1171)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1172)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1173)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#1174)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1175)
-          - [La disponibilité . (art. R*415-15)](#1176)
-      - [Personnels divers (art. R*422-2 à R422-49)](#1177)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#1178)
-          - [Dispositions générales . (art. R*422-2)](#1179)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1180)
-          - [Congé parental . (art. R422-42 à R422-49)](#1181)
-      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1182)
-        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1183)
-          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1184)
-            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1185)
-            - [Les commissions et comités paritaires . (art. R*444-26)](#1186)
-          - [Recrutement . (art. R*444-29)](#1187)
-          - [Positions (art. R*444-90 à R*444-168)](#1188)
-            - [Activité, congés (art. R*444-90 à R*444-121)](#1189)
-              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1190)
-              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1191)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1192)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1193)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1194)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1195)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1196)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1197)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1198)
-          - [Cessation de fonctions . (art. R*444-178)](#1199)
+        - [Notation, avancement et discipline (art. R*414-17 à R*414-20)](#1168)
+          - [Discipline (art. R*414-17 à R*414-20)](#1169)
+            - [Le conseil de discipline . (art. R*414-17 à R*414-20)](#1170)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#1171)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#1172)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#1173)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#1174)
+          - [La disponibilité . (art. R*415-15)](#1175)
+      - [Personnels divers (art. R*422-2 à R422-49)](#1176)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#1177)
+          - [Dispositions générales . (art. R*422-2)](#1178)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#1179)
+          - [Congé parental . (art. R422-42 à R422-49)](#1180)
+      - [Dispositions particulières (art. R*444-21 à R*444-178)](#1181)
+        - [Dispositions applicables à la ville de Paris (art. R*444-21 à R*444-178)](#1182)
+          - [Dispositions générales et organiques (art. R*444-21 à R*444-26)](#1183)
+            - [Le conseil administratif supérieur . (art. R*444-21 à R*444-23)](#1184)
+            - [Les commissions et comités paritaires . (art. R*444-26)](#1185)
+          - [Recrutement . (art. R*444-29)](#1186)
+          - [Positions (art. R*444-90 à R*444-168)](#1187)
+            - [Activité, congés (art. R*444-90 à R*444-121)](#1188)
+              - [Service à temps partiel . (art. R*444-90 à R*444-93)](#1189)
+              - [Service à mi-temps. (art. R*444-94 à R*444-101)](#1190)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1191)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1192)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1193)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1194)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1195)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1196)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1197)
+          - [Cessation de fonctions . (art. R*444-178)](#1198)
 # ORGANISATION COMMUNALE<a id=1></a>
 
 ## ORGANES DE LA COMMUNE<a id=2></a>
@@ -100808,6 +100807,65 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
+###### Article R*414-5-1
+
+Lorsque les agents communaux titulaires d'emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du
+ministre de l'intérieur et de la décentralisation sont nommés, selon les règles statutaires normales, dans un emploi situé au
+niveau de la catégorie A dont la liste est fixée par arrêté du ministre de l'intérieur et de la décentralisation, ils sont
+classés dans l'emploi ou le grade de début de leur nouvel emploi sur la base de la durée maximum de service exigée pour
+chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur emploi d'origine.
+
+L'ancienneté dans l'emploi d'origine correspond à la durée de carrière nécessaire pour accéder, sur la base de la durée
+maximum de service exigée pour chaque avancement d'échelon, au grade et à l'échelon que les agents concernés ont atteint à la
+date de leur nomination dans un emploi de niveau A, augmentée, le cas échéant, de l'ancienneté acquise dans le dernier
+échelon occupé dans l'emploi d'origine.
+
+Cette ancienneté est augmentée, lorsqu'il y a lieu, de la durée de carrière qu'il est nécessaire d'acquérir au minimum dans
+le ou les grades inférieurs dans l'emploi de niveau B pour accéder au grade d'origine en tenant compte pour les avancements
+d'échelon de la durée statutaire maximum.
+
+L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années ; elle est prise en compte à
+raison de la moitié pour la fraction comprise entre cinq et douze ans et des trois quarts pour l'ancienneté excédant douze
+ans.
+
+L'application des dispositions qui précèdent ne peut pas avoir pour effet de placer un agent dans une situation plus
+favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans un emploi de niveau A, il avait été promu
+au grade supérieur de son emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Créé par_:
+
+  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+
+###### Article R*414-5-2
+
+Lorsque les agents communaux titulaires d'emplois situés au niveau des catégories C et D sont nommés selon les règles
+statutaires normales dans un emploi situé au niveau de la catégorie A dont la liste est fixée par arrêté du ministre de
+l'intérieur et de la décentralisation, ils sont classés à un échelon déterminé par application, à la date de leur nomination,
+des dispositions énoncées à l'article R. 414-5-1 ci-dessus pour la fraction de l'ancienneté qui aurait été prise en compte
+pour leur classement dans un emploi situé au niveau de la catégorie B en application de l'article R. 414-5 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Créé par_:
+
+  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+_Cite_:
+
+  - Code des communes R414-5-1
+
+
 ###### Article R*414-6
 
 Les autres agents communaux nommés selon les règles statutaires normales dans un emploi situé au niveau de la catégorie B,
@@ -100878,6 +100936,105 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des communes R414-8
+
+
+###### Article R*414-7-1
+
+Lorsque les agents communaux non titulaires sont nommés selon les règles statutaires normales dans un emploi situé au niveau
+de la catégorie A dont la liste est fixée par le ministre de l'intérieur et de la décentralisation, ils sont classés dans le
+grade de début de leur nouvel emploi à un échelon déterminé en prenant en compte, sur la base des durées maxima d'avancement
+d'échelon de cet emploi, une fraction de l'ancienneté acquise à la date de leur nomination, dans les conditions suivantes :
+
+Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à
+douze ans et des trois quarts au-delà de douze ans ;
+
+Les services accomplis dans un emploi du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières
+années, ils sont pris en compte à raison de six seizièmes pour la fraction comprise entre sept et seize ans et de neuf
+seizièmes pour l'ancienneté excédant seize ans ;
+
+Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée
+excédant dix ans ;
+
+Les agents communaux non titulaires qui ont occupé antérieurement des emplois d'un niveau inférieur à celui qu'ils occupent
+au moment de leur nomination peuvent demander que la totalité de leur ancienneté de service soit prise en compte dans les
+conditions fixées ci-dessus pour les emplois de niveau inférieur.
+
+Dans tous les cas, les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les
+services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent
+ou inférieure à un an dans le cas contraire.
+
+De plus, l'accomplissement des obligations du service national ou l'utilisation d'un congé parental ne sont pas considérés
+comme une interruption de la continuité des services pour l'application du précédent alinéa.
+
+Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les agents concernés dans une situation plus
+favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement
+supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions fixées à
+l'article R414-5-1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Créé par_:
+
+  - Décret n°82-552 1982-06-28 ART. 2 JORF 1ER JUILLET 1982
+
+_Cite_:
+
+  - CODE DES COMMUNES R414-5-1
+
+
+###### Article R*414-8
+
+Les dispositions des articles R. 414-5, R. 414-6 et R. 414-7 sont applicables aux agents communaux accédant, en vertu de la
+législation sur les emplois réservés, aux emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°62-544 1962-05-05 ART. 7 BIS III
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Modifié par_:
+
+  - Décret n°82-552 1982-06-28 ART. 3 JORF 1ER JUILLET 1982
+
+_Cite_:
+
+  - Code des communes R414-7
+
+
+###### Article R*414-9
+
+Lorsque l'application de l'article R. 414-5, R. 414-5-1 et R. 414-5-2 aboutit à classer les agents intéressés à un échelon
+doté d'un indice inférieur à celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre
+personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans le nouvel emploi d'un indice au moins
+égal.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°62-544 1962-05-05 ART. 7 TER
+
+_Codifié par_:
+
+  - Décret n°77-373 1977-03-28
+
+_Modifié par_:
+
+  - Décret n°82-552 1982-06-28 ART. 1 JORF 1ER JUILLET 1982
+
+_Cite_:
+
+  - Code des communes R414-5-2
 
 
 ###### Article R*414-10
@@ -108917,63 +109074,11 @@ _Abrogé par_:
   - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
 
 
-#### AVANCEMENT .<a id=1168></a>
+#### Notation, avancement et discipline<a id=1168></a>
 
-###### Article R*414-8
+##### Discipline<a id=1169></a>
 
-Les dispositions des articles R. 414-5 à R. 414-7 sont applicables aux agents communaux accédant, en vertu de la législation
-sur les emplois réservés, aux emplois situés au niveau de la catégorie B dont la liste est fixée par arrêté du ministre de
-l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-544 1962-05-05 ART. 7 BIS III
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Cite_:
-
-  - Code des communes R414-5 à R414-7
-
-
-###### Article R*414-9
-
-Lorsque l'application de l'article R. 414-5 aboutit à classer les agents intéressés à un échelon doté d'un indice inférieur à
-celui qu'ils détenaient dans leur emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice
-antérieur [*durée*] jusqu'au jour où ils bénéficient dans le nouvel emploi d'un indice au moins égal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-544 1962-05-05 ART. 7 TER
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-_Créé par_:
-
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-_Cite_:
-
-  - Code des communes R414-5
-
-
-#### Notation, avancement et discipline<a id=1169></a>
-
-##### Discipline<a id=1170></a>
-
-##### Le conseil de discipline .<a id=1171></a>
+##### Le conseil de discipline .<a id=1170></a>
 
 ###### Article R*414-17
 
@@ -109112,9 +109217,9 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
 
 
-#### POSITIONS<a id=1172></a>
+#### POSITIONS<a id=1171></a>
 
-##### Le congé postnatal .<a id=1173></a>
+##### Le congé postnatal .<a id=1172></a>
 
 ###### Article R*415-6-1
 
@@ -109306,7 +109411,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=1174></a>
+##### Le détachement .<a id=1173></a>
 
 ###### Article R*415-7
 
@@ -109468,7 +109573,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=1175></a>
+##### Position hors cadre .<a id=1174></a>
 
 ###### Article R*415-12
 
@@ -109565,7 +109670,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=1176></a>
+##### La disponibilité .<a id=1175></a>
 
 ###### Article R*415-15
 
@@ -109608,11 +109713,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=1177></a>
+### Personnels divers<a id=1176></a>
 
-#### Agents non titulaires<a id=1178></a>
+#### Agents non titulaires<a id=1177></a>
 
-##### Dispositions générales .<a id=1179></a>
+##### Dispositions générales .<a id=1178></a>
 
 ###### Article R*422-2
 
@@ -109647,7 +109752,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=1180></a>
+##### Cessation de fonctions .<a id=1179></a>
 
 ###### Article R*422-37
 
@@ -109778,7 +109883,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=1181></a>
+##### Congé parental .<a id=1180></a>
 
 ###### Article R422-42
 
@@ -109953,13 +110058,13 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=1182></a>
+### Dispositions particulières<a id=1181></a>
 
-#### Dispositions applicables à la ville de Paris<a id=1183></a>
+#### Dispositions applicables à la ville de Paris<a id=1182></a>
 
-##### Dispositions générales et organiques<a id=1184></a>
+##### Dispositions générales et organiques<a id=1183></a>
 
-##### Le conseil administratif supérieur .<a id=1185></a>
+##### Le conseil administratif supérieur .<a id=1184></a>
 
 ###### Article R*444-21
 
@@ -110059,7 +110164,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°84-346 1984-05-10 ART. 37 AL. 1
 
 
-##### Les commissions et comités paritaires .<a id=1186></a>
+##### Les commissions et comités paritaires .<a id=1185></a>
 
 ###### Article R*444-26
 
@@ -110111,7 +110216,7 @@ _Cite_:
   - Code des communes R444-3
 
 
-##### Recrutement .<a id=1187></a>
+##### Recrutement .<a id=1186></a>
 
 ###### Article R*444-29
 
@@ -110147,11 +110252,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1188></a>
+##### Positions<a id=1187></a>
 
-##### Activité, congés<a id=1189></a>
+##### Activité, congés<a id=1188></a>
 
-##### Service à temps partiel .<a id=1190></a>
+##### Service à temps partiel .<a id=1189></a>
 
 ###### Article R*444-90
 
@@ -110264,7 +110369,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### Service à mi-temps.<a id=1191></a>
+##### Service à mi-temps.<a id=1190></a>
 
 ###### Article R*444-94
 
@@ -110457,7 +110562,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF ET JONC 5 AVRIL 1977
 
 
-##### Congés de maladie .<a id=1192></a>
+##### Congés de maladie .<a id=1191></a>
 
 ###### Article R*444-110
 
@@ -110826,7 +110931,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1193></a>
+##### Détachement .<a id=1192></a>
 
 ###### Article R*444-125
 
@@ -111359,7 +111464,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1194></a>
+##### POSITION HORS CADRE .<a id=1193></a>
 
 ###### Article R*444-143
 
@@ -111564,7 +111669,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1195></a>
+##### Disponibilité.<a id=1194></a>
 
 ###### Article R*444-150
 
@@ -111914,7 +112019,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1196></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1195></a>
 
 ###### Article R*444-162
 
@@ -111963,7 +112068,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1197></a>
+##### Position "sous les drapeaux" .<a id=1196></a>
 
 ###### Article R*444-164
 
@@ -112045,7 +112150,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1198></a>
+##### CONGE POSTNATAL .<a id=1197></a>
 
 ###### Article R*444-167
 
@@ -112095,7 +112200,7 @@ _Cite_:
   - Code du travail L122-8-1
 
 
-##### Cessation de fonctions .<a id=1199></a>
+##### Cessation de fonctions .<a id=1198></a>
 
 ###### Article R*444-178
 
