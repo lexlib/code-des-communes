@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -986,29 +986,28 @@ Version Consolidée au 1985-12-31
           - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#983)
             - [Actions de formation . (art. R*412-100)](#984)
             - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#985)
-        - [Rémunération et effectifs (art. R413-3 à R413-5)](#986)
-        - [POSITIONS (art. R*415-6-1 à R*415-15)](#987)
-          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#988)
-          - [Le détachement . (art. R*415-7 à R*415-11)](#989)
-          - [Position hors cadre . (art. R*415-12 à R*415-14)](#990)
-          - [La disponibilité . (art. R*415-15)](#991)
-      - [Personnels divers (art. R*422-2 à R422-49)](#992)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#993)
-          - [Dispositions générales . (art. R*422-2)](#994)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#995)
-          - [Congé parental . (art. R422-42 à R422-49)](#996)
-      - [Dispositions particulières (art. R*444-29 à R*444-168)](#997)
-        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-168)](#998)
-          - [Recrutement . (art. R*444-29)](#999)
-          - [Positions (art. R*444-110 à R*444-168)](#1000)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#1001)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1002)
-            - [Détachement . (art. R*444-125 à R*444-142)](#1003)
-            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1004)
-            - [Disponibilité. (art. R*444-150 à R*444-161)](#1005)
-            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1006)
-            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1007)
-            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1008)
+        - [POSITIONS (art. R*415-6-1 à R*415-15)](#986)
+          - [Le congé postnatal . (art. R*415-6-1 à R*415-6-7)](#987)
+          - [Le détachement . (art. R*415-7 à R*415-11)](#988)
+          - [Position hors cadre . (art. R*415-12 à R*415-14)](#989)
+          - [La disponibilité . (art. R*415-15)](#990)
+      - [Personnels divers (art. R*422-2 à R422-49)](#991)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#992)
+          - [Dispositions générales . (art. R*422-2)](#993)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#994)
+          - [Congé parental . (art. R422-42 à R422-49)](#995)
+      - [Dispositions particulières (art. R*444-29 à R*444-168)](#996)
+        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-168)](#997)
+          - [Recrutement . (art. R*444-29)](#998)
+          - [Positions (art. R*444-110 à R*444-168)](#999)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#1000)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#1001)
+            - [Détachement . (art. R*444-125 à R*444-142)](#1002)
+            - [POSITION HORS CADRE . (art. R*444-143 à R*444-149)](#1003)
+            - [Disponibilité. (art. R*444-150 à R*444-161)](#1004)
+            - [Dispositions communes au détachement et à la disponibilité . (art. R*444-162 à R*444-163)](#1005)
+            - [Position "sous les drapeaux" . (art. R*444-164 à R*444-166)](#1006)
+            - [CONGE POSTNATAL . (art. R*444-167 à R*444-168)](#1007)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -97078,114 +97077,9 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-#### Rémunération et effectifs<a id=986></a>
+#### POSITIONS<a id=986></a>
 
-###### Article R413-3
-
-La commission supérieure [*chargée de donner son avis sur les questions relatives au fonds national de compensation*] prévue
-à l'article L. 413-14 comprend [*composition*] :
-
-un conseiller d'Etat, président :
-
-un conseiller-maître à la Cour des comptes ;
-
-un représentant du ministre de l'intérieur ;
-
-un représentant du ministre chargé des prestations familiales ;
-
-un représentant du ministre de l'économie et des finances ;
-
-le directeur général de la caisse des dépôts et consignations ou son représentant ;
-
-deux conseillers généraux ;
-
-quatre représentants de l'association des maires de France ;
-
-cinq représentants du personnel des services publics départementaux et communaux ;
-
-un représentant du personnel hospitalier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 607 AL. 3 (PARTIE)
-  - CODE DES COMMUNES. - art. R417-2 (T)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-885 du 12 août 1985 - art. 6 (V)
-
-_Abrogé par_:
-
-  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er janvier 1986
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L413-14 (V)
-
-
-###### Article R413-4
-
-Les membres de la commission supérieure [*chargée de donner son avis sur les questions relatives au fonds national de
-compensation*] autres que le directeur général de la caisse des dépôts et consignations sont nommés [*durée*] pour trois ans
-par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 607 AL. 4
-  - CODE DES COMMUNES. - art. R417-3 (T)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-885 1985-01-12 art. 6
-
-_Abrogé par_:
-
-  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
-
-
-###### Article R413-5
-
-Un rapport est fait annuellement [**]fréquence[**] aux ministres de l'intérieur, de l'économie et des finances ainsi qu'au
-ministre chargé des prestations familiales, sur le fonctionnement du fonds [*national de compensation*], par le directeur
-général de la caisse des dépôts et consignations.
-
-Ce rapport est publié au Journal Officiel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 607 AL. 5 et 6
-  - CODE DES COMMUNES. - art. R417-4 (T)
-
-_Codifié par_:
-
-  - Décret n°77-373 1977-03-28
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°85-885 du 12 août 1985 - art. 6 (V)
-
-_Abrogé par_:
-
-  - Décret n°85-885 du 12 août 1985 - art. 6 (V) JORF 23 Aout 1985   en vigueur le 1er Janvier 1986
-
-
-#### POSITIONS<a id=987></a>
-
-##### Le congé postnatal .<a id=988></a>
+##### Le congé postnatal .<a id=987></a>
 
 ###### Article R*415-6-1
 
@@ -97377,7 +97271,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Le détachement .<a id=989></a>
+##### Le détachement .<a id=988></a>
 
 ###### Article R*415-7
 
@@ -97539,7 +97433,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position hors cadre .<a id=990></a>
+##### Position hors cadre .<a id=989></a>
 
 ###### Article R*415-12
 
@@ -97636,7 +97530,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### La disponibilité .<a id=991></a>
+##### La disponibilité .<a id=990></a>
 
 ###### Article R*415-15
 
@@ -97679,11 +97573,11 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-53 (Ab)
 
 
-### Personnels divers<a id=992></a>
+### Personnels divers<a id=991></a>
 
-#### Agents non titulaires<a id=993></a>
+#### Agents non titulaires<a id=992></a>
 
-##### Dispositions générales .<a id=994></a>
+##### Dispositions générales .<a id=993></a>
 
 ###### Article R*422-2
 
@@ -97718,7 +97612,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=995></a>
+##### Cessation de fonctions .<a id=994></a>
 
 ###### Article R*422-37
 
@@ -97849,7 +97743,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=996></a>
+##### Congé parental .<a id=995></a>
 
 ###### Article R422-42
 
@@ -98024,11 +97918,11 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=997></a>
+### Dispositions particulières<a id=996></a>
 
-#### Dispositions applicables à la ville de Paris<a id=998></a>
+#### Dispositions applicables à la ville de Paris<a id=997></a>
 
-##### Recrutement .<a id=999></a>
+##### Recrutement .<a id=998></a>
 
 ###### Article R*444-29
 
@@ -98064,11 +97958,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=1000></a>
+##### Positions<a id=999></a>
 
-##### Activité, congés<a id=1001></a>
+##### Activité, congés<a id=1000></a>
 
-##### Congés de maladie .<a id=1002></a>
+##### Congés de maladie .<a id=1001></a>
 
 ###### Article R*444-110
 
@@ -98437,7 +98331,7 @@ _Abrogé par_:
   - Décret n°87-602 du 30 juillet 1987 - art. 42 (V) JORF 1 août 1987
 
 
-##### Détachement .<a id=1003></a>
+##### Détachement .<a id=1002></a>
 
 ###### Article R*444-125
 
@@ -98970,7 +98864,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### POSITION HORS CADRE .<a id=1004></a>
+##### POSITION HORS CADRE .<a id=1003></a>
 
 ###### Article R*444-143
 
@@ -99175,7 +99069,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Disponibilité.<a id=1005></a>
+##### Disponibilité.<a id=1004></a>
 
 ###### Article R*444-150
 
@@ -99525,7 +99419,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Dispositions communes au détachement et à la disponibilité .<a id=1006></a>
+##### Dispositions communes au détachement et à la disponibilité .<a id=1005></a>
 
 ###### Article R*444-162
 
@@ -99574,7 +99468,7 @@ _Abrogé par_:
   - Décret n°86-68 1986-01-13 art. 35 JORF 16 janvier 1986
 
 
-##### Position "sous les drapeaux" .<a id=1007></a>
+##### Position "sous les drapeaux" .<a id=1006></a>
 
 ###### Article R*444-164
 
@@ -99656,7 +99550,7 @@ _Cite_:
   - Code des communes R444-165
 
 
-##### CONGE POSTNATAL .<a id=1008></a>
+##### CONGE POSTNATAL .<a id=1007></a>
 
 ###### Article R*444-167
 
