@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1978-04-22
+Version Consolidée au 1978-07-01
 ## Contenu: 
   - [ORGANISATION COMMUNALE (art. R*121-16 à R*121-24)](#1)
     - [ORGANES DE LA COMMUNE (art. R*121-16 à R*121-24)](#2)
@@ -937,11 +937,11 @@ Version Consolidée au 1978-04-22
       - [DISPOSITIONS PARTICULIERES (art. R262-4 à R263-22)](#934)
         - [DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.) (art. R262-4 à R262-11)](#935)
           - [COMMUNES DES DEPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA REUNION . (art. R262-4 à R262-11)](#936)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6)](#937)
-          - [Versement destiné aux transports en commun (art. R263-6)](#938)
-            - [Dispositions communes . (art. R263-6)](#939)
-        - [Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne* (art. R263-8 à R263-22)](#940)
-          - [Versement destiné aux transports en commun (art. R263-8 à R263-22)](#941)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France (art. R263-6 à R263-8)](#937)
+          - [Versement destiné aux transports en commun (art. R263-6 à R263-8)](#938)
+            - [Dispositions communes . (art. R263-6 à R263-8)](#939)
+        - [Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne* (art. R263-11 à R263-22)](#940)
+          - [Versement destiné aux transports en commun (art. R263-11 à R263-22)](#941)
             - [Employeurs relevant de régimes autres que le régime des assurances sociales agricoles (art. R263-11)](#942)
             - [EMPLOYEURS RELEVANT DU REGIME DES ASSURANCES SOCIALES AGRICOLES . (art. R263-22)](#943)
     - [LIVRE 3 : Administration et services communaux (art. R*311-1 à R395-2)](#944)
@@ -74149,18 +74149,14 @@ _Cite_:
   - CODE DES COMMUNES. - art. L263-5 (Ab)
 
 
-#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*<a id=940></a>
-
-##### Versement destiné aux transports en commun<a id=941></a>
-
 ###### Article R263-8
 
-Le taux du versement de transport est fixé à : [**]définition[**]        1° 1,9 p. 100 du montant des salaires
-[*pourcentage*], tels qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 dans les départements de Paris, de
-la Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne ;
+Le taux du versement de transport est fixé à : [*définition*]        1° 2 p. 100 [*pourcentage*] du montant des salaires tels
+qu'ils sont définis à l'article R. 263-15 et à l'article R. 263-22 du code des communes dans les départements de Paris, de la
+Seine-Saint-Denis, des Hauts-de-Seine et du Val-de-Marne.
 
-2° 1 p. 100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de la Seine-et-
-Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9.
+2° 1,2 p.100 sur les mêmes bases dans la partie des départements de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-
+Marne située dans la région des transports parisiens mentionnée à l'article R. 263-9 du code des communes.
 
 **Liens relatifs à cet article**
 
@@ -74168,14 +74164,23 @@ _Codifié par_:
 
   - Décret n°77-91 1977-01-27
 
+_Créé par_:
+
+  - Décret n°78-663 1978-06-23 JORF 24 juin 1978 date d'entrée en vigueur 1er juillet 1978 rectifié par Décret 78-928 1978-08-28 JORF 8 septembre 1978
+
 _Cite_:
 
-  - Code des communes R263-9 modifié, R263-15 modifié et R263-22
+  - CODE DES COMMUNES. - art. R263-9 (M)
+  - Code des communes R263-9, R263-15 et R263-22
 
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. D2531-6 (Ab)
 
+
+#### Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*<a id=940></a>
+
+##### Versement destiné aux transports en commun<a id=941></a>
 
 ##### Employeurs relevant de régimes autres que le régime des assurances sociales agricoles<a id=942></a>
 
