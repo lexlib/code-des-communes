@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-18
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -709,248 +709,231 @@ Version Consolidée au 1987-01-01
           - [SECTION 5 : Allocations, rentes et autres prestations (art. R*354-50)](#706)
             - [SOUS-SECTION 1 : Indemnisation en cas d'incapacité permanente (art. R*354-50)](#707)
               - [PARAGRAPHE 1 : Allocations, rentes, pensions et indemnités. (art. R*354-50)](#708)
-      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-15)](#709)
+      - [TITRE 6 : Pompes funèbres et cimetières (art. R*361-1 à R364-16)](#709)
         - [CHAPITRE 1 : Sépultures (art. R*361-1 à R361-47)](#710)
-          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-16)](#711)
+          - [SECTION 1 : Lieux de sépultures : inhumations et exhumations (art. R*361-1 à R361-17)](#711)
             - [SOUS-SECTION 1 : Cimetières. (art. R*361-1 à R361-5)](#712)
             - [SOUS-SECTION 2 : Inhumations. (art. R361-10 à R361-14)](#713)
-            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-16)](#714)
+            - [SOUS-SECTION 3 : Exhumations. (art. R361-15 à R361-17)](#714)
           - [SECTION 2 : Concessions funéraires. (art. R*361-18 à R361-34)](#715)
-          - [SECTION 3 : Chambres funéraires. (art. R361-36 à R361-39)](#716)
-          - [SECTION 4 : Crémations. (art. R361-41 à R361-45)](#717)
-          - [SECTION 5 : Dispositions diverses. (art. R361-47)](#718)
-        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-2 à R363-36)](#719)
-          - [SECTION 1 : Soins de conservation. (art. R363-2 à R363-3)](#720)
-          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-14 à R363-15)](#721)
-            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-14 à R363-15)](#722)
-          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-17 à R363-25)](#723)
-            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-17 à R363-21)](#724)
-            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25)](#725)
-          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#726)
-        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-15)](#727)
-          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#728)
-          - [SECTION 3 : Moulages. (art. R364-17)](#729)
-          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-15)](#730)
-      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#731)
-        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#732)
-          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#733)
-          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-8 à R*371-14)](#734)
-          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#735)
-        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#736)
-          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#737)
-          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#738)
-        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#739)
-        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#740)
-        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#741)
-        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#742)
-        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#743)
-        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#744)
-      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#745)
-        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#746)
-        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#747)
-        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#748)
-        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#749)
-        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#750)
-        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#751)
-      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#752)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#753)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#754)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#755)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#756)
-        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#757)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#758)
-          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#759)
-          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#760)
-        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#761)
-    - [Administration et services communaux (art. R*311-14 à R363-33)](#762)
-      - [Administration de la commune (art. R*311-14)](#763)
-        - [Biens communaux (art. R*311-14)](#764)
-          - [Acquisition, location et affectation de biens . (art. R*311-14)](#765)
-      - [Services communaux (art. R*323-1 à R323-132)](#766)
-        - [Régies municipales (art. R*323-1 à R323-132)](#767)
-          - [Dispositions générales . (art. R*323-1 à R*323-4)](#768)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie . (art. R323-8 à R323-10)](#769)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative (art. R323-12 à R323-29)](#770)
-            - [Dispositions générales . (art. R323-12)](#771)
-            - [Conseil d'administration . (art. R323-13 à R323-20)](#772)
-            - [Directeur . (art. R323-21 à R323-24)](#773)
-            - [Agent comptable . (art. R323-25 à R323-29)](#774)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement (art. R323-33 à R323-70)](#775)
-            - [Dispositions générales . (art. R323-33 à R323-37)](#776)
-            - [Régime financier . (art. R323-38 à R323-51)](#777)
-            - [Budget . (art. R323-52 à R323-57)](#778)
-            - [Comptabilité . (art. R323-58 à R323-65)](#779)
-            - [Compte de fin d'exercice . (art. R323-66 à R323-70)](#780)
-          - [Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie . (art. R323-71 à R323-74)](#781)
-          - [Régies dotées de la seule autonomie financière (art. R323-76 à R323-132)](#782)
-            - [Création . (art. R323-76 à R323-80)](#783)
-            - [Organisation administrative (art. R323-82 à R323-97)](#784)
-              - [Dispositions générales . (art. R323-82 à R323-83)](#785)
-              - [Conseil d'exploitation . (art. R323-84 à R323-90)](#786)
-              - [Directeur . (art. R323-91 à R323-95)](#787)
-              - [Agent comptable et régisseur . (art. R323-96 à R323-97)](#788)
-            - [Régime financier . (art. R323-99 à R323-116)](#789)
-            - [Fin de la régie . (art. R323-117 à R323-121)](#790)
-            - [Régies intercommunales . (art. R323-122 à R323-132)](#791)
-      - [Bibliothèques et musées (art. R341-2 à R341-14)](#792)
-        - [Bibliothèques (art. R341-2 à R341-14)](#793)
-          - [Organisation . (art. R341-2 à R341-6)](#794)
-          - [Catégories de bibliothèques . (art. R341-12 à R341-14)](#795)
-      - [Protection contre l'incendie (art. R352-2 à R353-49)](#796)
-        - [Sapeurs-pompiers communaux (art. R352-2 à R352-64)](#797)
-          - [Mission et constitution des corps de sapeurs-pompiers . (art. R352-2)](#798)
-          - [Conseil d'administration des corps de sapeurs-pompiers . (art. R352-13)](#799)
-          - [Service de santé et de secours médical . (art. R352-64)](#800)
-        - [Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)* (art. R352-20)](#801)
-          - [Règlement de service - commandement. (art. R352-20)](#802)
-        - [Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-2 à R353-49)](#803)
-          - [Généralités . (art. R353-2)](#804)
-          - [Durée du service . (art. R353-13)](#805)
-          - [Notation et avancement. (art. R353-49)](#806)
-      - [Pompes funèbres et cimetières (art. R361-12 à R363-33)](#807)
-        - [Sépultures (art. R361-12 à R361-46)](#808)
-          - [Lieux de sépultures ; inhumations et exhumations (art. R361-12 à R361-17)](#809)
-            - [Inhumations . (art. R361-12)](#810)
-            - [Exhumations . (art. R361-17)](#811)
-          - [Concessions funéraires . (art. R361-30 à R361-33)](#812)
-          - [Chambres funéraires . (art. R361-35 à R361-40)](#813)
-          - [Crémations . (art. R361-42 à R361-43)](#814)
-          - [Dispositions diverses . (art. R361-46)](#815)
-        - [Pompes funèbres (art. R*362-1 à R*362-4)](#816)
-          - [Service des pompes funèbres (art. R*362-1 à R*362-3)](#817)
-          - [Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres (art. R*362-4)](#818)
-        - [Soins de conservation et transport de corps (art. R363-1 à R363-33)](#819)
-          - [Soins de conservation . (art. R363-1)](#820)
-          - [Transport de corps avant mise en bière (art. R363-4 à R363-13)](#821)
-            - [Transport du corps à résidence après décès dans un établissement d'hospitalisation . (art. R363-4 à R363-9)](#822)
-            - [Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche . (art. R363-10 à R363-11)](#823)
-            - [Conditions du transport . (art. R363-12 à R363-13)](#824)
-          - [Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-33)](#825)
-            - [Mise en bière et fermeture du cercueil . (art. R363-16)](#826)
-            - [Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres (art. R363-23)](#827)
-            - [Conditions de transport . (art. R363-26 à R363-33)](#828)
-    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#829)
-      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#830)
-        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#831)
-        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#832)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#833)
-        - [CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-10 à R352-11)](#834)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-10 à R352-11)](#835)
-        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#836)
-          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#837)
-        - [CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-22)](#838)
-          - [SECTION 1 : Règlement de service - commandement. (art. R352-22)](#839)
-        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#840)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#841)
-        - [CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-25)](#842)
-          - [SECTION 1 : Règlement de service - commandement. (art. R352-25)](#843)
-        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#844)
-          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#845)
-        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#846)
-          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65 à R352-67)](#847)
-          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#848)
-        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#849)
-          - [SECTION 2 : Notation et avancement. (art. R354-16)](#850)
-    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#851)
-      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#852)
-        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#853)
-          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#854)
-          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#855)
-          - [SECTION 7 : Honorariat. (art. R411-55)](#856)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#857)
-          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#858)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#859)
-            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#860)
-            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#861)
-            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#862)
-          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#863)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#864)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#865)
-            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#866)
-            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#867)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#868)
-        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#869)
-        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#870)
-          - [SECTION 1 : Notation. (art. R414-1)](#871)
-          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#872)
-          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#873)
-            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#874)
-            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#875)
-            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#876)
-        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#877)
-          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#878)
-            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#879)
-            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#880)
-        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#881)
-          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#882)
-          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#883)
-        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#884)
-          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#885)
-          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#886)
-          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#887)
-      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#888)
-        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#889)
-          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#890)
-          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#891)
-          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#892)
-          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#893)
-          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#894)
-        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#895)
-          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#896)
-          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#897)
-            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#898)
-            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#899)
-            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#900)
-            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#901)
-          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#902)
-        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#903)
-      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#904)
-        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#905)
-          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#906)
-          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#907)
-      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#908)
-        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#909)
-        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#910)
-          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#911)
-          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#912)
-        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#913)
-          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#914)
-            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#915)
-          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#916)
-          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#917)
-          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#918)
-            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#919)
-            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#920)
-          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#921)
-          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#922)
-            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#923)
-              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#924)
-              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#925)
-              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#926)
-              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#927)
-              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#928)
-              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#929)
-            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#930)
-          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#931)
-    - [Personnel communal (art. R411-41 à R*444-121)](#932)
-      - [Agents nommés dans des emplois permanents à temps complet (art. R411-41 à R*412-115)](#933)
-        - [Dispositions générales et organiques (art. R411-41 à R411-54)](#934)
-          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#935)
-        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#936)
-          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#937)
-            - [Actions de formation . (art. R*412-100)](#938)
-            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#939)
-      - [Personnels divers (art. R*422-2 à R422-49)](#940)
-        - [Agents non titulaires (art. R*422-2 à R422-49)](#941)
-          - [Dispositions générales . (art. R*422-2)](#942)
-          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#943)
-          - [Congé parental . (art. R422-42 à R422-49)](#944)
-      - [Dispositions particulières (art. R*444-29 à R*444-121)](#945)
-        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-121)](#946)
-          - [Recrutement . (art. R*444-29)](#947)
-          - [Positions (art. R*444-110 à R*444-121)](#948)
-            - [Activité, congés (art. R*444-110 à R*444-121)](#949)
-              - [Congés de maladie . (art. R*444-110 à R*444-121)](#950)
+          - [SECTION 3 : Chambres funéraires. (art. R361-35 à R361-40)](#716)
+          - [SECTION 4 : Crémations. (art. R361-41 à R361-45-1)](#717)
+          - [SECTION 5 : Dispositions diverses. (art. R361-46 à R361-47)](#718)
+        - [CHAPITRE 2 : Pompes funèbres (art. R*362-4)](#719)
+          - [SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres. (art. R*362-4)](#720)
+        - [CHAPITRE 3 : Soins de conservation et transport de corps (art. R363-1 à R363-36)](#721)
+          - [SECTION 1 : Soins de conservation. (art. R363-1 à R363-3)](#722)
+          - [SECTION 2 : Transport de corps avant mise en bière (art. R363-4 à R363-15)](#723)
+            - [SOUS-SECTION 1 : Transport de corps à résidence. (art. R363-4 à R363-9)](#724)
+            - [SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche. (art. R363-10 à R363-11)](#725)
+            - [SOUS-SECTION 3 : Conditions du transport. (art. R363-12 à R363-15)](#726)
+          - [SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil (art. R363-16 à R363-28)](#727)
+            - [SOUS-SECTION 1 : Mise en bière et fermeture du cercueil. (art. R363-16 à R363-21)](#728)
+            - [SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres. (art. R363-22 à R363-25-1)](#729)
+            - [SOUS-SECTION 3 : Conditions de transport. (art. R363-26 à R363-28)](#730)
+          - [SECTION 4 : Dépôts temporaires. (art. R363-34 à R363-36)](#731)
+        - [CHAPITRE 4 : Police des funérailles et des sépultures (art. R364-1 à R364-16)](#732)
+          - [SECTION 2 : Surveillance des opérations consécutives au décès. (art. R364-1 à R364-13)](#733)
+          - [SECTION 3 : Moulages. (art. R364-17)](#734)
+          - [SECTION 3 : Moulages et autopsies. (art. R364-14 à R364-16)](#735)
+      - [TITRE 7 : Dispositions particulières à certains services industriels et commerciaux (art. R*371-5 à R378-6)](#736)
+        - [CHAPITRE 1 : Eau (art. R*371-5 à R371-24)](#737)
+          - [SECTION 1 : Dispositions générales. (art. R*371-5 à R371-4)](#738)
+          - [SECTION 2 : Fonds national pour le développement des adductions d'eau. (art. R*371-8 à R*371-14)](#739)
+          - [SECTION 3 : Contrôle des distributions d'eau. (art. R*371-15 à R371-24)](#740)
+        - [CHAPITRE 2 : Assainissement et eaux usées (art. R*372-1 à R*372-18)](#741)
+          - [SECTION 1 : Dispositions générales. (art. R*372-1 à R372-4)](#742)
+          - [SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement. (art. R*372-6 à R*372-18)](#743)
+        - [CHAPITRE 3 : Ordures ménagères et autres déchets. (art. R*373-1 à R*373-4)](#744)
+        - [CHAPITRE 4 : Gaz. (art. R*374-4 à R374-3)](#745)
+        - [CHAPITRE 5 : Electricité. (art. R*375-17 à R375-16)](#746)
+        - [CHAPITRE 6 : Halles, marchés et poids publics. (art. R*376-1 à R*376-5)](#747)
+        - [CHAPITRE 7 : Transports publics. (art. R*377-1 à R377-4)](#748)
+        - [CHAPITRE 8 : Abattoirs et établissements frigorifiques publics. (art. R*378-1 à R378-6)](#749)
+      - [TITRE 8 : Participation à des entreprises privées (art. R381-1 à R381-32)](#750)
+        - [SECTION 1 : Dispositions générales. (art. R381-1 à R381-5)](#751)
+        - [SECTION 2 : Régime des titres. (art. R381-6 à R381-7)](#752)
+        - [SECTION 3 : Participation des communes au fonctionnement de la société. (art. R381-8 à R381-25)](#753)
+        - [SECTION 4 : Communes obligataires. (art. R381-26 à R381-27)](#754)
+        - [SECTION 5 : Commissaires du gouvernement. (art. R*381-28 à R*381-31)](#755)
+        - [SECTION 6 : Dispositions diverses. (art. R*381-33 à R381-32)](#756)
+      - [TITRE 9 : Dispositions particulières (art. R*391-1 à R395-2)](#757)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin. (art. R*391-1 à R391-3)](#758)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer (art. R*392-1 à R392-2)](#759)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. R*392-1)](#760)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R392-2)](#761)
+        - [CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. (art. R*393-1 à R393-4)](#762)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris. (art. R*394-1 à R394-10)](#763)
+          - [SECTION 2 : Protection contre l'incendie. (art. R*394-2)](#764)
+          - [SECTION 3 : Pompes funèbres et cimetières. (art. R394-3 à R394-10)](#765)
+        - [CHAPITRE 5 : Dispositions applicables à la ville de Marseille. (art. R395-1 à R395-2)](#766)
+    - [Administration et services communaux (art. R*311-14 à R353-49)](#767)
+      - [Administration de la commune (art. R*311-14)](#768)
+        - [Biens communaux (art. R*311-14)](#769)
+          - [Acquisition, location et affectation de biens . (art. R*311-14)](#770)
+      - [Services communaux (art. R*323-1 à R323-132)](#771)
+        - [Régies municipales (art. R*323-1 à R323-132)](#772)
+          - [Dispositions générales . (art. R*323-1 à R*323-4)](#773)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie . (art. R323-8 à R323-10)](#774)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative (art. R323-12 à R323-29)](#775)
+            - [Dispositions générales . (art. R323-12)](#776)
+            - [Conseil d'administration . (art. R323-13 à R323-20)](#777)
+            - [Directeur . (art. R323-21 à R323-24)](#778)
+            - [Agent comptable . (art. R323-25 à R323-29)](#779)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement (art. R323-33 à R323-70)](#780)
+            - [Dispositions générales . (art. R323-33 à R323-37)](#781)
+            - [Régime financier . (art. R323-38 à R323-51)](#782)
+            - [Budget . (art. R323-52 à R323-57)](#783)
+            - [Comptabilité . (art. R323-58 à R323-65)](#784)
+            - [Compte de fin d'exercice . (art. R323-66 à R323-70)](#785)
+          - [Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie . (art. R323-71 à R323-74)](#786)
+          - [Régies dotées de la seule autonomie financière (art. R323-76 à R323-132)](#787)
+            - [Création . (art. R323-76 à R323-80)](#788)
+            - [Organisation administrative (art. R323-82 à R323-97)](#789)
+              - [Dispositions générales . (art. R323-82 à R323-83)](#790)
+              - [Conseil d'exploitation . (art. R323-84 à R323-90)](#791)
+              - [Directeur . (art. R323-91 à R323-95)](#792)
+              - [Agent comptable et régisseur . (art. R323-96 à R323-97)](#793)
+            - [Régime financier . (art. R323-99 à R323-116)](#794)
+            - [Fin de la régie . (art. R323-117 à R323-121)](#795)
+            - [Régies intercommunales . (art. R323-122 à R323-132)](#796)
+      - [Bibliothèques et musées (art. R341-2 à R341-14)](#797)
+        - [Bibliothèques (art. R341-2 à R341-14)](#798)
+          - [Organisation . (art. R341-2 à R341-6)](#799)
+          - [Catégories de bibliothèques . (art. R341-12 à R341-14)](#800)
+      - [Protection contre l'incendie (art. R352-2 à R353-49)](#801)
+        - [Sapeurs-pompiers communaux (art. R352-2 à R352-64)](#802)
+          - [Mission et constitution des corps de sapeurs-pompiers . (art. R352-2)](#803)
+          - [Conseil d'administration des corps de sapeurs-pompiers . (art. R352-13)](#804)
+          - [Service de santé et de secours médical . (art. R352-64)](#805)
+        - [Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)* (art. R352-20)](#806)
+          - [Règlement de service - commandement. (art. R352-20)](#807)
+        - [Dispositions applicables aux sapeurs-pompiers communaux professionnels (art. R353-2 à R353-49)](#808)
+          - [Généralités . (art. R353-2)](#809)
+          - [Durée du service . (art. R353-13)](#810)
+          - [Notation et avancement. (art. R353-49)](#811)
+    - [LIVRE 16 : Administration et services communaux (art. R*351-2 à R354-16)](#812)
+      - [TITRE 2 : Protection contre l'incendie (art. R*351-2 à R354-16)](#813)
+        - [CHAPITRE 1 : Dispositions générales. (art. R*351-2 à R351-1)](#814)
+        - [CHAPITRE 2 : Sapeurs-pompiers communaux (art. R352-1 à R352-9)](#815)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-1 à R352-9)](#816)
+        - [CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-10 à R352-11)](#817)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-10 à R352-11)](#818)
+        - [CHAPITRE 4 : Sapeurs-pompiers communaux (art. R352-12)](#819)
+          - [SECTION 1 : Mission et constitution des corps de sapeurs-pompiers. (art. R352-12)](#820)
+        - [CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-22)](#821)
+          - [SECTION 1 : Règlement de service - commandement. (art. R352-22)](#822)
+        - [CHAPITRE 8 : Sapeurs-pompiers communaux (art. R352-24)](#823)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-24)](#824)
+        - [CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*. (art. R352-25)](#825)
+          - [SECTION 1 : Règlement de service - commandement. (art. R352-25)](#826)
+        - [CHAPITRE 10 : Sapeurs-pompiers communaux (art. R352-26)](#827)
+          - [SECTION 1 : Règlement de service - Commandement. (art. R352-26)](#828)
+        - [CHAPITRE 16 : Sapeurs-pompiers communaux (art. R352-65 à R352-70)](#829)
+          - [SECTION 2 : Service de santé et de secours médical. (art. R352-65 à R352-67)](#830)
+          - [SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers. (art. R352-68 à R352-70)](#831)
+        - [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels (art. R354-16)](#832)
+          - [SECTION 2 : Notation et avancement. (art. R354-16)](#833)
+    - [LIVRE 4 : Personnel communal (art. R*411-1 à R*444-186)](#834)
+      - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. R*411-1 à R417-23)](#835)
+        - [CHAPITRE 1 : Dispositions générales et organiques (art. R*411-1 à R411-55)](#836)
+          - [SECTION 1 : Dispositions générales. (art. R*411-1 à R*411-3)](#837)
+          - [SECTION 4 : Commission paritaire communale. (art. R*411-38)](#838)
+          - [SECTION 7 : Honorariat. (art. R411-55)](#839)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. R*412-1 à R*412-127)](#840)
+          - [SECTION 1 : Recrutement (art. R*412-1 à R412-43)](#841)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*412-1 à R412-8)](#842)
+            - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois. (art. R412-9 à R412-14)](#843)
+            - [SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois. (art. R*412-32 à R412-34)](#844)
+            - [SOUS-SECTION 4 : Bourse de l'emploi. (art. R412-35 à R412-43)](#845)
+          - [SECTION 3 : Promotion sociale. (art. R412-94 à R412-98)](#846)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. R*412-116 à R*412-127)](#847)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. R*412-116 à R412-119)](#848)
+            - [SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information. (art. R412-120 à R412-122)](#849)
+            - [SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées. (art. R*412-123 à R412-126)](#850)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*412-127)](#851)
+        - [CHAPITRE 3 : Rémunération et effectifs. (art. R*413-1 à R413-2)](#852)
+        - [CHAPITRE 4 : Notation, avancement et discipline (art. R414-1 à R*414-29)](#853)
+          - [SECTION 1 : Notation. (art. R414-1)](#854)
+          - [SECTION 2 : Avancement. (art. R*414-2 à R*414-14)](#855)
+          - [SECTION 3 : Discipline (art. R*414-15 à R*414-29)](#856)
+            - [SOUS-SECTION 1 : Le conseil de discipline. (art. R*414-15 à R*414-21)](#857)
+            - [SOUS-SECTION 2 : Les sanctions disciplinaires. (art. R*414-22 à R414-27)](#858)
+            - [SOUS-SECTION 4 : Dispositions applicables aux personnels divers. (art. R*414-29)](#859)
+        - [CHAPITRE 5 : Positions (art. R*415-2 à R*415-6)](#860)
+          - [SECTION 1 : Activités, congés (art. R*415-2 à R*415-6)](#861)
+            - [SOUS-SECTION 1 : Les congés annuels. (art. R*415-2 à R415-1)](#862)
+            - [SOUS-SECTION 2 : Les congés de maladie. (art. R*415-6)](#863)
+        - [CHAPITRE 6 : Cessation de fonctions. (art. R*416-1 à R*416-3)](#864)
+          - [SECTION 1 : L'admission à la retraite. (art. R*416-2)](#865)
+          - [SECTION 4 : Nomination dans une autre commune. (art. R*416-3)](#866)
+        - [CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité (art. R417-1 à R417-23)](#867)
+          - [SECTION 1 : Sécurité sociale. (art. R417-1)](#868)
+          - [SECTION 3 : Allocation temporaire d'invalidité. (art. R417-5 à R417-21-1)](#869)
+          - [SECTION 4 : Pensions. (art. R417-22 à R417-23)](#870)
+      - [TITRE 2 : Personnels divers (art. R*421-7 à R*423-3)](#871)
+        - [CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet (art. R*421-7 à R421-27)](#872)
+          - [SECTION 1 : Dispositions générales. (art. R*421-7 à R421-6)](#873)
+          - [SECTION 2 : Représentation aux commissions paritaires. (art. R421-8 à R421-13)](#874)
+          - [SECTION 3 : Garanties disciplinaires. (art. R421-14 à R421-23)](#875)
+          - [SECTION 4 : Congés. (art. R421-24 à R421-26)](#876)
+          - [SECTION 5 : Régime particulier de retraite. (art. R421-27)](#877)
+        - [CHAPITRE 2 : Agents non titulaires (art. R*422-1 à R422-41)](#878)
+          - [SECTION 1 : Dispositions générales. (art. R*422-1)](#879)
+          - [SECTION 2 : Formation professionnelle continue. (art. R*422-3 à R*422-36)](#880)
+            - [SOUS-SECTION 1 : Actions de formation. (art. R*422-5 à R*422-8)](#881)
+            - [SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois. (art. R*422-9 à R*422-14)](#882)
+            - [SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle. (art. R*422-15 à R*422-32)](#883)
+            - [SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle . (art. R*422-33 à R*422-36)](#884)
+          - [SECTION 4 : Régime particulier de retraite. (art. R422-41)](#885)
+        - [CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat. (art. R*423-1 à R*423-3)](#886)
+      - [TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine (art. R*432-1 à R*432-9)](#887)
+        - [CHAPITRE 2 : Création de communauté urbaine (art. R*432-1 à R*432-9)](#888)
+          - [SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux. (art. R*432-1 à R*432-3)](#889)
+          - [SECTION 2 : Transfert définitif des personnels. (art. R*432-4 à R*432-9)](#890)
+      - [TITRE 4 : Dispositions particulières (art. R441-1 à R*444-186)](#891)
+        - [CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. R441-1)](#892)
+        - [CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer (art. R442-1 à R*442-2)](#893)
+          - [SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion . (art. R442-1)](#894)
+          - [SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon. (art. R*442-2)](#895)
+        - [CHAPITRE 4 : Dispositions applicables à la ville de Paris (art. R*444-1 à R*444-186)](#896)
+          - [SECTION 1 : Dispositions générales et organiques (art. R*444-1 à R*444-20)](#897)
+            - [SOUS-SECTION 1 : Dispositions générales. (art. R*444-1 à R*444-20)](#898)
+          - [SECTION 2 : Recrutement. (art. R*444-28 à R*444-36)](#899)
+          - [SECTION 3 : Rémunération. (art. R*444-37 à R*444-41)](#900)
+          - [SECTION 4 : Notation et avancement (art. R*444-42 à R*444-64)](#901)
+            - [SOUS-SECTION 1 : Notation. (art. R*444-42 à R*444-48)](#902)
+            - [SOUS-SECTION 2 : Avancement. (art. R*444-49 à R*444-64)](#903)
+          - [SECTION 5 : Discipline. (art. R*444-65 à R*444-87)](#904)
+          - [SECTION 6 : Positions. (art. R*444-88 à R*444-171)](#905)
+            - [SOUS-SECTION 1 : Activité, congés. (art. R*444-89 à R*444-124)](#906)
+              - [PARAGRAPHE 1 : Service à temps partiel. (art. R444-90 à R444-93)](#907)
+              - [PARAGRAPHE 2 : Congés annuels. (art. R*444-102 à R*444-108)](#908)
+              - [PARAGRAPHE 3 : Autorisations spéciales d'absence. (art. R*444-109)](#909)
+              - [PARAGRAPHE 4 : Congés de maladie. (art. R*444-120)](#910)
+              - [PARAGRAPHE 5 : Congés de maternité. (art. R*444-122)](#911)
+              - [PARAGRAPHE 6 : Dispositions diverses. (art. R*444-123 à R*444-124)](#912)
+            - [SOUS-SECTION 8 : Mutations. (art. R*444-169 à R*444-171)](#913)
+          - [SECTION 7 : Cessation de fonctions. (art. R*444-172 à R*444-186)](#914)
+    - [Personnel communal (art. R411-41 à R*444-121)](#915)
+      - [Agents nommés dans des emplois permanents à temps complet (art. R411-41 à R*412-115)](#916)
+        - [Dispositions générales et organiques (art. R411-41 à R411-54)](#917)
+          - [La médaille d'honneur départementale et communal . (art. R411-41 à R411-54)](#918)
+        - [Recrutement, formation et promotion sociale (art. R*412-99 à R*412-115)](#919)
+          - [Formation professionnelle continue . (art. R*412-99 à R*412-115)](#920)
+            - [Actions de formation . (art. R*412-100)](#921)
+            - [Coordination des actions de formation en faveur des personnels communaux . (art. R*412-114 à R*412-115)](#922)
+      - [Personnels divers (art. R*422-2 à R422-49)](#923)
+        - [Agents non titulaires (art. R*422-2 à R422-49)](#924)
+          - [Dispositions générales . (art. R*422-2)](#925)
+          - [Cessation de fonctions . (art. R*422-37 à R*422-40)](#926)
+          - [Congé parental . (art. R422-42 à R422-49)](#927)
+      - [Dispositions particulières (art. R*444-29 à R*444-121)](#928)
+        - [Dispositions applicables à la ville de Paris (art. R*444-29 à R*444-121)](#929)
+          - [Recrutement . (art. R*444-29)](#930)
+          - [Positions (art. R*444-110 à R*444-121)](#931)
+            - [Activité, congés (art. R*444-110 à R*444-121)](#932)
+              - [Congés de maladie . (art. R*444-110 à R*444-121)](#933)
 # Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers<a id=1></a>
 
 ## Objet de la caisse.<a id=2></a>
@@ -72401,6 +72384,46 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-31 (V)
 
 
+###### Article R361-12
+
+L'inhumation dans une propriété particulière du corps d'une personne décédée est autorisée [*compétence*] par le préfet du
+département où est située cette propriété [*par le préfet de police en ce qui concerne la ville de Paris*] sur attestation
+que les formalités prescrites par l'article R. 363-18 et par les articles 78 et suivants [*relatifs à la déclaration du décès
+et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*] du code civil
+ont été accomplies et aprés avis d'un hydrogéologue agréé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 23-2 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-18 (M)
+  - Code civil 78 ET SUIVANTS
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R394-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-32 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 1 JORF 18 janvier 1987
+
+
 ###### Article R361-13
 
 L'inhumation ou le dépôt en caveau provisoire a lieu :
@@ -72555,6 +72578,46 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-41 (V)
+
+
+###### Article R361-17
+
+Les personnes chargées de procéder aux exhumations revêtent un costume spécial qui est ensuite désinfecté ainsi que leurs
+chaussures. Elles sont tenues à un nettoyage antiseptique de la face et des mains[*mesures d'hygiène*].
+
+Le ministre chargé de la santé fixe, aprés avis du Conseil supérieur d'hygiène publique de France, les conditions dans
+lesquelles les cerceuils sont manipulés et extraits de la fosse.
+
+Lorsque le cercueil est trouvé en bon état de conservation au moment de l'exhumation, il ne peut être ouvert que s'il s'est
+écoulé cinq ans depuis le décès[*délai*].
+
+Lorsque le cercueil est trouvé détérioré, le corps est placé dans un autre cercueil ou dans une boîte à ossements.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 24-2
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 2 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R364-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-42 (M)
 
 
 ##### SECTION 2 : Concessions funéraires.<a id=715></a>
@@ -73000,6 +73063,56 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-20 (V)
 
 
+###### Article R361-30
+
+Un arrêté du maire [*attributions*] affecte à perpétuité, dans le cimetière où se trouvent les concessions reprises, un
+ossuaire convenablement aménagé où les restes des personnes qui étaient inhumées dans les concessions reprises sont aussitôt
+réinhumés.
+
+Lorsque le cimetière n'offre pas d'emplacement suffisant pour la construction de l'ossuaire spécial, les restes peuvent être
+transférés par décision du maire dans l'ossuaire spécial d'un autre cimetière appartenant à la commune.
+
+Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une communauté urbaine, le transfert peut avoir
+lieu dans les mêmes conditions sur le territoire d'une autre commune appartenant au même groupement de communes.
+
+Le maire peut également faire procéder à la crémation des restes exhumés. Les cendres sont alors répandues dans le jardin du
+souvenir mentionné à l'article R. 361-14.
+
+Les noms des personnes, même si aucun reste n'a été retrouvé, sont consignés dans un registre tenu à la disposition du public
+et gravés sur un dispositif établi en matériaux durables dans le jardin du souvenir ou au-dessus de l'ossuaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R361-14 (M)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R394-6 (Ab)
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R394-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-6 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 3 JORF 18 janvier 1987
+
+
 ###### Article R361-31
 
 Les terrains occupés par les concessions reprises peuvent faire l'objet d'un nouveau contrat de concession seulement lorsque
@@ -73033,6 +73146,43 @@ _Anciens textes_:
   - Décret  1924-04-25 ART. 9
 
 
+###### Article R361-33
+
+Les articles R. 361-21 à R. 361-31 [*procès-verbal constatant l'état d'abandon d'une concession et reprise de concession*] ne
+dérogent pas aux dispositions qui régissent les sépultures militaires.
+
+Lorsqu'une personne  dont l'acte de décès porte la mention "Mort pour la France" régulièrement inscrite a été inhumée dans
+une concession perpétuelle ou centenaire, celle-ci ne peut faire l'objet d'une reprise avant l'expiration d'un délai de
+cinquante ans à compter de la date de l'inhumation. Cette disposition ne s'applique pas dans le cas où vient à expirer au
+cours des cinquante ans une concession centenaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret  1924-04-25 ART. 11
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 5 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code des communes R361-21 à R361-31
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-22 (V)
+
+
 ###### Article R361-34
 
 Une concession centenaire ou perpétuelle ne peut faire l'objet d'une reprise lorsque la commune ou un établissement public
@@ -73063,6 +73213,49 @@ _Anciens textes_:
 
 ##### SECTION 3 : Chambres funéraires.<a id=716></a>
 
+###### Article R361-35
+
+Les chambres funéraires sont destinées à recevoir, avant l'inhumation ou la crémation, les corps des personnes dont le déces
+n'a pas été causé par une maladie contagieuse.
+
+Elles sont créées, à la demande du conseil municipal, par arrêté du commissaire de la République, aprés enquête de commodo et
+incommodo et avis du conseil départemental d'hygiène. Leur gestion es assurée dans les conditions prévues pour les services
+publics communaux
+
+La commune peut également passer une convention avec un établissement de soins ou de retraite en vue de l'utilisation de la
+chambre funéraire de cet établissement.
+
+Les personnels des agences de funérailles munis d'une autorisation du maire ne peuvent se voir refuser l'accés des chambres
+funéraires pour le dépôt ou le retrait des corps.
+
+Lorsqu'une chambre funéraire présente des inconvénients graves, le commissaire de la République peut en ordonner la
+suppression aprés avis du conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 du 18 mai 1976 - art. 5 ()
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 6 JORF 18 JANVIER 1987
+
+_Cité par_:
+
+  - Décret n°94-1118 du 20 décembre 1994 - art. 1 (Ab)
+  - Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
+  - Décret n°99-662 du 28 juillet 1999 - art. 8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-74 (V)
+
+
 ###### Article R361-36
 
 le corps d'une personne décédée ne peut être admis dans une chambre funéraire située sur le territoire de la commune du lieu
@@ -73090,6 +73283,94 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2223-75 (V)
+
+
+###### Article R361-37
+
+L'admission intervient dans un délai maximum de dix-huit heures à compter du décès. Ce délai est porté à trente-six heures
+lorsque le corps a subi les soins de conservation prévus à l'article R. 363-1.
+
+Elle a lieu sur la demande écrite [*formalités - qualité pour agir*] :
+
+- soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+- soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste par écrit qu'il lui a été impossible de
+joindre ou de retrouver l'une des personnes ayant qualité pour pourvoir aux funérailles ;
+
+- soit du directeur de l'établissement, dans le cas de décès dans un établissement d'hospitalisation public ou privé, sous la
+condition prévue au paragraphe précédent lorsque la chambre funéraire n'est pas la chambre mortuaire de l'établissement.
+
+La demande d'admission en chambre funéraire est présentée aprés le décés. Elle énonce les nom, prénom, âge et domicile du
+défunt.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 2, 3 et 5
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - Décret n°97-1039 du 14 novembre 1997 - art. 4 (Ab)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-1 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-76 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 7 JORF 18 janvier 1987
+
+
+###### Article R361-38
+
+Lorsque le décès a eu lieu sur la voie publique ou dans un lieu ouvert au public, l'admission du corps en chambre funéraire
+est autorisée [*compétence*] par les autorités de police ou de gendarmerie [*autorisation obligatoire*].
+
+Un médecin est commis pour s'assurer auparavant de la réalité et de la cause du décès.
+
+Dans les cas prévus à l'article 81 du code civil et à l'article 74 du code de procédure pénale, l'admission d'un corps en
+chambre funéraire est autorisée par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 4
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R363-4 (Ab)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-6 (M)
+  - Code civil - art. 81 (V)
+  - CODE DE PROCEDURE PENALE - art. 74 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-77 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 8 JORF 18 janvier 1987
 
 
 ###### Article R361-39
@@ -73137,6 +73418,40 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2223-78 (V)
 
 
+###### Article R361-40
+
+Lorsque le transfert à une chambre funéraire du corps d'une personne décédée dans un établissement d'hospitalisation public
+ou privé a été opéré à la demande du directeur de l'établissement, les frais résultant du transport et du séjour à la chambre
+funéraire sont à la charge de l'établissement.
+
+Le corps peut faire l'objet d'un nouveau transport, soit à une autre chambre funéraire, soit à la résidence du défunt ou d'un
+membre de sa famille, dans les délais et conditions prévus à la présente section et aux sections II, III et IV du chapitre
+III [*transports avant et après la mise en bière, dépôts temporaires*], à la demande de toute personne qui a qualité pour
+pourvoir aux funérailles [*qualité pour agir*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 du 18 mai 1976 - art. 6 (V)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - Décret n°97-1039 du 14 novembre 1997 - art. 5 (Ab)
+
+_Cite_:
+
+  - Code des communes R363-4 à R363-36
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 9 JORF 18 janvier 1987
+
+
 ##### SECTION 4 : Crémations.<a id=717></a>
 
 ###### Article R361-41
@@ -73165,6 +73480,92 @@ _Abrogé par_:
 _Cité par_:
 
   - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+
+###### Article R361-42
+
+La crémation [*incinération*] est autorisée par le maire de la commune du lieu du déces ou, s'il y a eu transport du corps,
+du lieu de la mise en bière.
+
+Cette autorisation est accordée sur les justifications suivantes :
+
+1° L'expression écrite des dernières volontés du défunt ou, à défaut, la demande de toute personne qui a qualité pour
+pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et affirmant que celui-ci ne pose pas de
+problème médico-légal.
+
+Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu qu'après l'autorisation du parquet
+[*conditions de forme*] qui peut subordonner celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
+la liste des experts et aux frais de la famille.
+
+Lorsque le décès a eu lieu à l'étranger, la crémation est autorisée par le maire de la commune où elle est pratiquée
+L'autorisation de transport de corps prévue par un arrangement international tient lieu, dans ce cas, de certificat du
+médecin.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 22-1 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-34 (V)
+
+_Créé par_:
+
+  - Décret n°87-28 1987-01-14 art. 10 JORF 18 janvier 1987
+
+_Cité par_:
+
+  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
+
+
+###### Article R361-43
+
+La crémation [*incinération*] a lieu :
+
+- lorsque le décès s'est produit en France, vingt-quatre heures au moins et six jours au plus après le décès ;
+
+- lorsque le décès a eu lieu à l'étranger ou dans un territoire d'outre-mer, six jours au plus après l'entrée du corps en
+France.
+
+Les dimanches et jours fériés ne sont pas compris dans le calcul de ces délais.
+
+Des dérogations aux délais prévus au premier alinéa peuvent être accordées, en raison de circonstances particulières, par le
+préfet du département du lieu du déces ou de la crémation[*compétence*], lequel prescrit éventuellement toutes dispositions
+nécessaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 22-2
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 11 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R363-10 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-35 (V)
 
 
 ###### Article R361-44
@@ -73229,7 +73630,58 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-39-1 (V)
 
 
+###### Article R361-45-1
+
+La crémation des restes des corps exhumés est autorisée, sur demande des familles, par le maire de la commune du lieu
+d'exhumation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-37 (V)
+
+_Créé par_:
+
+  - Décret n°87-28 1987-01-14 art. 12 JORF 18 janvier 1987
+
+
 ##### SECTION 5 : Dispositions diverses.<a id=718></a>
+
+###### Article R361-46
+
+Indépendamment des peines prévues en cas de récidive à l'article L. 361-21, toute contravention [*infraction*] aux
+dispositions des articles R. 361-10 à R. 361-17, des articles R. 361-35 à R. 361-45-1, des articles R. 363-1 à R. 363-35, des
+articles R. 364-1 à R. 364-7 et des articles R. 364-14 à R. 364-17 est punie des peines prévues pour les contraventions de 5è
+classe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L361-21 (M)
+  - Code des communes R364-1 à R364-7 et R364-14 à R364-17
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2223-66 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 13 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
 
 ###### Article R361-47
 
@@ -73261,9 +73713,85 @@ _Cite_:
   - Code des communes R361-10 à R361-17 et R361-35 à R361-45
 
 
-#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=719></a>
+#### CHAPITRE 2 : Pompes funèbres<a id=719></a>
 
-##### SECTION 1 : Soins de conservation.<a id=720></a>
+##### SECTION 2 : Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres.<a id=720></a>
+
+###### Article R*362-4
+
+Indépendamment des peines prévues en cas de récidive à l'article L. 362-12, toute infraction aux dispositions des articles L.
+362-1, L. 362-4-1, L. 362-8, L.362-9 et L.362-10 est punie des peines d'amendes [*sanctions*] prévues pour les contraventions
+de 5è classe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V) JORF 2 décembre 1994
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. L362-1 (M)
+  - CODE DES COMMUNES. - art. L362-12 (M)
+  - CODE DES COMMUNES. - art. L362-4-1 (MMN)
+  - Code des communes L362-8 à L362-10
+
+_Modifié par_:
+
+  - Décret n°87-28 1977-01-14 art. 15 JORF 18 janvier 1987
+
+
+#### CHAPITRE 3 : Soins de conservation et transport de corps<a id=721></a>
+
+##### SECTION 1 : Soins de conservation.<a id=722></a>
+
+###### Article R363-1
+
+Il ne peut être procédé à une opération tendant à la conservation du corps d'une personne décédée sans une autorisation
+délivrée par le maire de la commune du lieu de déces ou de la commune où sont pratiquées les opérations de conservation.
+
+Pour obtenir cette autorisation, il y a lieu de produire :
+
+1° L'expression écrite des dernières volontés de la personne décédée ou une demande de toute personne qui a qualité pour
+pourvoir aux funérailles et justifie de son état civil et de son domicile ;
+
+2° Une déclaration indiquant le mode opératoire, le produit que l'on se propose d'employer, le lieu et l'heure de l'opération
+ainsi que le nom et l'adresse de la personne ou de l'entreprise qui procédera à celle-ci ;
+
+3° Le certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de
+problème médico-légal.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 1 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - Décret n°94-1118 du 20 décembre 1994 - art. 3 (Ab)
+  - CODE DES COMMUNES. - art. R361-36 (Ab)
+  - CODE DES COMMUNES. - art. R361-37 (Ab)
+  - CODE DES COMMUNES. - art. R363-3 (Ab)
+  - CODE DES COMMUNES. - art. R394-8 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. A22 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 16 JORF 18 janvier 1987
+
 
 ###### Article R363-2
 
@@ -73344,9 +73872,401 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-4 (V)
 
 
-##### SECTION 2 : Transport de corps avant mise en bière<a id=721></a>
+##### SECTION 2 : Transport de corps avant mise en bière<a id=723></a>
 
-##### SOUS-SECTION 3 : Conditions du transport.<a id=722></a>
+##### SOUS-SECTION 1 : Transport de corps à résidence.<a id=724></a>
+
+###### Article R363-4
+
+Sans préjudice des dispositions particulières prévues à l'article R. 361-38, le transport sans mise en bière du corps d'une
+personne décédée dans un lieu autre que son domicile, de ce lieu à son domicile ou à la résidence d'un membre de sa famille
+est autorisé par le maire de la commune de décès dans les conditions prévues, notamment, par l'article R. 363-5.
+
+Le transport s'effectue dans les conditions prévues aux articles R. 363-12 et suivants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R361-11 (Ab)
+  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R361-38 (M)
+  - CODE DES COMMUNES. - art. R363-12 (M)
+  - CODE DES COMMUNES. - art. R363-5 (M)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 17 et 18 JORF 18 janvier 1987
+
+
+###### Article R363-5
+
+L'autorisation est subordonnée :
+
+1° A la demande de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son
+domicile ;
+
+2° A la reconnaissance préalable du corps par cette personne ;
+
+3° Si le décès s'est produit dans une maison de retraite ou dans un établissement de soins, à l'accord écrit du directeur.
+
+4° A l'accord écrit du médecin chef du service hospitalier ou de son représentant dans un établissement public, ou du médecin
+traitant dans un établissement privé ou du médecin qui a constaté le décès, si celui-ci est survenu hors d'un établissement
+hospitalier.
+
+5° A l'accomplissement préalable des formalités prescrites aux articles 78, 79 et 80 du code civil relatives aux déclarations
+de décès[*et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4-1
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
+  - CODE DES COMMUNES. - art. R363-4 (Ab)
+  - CODE DES COMMUNES. - art. R363-6 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-8 (V)
+
+_Cite_:
+
+  - Code civil 78 à 80
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 18 et 19 JORF 18 janvier 1987
+
+
+###### Article R363-6
+
+Le refus du médecin mentionné à l'article précédent est motivé     . 
+
+Le médecin ne peut s'opposer au transport que pour les motifs suivants : 
+
+1° Le décès soulève un problème médico-légal ; 
+
+2° Le défunt était atteint, au moment du décès, de l'une des maladies contagieuses dont la liste est fixée par arrêté du
+ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France ; 
+
+3° L'état du corps ne permet pas un tel transport. 
+
+Lorsque le médecin s'oppose au transport du corps sans mise en bière, il en avertit sans délai par écrit la famille et, s'il
+y a lieu, le directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4-2
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
+  - CODE DES COMMUNES. - art. R361-16 (Ab)
+  - CODE DES COMMUNES. - art. R361-36 (M)
+  - CODE DES COMMUNES. - art. R361-37 (Ab)
+  - CODE DES COMMUNES. - art. R361-38 (Ab)
+  - CODE DES COMMUNES. - art. R363-10 (Ab)
+  - CODE DES COMMUNES. - art. R363-11 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-5 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-9 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 17 et 20 JORF 22 janvier 1987
+
+
+###### Article R363-7
+
+Lorsque la commune du lieu du décès n'est pas celle où le corps est transporté, avis de l'autorisation de transport
+[*formalités*] est adressé sans délai au maire de cette dernière commune[*au préfet de police en ce qui concerne la ville de
+Paris*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4-3 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-10 (V)
+
+
+###### Article R363-8
+
+Lorsque le corps n'a pas subi les soins de conservation prévus à la section I, les opérations de transport sont achevées dans
+un délai maximum de dix-huit heures à compter du décès.Lorsque le corps a subi les soins de conservation, le délai est porté
+à trente-six heures. Le procès verbal prévu à l'article R. 363-3 figure au dossier constitué pour le transport du corps. du
+décès. Le procès-verbal [*de l'opération de conservation du corps*] prévu à l'article R. 363-3 figure au dossier constitué
+pour le transport de corps.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4-4
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-11 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 17 et 21 JORF 18 janvier 1987
+
+
+###### Article R363-9
+
+Dans le cas où l'autorisation n'est pas accordée [*refus*], le corps ne peut être transporté qu'après mise en bière et dans
+les conditions fixées aux articles R. 363-16 à R. 363-34.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 4-5 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cite_:
+
+  - Code des communes R363-16 à R363-34
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-12 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 17 JORF 18 janvier 1987
+
+
+##### SOUS-SECTION 2 : Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche.<a id=725></a>
+
+###### Article R363-10
+
+Un établissement d'hospitalisation, d'enseignement ou de recherche ne peut accepter de don de corps que si l'intéressé en a
+fait la déclaration écrite en entier, datée et signée de sa main [*conditions de forme*].
+
+Cette déclaration peut contenir notamment l'indication de l'établissement auquel le corps est remis.
+
+Une copie de la déclaration est adressée à l'établissement auquel le corps est légué ; cet établissement délivre à
+l'intéressé une carte de donateur que celui-ci s'engage à porter en permanence.
+
+L'exemplaire de la déclaration qui était détenu par le défunt est remise à l'officier d'état civil lors de la déclaration du
+décès.
+
+L'établissement d'hospitalisation, d'enseignement ou de recherche assure à ses frais l'inhumation ou la crémation du corps.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 7 AL. 1 à 4
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-13 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 22 JORF 18 janvier 1987
+
+
+###### Article R363-11
+
+Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès [*par le préfet de police en
+ce qui concerne la ville de Paris - compétence*].
+
+L'autorisation est accordée sur production des certificats médicaux prévus à l'article R. 361-36 [*constatant que le défunt
+n'est pas atteint de l'une des maladies contagieuses mentionnées par arrêté*] et au 3° de l'article R. 363-1 [*certifiant le
+décès et attestant que celui-ci ne pose pas de problème médico-légal*].
+
+Les opérations de transport sont achevées dans un délai maximum de vingt-quatre heures à compter du décès.
+
+Lorsque le décès survient dans un établissement hospitalier disposant d'équipements permettant la conservation des corps, ce
+délai est porté à quarante-huit heures.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 7 AL. 6, 7 et 5 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R394-8 (Ab)
+
+_Cite_:
+
+  - Code des communes R361-36 et R363-1 3°
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-14 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 23 JORF 18 janvier 1987
+
+
+##### SOUS-SECTION 3 : Conditions du transport.<a id=726></a>
+
+###### Article R363-12
+
+Peuvent assurer les transports de corps prévus à la section III du chapitre Ier [*relative aux chambres funéraires*] et à la
+section II du présent chapitre [*avant la mise en bière*] :
+
+1° Les établissements d'hospitalisation publics ou privés ;
+
+2° Les entreprises agréées par le commissaire de la République du département où est implanté le siège social de l'entreprise
+et par le commissaire dde la République du département où sont implantés ses établissements secondaires éventuels.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 8 AL. 1
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+_Cité par_:
+
+  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+  - CODE DES COMMUNES. - art. R363-4 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
+
+_Cite_:
+
+  - Code des communes R361-35 à R361-40
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 24 JORF 18 janvier 1987
+
+
+###### Article R363-13
+
+Les transports de corps sont effectués au moyen de véhicules spécialement aménagés, exclusivement réservés aux transports
+mortuaires, agréés par le commissaire de la République du département de réception délivrés par le préfet [*par le préfet de
+police en ce qui concerne la ville de Paris*], certificats qui sont présentés à toute réquisition.
+
+Le visage du défunt reste découvert et les mains libres.
+
+Les voitures sont désinfectées après chaque transport [*formalités*] .
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 8 AL. 2 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+**Liens**:
+
+  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 25 JORF 18 janvier 1987
+
 
 ###### Article R363-14
 
@@ -73425,9 +74345,47 @@ _Cite_:
   - Code des communes R363-12 à R363-14
 
 
-##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=723></a>
+##### SECTION 3 : Mise en bière et transport après mise en bière; fermeture du cercueil<a id=727></a>
 
-##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=724></a>
+##### SOUS-SECTION 1 : Mise en bière et fermeture du cercueil.<a id=728></a>
+
+###### Article R363-16
+
+Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne décédée est mis en bière.
+
+La housse imperméable éventuellement utilisée pour envelopper le corps avant sa mise en bière est fabriqué dans un matériau
+biodégradable. Elle est d'un modéle agrée par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
+publique de France.
+
+Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin atteste de la
+récupération de l'appareil avant la mise en bière.
+
+En cas de crémation du corps d'une personne porteuse d'une prothèse fonctionnant au moyen d'une pile, un médecin atteste de
+la récupération de l'appareil avant l'incinération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 9
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R361-42 (Ab)
+  - Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-15 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 26 JORF 18 janvier 1987
+
 
 ###### Article R363-17
 
@@ -73581,7 +74539,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-20 (V)
 
 
-##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=725></a>
+##### SOUS-SECTION 2 : Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres.<a id=729></a>
 
 ###### Article R363-22
 
@@ -73615,6 +74573,38 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général des collectivités territoriales - art. R2213-21 (V)
+
+
+###### Article R363-23
+
+Lorsque le corps est transporté en dehors du territoire métropolitain, l'autorisation est donnée [*compétence*] par le
+commissaire de la République du département où a lieu la fermeture du cercueil.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 13 (PARTIE)
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 27 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R363-25 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-22 (V)
 
 
 ###### Article R363-24
@@ -73694,7 +74684,175 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-24 (V)
 
 
-##### SECTION 4 : Dépôts temporaires.<a id=726></a>
+###### Article R363-25-1
+
+Les signes distinctifs des entreprises éventuellement apposés sur les véhicules affectés aux convois répondent aux
+caractéristiques fixées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 1 décembre 1987
+  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 1 décembre 1987 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°87-28 1987-01-14 art. 28 JORF 18 janvier 1987
+
+_Abrogé par_:
+
+  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+_Cité par_:
+
+  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
+
+
+##### SOUS-SECTION 3 : Conditions de transport.<a id=730></a>
+
+###### Article R363-26
+
+Sauf dans les cas prévus à l'article R. 363-27, le corps est placé dans un cercueil en bois d'au moins 22 millimètres
+d'épaisseur avec une garniture étanche fabriquée dans un matériau biodégradable agréé par le ministre de la santé aprés avis
+du Conseil supérieur d'hygiène publique de France.
+
+Toutefois, un cerceuil d'une épaisseur minimale de 18 millimètres aprés finition, avec garniture étanche fabriquée dans un
+matériau biodégradable agréé dans les mêmes conditions, est autorisé soit si la durée du transport du corps est inférieure à
+deux heures, ou à quatre heures lorsque le corps a subi des soins de conservation soit en cas de crémation. Les garnitures et
+accessoires posés à l'intérieur ou à l'extérieur des cerceuils destinés à la crémation sont composés exclusivement de
+matériaux combustibles ou sublimables et il ne peut y être fait usage d'un mélange désinfectant comportant de la poudre de
+tan ou du charbon pulvérisé.
+
+Les cercueils peuvent également être fabriqués dans un matériau ayant fait l'objet d'un agrément renouvelable tous les cinq
+ans [*périodicité*] par le ministre chargé de la santé, aprés avis du Conseil supérieur d'hygiène publique de France.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 16
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 21 mars 1991
+  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 4 juin 1996
+  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 5 (V)
+
+_Cité par_:
+
+  - Arrêté du 21 mars 1991 - art. 2 (V)
+  - Arrêté du 4 juin 1996 - art. 2 (V)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-27 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-25 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 29 JORF 18 janvier 1987
+
+
+###### Article R363-27
+
+Le corps est placé dans un cercueil hermétique satisfaisant aux conditions fixées à l'article R. 363-28 dans les cas ci-
+aprés :
+
+1° Si la personne était atteinte au moment du décès d'une des maladies contagieuses définies par arrêté du ministre chargé de
+la santé;
+
+2° En cas de dépôt du corps soit à résidence, soit dans une édifice cultuel, soit dans un dépositoire ou dans un caveau
+provisoire, pour une durée excédant six jours.
+
+3° Dans tous les cas où le commissaire de la République le prescrit.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 17
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Abrogé par_:
+
+  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R363-26 (Ab)
+
+_Cite_:
+
+  - CODE DES COMMUNES. - art. R363-28 (M)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-26 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 30 JORF 18 janvier 1987
+
+
+###### Article R363-28
+
+Les cerceuils hermétiques sont d'un modèle agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène
+publique de France.
+
+Ils doivent ne céder aucun liquide au milieu extérieur, contenir une matière absorbante et être munis d'un dispositif
+épurateur de gaz agréé par le ministre chargé de la santé aprés avis du Conseil supérieur d'hygiène publique de France et par
+le ministre chargé de l'aviation civile. Lorsque le défunt était atteint d'une maladie contagieuse, le corps est enveloppé
+dans un linceul imbibé d'une solution antiseptique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-435 1976-05-18 ART. 17-1
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R363-27 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général des collectivités territoriales - art. R2213-27 (V)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 31 JORF 18 janvier 1987
+
+
+##### SECTION 4 : Dépôts temporaires.<a id=731></a>
 
 ###### Article R363-34
 
@@ -73806,9 +74964,9 @@ _Cite_:
   - Code des communes R363-1 à R363-35
 
 
-#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=727></a>
+#### CHAPITRE 4 : Police des funérailles et des sépultures<a id=732></a>
 
-##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=728></a>
+##### SECTION 2 : Surveillance des opérations consécutives au décès.<a id=733></a>
 
 ###### Article R364-1
 
@@ -74395,7 +75553,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 4
 
 
-##### SECTION 3 : Moulages.<a id=729></a>
+##### SECTION 3 : Moulages.<a id=734></a>
 
 ###### Article R364-17
 
@@ -74438,7 +75596,7 @@ _Anciens textes_:
   - Décret  1941-12-31 ART. 27 COMPLETE AL. 3 et 4 MODIFIES
 
 
-##### SECTION 3 : Moulages et autopsies.<a id=730></a>
+##### SECTION 3 : Moulages et autopsies.<a id=735></a>
 
 ###### Article R364-14
 
@@ -74507,11 +75665,43 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2213-6 (V)
 
 
-### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=731></a>
+###### Article R364-16
 
-#### CHAPITRE 1 : Eau<a id=732></a>
+Lorsque les organes sont prélevés dans les conditions prévues par le décret n° 78-501 du 31 mars 1978, le délai de dix-huit
+heures prévu pour le transport du corps avant mise en bière est porté à vingt-quatre heures.
 
-##### SECTION 1 : Dispositions générales.<a id=733></a>
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1941-12-31 ART. 27 MODIFIE AL. 1 ET 2
+
+_Codifié par_:
+
+  - Décret n°77-241 1977-03-07
+
+_Cite_:
+
+  - Décret n°78-501 1978-03-31 (prélèvements d'organes)
+
+_Modifié par_:
+
+  - Décret n°87-28 1987-01-14 art. 33 JORF 18 janvier 1987
+
+_Cité par_:
+
+  - Décret n°78-501 du 31 mars 1978 - art. 23 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°96-141 du 21 février 1996 - art. 11 () JORF 23 février 1996
+
+
+### TITRE 7 : Dispositions particulières à certains services industriels et commerciaux<a id=736></a>
+
+#### CHAPITRE 1 : Eau<a id=737></a>
+
+##### SECTION 1 : Dispositions générales.<a id=738></a>
 
 ###### Article R*371-5
 
@@ -74672,7 +75862,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=734></a>
+##### SECTION 2 : Fonds national pour le développement des adductions d'eau.<a id=739></a>
 
 ###### Article R*371-8
 
@@ -74916,7 +76106,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L371-10 (Ab)
 
 
-##### SECTION 3 : Contrôle des distributions d'eau.<a id=735></a>
+##### SECTION 3 : Contrôle des distributions d'eau.<a id=740></a>
 
 ###### Article R*371-15
 
@@ -75235,9 +76425,9 @@ _Cite_:
   - Code des communes R371-15 à R371-23
 
 
-#### CHAPITRE 2 : Assainissement et eaux usées<a id=736></a>
+#### CHAPITRE 2 : Assainissement et eaux usées<a id=741></a>
 
-##### SECTION 1 : Dispositions générales.<a id=737></a>
+##### SECTION 1 : Dispositions générales.<a id=742></a>
 
 ###### Article R*372-1
 
@@ -75388,7 +76578,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=738></a>
+##### SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.<a id=743></a>
 
 ###### Article R*372-6
 
@@ -75717,7 +76907,7 @@ _Cite_:
   - Code de la santé publique - art. L35-5 (M)
 
 
-#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=739></a>
+#### CHAPITRE 3 : Ordures ménagères et autres déchets.<a id=744></a>
 
 ###### Article R*373-1
 
@@ -75791,7 +76981,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 4 : Gaz.<a id=740></a>
+#### CHAPITRE 4 : Gaz.<a id=745></a>
 
 ###### Article R*374-4
 
@@ -75924,7 +77114,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-114 (V)
 
 
-#### CHAPITRE 5 : Electricité.<a id=741></a>
+#### CHAPITRE 5 : Electricité.<a id=746></a>
 
 ###### Article R*375-17
 
@@ -76505,7 +77695,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2333-112 (T)
 
 
-#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=742></a>
+#### CHAPITRE 6 : Halles, marchés et poids publics.<a id=747></a>
 
 ###### Article R*376-1
 
@@ -76670,7 +77860,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 7 : Transports publics.<a id=743></a>
+#### CHAPITRE 7 : Transports publics.<a id=748></a>
 
 ###### Article R*377-1
 
@@ -76880,7 +78070,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=744></a>
+#### CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.<a id=749></a>
 
 ###### Article R*378-1
 
@@ -77064,9 +78254,9 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-### TITRE 8 : Participation à des entreprises privées<a id=745></a>
+### TITRE 8 : Participation à des entreprises privées<a id=750></a>
 
-#### SECTION 1 : Dispositions générales.<a id=746></a>
+#### SECTION 1 : Dispositions générales.<a id=751></a>
 
 ###### Article R381-1
 
@@ -77230,7 +78420,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 2 : Régime des titres.<a id=747></a>
+#### SECTION 2 : Régime des titres.<a id=752></a>
 
 ###### Article R381-6
 
@@ -77296,7 +78486,7 @@ _Cite_:
   - Code des communes R381-1 et R381-2
 
 
-#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=748></a>
+#### SECTION 3 : Participation des communes au fonctionnement de la société.<a id=753></a>
 
 ###### Article R381-8
 
@@ -77843,7 +79033,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 4 : Communes obligataires.<a id=749></a>
+#### SECTION 4 : Communes obligataires.<a id=754></a>
 
 ###### Article R381-26
 
@@ -77907,7 +79097,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 5 : Commissaires du gouvernement.<a id=750></a>
+#### SECTION 5 : Commissaires du gouvernement.<a id=755></a>
 
 ###### Article R*381-28
 
@@ -78030,7 +79220,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-#### SECTION 6 : Dispositions diverses.<a id=751></a>
+#### SECTION 6 : Dispositions diverses.<a id=756></a>
 
 ###### Article R*381-33
 
@@ -78087,9 +79277,9 @@ _Cite_:
   - Code des communes R381-3 à R381-27
 
 
-### TITRE 9 : Dispositions particulières<a id=752></a>
+### TITRE 9 : Dispositions particulières<a id=757></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=753></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin, et du Haut-Rhin.<a id=758></a>
 
 ###### Article R*391-1
 
@@ -78178,9 +79368,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2543-1 (V)
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=754></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'outre-mer<a id=759></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=755></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=760></a>
 
 ###### Article R*392-1
 
@@ -78210,7 +79400,7 @@ _Cite_:
   - Code des communes R311-1 à R312-1, R312-19 à R374-1, R374-3 à R375-1, R375-7 à R375-17, R376-3, R376-4, R377-1, R377-2, R378-1 à R381-33
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=756></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=761></a>
 
 ###### Article R392-2
 
@@ -78243,7 +79433,7 @@ _Cite_:
   - Code des communes R311-8
 
 
-#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=757></a>
+#### CHAPITRE 3 : Dispositions applicables aux communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.<a id=762></a>
 
 ###### Article R*393-1
 
@@ -78363,7 +79553,7 @@ _Anciens textes_:
   - Décret  1905-04-12 ART. 1 (PARTIE) MODIFIE
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=758></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris.<a id=763></a>
 
 ###### Article R*394-1
 
@@ -78392,7 +79582,7 @@ _Cite_:
   - Code des communes R351-1 à R351-4
 
 
-##### SECTION 2 : Protection contre l'incendie.<a id=759></a>
+##### SECTION 2 : Protection contre l'incendie.<a id=764></a>
 
 ###### Article R*394-2
 
@@ -78439,7 +79629,7 @@ _Abrogé par_:
   - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
 
 
-##### SECTION 3 : Pompes funèbres et cimetières.<a id=760></a>
+##### SECTION 3 : Pompes funèbres et cimetières.<a id=765></a>
 
 ###### Article R394-3
 
@@ -78725,7 +79915,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2512-37 (V)
 
 
-#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=761></a>
+#### CHAPITRE 5 : Dispositions applicables à la ville de Marseille.<a id=766></a>
 
 ###### Article R395-1
 
@@ -78788,13 +79978,13 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. D2513-5 (T)
 
 
-## Administration et services communaux<a id=762></a>
+## Administration et services communaux<a id=767></a>
 
-### Administration de la commune<a id=763></a>
+### Administration de la commune<a id=768></a>
 
-#### Biens communaux<a id=764></a>
+#### Biens communaux<a id=769></a>
 
-##### Acquisition, location et affectation de biens .<a id=765></a>
+##### Acquisition, location et affectation de biens .<a id=770></a>
 
 ###### Article R*311-14
 
@@ -78818,11 +80008,11 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-### Services communaux<a id=766></a>
+### Services communaux<a id=771></a>
 
-#### Régies municipales<a id=767></a>
+#### Régies municipales<a id=772></a>
 
-##### Dispositions générales .<a id=768></a>
+##### Dispositions générales .<a id=773></a>
 
 ###### Article R*323-1
 
@@ -78901,7 +80091,7 @@ _Cite_:
   - Code des communes R323-2 ET R323-3
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .<a id=769></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière  Création de la régie .<a id=774></a>
 
 ###### Article R323-8
 
@@ -78994,9 +80184,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-9 (V)
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative<a id=770></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière  Organisation administrative<a id=775></a>
 
-##### Dispositions générales .<a id=771></a>
+##### Dispositions générales .<a id=776></a>
 
 ###### Article R323-12
 
@@ -79026,7 +80216,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-11 (V)
 
 
-##### Conseil d'administration .<a id=772></a>
+##### Conseil d'administration .<a id=777></a>
 
 ###### Article R323-13
 
@@ -79183,7 +80373,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-19 (V)
 
 
-##### Directeur .<a id=773></a>
+##### Directeur .<a id=778></a>
 
 ###### Article R323-21
 
@@ -79309,7 +80499,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-23 (V)
 
 
-##### Agent comptable .<a id=774></a>
+##### Agent comptable .<a id=779></a>
 
 ###### Article R323-25
 
@@ -79462,9 +80652,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-27 (V)
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement<a id=775></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière Fonctionnement<a id=780></a>
 
-##### Dispositions générales .<a id=776></a>
+##### Dispositions générales .<a id=781></a>
 
 ###### Article R323-33
 
@@ -79593,7 +80783,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Régime financier .<a id=777></a>
+##### Régime financier .<a id=782></a>
 
 ###### Article R323-38
 
@@ -80030,7 +81220,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-38 (V)
 
 
-##### Budget .<a id=778></a>
+##### Budget .<a id=783></a>
 
 ###### Article R323-52
 
@@ -80218,7 +81408,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-44 (V)
 
 
-##### Comptabilité .<a id=779></a>
+##### Comptabilité .<a id=784></a>
 
 ###### Article R323-58
 
@@ -80444,7 +81634,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Compte de fin d'exercice .<a id=780></a>
+##### Compte de fin d'exercice .<a id=785></a>
 
 ###### Article R323-66
 
@@ -80609,7 +81799,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie .<a id=781></a>
+##### Régies dotées de la personnalité morale et de l'autonomie financière Fin de la régie .<a id=786></a>
 
 ###### Article R323-71
 
@@ -80757,9 +81947,9 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-52 (V)
 
 
-##### Régies dotées de la seule autonomie financière<a id=782></a>
+##### Régies dotées de la seule autonomie financière<a id=787></a>
 
-##### Création .<a id=783></a>
+##### Création .<a id=788></a>
 
 ###### Article R323-76
 
@@ -80931,9 +82121,9 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Organisation administrative<a id=784></a>
+##### Organisation administrative<a id=789></a>
 
-##### Dispositions générales .<a id=785></a>
+##### Dispositions générales .<a id=790></a>
 
 ###### Article R323-82
 
@@ -81016,7 +82206,7 @@ _Anciens textes_:
   - Décret n°1930-02-17 art. 14
 
 
-##### Conseil d'exploitation .<a id=786></a>
+##### Conseil d'exploitation .<a id=791></a>
 
 ###### Article R323-84
 
@@ -81179,7 +82369,7 @@ _Anciens textes_:
   - Décret  1930-02-17 ART. 11
 
 
-##### Directeur .<a id=787></a>
+##### Directeur .<a id=792></a>
 
 ###### Article R323-91
 
@@ -81301,7 +82491,7 @@ _Anciens textes_:
   - Décret n°1930-02-17 art. 12
 
 
-##### Agent comptable et régisseur .<a id=788></a>
+##### Agent comptable et régisseur .<a id=793></a>
 
 ###### Article R323-96
 
@@ -81369,7 +82559,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-71 (V)
 
 
-##### Régime financier .<a id=789></a>
+##### Régime financier .<a id=794></a>
 
 ###### Article R323-99
 
@@ -81903,7 +83093,7 @@ _Abrogé par_:
   - Décret n°88-621 1988-05-08 art. 72 JORF 8 mai 1988
 
 
-##### Fin de la régie .<a id=790></a>
+##### Fin de la régie .<a id=795></a>
 
 ###### Article R323-117
 
@@ -82071,7 +83261,7 @@ _Nouveaux textes_:
   - Code général des collectivités territoriales - art. R2221-90 (V)
 
 
-##### Régies intercommunales .<a id=791></a>
+##### Régies intercommunales .<a id=796></a>
 
 ###### Article R323-122
 
@@ -82343,11 +83533,11 @@ _Anciens textes_:
   - Décret  1930-02-17 ART. 47
 
 
-### Bibliothèques et musées<a id=792></a>
+### Bibliothèques et musées<a id=797></a>
 
-#### Bibliothèques<a id=793></a>
+#### Bibliothèques<a id=798></a>
 
-##### Organisation .<a id=794></a>
+##### Organisation .<a id=799></a>
 
 ###### Article R341-2
 
@@ -82462,7 +83652,7 @@ _Créé par_:
   - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
 
 
-##### Catégories de bibliothèques .<a id=795></a>
+##### Catégories de bibliothèques .<a id=800></a>
 
 ###### Article R341-12
 
@@ -82553,11 +83743,11 @@ _Abrogé par_:
   - Décret n°88-1037 du 9 novembre 1988 - art. 12 (Ab)
 
 
-### Protection contre l'incendie<a id=796></a>
+### Protection contre l'incendie<a id=801></a>
 
-#### Sapeurs-pompiers communaux<a id=797></a>
+#### Sapeurs-pompiers communaux<a id=802></a>
 
-##### Mission et constitution des corps de sapeurs-pompiers .<a id=798></a>
+##### Mission et constitution des corps de sapeurs-pompiers .<a id=803></a>
 
 ###### Article R352-2
 
@@ -82586,7 +83776,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L411-24 (Ab)
 
 
-##### Conseil d'administration des corps de sapeurs-pompiers .<a id=799></a>
+##### Conseil d'administration des corps de sapeurs-pompiers .<a id=804></a>
 
 ###### Article R352-13
 
@@ -82623,7 +83813,7 @@ _Cite_:
   - Code des communes R353-1 à R353-120
 
 
-##### Service de santé et de secours médical .<a id=800></a>
+##### Service de santé et de secours médical .<a id=805></a>
 
 ###### Article R352-64
 
@@ -82652,9 +83842,9 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*<a id=801></a>
+#### Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*<a id=806></a>
 
-##### Règlement de service - commandement.<a id=802></a>
+##### Règlement de service - commandement.<a id=807></a>
 
 ###### Article R352-20
 
@@ -82687,9 +83877,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. R352-1 (Ab)
 
 
-#### Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=803></a>
+#### Dispositions applicables aux sapeurs-pompiers communaux professionnels<a id=808></a>
 
-##### Généralités .<a id=804></a>
+##### Généralités .<a id=809></a>
 
 ###### Article R353-2
 
@@ -82717,7 +83907,7 @@ _Cite_:
   - Code des communes L411-31 à L411-46
 
 
-##### Durée du service .<a id=805></a>
+##### Durée du service .<a id=810></a>
 
 ###### Article R353-13
 
@@ -82743,7 +83933,7 @@ _Abrogé par_:
   - Décret n°89-231 1989-04-17 art. 4 JORF 18 avril 1989
 
 
-##### Notation et avancement.<a id=806></a>
+##### Notation et avancement.<a id=811></a>
 
 ###### Article R353-49
 
@@ -82775,1398 +83965,11 @@ _Cité par_:
   - Décret n°89-229 du 17 avril 1989 - art. 47 (V)
 
 
-### Pompes funèbres et cimetières<a id=807></a>
+## LIVRE 16 : Administration et services communaux<a id=812></a>
 
-#### Sépultures<a id=808></a>
+### TITRE 2 : Protection contre l'incendie<a id=813></a>
 
-##### Lieux de sépultures ; inhumations et exhumations<a id=809></a>
-
-##### Inhumations .<a id=810></a>
-
-###### Article R361-12
-
-L'inhumation dans une propriété particulière du corps d'une personne décédée est autorisée [*compétence*] par le préfet du
-département où est située cette propriété [*par le préfet de police en ce qui concerne la ville de Paris*] sur attestation
-que les formalités prescrites par l'article R. 363-18 et par les articles 78 et suivants [*relatifs à la déclaration du décès
-et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*] du code civil
-ont été accomplies.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 23-2 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R363-18 (M)
-  - Code civil 78 ET SUIVANTS
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R394-7 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-32 (V)
-
-
-##### Exhumations .<a id=811></a>
-
-###### Article R361-17
-
-Les personnes chargées de procéder aux exhumations revêtent un costume spécial qui est ensuite désinfecté ainsi que leurs
-chaussures. Elles sont tenues à un nettoyage antiseptique de la face et des mains [*mesures d'hygiène*].
-
-Tous les cercueils, avant d'être manipulés et extraits de la fosse, sont arrosés avec un liquide désinfectant tel que
-solution d'hypochlorite de chaux ou d'eau de Javel à raison de cinq grammes de chlore libre par litre [*proportion*].
-
-Lorsque le cercueil est trouvé en bon état de conservation au moment de l'exhumation, il ne peut être ouvert que s'il s'est
-écoulé cinq ans depuis le décès [*délai*].
-
-Lorsque le cercueil est trouvé détérioré, le corps est placé dans un autre cercueil ou dans une boîte à ossements.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 24-2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R364-6 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-42 (M)
-
-
-##### Concessions funéraires .<a id=812></a>
-
-###### Article R361-30
-
-Un arrêté du maire [*attributions*] affecte à perpétuité, dans le cimetière où se trouvent les concessions reprises, un
-ossuaire convenablement aménagé où les restes des personnes qui étaient inhumées dans les concessions reprises sont aussitôt
-réinhumés.
-
-Les noms de ces personnes, même si aucun reste n'a été retrouvé, sont gravés sur un dispositif établi en matériaux durables
-au-dessus de cet ossuaire.
-
-Lorsque le cimetière n'offre pas d'emplacement suffisant pour la construction de l'ossuaire spécial, les restes peuvent être
-transférés après autorisation par décret en Conseil d'Etat [*conditions de forme*] dans l'ossuaire spécial d'un autre
-cimetière appartenant à la commune.
-
-Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une communauté urbaine, le transfert peut avoir
-lieu dans les mêmes conditions sur le territoire d'une autre commune appartenant au même groupement de communes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1924-04-25 ART. 8 (PARTIE) REMPLACE ET COMPLETE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
-  - CODE DES COMMUNES. - art. R394-6 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R394-6 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-6 (V)
-
-
-###### Article R361-32
-
-Dans chaque département, l'inventaire des sépultures dont la conservation présente un intérêt d'art ou d'histoire locale est
-établi par une commission qui comprend : [*composition*]        -un délégué du préfet, président ;
-
-- l'inspecteur d'académie ;
-
-- l'architecte des bâtiments de France ;
-
-- le directeur des services d'archives du département ;
-
-- un représentant, désigné par le préfet, des sociétés d'archéologie ou d'histoire du département.
-
-L'inventaire est révisé tous les dix ans [*fréquence*].
-
-Il est, ainsi que ses suppléments, publié au recueil des actes administratifs du département et porté par extrait à la
-connaissance des conseils municipaux des communes intéressées [*publicité*].
-
-La reprise d'une concession figurant sur l'inventaire ne peut être prononcée qu'après avis motivé de la commission prévue au
-premier alinéa [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1924-04-25 ART. 10
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 4 JORF 18 janvier 1987
-
-
-###### Article R361-33
-
-Les articles R. 361-21 à R. 361-32 [*procès-verbal constatant l'état d'abandon d'une concession et reprise de concession*] ne
-dérogent pas aux dispositions qui régissent les sépultures militaires.
-
-Lorsqu'une personne  dont l'acte de décès porte la mention "Mort pour la France" régulièrement inscrite a été inhumée dans
-une concession perpétuelle ou centenaire, celle-ci ne peut faire l'objet d'une reprise avant l'expiration d'un délai de
-cinquante ans à compter de la date de l'inhumation. Cette disposition ne s'applique pas dans le cas où vient à expirer au
-cours des cinquante ans une concession centenaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1924-04-25 ART. 11
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code des communes R361-21 à R361-32
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-22 (V)
-
-
-##### Chambres funéraires .<a id=813></a>
-
-###### Article R361-35
-
-Il peut être établi des chambres funéraires [*définition*], destinées à recevoir, avant la sépulture, le corps des personnes
-dont le décès n'a pas été causé par une maladie contagieuse.
-
-Les chambres funéraires sont créées, sur la demande du conseil municipal, par arrêté du préfet qui statue après enquête de
-commodo et incommodo et avis de la commission départementale d'hygiène [*conditions de forme*].
-
-Lorsqu'une chambre funéraire présente des inconvénients graves, le préfet [**]attributions[**] peut en ordonner la
-suppression après avis du conseil municipal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 du 18 mai 1976 - art. 5 ()
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°94-1118 du 20 décembre 1994 - art. 1 (Ab)
-  - Décret n°95-653 du 9 mai 1995 - art. 29 (Ab)
-  - Décret n°99-662 du 28 juillet 1999 - art. 8 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-74 (V)
-
-
-###### Article R361-37
-
-L'admission intervient dans un délai maximum de dix-huit heures à compter du décès.
-
-Elle a lieu sur la demande écrite [*formalités - qualité pour agir*] :
-
-- soit de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-- soit de la personne chez qui le décès a eu lieu, à condition qu'elle atteste par écrit qu'il lui a été impossible de
-joindre ou de retrouver l'une des personnes ayant qualité pour pourvoir aux funérailles ;
-
-- soit du directeur de l'établissement, dans le cas de décès dans un établissement d'hospitalisation public ou privé, sous la
-condition prévue au paragraphe précédent lorsque la chambre funéraire n'est pas la chambre mortuaire de l'établissement.
-
-La demande d'admission en chambre funéraire énonce les nom, prénoms, âge et domicile du défunt.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 2, 3 et 5
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°97-1039 du 14 novembre 1997 - art. 4 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-76 (V)
-
-
-###### Article R361-38
-
-Lorsque le décès a eu lieu sur la voie publique ou dans un lieu ouvert au public, l'admission du corps en chambre funéraire
-est autorisée [*compétence*] par les autorités de police ou de gendarmerie [*autorisation obligatoire*].
-
-Un médecin est commis pour s'assurer auparavant de la réalité et de la cause du décès. Dans ce cas, le certificat médical
-[*constatant que le défunt n'était pas atteint de l'une des maladies contagieuses dont la liste est fixée par arrêté*] prévu
-à l'article R. 361-36 n'est pas exigé.
-
-Dans les cas prévus à l'article 81 du code civil et à l'article 74 du code de procédure pénale, l'admission d'un corps en
-chambre funéraire est autorisée par le procureur de la République.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 5-1 AL. 4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-4 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R363-6 (M)
-  - Code civil - art. 81 (V)
-  - CODE DE PROCEDURE PENALE - art. 74 (M)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-77 (V)
-
-
-###### Article R361-40
-
-Dans le cas d'admission dans une chambre funéraire du corps d'une personne décédée dans un établissement d'hospitalisation
-public ou privé, les frais résultant du transport sont à la charge de l'établissement lorsque ce transport a été effectué à
-la demande du directeur de cet établissement.
-
-Le corps peut faire l'objet d'un nouveau transport, soit à une autre chambre funéraire, soit à la résidence du défunt ou d'un
-membre de sa famille, dans les délais et conditions prévus à la présente section et aux sections II, III et IV du chapitre
-III [*transports avant et après la mise en bière, dépôts temporaires*], à la demande de toute personne qui a qualité pour
-pourvoir aux funérailles [*qualité pour agir*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 du 18 mai 1976 - art. 6 (V)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°97-1039 du 14 novembre 1997 - art. 5 (Ab)
-
-_Cite_:
-
-  - Code des communes R363-4 à R363-36
-
-
-##### Crémations .<a id=814></a>
-
-###### Article R361-42
-
-La crémation [*incinération*] est autorisée par le maire de la commune.
-
-Cette autorisation est accordée sur les justifications suivantes :
-
-1° L'expression écrite des dernières volontés du défunt ou, à défaut, la demande de toute personne qui a qualité pour
-pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et affirmant que celui-ci ne pose pas de
-problème médico-légal.
-
-Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu qu'après l'autorisation du parquet
-[*conditions de forme*] qui peut subordonner celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
-la liste des experts et aux frais de la famille.
-
-Lorsque le décès a eu lieu à l'étranger, la crémation est autorisée par le maire de la commune où elle est pratiquée
-[*compétence*]. L'autorisation de transport de corps prévue par un arrangement international tient lieu, dans ce cas, de
-certificat du médecin.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 22-1 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°95-653 du 9 mai 1995 - art. 9-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-34 (V)
-
-
-###### Article R361-43
-
-La crémation [*incinération*] a lieu :
-
-- lorsque le décès s'est produit en France, vingt-quatre heures au moins et six jours au plus après le décès ;
-
-- lorsque le décès a eu lieu à l'étranger ou dans un territoire d'outre-mer, six jours au plus après l'entrée du corps en
-France.
-
-Les dimanches et jours fériés ne sont pas compris dans le calcul de ces délais.
-
-Des dérogations aux délais prévus au premier alinéa peuvent être accordées, en raison de circonstances particulières, par le
-préfet du département du lieu de la crémation [*compétence*], lequel prescrit éventuellement toutes dispositions nécessaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 22-2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-10 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-35 (V)
-
-
-##### Dispositions diverses .<a id=815></a>
-
-###### Article R361-46
-
-Indépendamment des peines prévues en cas de récidive à l'article L. 361-21, toute contravention [*infraction*] aux
-dispositions des articles R. 361-10 à R. 361-17, des articles R. 361-35 à R. 361-45, des articles R. 363-1 à R. 363-35, des
-articles R. 364-1 à R. 364-7 et des articles R. 364-14 à R. 364-17 est punie des peines prévues à l'article 199 du code pénal
-[*amendes*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L361-21 (M)
-  - Code des communes R364-1 à R364-7 et R364-14 à R364-17
-  - Code pénal 199 et 200
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2223-66 (V)
-
-
-#### Pompes funèbres<a id=816></a>
-
-##### Service des pompes funèbres<a id=817></a>
-
-###### Article R*362-1
-
-Les conditions de l'approbation, prévue à l'article L. 362-1, des traités qui portent concession du service des pompes
-funèbres sont fixées par l'article R. 324-1.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes R391-1 :
-
-_Anciens textes_:
-
-  - Code de l'administration communale 463 AL. 2 (PARTIE) REMPLACE
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L362-1 (M)
-  - Code des communes R324-1
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-###### Article R*362-2
-
-La concession du service extérieur des pompes funèbres par les communes ou syndicats de communes dont la population est
-comprise entre 4.000 et 20.000 habitants [*nombre*] peut être soumise aux dispositions du cahier des charges type annexé au
-décret du 19 avril 1952.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes R391-1 :
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Décret  1952-04-19 ANNEXE (CAHIER DES CHARGES TYPE)
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-###### Article R*362-3
-
-La concession du service extérieur des pompes funèbres par les communes de plus de 20.000 habitants [*nombre*] peut être
-soumise aux dispositions du cahier des charges types annexé au décret n° 47-1555 du 13 août 1947 lorsque le matériel neuf
-appartient au concessionnaire et à celles du cahier des charges type annexé au décret du 19 avril 1952 lorsque la commune est
-propriétaire du matériel.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin (Alsace-Lorraine)*
-  - SPEC_APPLI: Code des communes R391-1 :
-
-_Cite_:
-
-  - Décret n°1952-04-19 ANNEXE (CAHIER DES CHARGES TYPE)
-  - Décret n°47-1555 1947-08-13 ANNEXE (CAHIER DES CHARGES TYPE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 14 JORF 18 janvier 1987
-
-
-##### Réglementation de l'activité des entreprises privées participant au service extérieur des pompes funèbres<a id=818></a>
-
-###### Article R*362-4
-
-Indépendamment des peines prévues en cas de récidive à l'article L. 362-12, toute infraction aux dispositions des articles L.
-362-8, L. 362-9 et L. 362-10 est punie [*sanction*] d'une amende de 2500 à 5000 F [*taux résultant du décret 85-956 du 11
-septembre 1985*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Modifié par_:
-
-  - Décret n°85-956 1985-09-11 art. 2, art. 12 JORF 12 septembre 1985   en vigueur le 1er octobre 1985
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. L362-12 (M)
-  - Code des communes L362-8 à L362-10
-
-
-#### Soins de conservation et transport de corps<a id=819></a>
-
-##### Soins de conservation .<a id=820></a>
-
-###### Article R363-1
-
-Il ne peut être procédé à une opération tendant à la conservation du corps d'une personne décédée sans une autorisation
-délivrée par le maire de la commune du lieu de décès.
-
-Pour obtenir cette autorisation, il y a lieu de produire :
-
-1° L'expression écrite des dernières volontés de la personne décédée ou une demande de toute personne qui a qualité pour
-pourvoir aux funérailles et justifie de son état civil et de son domicile ;
-
-2° Une déclaration indiquant le mode opératoire, le produit que l'on se propose d'employer, le lieu et l'heure de l'opération
-ainsi que le nom et l'adresse de la personne ou de l'entreprise qui procédera à celle-ci ;
-
-3° Le certificat du médecin chargé par l'officier d'état civil de s'assurer du décès et attestant que celui-ci ne pose pas de
-problème médico-légal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 1 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°94-1118 du 20 décembre 1994 - art. 3 (Ab)
-  - CODE DES COMMUNES. - art. R361-36 (Ab)
-  - CODE DES COMMUNES. - art. R361-37 (Ab)
-  - CODE DES COMMUNES. - art. R363-3 (Ab)
-  - CODE DES COMMUNES. - art. R394-8 (Ab)
-  - Code des pensions militaires d'invalidité et de... - art. A22 (Ab)
-
-
-##### Transport de corps avant mise en bière<a id=821></a>
-
-##### Transport du corps à résidence après décès dans un établissement d'hospitalisation .<a id=822></a>
-
-###### Article R363-4
-
-Le transport, sans mise en bière, du corps d'une personne décédée dans un établissement d'hospitalisation, public ou privé,
-de cet établissement à la résidence du défunt ou d'un membre de sa famille, est autorisé par le maire de la commune où est
-situé l'établissement [*par le préfet de police en ce qui concerne la ville de Paris - compétence*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R361-11 (Ab)
-  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-
-###### Article R363-5
-
-L'autorisation est subordonnée :
-
-1° A la demande de toute personne qui a qualité pour pourvoir aux funérailles et justifie de son état civil et de son
-domicile ;
-
-2° A la reconnaissance préalable du corps par cette personne ;
-
-3° A l'accord écrit du directeur de l'établissement d'hospitalisation ;
-
-4° A l'accord écrit du médecin chef du service hospitalier ou de son représentant dans un établissement public, ou du médecin
-traitant dans un établissement privé ;
-
-5° A l'accomplissement préalable des formalités prescrites aux articles 78, 79 et 80 du code civil relatives aux déclarations
-de décès [*et à l'établissement d'un acte de décès par l'officier de l'état civil de la commune où le décès a eu lieu*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4-1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
-  - CODE DES COMMUNES. - art. R363-4 (Ab)
-  - CODE DES COMMUNES. - art. R363-6 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-8 (V)
-
-_Cite_:
-
-  - Code civil 78 à 80
-
-
-###### Article R363-6
-
-Le refus du médecin mentionné à l'article précédent est motivé [*conditions de forme*].
-
-Le médecin ne peut s'opposer au transport que pour les motifs suivants : [*définition*]        1° Le décès soulève un
-problème médico-légal ;
-
-2° Le défunt était atteint, au moment du décès, de l'une des maladies contagieuses dont la liste est fixée par arrêté du
-ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France ;
-
-3° L'état du corps ne permet pas un tel transport.
-
-Lorsque le médecin s'oppose au transport du corps sans mise en bière, il en avertit sans délai par écrit le directeur de
-l'établissement et la famille.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4-2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°97-1039 du 14 novembre 1997 - art. 6 (Ab)
-  - CODE DES COMMUNES. - art. R361-16 (Ab)
-  - CODE DES COMMUNES. - art. R361-36 (M)
-  - CODE DES COMMUNES. - art. R361-37 (Ab)
-  - CODE DES COMMUNES. - art. R361-38 (Ab)
-  - CODE DES COMMUNES. - art. R363-10 (Ab)
-  - CODE DES COMMUNES. - art. R363-11 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R363-5 (M)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-9 (V)
-
-
-###### Article R363-7
-
-Lorsque la commune du lieu du décès n'est pas celle où le corps est transporté, avis de l'autorisation de transport
-[*formalités*] est adressé sans délai au maire de cette dernière commune [*au préfet de police en ce qui concerne la ville de
-Paris*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4-3 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-10 (V)
-
-
-###### Article R363-8
-
-Lorsque le corps n'a pas subi les soins de conservation prévus à la section I, le transport est effectué et terminé dans un
-délai maximum de dix-huit heures à compter du décès et la distance à parcourir ne doit pas être supérieure à 200 km.
-
-Lorsque le corps a subi de tels soins, le transport est effectué et terminé dans un délai de trente-six heures à compter du
-décès. Le procès-verbal [*de l'opération de conservation du corps*] prévu à l'article R. 363-3 figure au dossier constitué
-pour le transport de corps.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4-4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code des communes R363-1 à R363-3
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-11 (V)
-
-
-###### Article R363-9
-
-Dans le cas où l'autorisation n'est pas accordée [*refus*], le corps ne peut être transporté qu'après mise en bière et dans
-les conditions fixées aux articles R. 363-16 à R. 363-34.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 4-5 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code des communes R363-16 à R363-34
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-12 (V)
-
-
-##### Transport de corps à un établissement d'hospitalisation, d'enseignement ou de recherche .<a id=823></a>
-
-###### Article R363-10
-
-Un établissement d'hospitalisation, d'enseignement ou de recherche ne peut accepter de don de corps que si l'intéressé en a
-fait la déclaration écrite en entier, datée et signée de sa main [*conditions de forme*].
-
-Cette déclaration peut contenir notamment l'indication de l'établissement auquel le corps est remis.
-
-Une copie de la déclaration est adressée à l'établissement auquel le corps est légué ; cet établissement délivre à
-l'intéressé une carte de donateur que celui-ci s'engage à porter en permanence.
-
-L'exemplaire de la déclaration qui était détenu par le défunt est remise à l'officier d'état civil lors de la déclaration du
-décès.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 7 AL. 1 à 4
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-13 (V)
-
-
-###### Article R363-11
-
-Après le décès, le transport du corps est autorisé par le maire de la commune du lieu de décès [*par le préfet de police en
-ce qui concerne la ville de Paris - compétence*].
-
-L'autorisation est accordée sur production des certificats médicaux prévus à l'article R. 361-36 [*constatant que le défunt
-n'est pas atteint de l'une des maladies contagieuses mentionnées par arrêté*] et au 3° de l'article R. 363-1 [*certifiant le
-décès et attestant que celui-ci ne pose pas de problème médico-légal*].
-
-Le transport est effectué dans un délai maximum de dix-huit heures à compter du décès.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 7 AL. 6, 7 et 5 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R394-8 (Ab)
-
-_Cite_:
-
-  - Code des communes R361-36 et R363-1 3°
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-14 (V)
-
-
-##### Conditions du transport .<a id=824></a>
-
-###### Article R363-12
-
-Peuvent assurer les transports de corps prévus à la section III du chapitre Ier [*relative aux chambres funéraires*] et à la
-section II du présent chapitre [*avant la mise en bière*] :
-
-1° Les établissements d'hospitalisation publics ou privés ;
-
-2° Les entreprises agréées par le préfet du département, siège de l'entreprise [*compétence*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 8 AL. 1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°94-1027 du 23 novembre 1994 - art. 7 (V)
-  - CODE DES COMMUNES. - art. R363-4 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
-_Cite_:
-
-  - Code des communes R361-35 à R361-40
-
-
-###### Article R363-13
-
-Les transports sont effectués au moyen de voitures spécialement aménagées, exclusivement réservées à cet usage et qui ont
-fait l'objet d'un certificat d'agrément et d'un certificat de réception délivrés par le préfet [*par le préfet de police en
-ce qui concerne la ville de Paris*], certificats qui sont présentés à toute réquisition.
-
-Le visage du défunt reste découvert et les mains libres.
-
-Les voitures sont désinfectées après chaque transport [*formalités*] .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 8 AL. 2 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - TXT_ASSOCIE: CODE DES COMMUNES. - art. R363-15 (Ab)
-
-
-##### Mise en bière et transport après mise en bière; fermeture du cercueil<a id=825></a>
-
-##### Mise en bière et fermeture du cercueil .<a id=826></a>
-
-###### Article R363-16
-
-Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne décédée est mis en bière.
-
-Si la personne décédée était porteuse d'une prothèse renfermant des radio-éléments artificiels, un médecin fait procéder à la
-récupération de l'appareil avant la mise en bière.
-
-La housse imperméable en matière plastique souple, éventuellement utilisée pour envelopper le corps avant sa mise en bière,
-comporte des parties autodestructibles, sauf en cas de crémation ; elle est d'un modèle agréé par le ministre chargé de la
-santé, après avis du conseil supérieur d'hygiène publique de France [*conditions de forme*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 9
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - Décret n°94-941 du 24 octobre 1994 - art. 11 (Ab)
-  - CODE DES COMMUNES. - art. R361-42 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-15 (V)
-
-
-##### Autorisation de transport de corps après mise en bière, fermeture du cercueil et autorisation du transport de cendres<a id=827></a>
-
-###### Article R363-23
-
-Lorsque le corps est transporté en dehors du territoire métropolitain, l'autorisation est donnée :[*compétence*]        - par
-le sous-préfet de l'arrondissement où a eu lieu la fermeture du cercueil et, le cas échéant, par le sous-préfet de
-l'arrondissement où le corps a été provisoirement déposé ou inhumé ;
-
-- par le préfet dans l'arrondissement chef-lieu [*par le préfet de police en ce qui concerne la ville de Paris*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 13 (PARTIE)
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-25 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-22 (V)
-
-
-##### Conditions de transport .<a id=828></a>
-
-###### Article R363-26
-
-Sauf dans les cas [*qui exigent un cercueil hermétique d'un modèle agréé*] prévus à l'article suivant, le corps est placé
-soit dans un cercueil en bois dur de 26 mm d'épaisseur avec garniture étanche, soit dans un cercueil fabriqué à l'aide d'un
-matériau autorisé à cet effet par le ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de
-France [*conditions de forme*].
-
-Toutefois, un cercueil en bois léger d'une épaisseur minimale de 18 mm avec garniture étanche est autorisé si l'inhumation a
-lieu dans une commune située dans un rayon [*distance*] maximum de 200 km du lieu de fermeture du cercueil.
-
-Les restes provenant d'un corps inhumé depuis plus de cinq ans [*délai*] et réduit à l'état d'ossements sont placés dans une
-boîte à ossements.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 16
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 21 mars 1991
-  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 21 mars 1991 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 4 juin 1996
-  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 4 juin 1996 - art. 5 (V)
-
-_Cité par_:
-
-  - Arrêté du 21 mars 1991 - art. 2 (V)
-  - Arrêté du 4 juin 1996 - art. 2 (V)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R363-27 (M)
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-25 (V)
-
-
-###### Article R363-27
-
-A moins qu'il n'ait subi des soins de conservation conformément aux dispositions de la section I, le corps est placé dans un
-cercueil hermétique satisfaisant aux conditions fixées à l'article R. 363-29 dans les cas suivants :
-
-1° En cas de transport du corps hors du territoire de la commune où a eu lieu la fermeture du cercueil et à une distance ne
-dépassant pas 600 km si le délai compris entre le moment de la fermeture du cercueil et celui de l'exhumation ou de la
-réinhumation doit dépasser quarante-huit heures ;
-
-2° En cas de transport du corps en dehors du territoire de la commune où a eu lieu la fermeture du cercueil si le trajet à
-parcourir, quels que soient la durée et le mode de transport, est supérieur à 600 km ;
-
-3° En cas de dépôt du corps pendant une durée excédant quarante-huit heures soit à la résidence du défunt ou à celle d'un
-membre de sa famille, soit dans un dépositoire ou un caveau provisoire.
-
-En cas de transport à résidence sans mise en bière du corps d'une personne décédée hors de sa résidence, le délai de
-quarante-huit heures est compté à l'arrivée du corps à sa destination ;
-
-4° Dans tous les cas exceptionnels où, par décision préfectorale, l'emploi d'un cercueil d'un tel modèle est reconnu
-nécessaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 17
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-26 (Ab)
-
-_Cite_:
-
-  - CODE DES COMMUNES. - art. R363-29 (Ab)
-  - Code des communes R363-1 à R363-3
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-26 (V)
-
-
-###### Article R363-28
-
-Même dans les cas où il subit des soins de conservation conformément aux dispositions de la section I, le corps est placé
-dans un cercueil hermétique répondant aux conditions prévues à l'article suivant :
-
-1° Lorsqu'il y a lieu de transporter hors du territoire de la commune où a eu lieu la fermeture du cercueil ou de garder en
-dépôt soit à résidence, soit dans un édifice cultuel, soit dans un dépositoire ou dans un caveau provisoire le corps d'une
-personne qui était atteinte au moment du décès de l'une des maladies contagieuses mentionnées dans l'arrêté prévu à l'article
-R. 363-6 ;
-
-2° Lorsque la durée du dépôt dans un caveau provisoire doit excéder huit jours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 17-1
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-27 (Ab)
-
-_Cite_:
-
-  - Code des communes R363-6 et R363-29
-
-_Nouveaux textes_:
-
-  - Code général des collectivités territoriales - art. R2213-27 (V)
-
-
-###### Article R363-29
-
-Les cercueils hermétiques qui sont destinés au transport des corps dans les cas prévus aux deux articles précédents sont d'un
-modèle agréé par le ministre chargé de la santé, après avis du conseil supérieur d'hygiène publique de France     . 
-
-Ces cercueils répondent aux conditions suivantes :
-
-- ne céder aucun liquide au milieu extérieur ;
-
-- contenir une matière absorbante ;
-
-- être munis d'un dispositif épurateur de gaz, d'un modèle agréé pour une période de cinq ans renouvelable par le ministre
-chargé de la santé et, pour les transports par voie aérienne, également par le secrétaire général à l'aviation civile. 
-
-Lorsque le défunt était atteint, au moment du décès, d'une maladie contagieuse, le corps est enveloppé dans un linceul imbibé
-d'une solution antiseptique. 
-
-Pour les transports de corps à destination de l'un des pays qui adhèrent à un arrangement international, les cercueils sont
-conformes aux dispositions de cet arrangement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 18
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R363-24 (Ab)
-  - CODE DES COMMUNES. - art. R363-27 (M)
-
-_Cite_:
-
-  - Code des communes R363-27 et R363-28
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-30
-
-En cas de transport en vue de la crémation, le corps est placé dans un cercueil en bois dur de 26 mm d'épaisseur.
-
-Les parois intérieures de ce cercueil sont garnies de toile caoutchoutée ou de carton bitumé, à moins que le corps ne soit
-enfermé dans une housse en matière plastique agréée spécialement pour la crémation [*incinération*] par le ministre chargé de
-la santé, après avis du conseil supérieur d'hygiène publique de France [*conditions de forme*].
-
-Les garnitures et accessoires posés à l'intérieur ou à l'extérieur du cercueil sont composés exclusivement de matériaux
-combustibles ou sublimables.
-
-Toutefois, si le crématoire est situé dans un rayon [*distance*] de 200 km du lieu de fermeture du cercueil, un cercueil en
-bois léger d'une épaisseur minimale de 18 mm, dont les parois intérieures, les garnitures, les accessoires ou la housse
-répondent aux caractéristiques définies ci-dessus, est autorisé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 a
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-31
-
-Dans le cas prévu au premier alinéa de l'article précédent [*transport en vue de la crémation*], le corps est placé, à moins
-qu'il n'ait subi les soins de conservation prévus à la section I, dans un cercueil hermétique répondant aux conditions de
-l'article R. 363-29 :
-
-1° Lorsque le délai entre le moment de la fermeture du cercueil ou celui de l'exhumation et le moment de la crémation
-[*incinération*] est supérieur à quarante-huit heures ;
-
-2° Ou lorsque le trajet à parcourir est supérieur à 600 km [*distance*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 b
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code des communes R363-29 et R363-30 AL. 1
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-32
-
-Dans le cas prévu au premier alinéa de l'article R. 363-30 [*transport du corps en vue de la crémation*] et lorsque la
-personne décédée était atteinte, au moment du décès, de l'une des maladies contagieuses mentionnées dans l'arrêté prévu à
-l'article R. 363-6, le corps est placé dans un cercueil hermétique.
-
-Toutefois, lorsque le crématoire n'est pas équipé pour permettre la combustion d'un tel cercueil, le corps est placé au
-préalable dans un cercueil en bois léger conforme aux prescriptions du dernier alinéa de l'article R. 363-30 et déposé dans
-un cercueil hermétique.
-
-Dès l'ouverture de ce dernier, une pulvérisation de formol est effectuée sur le cercueil de crémation avant toute
-manipulation [*mesures d'hygiène*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 19 AL. 1 c et AL. 2
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Cite_:
-
-  - Code des communes R363-6 et R363-30 AL. 1 et 4
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-###### Article R363-33
-
-Dans les cercueils destinés à la crémation, [*incinération*] il ne peut être fait usage d'un mélange désinfectant comportant
-de la poudre de tan ou du charbon pulvérisé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-435 1976-05-18 ART. 19 AL. 3
-
-_Codifié par_:
-
-  - Décret n°77-241 1977-03-07
-
-_Créé par_:
-
-  - Décret n°77-241 1977-03-07 JORF et JONC 18 Mars 1977
-
-_Abrogé par_:
-
-  - Décret n°87-28 1987-01-14 art. 32 JORF 18 janvier 1987
-
-
-## LIVRE 16 : Administration et services communaux<a id=829></a>
-
-### TITRE 2 : Protection contre l'incendie<a id=830></a>
-
-#### CHAPITRE 1 : Dispositions générales.<a id=831></a>
+#### CHAPITRE 1 : Dispositions générales.<a id=814></a>
 
 ###### Article R*351-2
 
@@ -84274,9 +84077,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=832></a>
+#### CHAPITRE 2 : Sapeurs-pompiers communaux<a id=815></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=833></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=816></a>
 
 ###### Article R352-1
 
@@ -84465,9 +84268,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=834></a>
+#### CHAPITRE 3 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=817></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=835></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=818></a>
 
 ###### Article R352-10
 
@@ -84514,9 +84317,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=836></a>
+#### CHAPITRE 4 : Sapeurs-pompiers communaux<a id=819></a>
 
-##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=837></a>
+##### SECTION 1 : Mission et constitution des corps de sapeurs-pompiers.<a id=820></a>
 
 ###### Article R352-12
 
@@ -84543,9 +84346,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=838></a>
+#### CHAPITRE 7 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=821></a>
 
-##### SECTION 1 : Règlement de service - commandement.<a id=839></a>
+##### SECTION 1 : Règlement de service - commandement.<a id=822></a>
 
 ###### Article R352-22
 
@@ -84572,9 +84375,9 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R354-6 (Ab)
 
 
-#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=840></a>
+#### CHAPITRE 8 : Sapeurs-pompiers communaux<a id=823></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=841></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=824></a>
 
 ###### Article R352-24
 
@@ -84606,9 +84409,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=842></a>
+#### CHAPITRE 9 : Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*.<a id=825></a>
 
-##### SECTION 1 : Règlement de service - commandement.<a id=843></a>
+##### SECTION 1 : Règlement de service - commandement.<a id=826></a>
 
 ###### Article R352-25
 
@@ -84630,9 +84433,9 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=844></a>
+#### CHAPITRE 10 : Sapeurs-pompiers communaux<a id=827></a>
 
-##### SECTION 1 : Règlement de service - Commandement.<a id=845></a>
+##### SECTION 1 : Règlement de service - Commandement.<a id=828></a>
 
 ###### Article R352-26
 
@@ -84663,9 +84466,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L131-13 (M)
 
 
-#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=846></a>
+#### CHAPITRE 16 : Sapeurs-pompiers communaux<a id=829></a>
 
-##### SECTION 2 : Service de santé et de secours médical.<a id=847></a>
+##### SECTION 2 : Service de santé et de secours médical.<a id=830></a>
 
 ###### Article R352-65
 
@@ -84720,7 +84523,7 @@ _Abrogé par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=848></a>
+##### SECTION 3 : Dépenses relatives aux corps de sapeurs-pompiers.<a id=831></a>
 
 ###### Article R352-68
 
@@ -84824,9 +84627,9 @@ _Cite_:
   - Loi   1901-07-01
 
 
-#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=849></a>
+#### CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels<a id=832></a>
 
-##### SECTION 2 : Notation et avancement.<a id=850></a>
+##### SECTION 2 : Notation et avancement.<a id=833></a>
 
 ###### Article R354-16
 
@@ -84852,13 +84655,13 @@ _Cité par_:
   - Décret n°88-623 du 6 mai 1988 - art. 50 (Ab)
 
 
-## LIVRE 4 : Personnel communal<a id=851></a>
+## LIVRE 4 : Personnel communal<a id=834></a>
 
-### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=852></a>
+### TITRE 1 : Agents nommés dans des emplois permanents à temps complet<a id=835></a>
 
-#### CHAPITRE 1 : Dispositions générales et organiques<a id=853></a>
+#### CHAPITRE 1 : Dispositions générales et organiques<a id=836></a>
 
-##### SECTION 1 : Dispositions générales.<a id=854></a>
+##### SECTION 1 : Dispositions générales.<a id=837></a>
 
 ###### Article R*411-1
 
@@ -84939,7 +84742,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 avril 1977
 
 
-##### SECTION 4 : Commission paritaire communale.<a id=855></a>
+##### SECTION 4 : Commission paritaire communale.<a id=838></a>
 
 ###### Article R*411-38
 
@@ -84965,7 +84768,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1003 1985-09-24 art. 38
 
 
-##### SECTION 7 : Honorariat.<a id=856></a>
+##### SECTION 7 : Honorariat.<a id=839></a>
 
 ###### Article R411-55
 
@@ -84987,11 +84790,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°79-1096 1979-12-13 ART. 2 : *les dispositions de l'article R411-55 sont applicables aux agents communaux admis à la retraite avant la publication du présent décret*
 
 
-#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=857></a>
+#### CHAPITRE 2 : Recrutement, formation et promotion sociale<a id=840></a>
 
-##### SECTION 1 : Recrutement<a id=858></a>
+##### SECTION 1 : Recrutement<a id=841></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=859></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=842></a>
 
 ###### Article R*412-1
 
@@ -85184,7 +84987,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=860></a>
+##### SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois.<a id=843></a>
 
 ###### Article R412-9
 
@@ -85391,7 +85194,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-18 (M)
 
 
-##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=861></a>
+##### SOUS-SECTION 3 : Modalités de recrutement applicables à certains emplois.<a id=844></a>
 
 ###### Article R*412-32
 
@@ -85931,7 +85734,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=862></a>
+##### SOUS-SECTION 4 : Bourse de l'emploi.<a id=845></a>
 
 ###### Article R412-35
 
@@ -86248,7 +86051,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°87-811 du 5 octobre 1987 - art. 52 (M)
 
 
-##### SECTION 3 : Promotion sociale.<a id=863></a>
+##### SECTION 3 : Promotion sociale.<a id=846></a>
 
 ###### Article R412-94
 
@@ -86379,9 +86182,9 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 5 : Dispositions applicables à certains personnels<a id=864></a>
+##### SECTION 5 : Dispositions applicables à certains personnels<a id=847></a>
 
-##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=865></a>
+##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=848></a>
 
 ###### Article R*412-116
 
@@ -86513,7 +86316,7 @@ _Abrogé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
-##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=866></a>
+##### SOUS-SECTION 2 : Dispositions applicables aux personnels affectés au traitement de l'information.<a id=849></a>
 
 ###### Article R412-120
 
@@ -86623,7 +86426,7 @@ _Cite_:
   - Code des communes R412-120 et R412-121
 
 
-##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=867></a>
+##### SOUS-SECTION 3 : Dispositions applicables aux personnels des écoles d'art et musées.<a id=850></a>
 
 ###### Article R*412-123
 
@@ -86712,7 +86515,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=868></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=851></a>
 
 ###### Article R*412-127
 
@@ -86732,7 +86535,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 3 : Rémunération et effectifs.<a id=869></a>
+#### CHAPITRE 3 : Rémunération et effectifs.<a id=852></a>
 
 ###### Article R*413-1
 
@@ -86781,9 +86584,9 @@ _Anciens textes_:
   - Code de l'administration communale 510 AL. 2 (partie)
 
 
-#### CHAPITRE 4 : Notation, avancement et discipline<a id=870></a>
+#### CHAPITRE 4 : Notation, avancement et discipline<a id=853></a>
 
-##### SECTION 1 : Notation.<a id=871></a>
+##### SECTION 1 : Notation.<a id=854></a>
 
 ###### Article R414-1
 
@@ -86810,7 +86613,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L414-1 (Ab)
 
 
-##### SECTION 2 : Avancement.<a id=872></a>
+##### SECTION 2 : Avancement.<a id=855></a>
 
 ###### Article R*414-2
 
@@ -87341,9 +87144,9 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-12 (Ab)
 
 
-##### SECTION 3 : Discipline<a id=873></a>
+##### SECTION 3 : Discipline<a id=856></a>
 
-##### SOUS-SECTION 1 : Le conseil de discipline.<a id=874></a>
+##### SOUS-SECTION 1 : Le conseil de discipline.<a id=857></a>
 
 ###### Article R*414-15
 
@@ -87441,7 +87244,7 @@ _Modifié par_:
   - Decret 84-346 1984-05-10 art. 37 jorf 11 mai 1984
 
 
-##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=875></a>
+##### SOUS-SECTION 2 : Les sanctions disciplinaires.<a id=858></a>
 
 ###### Article R*414-22
 
@@ -87636,7 +87439,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°85-1141 1985-10-23 ART. 22 Décret 89-677-1989-09-18 art. 36
 
 
-##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=876></a>
+##### SOUS-SECTION 4 : Dispositions applicables aux personnels divers.<a id=859></a>
 
 ###### Article R*414-29
 
@@ -87650,11 +87453,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-#### CHAPITRE 5 : Positions<a id=877></a>
+#### CHAPITRE 5 : Positions<a id=860></a>
 
-##### SECTION 1 : Activités, congés<a id=878></a>
+##### SECTION 1 : Activités, congés<a id=861></a>
 
-##### SOUS-SECTION 1 : Les congés annuels.<a id=879></a>
+##### SOUS-SECTION 1 : Les congés annuels.<a id=862></a>
 
 ###### Article R*415-2
 
@@ -87821,7 +87624,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-8 (Ab)
 
 
-##### SOUS-SECTION 2 : Les congés de maladie.<a id=880></a>
+##### SOUS-SECTION 2 : Les congés de maladie.<a id=863></a>
 
 ###### Article R*415-6
 
@@ -87848,7 +87651,7 @@ _Cite_:
   - Code des communes R414-14
 
 
-#### CHAPITRE 6 : Cessation de fonctions.<a id=881></a>
+#### CHAPITRE 6 : Cessation de fonctions.<a id=864></a>
 
 ###### Article R*416-1
 
@@ -87880,7 +87683,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 1 : L'admission à la retraite.<a id=882></a>
+##### SECTION 1 : L'admission à la retraite.<a id=865></a>
 
 ###### Article R*416-2
 
@@ -87903,7 +87706,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L416-2 (V)
 
 
-##### SECTION 4 : Nomination dans une autre commune.<a id=883></a>
+##### SECTION 4 : Nomination dans une autre commune.<a id=866></a>
 
 ###### Article R*416-3
 
@@ -87925,9 +87728,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=884></a>
+#### CHAPITRE 7 : Sécurité sociale, pensions, hygiène et sécurité<a id=867></a>
 
-##### SECTION 1 : Sécurité sociale.<a id=885></a>
+##### SECTION 1 : Sécurité sociale.<a id=868></a>
 
 ###### Article R417-1
 
@@ -87952,7 +87755,7 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-##### SECTION 3 : Allocation temporaire d'invalidité.<a id=886></a>
+##### SECTION 3 : Allocation temporaire d'invalidité.<a id=869></a>
 
 ###### Article R417-5
 
@@ -88545,7 +88348,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R417-19 (Ab)
 
 
-##### SECTION 4 : Pensions.<a id=887></a>
+##### SECTION 4 : Pensions.<a id=870></a>
 
 ###### Article R417-22
 
@@ -88591,11 +88394,11 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-### TITRE 2 : Personnels divers<a id=888></a>
+### TITRE 2 : Personnels divers<a id=871></a>
 
-#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=889></a>
+#### CHAPITRE 1 : Agents nommés dans des emplois permanents à temps non complet<a id=872></a>
 
-##### SECTION 1 : Dispositions générales.<a id=890></a>
+##### SECTION 1 : Dispositions générales.<a id=873></a>
 
 ###### Article R*421-7
 
@@ -88821,7 +88624,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R411-13 (M)
 
 
-##### SECTION 2 : Représentation aux commissions paritaires.<a id=891></a>
+##### SECTION 2 : Représentation aux commissions paritaires.<a id=874></a>
 
 ###### Article R421-8
 
@@ -88983,7 +88786,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 3 : Garanties disciplinaires.<a id=892></a>
+##### SECTION 3 : Garanties disciplinaires.<a id=875></a>
 
 ###### Article R421-14
 
@@ -89274,7 +89077,7 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-##### SECTION 4 : Congés.<a id=893></a>
+##### SECTION 4 : Congés.<a id=876></a>
 
 ###### Article R421-24
 
@@ -89362,7 +89165,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L415-29 (Ab)
 
 
-##### SECTION 5 : Régime particulier de retraite.<a id=894></a>
+##### SECTION 5 : Régime particulier de retraite.<a id=877></a>
 
 ###### Article R421-27
 
@@ -89391,9 +89194,9 @@ _Abrogé par_:
   - Décret n°91-298 1991-03-20 art. 45 jorf 22 mars 1991
 
 
-#### CHAPITRE 2 : Agents non titulaires<a id=895></a>
+#### CHAPITRE 2 : Agents non titulaires<a id=878></a>
 
-##### SECTION 1 : Dispositions générales.<a id=896></a>
+##### SECTION 1 : Dispositions générales.<a id=879></a>
 
 ###### Article R*422-1
 
@@ -89414,7 +89217,7 @@ _Cite_:
   - Code des communes R411-1
 
 
-##### SECTION 2 : Formation professionnelle continue.<a id=897></a>
+##### SECTION 2 : Formation professionnelle continue.<a id=880></a>
 
 ###### Article R*422-3
 
@@ -89476,7 +89279,7 @@ _Cite_:
   - Code de la santé publique - art. L792 (M)
 
 
-##### SOUS-SECTION 1 : Actions de formation.<a id=898></a>
+##### SOUS-SECTION 1 : Actions de formation.<a id=881></a>
 
 ###### Article R*422-5
 
@@ -89593,7 +89396,7 @@ _Cite_:
   - Code des communes R422-5
 
 
-##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=899></a>
+##### SOUS-SECTION 2 : Participation des agents non titulaires aux cycles ou stages pour la préparation à l'accès aux emplois.<a id=882></a>
 
 ###### Article R*422-9
 
@@ -89736,7 +89539,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=900></a>
+##### SOUS-SECTION 3 : Actions de formation choisies par les agents non titulaires en vue de leur formation personnelle.<a id=883></a>
 
 ###### Article R*422-15
 
@@ -90179,7 +89982,7 @@ _Cite_:
   - Code des communes R422-25
 
 
-##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=901></a>
+##### SOUS-SECTION 4 : Participation des agents non titulaires à temps plein aux stages de conversion ou de promotion professionnelle .<a id=884></a>
 
 ###### Article R*422-33
 
@@ -90291,7 +90094,7 @@ _Cite_:
   - Code du travail - art. L122-11 (Ab)
 
 
-##### SECTION 4 : Régime particulier de retraite.<a id=902></a>
+##### SECTION 4 : Régime particulier de retraite.<a id=885></a>
 
 ###### Article R422-41
 
@@ -90327,7 +90130,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=903></a>
+#### CHAPITRE 3 : Indemnités accordées sur les budgets communaux aux fonctionnaires de l'Etat.<a id=886></a>
 
 ###### Article R*423-1
 
@@ -90419,11 +90222,11 @@ _Cite_:
   - Code des communes
 
 
-### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=904></a>
+### TITRE 3 : Dispositions applicables en cas de fusion de communes ou de création de communauté urbaine<a id=887></a>
 
-#### CHAPITRE 2 : Création de communauté urbaine<a id=905></a>
+#### CHAPITRE 2 : Création de communauté urbaine<a id=888></a>
 
-##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=906></a>
+##### SECTION 1 : Mise à la disposition de la communauté urbaine de personnels communaux.<a id=889></a>
 
 ###### Article R*432-1
 
@@ -90516,7 +90319,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L432-7 (V)
 
 
-##### SECTION 2 : Transfert définitif des personnels.<a id=907></a>
+##### SECTION 2 : Transfert définitif des personnels.<a id=890></a>
 
 ###### Article R*432-4
 
@@ -90720,9 +90523,9 @@ _Cite_:
   - Code des communes R411-1 à R444-186
 
 
-### TITRE 4 : Dispositions particulières<a id=908></a>
+### TITRE 4 : Dispositions particulières<a id=891></a>
 
-#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=909></a>
+#### CHAPITRE 1 : Dispositions applicables aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=892></a>
 
 ###### Article R441-1
 
@@ -90752,9 +90555,9 @@ _Cite_:
   - Code des communes
 
 
-#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=910></a>
+#### CHAPITRE 2 : Dispositions applicables aux communes des départements d'Outre-mer<a id=893></a>
 
-##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=911></a>
+##### SECTION 1 : Dispositions applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion .<a id=894></a>
 
 ###### Article R442-1
 
@@ -90796,7 +90599,7 @@ _Cite_:
   - Code des communes R421-1 à R422-36
 
 
-##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=912></a>
+##### SECTION 2 : Dispositions applicables aux communes du département de Saint-Pierre-et-Miquelon.<a id=895></a>
 
 ###### Article R*442-2
 
@@ -90818,11 +90621,11 @@ _Cite_:
   - Code des communes R417-1 à R417-21
 
 
-#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=913></a>
+#### CHAPITRE 4 : Dispositions applicables à la ville de Paris<a id=896></a>
 
-##### SECTION 1 : Dispositions générales et organiques<a id=914></a>
+##### SECTION 1 : Dispositions générales et organiques<a id=897></a>
 
-##### SOUS-SECTION 1 : Dispositions générales.<a id=915></a>
+##### SOUS-SECTION 1 : Dispositions générales.<a id=898></a>
 
 ###### Article R*444-1
 
@@ -91330,7 +91133,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 2 : Recrutement.<a id=916></a>
+##### SECTION 2 : Recrutement.<a id=899></a>
 
 ###### Article R*444-28
 
@@ -91551,7 +91354,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 3 : Rémunération.<a id=917></a>
+##### SECTION 3 : Rémunération.<a id=900></a>
 
 ###### Article R*444-37
 
@@ -91673,9 +91476,9 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 4 : Notation et avancement<a id=918></a>
+##### SECTION 4 : Notation et avancement<a id=901></a>
 
-##### SOUS-SECTION 1 : Notation.<a id=919></a>
+##### SOUS-SECTION 1 : Notation.<a id=902></a>
 
 ###### Article R*444-42
 
@@ -91842,7 +91645,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 2 : Avancement.<a id=920></a>
+##### SOUS-SECTION 2 : Avancement.<a id=903></a>
 
 ###### Article R*444-49
 
@@ -92241,7 +92044,7 @@ _Cite_:
   - Code des communes R444-49, R444-50, R444-52, R444-53, R444-55 à R444-63
 
 
-##### SECTION 5 : Discipline.<a id=921></a>
+##### SECTION 5 : Discipline.<a id=904></a>
 
 ###### Article R*444-65
 
@@ -92949,7 +92752,7 @@ _Cite_:
   - Code des communes R444-20
 
 
-##### SECTION 6 : Positions.<a id=922></a>
+##### SECTION 6 : Positions.<a id=905></a>
 
 ###### Article R*444-88
 
@@ -92982,7 +92785,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 1 : Activité, congés.<a id=923></a>
+##### SOUS-SECTION 1 : Activité, congés.<a id=906></a>
 
 ###### Article R*444-89
 
@@ -93004,7 +92807,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 1 : Service à temps partiel.<a id=924></a>
+##### PARAGRAPHE 1 : Service à temps partiel.<a id=907></a>
 
 ###### Article R444-90
 
@@ -93079,7 +92882,7 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*444-90 (M)
 
 
-##### PARAGRAPHE 2 : Congés annuels.<a id=925></a>
+##### PARAGRAPHE 2 : Congés annuels.<a id=908></a>
 
 ###### Article R*444-102
 
@@ -93241,7 +93044,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=926></a>
+##### PARAGRAPHE 3 : Autorisations spéciales d'absence.<a id=909></a>
 
 ###### Article R*444-109
 
@@ -93284,7 +93087,7 @@ _Cite_:
   - Code des communes R144-127 5°
 
 
-##### PARAGRAPHE 4 : Congés de maladie.<a id=927></a>
+##### PARAGRAPHE 4 : Congés de maladie.<a id=910></a>
 
 ###### Article R*444-120
 
@@ -93310,7 +93113,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 5 : Congés de maternité.<a id=928></a>
+##### PARAGRAPHE 5 : Congés de maternité.<a id=911></a>
 
 ###### Article R*444-122
 
@@ -93333,7 +93136,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### PARAGRAPHE 6 : Dispositions diverses.<a id=929></a>
+##### PARAGRAPHE 6 : Dispositions diverses.<a id=912></a>
 
 ###### Article R*444-123
 
@@ -93374,7 +93177,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SOUS-SECTION 8 : Mutations.<a id=930></a>
+##### SOUS-SECTION 8 : Mutations.<a id=913></a>
 
 ###### Article R*444-169
 
@@ -93438,7 +93241,7 @@ _Créé par_:
   - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
 
 
-##### SECTION 7 : Cessation de fonctions.<a id=931></a>
+##### SECTION 7 : Cessation de fonctions.<a id=914></a>
 
 ###### Article R*444-172
 
@@ -93784,13 +93587,13 @@ _Codifié par_:
   - Décret n°77-373 1977-03-28
 
 
-## Personnel communal<a id=932></a>
+## Personnel communal<a id=915></a>
 
-### Agents nommés dans des emplois permanents à temps complet<a id=933></a>
+### Agents nommés dans des emplois permanents à temps complet<a id=916></a>
 
-#### Dispositions générales et organiques<a id=934></a>
+#### Dispositions générales et organiques<a id=917></a>
 
-##### La médaille d'honneur départementale et communal .<a id=935></a>
+##### La médaille d'honneur départementale et communal .<a id=918></a>
 
 ###### Article R411-41
 
@@ -94127,9 +93930,9 @@ _Abrogé par_:
   - Décret n°87-594 du 22 juillet 1987 - art. 1 () JORF 31 juillet 1987
 
 
-#### Recrutement, formation et promotion sociale<a id=936></a>
+#### Recrutement, formation et promotion sociale<a id=919></a>
 
-##### Formation professionnelle continue .<a id=937></a>
+##### Formation professionnelle continue .<a id=920></a>
 
 ###### Article R*412-99
 
@@ -94173,7 +93976,7 @@ _Cite_:
   - Code des communes R412-100 à R412-115
 
 
-##### Actions de formation .<a id=938></a>
+##### Actions de formation .<a id=921></a>
 
 ###### Article R*412-100
 
@@ -94211,7 +94014,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L412-11 (Ab)
 
 
-##### Coordination des actions de formation en faveur des personnels communaux .<a id=939></a>
+##### Coordination des actions de formation en faveur des personnels communaux .<a id=922></a>
 
 ###### Article R*412-114
 
@@ -94273,11 +94076,11 @@ _Cite_:
   - Code du travail - art. L910-1 (M)
 
 
-### Personnels divers<a id=940></a>
+### Personnels divers<a id=923></a>
 
-#### Agents non titulaires<a id=941></a>
+#### Agents non titulaires<a id=924></a>
 
-##### Dispositions générales .<a id=942></a>
+##### Dispositions générales .<a id=925></a>
 
 ###### Article R*422-2
 
@@ -94312,7 +94115,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L422-3 (M)
 
 
-##### Cessation de fonctions .<a id=943></a>
+##### Cessation de fonctions .<a id=926></a>
 
 ###### Article R*422-37
 
@@ -94443,7 +94246,7 @@ _Abrogé par_:
   - Décret n°88-145 1988-02-15 art. 50 jorf 16 février 1988
 
 
-##### Congé parental .<a id=944></a>
+##### Congé parental .<a id=927></a>
 
 ###### Article R422-42
 
@@ -94618,11 +94421,11 @@ _Cite_:
   - Code des communes R415-2 à R415-5
 
 
-### Dispositions particulières<a id=945></a>
+### Dispositions particulières<a id=928></a>
 
-#### Dispositions applicables à la ville de Paris<a id=946></a>
+#### Dispositions applicables à la ville de Paris<a id=929></a>
 
-##### Recrutement .<a id=947></a>
+##### Recrutement .<a id=930></a>
 
 ###### Article R*444-29
 
@@ -94658,11 +94461,11 @@ _Cite_:
   - Code du service national
 
 
-##### Positions<a id=948></a>
+##### Positions<a id=931></a>
 
-##### Activité, congés<a id=949></a>
+##### Activité, congés<a id=932></a>
 
-##### Congés de maladie .<a id=950></a>
+##### Congés de maladie .<a id=933></a>
 
 ###### Article R*444-110
 
