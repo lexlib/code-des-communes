@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 1987-09-09
+Version Consolidée au 1987-10-07
 ## Contenu: 
   - [Statuts types d'une caisse communale de secours et de retraite de sapeurs-pompiers (art. 1 à 17)](#1)
     - [Objet de la caisse. (art. 1 à 2)](#2)
@@ -543,7 +543,7 @@ Version Consolidée au 1987-09-09
           - [SECTION 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales (art. R236-10 à R236-47)](#540)
             - [SOUS-SECTION 1 : Dispositions générales. (art. R236-10)](#541)
             - [SOUS-SECTION 2 : Organisation de la caisse d'aide à l'équipement des collectivités locales. (art. R236-11 à R236-21)](#542)
-            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-22 à R236-25)](#543)
+            - [SOUS-SECTION 3 : Attributions de la caisse d'aide à l'équipement des collectivités locales. (art. R236-22 à R236-26 bis)](#543)
             - [SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales. (art. R*236-27 à R236-47)](#544)
           - [SECTION 4 : Garanties d'emprunts. (art. R*236-48 à R236-49)](#545)
         - [CHAPITRE 6 : Avances, emprunts et garanties d'emprunt (art. R236-26)](#546)
@@ -52583,6 +52583,32 @@ _Abrogé par_:
 _Cite_:
 
   - CODE DES COMMUNES. - art. R236-22 (Ab)
+
+
+###### Article R236-26 bis
+
+Pour l'exécution de sa mission, la Caisse d'aide à l'équipement des collectivités locales peut constituer avec d'autres
+organismes une société commerciale réalisant des opérations de crédit en faveur du développement local. Cette société
+recueille notamment les dépôts de trésorerie des collectivités locales et des établissements publics locaux conformément à la
+réglementation qui leur est applicable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-91 1977-01-27
+
+_Créé par_:
+
+  - Décret n°87-814 du 6 octobre 1987 - art. 1 ()
+
+_Cité par_:
+
+  - Décret n°92-163 du 20 février 1992 - art. 3 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2000-1187 du 5 décembre 2000 - art. 1 (V)
 
 
 ##### SOUS-SECTION 4 : Gestion des emprunts unifiés émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales.<a id=544></a>
