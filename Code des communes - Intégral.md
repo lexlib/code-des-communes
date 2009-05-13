@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -330,18 +330,19 @@ _Cite_:
 
 Lorsque la nature de leurs interventions et les circonstances le justifient, les agents de police municipale peuvent être
 autorisés nominativement par le représentant de l'Etat dans le département, sur demande motivée du maire, à porter une arme,
-sous réserve de l'existence d'une convention prévue par l'article L. 2212-6 du code général des collectivités territoriales.
+sous réserve de l'existence d'une convention prévue par l'article L. 2212-6 du code général des collectivités territoriales. 
 
-" Un décret en Conseil d'Etat précise, par type de mission, les circonstances et les conditions dans lesquelles les agents de
+Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs
+communes dans les conditions prévues au cinquième alinéa de l'article L. 2212-5 du code général des collectivités
+territoriales, cette demande est établie conjointement par l'ensemble des maires des communes où il est affecté. 
+
+Un décret en Conseil d'Etat précise, par type de mission, les circonstances et les conditions dans lesquelles les agents de
 police municipale peuvent porter une arme. Il détermine, en outre, les catégories et les types d'armes susceptibles d'être
-autorisés, leurs conditions d'acquisition et de conservation par la commune et les conditions de leur utilisation par les
-agents. Il précise les modalités de la formation que ces derniers reçoivent à cet effet. "
+autorisés, leurs conditions d'acquisition et de conservation par la commune ou par l'établissement public de coopération
+intercommunale et les conditions de leur utilisation par les agents. Il précise les modalités de la formation que ces
+derniers reçoivent à cet effet.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
 
 _Cité par_:
 
@@ -360,10 +361,6 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*412-123 (V)
   - Code de la défense. - art. R2335-3 (VD)
   - Code général des collectivités territoriales - art. L2212-10 (VT)
-
-_Modifié par_:
-
-  - Loi n°99-291 du 15 avril 1999 - art. 8 ()
 
 **Liens**:
 
@@ -386,30 +383,43 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004
   - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004 - art. 1 (V)
 
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 119 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L511-5 (VD)
+
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2212-6 (V)
+  - Code général des collectivités territoriales - art. L2212-5
+  - Code général des collectivités territoriales - art. L2212-6
 
 
 ###### Article L412-52
 
 La carte professionnelle, la tenue, la signalisation des véhicules de service et les types d'équipement dont sont dotés les
 agents de police municipale font l'objet d'une identification commune à tous les services de police municipale et de nature à
-n'entraîner aucune confusion avec ceux utilisés par la police nationale et la gendarmerie nationale. Leurs caractéristiques
-ainsi que les catégories et les normes techniques des équipements sont fixées par décret en Conseil d'Etat après avis de la
-commission consultative des polices municipales prévue à l'article L. 2212-7 du code général des collectivités territoriales.
+n'entraîner aucune confusion avec ceux utilisés par la police nationale et la gendarmerie nationale. Les caractéristiques de
+la carte professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont
+fixées par arrêté du ministre de l'intérieur après avis de la commission consultative des polices municipales prévue à
+l'article L. 2212-7 du code général des collectivités territoriales. 
 
-" Le port de la carte professionnelle et celui de la tenue sont obligatoires pendant le service. "
+Le port de la carte professionnelle et celui de la tenue sont obligatoires pendant le service.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cité par_:
 
-  - Décret n°77-372 1977-03-28
+  - Loi n°99-291 du 15 avril 1999 - art. 24 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°99-291 du 15 avril 1999 - art. 24 (V)
   - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004
   - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 1 (VT)
   - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 2 (VT)
@@ -433,15 +443,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 9 ()
+  - Loi n°2009-526 du 12 mai 2009 - art. 85
 
-_Cité par_:
+_Abrogé par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 24 (V)
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L511-4 (VD)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2212-7 (V)
+  - Code général des collectivités territoriales - art. L2212-7
 
 
 ###### Article L412-53
