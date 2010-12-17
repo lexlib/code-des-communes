@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2009-07-25
+Version Consolidée au 2010-12-18
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -1564,11 +1564,12 @@ _Créé par_:
 
 Les personnels soumis aux dispositions de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique territoriale et les personnels soumis aux dispositions du code du travail qui remplissent leurs fonctions
-dans les communes fusionnées sont pris en charge par la nouvelle commune à compter de l'acte prononçant la fusion et
-demeurent soumis aux dispositions de leur statut.
+dans les communes concernées par une fusion de communes ou la création d'une commune nouvelle sont pris en charge par la
+nouvelle commune à compter de l'acte prononçant la fusion ou la création et demeurent soumis aux dispositions de leur
+statut. 
 
 Jusqu'au règlement définitif de leur situation, ils sont maintenus dans leur situation administrative antérieure et
-continuent d'être rémunérés dans les mêmes conditions qu'ils l'étaient par leur commune d'origine.
+continuent d'être rémunérés dans les mêmes conditions qu'ils l'étaient par leur commune d'origine. 
 
 En tout état de cause, ils conservent, dans la nouvelle commune, leurs droits acquis et l'ensemble des avantages dont ils
 bénéficiaient et qui comportent notamment la garantie des mêmes possibilités d'avancement d'échelon et de grade ainsi que de
@@ -1576,28 +1577,25 @@ durée de carrière et les mêmes modalités de rémunération que dans leur com
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon*
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L442-1 (Ab)
-  - SPEC_APPLI: Code des communes L442-1, L442-2 :
-
 _Anciens textes_:
 
-  - Loi n°71-588 1971-07-16 art. 10 I
   - Loi n°71-588 du 16 juillet 1971 - art. 10 (Ab)
 
 _Codifié par_:
 
-  - Décret n°77-372 1977-03-28
+  - Décret n°77-372 du 28 mars 1977
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°84-53 1984-01-26 ART. 119 I JORF 27 JANVIER 1984
+  - Loi n°84-53 du 26 janvier 1984 (V)
 
 _Cité par_:
 
   - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1563 du 16 décembre 2010 - art. 24 (V)
 
 
 ###### Article L431-2
