@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-11-01
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -8012,27 +8012,23 @@ _Cite_:
 
 ###### Article R*444-11
 
-Pour application du présent statut, aucune distinction [*discrimination sexiste*] n'est faite entre les hommes et les femmes.
+Pour application du présent statut, aucune distinction n'est faite entre les hommes et les femmes. 
 
 Cependant, lorsque la nature des fonctions ou les conditions de leur exercice le justifient, il peut être prévu, pour
 certains corps dont la liste est établie par arrêté du ministre de l'intérieur, après avis du conseil administratif supérieur
-et des comités techniques paritaires de la commune de Paris, un recrutement exclusif d'hommes ou de femmes, ou, à titre
-exceptionnel, selon les modalités prévues dans le même arrêté, des recrutements et conditions d'accès distincts pour les
-hommes et les femmes.
+et des comités techniques de la commune de Paris, un recrutement exclusif d'hommes ou de femmes, ou, à titre exceptionnel,
+selon les modalités prévues dans le même arrêté, des recrutements et conditions d'accès distincts pour les hommes et les
+femmes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-1041 1976-11-16 ART. 10
-
 _Codifié par_:
 
-  - Décret n°77-373 1977-03-28
+  - Décret n°77-373 du 28 mars 1977
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
+  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 ###### Article R*444-12
