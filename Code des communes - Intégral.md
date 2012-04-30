@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-05-01
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -7,8 +7,8 @@ Version Consolidée au 2012-03-14
         - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-18 à L412-55)](#4)
           - [SECTION 1 : Recrutement (art. L412-18)](#5)
             - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois (art. L412-18)](#6)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-46 à L412-55)](#7)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-46 à L412-55)](#8)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-49 à L412-55)](#7)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-49 à L412-55)](#8)
         - [CHAPITRE 3 : Rémunération et effectifs. (art. L413-5 à L413-15)](#9)
         - [CHAPITRE 5 : Positions (art. L415-6)](#10)
           - [SECTION 1 : Activités, congés (art. L415-6)](#11)
@@ -158,104 +158,13 @@ _Cité par_:
 
 ##### SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale.<a id=8></a>
 
-###### Article L412-46
-
-Les gardes champêtres sont nommés par le maire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'administration communale 591 phr. 1
-
-_Créé par_:
-
-  - Décret n°77-372 1977-03-28 JORF ET JONC 5 AVRIL 1977
-
-_Codifié par_:
-
-  - Décret n°77-372 du 28 mars 1977
-
-_Cité par_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
-  - CODE DES COMMUNES. - art. L422-1 (M)
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L522-1 (VD)
-
-**Liens**:
-
-  - SPEC_APPLI: CODE DES COMMUNES. - art. L421-2 (M)
-  - SPEC_APPLI: Code des communes L421-2, L422-1 :
-
-_Cite_:
-
-  - Code de procédure pénale
-
-
-###### Article L412-48
-
-Les gardes champêtres sont agréés par le procureur de la République et assermentés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions applicables aux agents nommés dans des emplois permanents à temps non complet*
-  - SPEC_APPLI: *Dispositions non applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion*
-  - SPEC_APPLI: Code des communes L421-2 :
-
-_Codifié par_:
-
-  - Décret n°77-372 du 28 mars 1977
-
-_Modifié par_:
-
-  - Loi n°82-213 du 2 mars 1982 - art. 21 (V) JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L522-1 (VD)
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L441-1 (M)
-  - CODE DES COMMUNES. - art. L442-1 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'administration communale 591 phr. 4
-
-
 ###### Article L412-49
 
-Les fonctions d'agent de police municipale ne peuvent être exercées que par des fonctionnaires territoriaux recrutés à cet
-effet dans les conditions fixées par les décrets en Conseil d'Etat prévus à l'article 6 de la loi n° 84-53 du 26 janvier 1984
-portant dispositions statutaires relatives à la fonction publique territoriale. 
-
-Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le
-représentant de l'Etat dans le département et le procureur de la République, puis assermentés. Cet agrément et cette
-assermentation restent valables tant qu'ils continuent d'exercer des fonctions d'agents de police municipale. En cas de
-recrutement par une commune ou un établissement de coopération intercommunale situé sur le ressort d'un autre tribunal de
-grande instance, les procureurs de la République compétents au titre de l'ancien et du nouveau lieu d'exercice des fonctions
-sont avisés sans délai.
-
-L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du
-maire ou du président de l'établissement public de coopération intercommunale. Toutefois, en cas d'urgence, l'agrément peut
-être suspendu par le procureur de la République sans qu'il soit procédé à cette consultation. Le maire ou le président de
-l'établissement public de coopération intercommunale peut alors proposer un reclassement dans un autre cadre d'emplois dans
-les mêmes conditions que celles prévues à la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 précitée, à
-l'exception de celles mentionnées au second alinéa de l'article 81.
+Lorsque l'agrément d'un agent de police municipale est retiré ou suspendu dans les conditions prévues au troisième alinéa de
+l'article L. 511-2 du code de la sécurité intérieure, le maire ou le président de l'établissement public de coopération
+intercommunale peut proposer un reclassement dans un autre cadre d'emplois dans les mêmes conditions que celles prévues à la
+section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique territoriale, à l'exception de celles mentionnées au second alinéa de l'article 81.
 
 **Liens relatifs à cet article**
 
@@ -265,7 +174,9 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°84-53 du 26 janvier 1984 - art. 6
+  - Loi n°84-53 du 26 janvier 1984 (V)
+  - Loi n°84-53 du 26 janvier 1984 - art. 81 (V)
+  - Code de la sécurité intérieure - art. L511-2 (V)
 
 _Cité par_:
 
@@ -279,37 +190,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 94
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L511-2 (VD)
-
-
-###### Article L412-49-1
-
-L'agrément mentionné à l'article précédent peut aussi être accordé à des agents titulaires de la commune habituellement
-affectés à des emplois autres que ceux de la police municipale ou non titulaires, chargés d'assister temporairement les
-agents de la police municipale dans les communes touristiques et stations classées relevant de la section 2 du chapitre III
-du titre III du livre Ier du code du tourisme. Ces agents ne peuvent porter aucune arme.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-888 du 22 juillet 2009 - art. 26
-
-_Abrogé par_:
-
   - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L511-3 (VD)
-
-_Cite_:
-
-  - Code du tourisme.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 4
 
 
 ###### Article L412-50
@@ -340,213 +222,6 @@ _Créé par_:
 _Cite_:
 
   - Code des communes L132-6 et L132-9
-
-
-###### Article L412-51
-
-Lorsque la nature de leurs interventions et les circonstances le justifient, les agents de police municipale peuvent être
-autorisés nominativement par le représentant de l'Etat dans le département, sur demande motivée du maire, à porter une arme,
-sous réserve de l'existence d'une convention prévue par l'article L. 2212-6 du code général des collectivités territoriales. 
-
-Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs
-communes dans les conditions prévues au cinquième alinéa de l'article L. 2212-5 du code général des collectivités
-territoriales, cette demande est établie conjointement par l'ensemble des maires des communes où il est affecté. 
-
-Un décret en Conseil d'Etat précise, par type de mission, les circonstances et les conditions dans lesquelles les agents de
-police municipale peuvent porter une arme. Il détermine, en outre, les catégories et les types d'armes susceptibles d'être
-autorisés, leurs conditions d'acquisition et de conservation par la commune ou par l'établissement public de coopération
-intercommunale et les conditions de leur utilisation par les agents. Il précise les modalités de la formation que ces
-derniers reçoivent à cet effet.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°95-589 du 6 mai 1995 - art. 95-2 (VT)
-  - Loi n°99-291 du 15 avril 1999 - art. 23 (V)
-  - Décret n°2008-993 du 22 septembre 2008 (V)
-  - Arrêté du 10 octobre 2008 (V)
-  - Arrêté du 26 mai 2010 (V)
-  - Décret n°2010-544 du 26 mai 2010 (V)
-  - Arrêté du 20 août 2010 (V)
-  - Décret n°2011-1467 du 9 novembre 2011 - art. 3 (VD)
-  - Décret n°2013-550 du 26 juin 2013 (V)
-  - Décret n°2013-723 du 12 août 2013 (V)
-  - Arrêté du 30 août 2013 (V)
-  - Arrêté du 2 septembre 2013 (V)
-  - CODE DES COMMUNES. - art. R*412-123 (V)
-  - Code de la défense. - art. R2335-3 (VD)
-  - Code général des collectivités territoriales - art. L2212-10 (VT)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 1 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 10 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 11 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 12 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 13 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 2 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 2-1 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 3 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 4 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 5 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 5-1 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 6 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 7 (V)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 8 (VT)
-  - TXT_SOURCE: Décret n°2000-276 du 24 mars 2000 - art. 9 (VT)
-  - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004
-  - TXT_SOURCE: Décret n°2004-687 du 6 juillet 2004 - art. 1 (V)
-
-_Modifié par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 119 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L511-5 (VD)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2212-5
-  - Code général des collectivités territoriales - art. L2212-6
-
-
-###### Article L412-52
-
-La carte professionnelle, la tenue, la signalisation des véhicules de service et les types d'équipement dont sont dotés les
-agents de police municipale font l'objet d'une identification commune à tous les services de police municipale et de nature à
-n'entraîner aucune confusion avec ceux utilisés par la police nationale et la gendarmerie nationale. Les caractéristiques de
-la carte professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont
-fixées par arrêté du ministre de l'intérieur après avis de la commission consultative des polices municipales prévue à
-l'article L. 2212-7 du code général des collectivités territoriales. 
-
-Le port de la carte professionnelle et celui de la tenue sont obligatoires pendant le service.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°99-291 du 15 avril 1999 - art. 24 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 1 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 2 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 3 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 4 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 5 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 6 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. 7 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 1 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 10 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 11 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 12 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 2 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 3 (M)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 4 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 5 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 6 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 7 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 8 (VT)
-  - TXT_SOURCE: Décret n°2004-102 du 30 janvier 2004 - art. ANNEXE 9 (VT)
-
-_Modifié par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 85
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L511-4 (VD)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2212-7
-
-
-###### Article L412-53
-
-Un code de déontologie des agents de police municipale est établi par décret en Conseil d'Etat après avis de la commission
-consultative des polices municipales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 du 28 mars 1977
-
-_Modifié par_:
-
-  - Loi n°99-291 du 15 avril 1999 - art. 10 ()
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L515-1 (VD)
-
-
-###### Article L412-54
-
-Outre la formation initiale dont ils bénéficient en application des dispositions de la loi n° 84-53 du 26 janvier 1984
-précitée et de la loi n° 84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale et
-complétant la loi n° 84-53 du 26 janvier 1984 précitée, les fonctionnaires mentionnés à l'article L. 412-49 reçoivent une
-formation continue dispensée en cours de carrière et adaptée aux besoins des services, en vue de maintenir ou parfaire leur
-qualification professionnelle et leur adaptation aux fonctions qu'ils sont amenés à exercer.
-
-Cette formation est organisée et assurée par le Centre national de la fonction publique territoriale. Le centre peut à cet
-effet passer convention avec les administrations et établissements publics de l'Etat chargés de la formation des
-fonctionnaires de la police nationale et de la gendarmerie nationale. Il perçoit une redevance due pour prestations de
-services, versée par les communes bénéficiant des actions de formation et dont le montant est lié aux dépenses réellement
-engagées à ce titre.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 1977-03-28
-
-_Cite_:
-
-  - Loi n°84-53 du 26 janvier 1984
-  - Loi n°84-594 du 12 juillet 1984
-  - Code des communes - art. L412-49
-
-_Cité par_:
-
-  - Décret n°94-732 du 24 août 1994 - art. 12-1 (Ab)
-  - Décret n°2000-43 du 20 janvier 2000 - art. 23 (VT)
-  - Décret n°2000-51 du 20 janvier 2000 - art. 1 (VT)
-  - Décret n°2000-276 du 24 mars 2000 - art. 5-1 (VT)
-  - Décret n°2006-1391 du 17 novembre 2006 - art. 11 (V)
-  - Décret n°2011-444 du 21 avril 2011 - art. 10 (VD)
-  - Décret n°2011-444 du 21 avril 2011 - art. 6 (VD)
-
-_Créé par_:
-
-  - Loi n°99-291 du 15 avril 1999 - art. 18 ()
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L511-6 (VD)
 
 
 ###### Article L412-55
@@ -1936,36 +1611,6 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°99-291 du 15 avril 1999 - art. 11 ()
-
-
-###### Article L441-2
-
-Dans les communes de 25.000 habitants et au-dessus et les communes assimilées le maire [**]attributions[**] nomme seul les
-gardes champêtres.
-
-Il les suspend et les révoque [*sanctions*] dans les conditions déterminées pour les agents permanents à temps complet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-372 du 28 mars 1977
-
-_Anciens textes_:
-
-  - Loi   1936-02-20 art. 2
-
-_Modifié par_:
-
-  - Loi n°82-213 1982-03-02 ART. 17 XVIII JORF 3 MARS 1982
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L523-2 (VD)
 
 
 ###### Article L441-4
