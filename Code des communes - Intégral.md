@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -271,55 +271,61 @@ _Créé par_:
 
 ###### Article L413-5
 
-Le supplément familial de traitement fait l'objet d'une compensation dans les conditions prévues aux articles L413-11 à
-L413-15.
+Le supplément familial de traitement ainsi que l'allocation spécifique de cessation anticipée d'activité prévue à l'article
+146 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016 et les cotisations et contributions sociales y
+afférentes font l'objet d'une compensation dans les conditions prévues aux articles L413-11 à L413-15.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-372 1977-03-28
+  - Décret n°77-372 du 28 mars 1977
 
 _Cité par_:
 
   - Loi n°84-53 du 26 janvier 1984 - art. 119 (V)
   - Loi n°2015-1785 du 29 décembre 2015 - art. 146 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
+
 _Cite_:
 
-  - CODE DES COMMUNES L413-11 à L413-15
+  - Code des communes - art. L413-11 (V)
+  - Code des communes - art. L413-15 (V)
 
 
 ###### Article L413-11
 
 Un fonds national de compensation répartit entre les communes et les établissements publics communaux et intercommunaux les
-charges résultant pour ces collectivités du paiement du supplément familial de traitement qu'elles versent à leur personnel.
+charges résultant pour ces collectivités du paiement du supplément familial de traitement qu'elles versent à leur personnel
+ainsi que du paiement de l'allocation spécifique de cessation anticipée.
 
 La compensation est opérée sur la base du montant total des salaires payés aux agents des collectivités locales affiliées au
-fonds national de compensation, et dans la limite du supplément familial de traitement.
+fonds national de compensation, et dans la limite des charges mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-  - SPEC_APPLI: Code des communes L442-2 :
-
 _Cite_:
 
-  - Ordonnance n°67-706 du 21 août 1967 - art. 82 (V)
-  - Loi n°69-1137 1969-12-20 art. 1
+  - Ordonnance n°67-706 du 21 août 1967 - art. 82
+  - Loi n°69-1137 du 20 décembre 1969
 
 _Codifié par_:
 
-  - Décret n°77-372 1977-03-28
+  - Décret n°77-372 du 28 mars 1977
 
 _Cité par_:
 
   - Décret n°85-885 du 12 août 1985 - art. 3 (V)
   - Décret n°2017-1102 du 19 juin 2017 - art. 1
-  - CODE DES COMMUNES. - art. L413-12 (M)
+  - Code des communes - art. L413-12 (V)
   - Code des communes - art. L413-5 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
 
 _Anciens textes_:
 
@@ -331,25 +337,24 @@ _Anciens textes_:
 Les communes et les établissements publics communaux et intercommunaux sont tenus de s'affilier au fonds national de
 compensation.
 
-Les dépenses qui résultent tant du paiement du supplément familial du traitement que du fonctionnement du fonds constituent
-des dépenses obligatoires pour ces collectivités.
+Les dépenses qui résultent tant du paiement du supplément familial du traitement et de l'allocation spécifique de cessation
+anticipée d'activité que du fonctionnement du fonds constituent des dépenses obligatoires pour ces collectivités.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: *Dispositions non applicables aux communes du département de Saint-Pierre-et-Miquelon
-  - SPEC_APPLI: Code des communes L442-2 :
-
 _Cite_:
 
-  - Loi n°69-1137 1969-12-20 art. 1
-  - CODE DES COMMUNES. - art. L413-11 (V)
+  - Loi n°69-1137 du 20 décembre 1969
+  - Code des communes - art. L413-11 (V)
   - Ordonnance 67-76 1967-08-21 art. 82
 
 _Codifié par_:
 
-  - Décret n°77-372 1977-03-28
+  - Décret n°77-372 du 28 mars 1977
+
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 130
 
 _Anciens textes_:
 
