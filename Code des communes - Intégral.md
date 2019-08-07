@@ -1,14 +1,14 @@
 # Code des communes  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2019-08-08
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
       - [TITRE 1 : Agents nommés dans des emplois permanents à temps complet (art. L412-18 à L417-17)](#3)
-        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-18 à L412-55)](#4)
+        - [CHAPITRE 2 : Recrutement, formation et promotion sociale (art. L412-18 à L412-56)](#4)
           - [SECTION 1 : Recrutement (art. L412-18)](#5)
             - [SOUS-SECTION 2 : Modalités de recrutement communes à tous les emplois (art. L412-18)](#6)
-          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-49 à L412-55)](#7)
-            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-49 à L412-55)](#8)
+          - [SECTION 5 : Dispositions applicables à certains personnels (art. L412-49 à L412-56)](#7)
+            - [SOUS-SECTION 1 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale. (art. L412-49 à L412-56)](#8)
         - [CHAPITRE 3 : Rémunération et effectifs. (art. L413-5 à L413-15)](#9)
         - [CHAPITRE 5 : Positions (art. L415-6)](#10)
           - [SECTION 1 : Activités, congés (art. L415-6)](#11)
@@ -228,8 +228,8 @@ mentionnés à l'article L. 412-49 du code des communes tués au cours d'une op�
 à l'ordre de la Nation est porté au montant cumulé de la pension et de la rente viagère d'invalidité dont le fonctionnaire
 aurait pu bénéficier.
 
-" Ces fonctionnaires font l'objet à titre posthume d'une promotion au grade ou, à défaut, à l'échelon immédiatement supérieur
-à celui qu'ils avaient atteint.
+" Ces fonctionnaires font l'objet à titre posthume d'une promotion au cadre d'emplois hiérarchiquement supérieur ou, à
+défaut, au grade ou à un échelon supérieur à celui qu'ils avaient atteint.
 
 " La promotion prononcée en application des dispositions de l'alinéa précédent doit, en tout état de cause, conduire à
 attribuer un indice supérieur à celui que détenaient ces fonctionnaires avant cette promotion.
@@ -245,7 +245,7 @@ n° 99-291 du 15 avril 1999 relative aux polices municipales dans des conditions
 
 _Codifié par_:
 
-  - Décret n°77-372 1977-03-28
+  - Décret n°77-372 du 28 mars 1977
 
 _Cité par_:
 
@@ -262,12 +262,50 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°99-291 1999-04-15
-  - CODE DES COMMUNES. - art. L412-49 (M)
+  - Loi n°99-291 du 15 avril 1999
+  - Code des communes - art. L412-49
+
+_Modifié par_:
+
+  - Loi n°2019-828 du 6 août 2019 - art. 44
+
+
+###### Article L412-56
+
+I. - A titre exceptionnel, les fonctionnaires des cadres d'emplois de la police municipale :
+
+1° Peuvent être promus à l'un des échelons supérieurs de leur grade ou au grade immédiatement supérieur s'ils ont accompli un
+acte de bravoure dûment constaté dans l'exercice de leurs fonctions ; ils peuvent en outre être nommés dans un cadre
+d'emplois supérieur s'ils ont été grièvement blessés dans ces mêmes circonstances ;
+
+2° Peuvent être promus à l'un des échelons supérieurs de leur grade ou au grade immédiatement supérieur s'ils ont été
+grièvement blessés dans l'exercice de leurs fonctions.
+
+L'accès à un nouveau cadre d'emplois ou à un nouveau grade peut être subordonné à l'accomplissement d'une obligation de
+formation, dans des conditions définies par les statuts particuliers.
+
+II. - A titre exceptionnel, les fonctionnaires stagiaires dans l'un des cadres d'emplois de la police municipale mortellement
+blessés dans l'exercice de leurs fonctions peuvent, à titre posthume, être titularisés dans leur cadre d'emplois.
+
+III. - Les promotions prononcées en application du présent article conduisent, en tout état de cause, à attribuer aux
+intéressés un indice supérieur à celui qui était le leur avant cette promotion.
+
+IV. - Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2006-1391 du 17 novembre 2006 - art. 26-1 (V)
+  - Décret n°2006-1392 du 17 novembre 2006 - art. 33-1 (V)
+  - Décret n°2011-444 du 21 avril 2011 - art. 20-1 (V)
+  - Décret n°2020-722 du 12 juin 2020 - art. 1
+  - Décret n°2020-722 du 12 juin 2020 - art. 2
+  - Décret n°2020-722 du 12 juin 2020 - art. 3
 
 _Créé par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 20 ()
+  - Loi n°2019-828 du 6 août 2019 - art. 44
 
 
 #### CHAPITRE 3 : Rémunération et effectifs.<a id=9></a>
