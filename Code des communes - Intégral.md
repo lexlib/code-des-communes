@@ -1,5 +1,5 @@
 # Code des communes  
-Version Consolidée au 2019-08-08
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L412-18 à L501-3)](#1)
     - [LIVRE 4 : Personnel communal (art. L412-18 à L444-5)](#2)
@@ -5190,14 +5190,19 @@ _Cite_:
 
 ###### Article R*414-15
 
-Le conseil de discipline communal est présidé par le juge du tribunal d'instance comprenant dans son ressort la commune qui
-emploie l'agent en cause.
+Le conseil de discipline communal est présidé par le juge du tribunal judiciaire comprenant dans son ressort la commune qui
+emploie l'agent en cause. 
 
-Le conseil de discipline intercommunal est présidé par le juge du tribunal d'instance comprenant dans son ressort la commune
-où siège le syndicat de communes pour le personnel communal.
+Le conseil de discipline intercommunal est présidé par le juge du tribunal judiciaire comprenant dans son ressort la commune
+où siège le syndicat de communes pour le personnel communal. 
 
-Dans les tribunaux d'instance comportant plusieurs juges, le juge directeur ou celui qui en fait fonction préside le conseil
-de discipline communal ou intercommunal.
+Dans les   tribunaux judiciaires comportant plusieurs juges, le juge directeur ou celui qui en fait fonction préside le
+conseil de discipline communal ou intercommunal.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5207,16 +5212,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°77-373 1977-03-28
+  - Décret n°77-373 du 28 mars 1977
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-373 1977-03-28 JORF et JONC 5 Avril 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-677-1989-09-18 art. 36
-  - SPEC_APPLI: Décret n°85-1141 du 23 octobre 1985 - art. 22 (Ab)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R*414-16
